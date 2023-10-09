@@ -1,13 +1,24 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
+from dotenv import load_dotenv
+import os
+from utils import start_processing
 
 
-async def hello(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text(f'Hello {update.effective_user.first_name}')
+load_dotenv()
 
 
-app = ApplicationBuilder().token("TOKEN").build()
+BOT_TOKEN = os.getenv('BOT_TOKEN')
+START_URL = 'https://www.nytimes.com/'
 
-app.add_handler(CommandHandler("hello", hello))
+
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    start_processing(START_URL)
+    await update.message.reply_text('Start...')
+
+
+app = ApplicationBuilder().token(BOT_TOKEN).build()
+
+app.add_handler(CommandHandler("start", start))
 
 app.run_polling()
