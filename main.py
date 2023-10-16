@@ -3,7 +3,8 @@ from dotenv import load_dotenv
 import os
 
 from telegram import Update, InlineQueryResultArticle, InputTextMessageContent
-from telegram.ext import ContextTypes, InlineQueryHandler, CallbackQueryHandler
+from telegram.ext import (ContextTypes, InlineQueryHandler, CallbackQueryHandler, MessageHandler, filters,
+                          ConversationHandler)
 
 from handlers import start, echo, support, add_source
 from handlers.start_handler import button_coroutine
@@ -40,11 +41,26 @@ START_URL = 'https://www.nytimes.com/'
 
 app = ApplicationBuilder().token(BOT_TOKEN).post_init(post_init).build()
 
+conversation_handler = ConversationHandler(
+    entry_points=[CommandHandler("start", start)],
+    states={
+        GENDER: [MessageHandler(filters.Regex("^(Boy|Girl|Other)$"), gender)],
+        PHOTO: [MessageHandler(filters.PHOTO, photo), CommandHandler("skip", skip_photo)],
+        LOCATION: [
+            MessageHandler(filters.LOCATION, location),
+            CommandHandler("skip", skip_location),
+        ],
+        BIO: [MessageHandler(filters.TEXT & ~filters.COMMAND, bio)],
+    },
+    fallbacks=[CommandHandler("cancel", cancel)],
+)
 
 app.add_handler(CommandHandler("start", start))
 app.add_handler(CommandHandler("echo", echo))
 app.add_handler(CommandHandler("help", support))
 app.add_handler(CommandHandler("add_source", add_source))
+app.add_handler(conversation_handler)
+app.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), echo))
 app.add_handler(CallbackQueryHandler(button_coroutine))
 
 inline_caps_handler = InlineQueryHandler(inline_caps)
