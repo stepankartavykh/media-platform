@@ -5,6 +5,7 @@ START_GREETINGS_RUS = """
 /start - старт бота (перезапуск)
 /help - справка по командам
 /last - последние новости
+/add_source - добавить желаемый источник информации
 """
 
 START_GREETINGS_ENG = """

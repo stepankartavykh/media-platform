@@ -5,7 +5,7 @@ import os
 from telegram import Update, InlineQueryResultArticle, InputTextMessageContent
 from telegram.ext import ContextTypes, InlineQueryHandler, CallbackQueryHandler
 
-from handlers import start, echo, support
+from handlers import start, echo, support, add_source
 from handlers.start_handler import button_coroutine
 
 load_dotenv()
@@ -14,6 +14,7 @@ commands = [
     ('start', 'start description'),
     ('help', 'help description'),
     ('echo', 'echo description'),
+    ('add_source', 'add source of information')
 ]
 
 
@@ -43,6 +44,7 @@ app = ApplicationBuilder().token(BOT_TOKEN).post_init(post_init).build()
 app.add_handler(CommandHandler("start", start))
 app.add_handler(CommandHandler("echo", echo))
 app.add_handler(CommandHandler("help", support))
+app.add_handler(CommandHandler("add_source", add_source))
 app.add_handler(CallbackQueryHandler(button_coroutine))
 
 inline_caps_handler = InlineQueryHandler(inline_caps)
