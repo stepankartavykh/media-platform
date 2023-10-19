@@ -6,7 +6,7 @@ from messages import START_GREETINGS_RUS
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(START_GREETINGS_RUS)
-    await choose_category(update)
+    # await choose_category(update)
 
 
 async def choose_category(update: Update) -> None:

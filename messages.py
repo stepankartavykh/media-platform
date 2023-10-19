@@ -6,6 +6,7 @@ START_GREETINGS_RUS = """
 /help - справка по командам
 /last - последние новости
 /add_source - добавить желаемый источник информации
+/observe - начать мониторинг ресурсов
 """
 
 START_GREETINGS_ENG = """
