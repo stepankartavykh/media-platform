@@ -9,5 +9,5 @@ class RequestHandler:
         default_headers.update({'User-Agent': user_agent})
         self.headers = default_headers
 
-    def make_request(self):
-        return requests.get(self.url, headers=self.headers).text
+    async def make_request(self):
+        return await requests.get(self.url, headers=self.headers).text
