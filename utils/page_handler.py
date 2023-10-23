@@ -42,7 +42,7 @@ class PageHandler:
     def __init__(self, page_url):
         """Initialize page. Get page source HTML code."""
         self.url = page_url
-        self.content = RequestHandler(page_url).make_request()
+        self.content = await RequestHandler(page_url).make_request()
         self.links = []
         self.structure = StructuredPage(self.content).form()
 

@@ -1,4 +1,5 @@
 import requests
+import aiohttp
 
 
 class RequestHandler:
@@ -10,4 +11,8 @@ class RequestHandler:
         self.headers = default_headers
 
     async def make_request(self):
-        return await requests.get(self.url, headers=self.headers).text
+        async with aiohttp.ClientSession() as session:
+            async with session.get(self.url, headers=self.headers) as response:
+                html = await response.text()
+                return html
+        # return await requests.get(self.url, headers=self.headers).text

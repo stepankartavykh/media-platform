@@ -1,3 +1,4 @@
+import asyncio
 from typing import List
 
 from utils import PageHandler
@@ -16,3 +17,8 @@ async def start_processing(sources: List[str]) -> None:
                 await run_process(link)
     for source in sources:
         await run_process(source)
+
+
+if __name__ == '__main__':
+    # task = asyncio.create_task(start_processing(['https://www.kommersant.ru/']))
+    asyncio.run(start_processing(['https://www.kommersant.ru/']))
