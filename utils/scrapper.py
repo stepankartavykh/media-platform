@@ -22,3 +22,17 @@ async def start_processing(sources: List[str]) -> None:
 if __name__ == '__main__':
     # task = asyncio.create_task(start_processing(['https://www.kommersant.ru/']))
     asyncio.run(start_processing(['https://www.kommersant.ru/']))
+
+
+async def my_coroutine():
+    # do something async
+    await asyncio.sleep(2)
+    print("Welcome to Sling Academy!")
+
+
+async def main():
+    loop = asyncio.get_event_loop()
+    if loop.is_running():
+        print(f"Event loop is already running.")
+    future = asyncio.ensure_future(my_coroutine())
+    await future

@@ -1,9 +1,10 @@
 """Module to work with one page. Parse and make some necessary operations to analyse the content of the page."""
+import asyncio
 
 from bs4 import BeautifulSoup
 import configparser
 from page_analyzer import Analyzer
-from utils.request_handler import RequestHandler
+from utils.request_handler import RequestHandler, make_request
 
 config_parser = configparser.ConfigParser()
 config_parser.read('/home/skartavykh/PycharmProjects/advanced-media/development.ini')
@@ -42,7 +43,8 @@ class PageHandler:
     def __init__(self, page_url):
         """Initialize page. Get page source HTML code."""
         self.url = page_url
-        self.content = await RequestHandler(page_url).make_request()
+        event_loop = asyncio.get_event_loop()
+        asyncio.ensure_future(make_request(page_url), loop=event_loop)
         self.links = []
         self.structure = StructuredPage(self.content).form()
 
