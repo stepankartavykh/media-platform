@@ -17,8 +17,12 @@ class RequestHandler:
         self.headers = default_headers
 
 
-async def make_request(url):
+async def make_async_request(url):
     async with aiohttp.ClientSession() as session:
         async with session.get(url, headers=default_headers) as response:
             html = await response.text()
             return html
+
+
+async def make_request(url):
+    return requests.get(url, headers=default_headers).text()

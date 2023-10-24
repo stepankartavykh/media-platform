@@ -16,4 +16,4 @@ async def observe(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         message = "Observation just started...Your sources:"
         await update.message.reply_text(message)
         await update.message.reply_text(sources)
-        await start_processing(current_sources)
+        await start_processing(current_sources, update)
