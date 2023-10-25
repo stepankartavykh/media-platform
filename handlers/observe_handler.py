@@ -1,11 +1,12 @@
 from telegram import Update
 from telegram.ext import ContextTypes
 
-from handlers.add_source_handler import current_sources
+from database.queries import get_sources
 from utils import start_processing
 
 
 async def observe(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    current_sources = get_sources(update.message.from_user.id)
     if not current_sources:
         await update.message.reply_text('There are no sources to monitor.')
     else:

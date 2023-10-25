@@ -1,8 +1,7 @@
 from telegram import Update
 from telegram.ext import ContextTypes, ConversationHandler
 
-
-current_sources = []
+from database.queries import add_source_query
 
 
 async def add_source(update: Update, context: ContextTypes.DEFAULT_TYPE) -> str:
@@ -17,9 +16,8 @@ def check_url_is_valid(url: str) -> bool:
 async def get_source(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     source_url = update.message.text
     if check_url_is_valid(source_url):
-        current_sources.append(source_url)
+        add_source_query(update.message.from_user.id, source_url)
+        await update.message.reply_text('Источник добавлен!')
     else:
         await update.message.reply_text('Некорректный URL.')
-    await update.message.reply_text('Источник добавлен!')
-
     return ConversationHandler.END

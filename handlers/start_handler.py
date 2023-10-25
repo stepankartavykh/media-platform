@@ -4,7 +4,13 @@ from telegram.ext import ContextTypes
 from messages import START_GREETINGS_RUS
 
 
+def auth_user(update: Update):
+    # TODO must be done!
+    pass
+
+
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    auth_user(update)
     await update.message.reply_text(START_GREETINGS_RUS)
     # await choose_category(update)
 
