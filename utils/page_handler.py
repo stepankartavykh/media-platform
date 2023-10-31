@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 import configparser
 from page_analyzer import Analyzer
-from utils.request_handler import make_async_request
+from utils.request_handler import make_async_request, make_request
 
 config_parser = configparser.ConfigParser()
 config_parser.read('/home/skartavykh/PycharmProjects/advanced-media/development.ini')
@@ -43,10 +43,11 @@ class PageHandler:
         self.url = page_url
         self.links = []
         self.content = None
-        self.structure = StructuredPage(self.content).form()
+        self.structure = None
 
     async def make_request(self):
         self.content = await make_async_request(self.url)
+        self.structure = StructuredPage(self.content).form()
 
     def generate_file_path(self):
         storage_dir = config_parser['DEFAULT']['STORAGE_PATH']
@@ -70,3 +71,13 @@ class PageHandler:
     def process_page_structure(self):
         analysis = Analyzer(self.structure)
         analysis.make_general_analysis()
+
+    def make_content_analysis(self):
+        ...
+
+
+if __name__ == '__main__':
+    content = make_request('https://rbc.ru')
+    structured_page = StructuredPage(content)
+    struct = structured_page.form()
+    print(struct)

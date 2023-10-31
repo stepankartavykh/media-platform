@@ -24,5 +24,9 @@ async def make_async_request(url):
             return html
 
 
-async def make_request(url):
-    return requests.get(url, headers=default_headers).text()
+async def make_request_coroutine(url):
+    return requests.get(url, headers=default_headers).text
+
+
+def make_request(url):
+    return requests.get(url, headers=default_headers).text
