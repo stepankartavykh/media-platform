@@ -135,3 +135,5 @@ dmypy.json
 *.db3
 *.sqlite
 *.sqlite3
+
+/storage
