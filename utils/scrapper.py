@@ -19,7 +19,7 @@ async def start_processing(sources: List[str], update: Update) -> None:
 
     async def run_process(incoming_url: str) -> None:
         handler = PageHandler(incoming_url)
-        await handler.make_request()
+        await handler.make_async_request()
         handler.get_all_links_from_page()
         message = handler.make_content_analysis()
         bot_message = form_message_for_bot(message)

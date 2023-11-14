@@ -38,7 +38,7 @@ class StructuredPage:
 
 class PageHandler:
     """Class to build page object to process coming page."""
-    def __init__(self, page_url):
+    def __init__(self, page_url: str):
         """Initialize page. Get page source HTML code."""
         self.url = page_url
         self.links = []
