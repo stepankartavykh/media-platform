@@ -8,6 +8,7 @@ DATABASE_PATH = script_directory + '/db.sqlite'
 insert_user_query = "INSERT INTO users (id, fullname) VALUES (?, ?)"
 insert_source_query = "INSERT INTO main.sources (user_id, url) VALUES (?, ?)"
 get_sources_query = "SELECT main.sources.url FROM sources WHERE sources.user_id = (?)"
+get_user_query = "SELECT id, fullname FROM users WHERE id = (?)"
 
 
 def add_user_query(user_id, name):
@@ -22,6 +23,15 @@ def add_source_query(user_id, url):
         cur = connection.cursor()
         cur.execute(insert_source_query, (user_id, url))
         connection.commit()
+
+
+def get_user(user_id):
+    with sqlite3.connect(DATABASE_PATH) as connection:
+        cur = connection.cursor()
+        cur.execute(get_user_query, (user_id, ))
+        user = cur.fetchone()
+        connection.commit()
+    return user
 
 
 def get_sources(user_id):

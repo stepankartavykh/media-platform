@@ -1,14 +1,15 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ContextTypes
 
-from database.queries import add_user_query
+from database.queries import add_user_query, get_user
 from messages import START_GREETINGS_RUS
 
 
 async def auth_user(update: Update):
     # TODO must be done!
     user_id, username = update.message.from_user.id, update.message.from_user.username
-    add_user_query(user_id, username)
+    if not get_user(user_id):
+        add_user_query(user_id, username)
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
