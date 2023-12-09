@@ -1,11 +1,9 @@
 """Module to work with one page. Parse and make some necessary operations to analyse the content of the page."""
 from bs4 import BeautifulSoup
-import configparser
+
+from config import STORAGE_PATH
 from page_analyzer import Analyzer
 from utils.request_handler import make_async_request, make_request
-
-config_parser = configparser.ConfigParser()
-config_parser.read('/home/skartavykh/PycharmProjects/media-bot/development.ini')
 
 
 class Topic:
@@ -54,9 +52,8 @@ class PageHandler:
         self.structure = StructuredPage(self.content).form()
 
     def generate_file_path(self):
-        storage_dir = config_parser['DEFAULT']['STORAGE_PATH']
         url_ = self.url.replace('/', '')
-        return storage_dir + f'/{url_}'
+        return STORAGE_PATH + f'/{url_}'
 
     def write_page_source_code_to_file(self):
         path = self.generate_file_path()

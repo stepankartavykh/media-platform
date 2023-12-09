@@ -1,16 +1,13 @@
 from telegram.ext import ApplicationBuilder, CommandHandler, Application
-from dotenv import load_dotenv
-import os
-
 from telegram import Update, InlineQueryResultArticle, InputTextMessageContent
 from telegram.ext import (ContextTypes, InlineQueryHandler, CallbackQueryHandler, MessageHandler, filters,
                           ConversationHandler)
 
+from config import BOT_TOKEN
 from handlers import start, echo, support, add_source, observe, stop
 from handlers.add_source_handler import get_source
 from handlers.start_handler import button_coroutine
 
-load_dotenv()
 
 commands = [
     ('start', 'start description'),
@@ -38,7 +35,6 @@ async def inline_caps(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.answer_inline_query(update.inline_query.id, results)
 
 
-BOT_TOKEN = os.getenv('BOT_TOKEN')
 START_URL = 'https://www.nytimes.com/'
 
 

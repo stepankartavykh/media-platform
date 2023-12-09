@@ -9,6 +9,30 @@ insert_user_query = "INSERT INTO users (id, fullname) VALUES (?, ?)"
 insert_source_query = "INSERT INTO main.sources (user_id, url) VALUES (?, ?)"
 get_sources_query = "SELECT main.sources.url FROM sources WHERE sources.user_id = (?)"
 get_user_query = "SELECT id, fullname FROM users WHERE id = (?)"
+create_users_table_query = """
+CREATE TABLE IF NOT EXISTS main.users (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fullname TEXT NOT NULL
+);
+"""
+create_sources_table_query = """
+CREATE TABLE IF NOT EXISTS main.sources (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ user_id INTEGER,
+    url TEXT NOT NULL,
+    FOREIGN KEY (user_id)
+      REFERENCES users (id)
+         ON DELETE CASCADE
+);
+"""
+
+
+def create_database_with_tables():
+    with sqlite3.connect(DATABASE_PATH) as connection:
+        cur = connection.cursor()
+        cur.execute(create_users_table_query)
+        cur.execute(create_sources_table_query)
+        connection.commit()
 
 
 def add_user_query(user_id, name):

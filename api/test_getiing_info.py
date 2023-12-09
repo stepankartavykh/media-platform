@@ -12,5 +12,6 @@ url = ('https://newsapi.org/v2/top-headlines?'
        'sources=bbc-news&'
        f'apiKey={NEWS_API_KEY}')
 response = requests.get(url)
-with open('/home/skartavykh/PycharmProjects/media-bot/storage/testfile.json', 'w') as f:
+
+with open('/home/sklion/projects/media-bot/storage/file.json', 'w') as f:
     json.dump(response.json(), f, indent=4)
