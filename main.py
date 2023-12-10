@@ -38,18 +38,23 @@ async def inline_caps(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.answer_inline_query(update.inline_query.id, results)
 
 
-START_URL = 'https://www.nytimes.com/'
-
-
-app = ApplicationBuilder().token(BOT_TOKEN).post_init(post_init).build()
-
-conversation_handler = ConversationHandler(
+conversation_handler_add_source = ConversationHandler(
     entry_points=[CommandHandler("add_source", add_source)],
     states={
         'NEW_SOURCE': [MessageHandler(filters.TEXT, get_source)],
     },
     fallbacks=[CommandHandler("echo", echo)],
 )
+conversation_handler_add_topic = ConversationHandler(
+    entry_points=[CommandHandler("add_topics", add_topics)],
+    states={
+        'NEW_TOPIC': [MessageHandler(filters.TEXT, add_topic_to_config)],
+    },
+    fallbacks=[CommandHandler("echo", echo)],
+)
+inline_caps_handler = InlineQueryHandler(inline_caps)
+
+app = ApplicationBuilder().token(BOT_TOKEN).post_init(post_init).build()
 
 app.add_handler(CommandHandler("start", start))
 app.add_handler(CommandHandler("echo", echo))
@@ -57,11 +62,10 @@ app.add_handler(CommandHandler("help", support))
 app.add_handler(CommandHandler("observe", observe))
 app.add_handler(CommandHandler("last", last_news))
 app.add_handler(CommandHandler("stop", stop))
-app.add_handler(conversation_handler)
+app.add_handler(conversation_handler_add_source)
+app.add_handler(conversation_handler_add_topic)
 app.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), echo))
 app.add_handler(CallbackQueryHandler(button_coroutine))
-
-inline_caps_handler = InlineQueryHandler(inline_caps)
 app.add_handler(inline_caps_handler)
 
 print('Bot is running...')
