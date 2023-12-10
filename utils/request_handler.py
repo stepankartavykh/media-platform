@@ -17,16 +17,30 @@ class RequestHandler:
         self.headers = default_headers
 
 
-async def make_async_request(url):
+async def make_async_request(url: str) -> asyncio.coroutines:
     async with aiohttp.ClientSession() as session:
         async with session.get(url, headers=default_headers) as response:
             html = await response.text()
             return html
 
 
-async def make_request_coroutine(url):
+async def make_request_coroutine(url: str) -> str:
     return requests.get(url, headers=default_headers).text
 
 
-def make_request(url):
+def make_request(url: str) -> str:
     return requests.get(url, headers=default_headers).text
+
+
+def get_status_code(url: str) -> int:
+    try:
+        response = requests.get(url)
+    except (requests.exceptions.MissingSchema, requests.exceptions.ConnectionError):
+        return -1
+    else:
+        return response.status_code
+
+
+if __name__ == '__main__':
+    obj = make_async_request('https://stackoveflow.com')
+    asyncio.run(obj)

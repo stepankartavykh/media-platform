@@ -2,6 +2,7 @@ from telegram import Update
 from telegram.ext import ContextTypes, ConversationHandler
 
 from database.queries import add_source_query
+from utils.request_handler import get_status_code
 
 
 async def add_source(update: Update, context: ContextTypes.DEFAULT_TYPE) -> str:
@@ -10,7 +11,9 @@ async def add_source(update: Update, context: ContextTypes.DEFAULT_TYPE) -> str:
 
 
 def check_url_is_valid(url: str) -> bool:
-    return True
+    if get_status_code(url) == 200:
+        return True
+    return False
 
 
 async def get_source(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
