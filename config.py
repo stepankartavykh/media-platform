@@ -14,3 +14,4 @@ STORAGE_PATH = config_parser['DEFAULT']['STORAGE_PATH']
 load_dotenv()
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
+NEWS_API_KEY = os.getenv('API_NEWS_FEED_KEY')
