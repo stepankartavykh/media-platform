@@ -4,7 +4,7 @@ from telegram.ext import (ContextTypes, InlineQueryHandler, CallbackQueryHandler
                           ConversationHandler)
 
 from config import BOT_TOKEN
-from handlers import start, echo, support, add_source, observe, stop
+from handlers import start, echo, support, add_source, observe, stop, observe_topics
 from handlers.add_source_handler import get_source
 from handlers.add_topics_handler import add_topics, add_topic_to_config
 from handlers.last_handler import last_news
@@ -19,6 +19,7 @@ commands = [
     ('add_topics', 'add interesting topics'),
     ('observe', 'start getting information'),
     ('stop', 'stop sending messages'),
+    ('observe_topics', 'stop sending messages'),
 ]
 
 
@@ -60,6 +61,7 @@ app.add_handler(CommandHandler("start", start))
 app.add_handler(CommandHandler("echo", echo))
 app.add_handler(CommandHandler("help", support))
 app.add_handler(CommandHandler("observe", observe))
+app.add_handler(CommandHandler("observe", observe_topics))
 app.add_handler(CommandHandler("last", last_news))
 app.add_handler(CommandHandler("stop", stop))
 app.add_handler(conversation_handler_add_source)
