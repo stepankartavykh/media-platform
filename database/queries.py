@@ -10,7 +10,7 @@ insert_source_query = "INSERT INTO main.sources (user_id, url) VALUES (?, ?)"
 insert_topic_query = "INSERT INTO main.topics (user_id, topic) VALUES (?, ?)"
 get_sources_query = "SELECT main.sources.url FROM sources WHERE sources.user_id = (?)"
 get_user_query = "SELECT id, fullname FROM users WHERE id = (?)"
-get_topics_query = "SELECT topic FROM topics WHERE id = (?)"
+get_topics_query = "SELECT topic FROM main.topics WHERE user_id = (?)"
 create_users_table_query = """
 CREATE TABLE IF NOT EXISTS main.users (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
