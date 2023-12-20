@@ -17,7 +17,7 @@ def get_short_message(response, number_of_articles_to_consider=5):
     if len(articles):
         result_messages = []
         for article in articles[:number_of_articles_to_consider]:
-            result_messages.append(article['title'])
+            result_messages.append(article['title'] + '\n' + article['url'])
         return '\n'.join(result_messages)
     if len(response['articles']):
         return response['articles'][0]['title']
