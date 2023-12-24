@@ -10,6 +10,8 @@ config_parser.read(MAIN_DIR + '/development.ini')
 
 DATABASE_PATH = config_parser['DEFAULT']['DATABASE_PATH']
 STORAGE_PATH = config_parser['DEFAULT']['STORAGE_PATH']
+REDIS_HOST = config_parser['DEFAULT']['REDIS_HOST']
+REDIS_PORT = config_parser['DEFAULT']['REDIS_PORT']
 
 load_dotenv()
 

@@ -4,6 +4,7 @@ from telegram.ext import (ContextTypes, InlineQueryHandler, CallbackQueryHandler
                           ConversationHandler)
 
 from config import BOT_TOKEN
+from database.cache_system import CacheSystem
 from handlers import start, echo, support, add_source, observe, stop, observe_topics
 from handlers.add_source_handler import get_source
 from handlers.add_topics_handler import add_topics, add_topic_to_config
@@ -69,6 +70,8 @@ app.add_handler(conversation_handler_add_topic)
 app.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), echo))
 app.add_handler(CallbackQueryHandler(button_coroutine))
 app.add_handler(inline_caps_handler)
+
+cache_system = CacheSystem()
 
 print('Bot is running...')
 app.run_polling()
