@@ -58,19 +58,22 @@ inline_caps_handler = InlineQueryHandler(inline_caps)
 
 app = ApplicationBuilder().token(BOT_TOKEN).post_init(post_init).build()
 
-app.add_handler(CommandHandler("start", start))
-app.add_handler(CommandHandler("echo", echo))
-app.add_handler(CommandHandler("help", support))
-app.add_handler(CommandHandler("observe", observe))
-app.add_handler(CommandHandler("observe_topics", observe_topics))
-app.add_handler(CommandHandler("last", last_news))
-app.add_handler(CommandHandler("stop", stop))
-app.add_handler(conversation_handler_add_source)
-app.add_handler(conversation_handler_add_topic)
-app.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), echo))
-app.add_handler(CallbackQueryHandler(button_coroutine))
-app.add_handler(inline_caps_handler)
-
+handlers = [
+    CommandHandler("start", start),
+    CommandHandler("echo", echo),
+    CommandHandler("help", support),
+    CommandHandler("observe", observe),
+    CommandHandler("observe_topics", observe_topics),
+    CommandHandler("last", last_news),
+    CommandHandler("stop", stop),
+    conversation_handler_add_source,
+    conversation_handler_add_topic,
+    MessageHandler(filters.TEXT & (~filters.COMMAND), echo),
+    CallbackQueryHandler(button_coroutine),
+    inline_caps_handler,
+]
+for handler in handlers:
+    app.add_handler(handler)
 cache_system = CacheSystem()
 
 print('Bot is running...')
