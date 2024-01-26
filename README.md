@@ -1,5 +1,7 @@
 # Telegram Bot (project in progress) for custom search with analysis of the news agenda.
 
+!!! UPD Current sutiation forces to make analysis on what platform (not just bot) i wanna create. It requires analysis of business proccesses, or more specifically establish those.
+
 Telegram bot to make analysis on news agenda.
 
 ## Description
