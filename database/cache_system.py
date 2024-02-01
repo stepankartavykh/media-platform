@@ -1,3 +1,12 @@
+# TODO establish cache system functions. What are they?
+"""
+1. Insert data into cache. In what section you would insert entry? What the whole structure of Cache system?
+2. Retrieve data from specific source.
+3. Delete entry.
+4. Update entry. Include functions to update by specific fields.
+"""
+
+
 import redis
 from config import REDIS_PORT, REDIS_HOST
 

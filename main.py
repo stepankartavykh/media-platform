@@ -7,7 +7,7 @@ from config import BOT_TOKEN
 from database.cache_system import CacheSystem
 from handlers import start, echo, support, add_source, observe, stop, observe_topics
 from handlers.add_source_handler import get_source
-from handlers.add_topics_handler import add_topics
+from handlers.add_topics_handler import add_topics, add_topic_to_config
 from handlers.last_handler import last_news
 from handlers.start_handler import button_coroutine
 
