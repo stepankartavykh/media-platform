@@ -14,7 +14,7 @@ def form_message_for_bot(message):
     return "test message"
 
 
-async def start_processing(sources: List[str], update: Update) -> None:
+async def start_async_processing(sources: List[str], update: Update) -> None:
     added_links = set()
 
     async def run_process(incoming_url: str) -> None:
@@ -33,5 +33,26 @@ async def start_processing(sources: List[str], update: Update) -> None:
         await run_process(source)
 
 
+def start_processing(link) -> None:
+    visited_links = set()
+
+    def run_process(incoming_url: str) -> None:
+        handler = PageHandler(incoming_url)
+        handler.make_request()
+        handler.get_all_links_from_page()
+        handler.write_page_source_code_to_file()
+        structured_content = handler.make_content_analysis()
+        for internal_link in handler.links:
+            if internal_link not in visited_links:
+                visited_links.add(link)
+                run_process(link)
+
+    run_process(link)
+
+
 if __name__ == '__main__':
-    asyncio.run(start_processing(['https://www.investopedia.com/']))
+    links = [
+        'https://www.kommersant.ru/',
+        'https://www.rbc.ru/',
+    ]
+    start_processing(links[0])

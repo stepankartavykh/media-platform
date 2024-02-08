@@ -21,8 +21,7 @@ def get_short_message(response, number_of_articles_to_consider=5):
         return '\n'.join(result_messages)
     if len(response['articles']):
         return response['articles'][0]['title']
-    else:
-        return 'No articles found'
+    return 'No articles found'
 
 
 async def fetch_data(url, session):

@@ -1,9 +1,12 @@
 """Module to work with one page. Parse and make some necessary operations to analyse the content of the page."""
+import json
+import time
+
 from bs4 import BeautifulSoup
 
-from config import STORAGE_PATH
+from config import STORAGE_PATH, MAIN_DIR
 from page_analyzer import Analyzer
-from utils.request_handler import make_async_request, make_request
+from .request_handler import make_async_request, make_request
 
 
 class Topic:
@@ -53,7 +56,7 @@ class PageHandler:
 
     def generate_file_path(self):
         url_ = self.url.replace('/', '')
-        return STORAGE_PATH + f'/{url_}'
+        return MAIN_DIR + STORAGE_PATH + f'/{url_}{time.time()}'
 
     def write_page_source_code_to_file(self):
         path = self.generate_file_path()
@@ -74,11 +77,37 @@ class PageHandler:
         analysis.make_general_analysis()
 
     def make_content_analysis(self):
-        ...
+        soup = BeautifulSoup(self.content, features="html.parser")
+
+        titles = [title.text.strip() for title in soup.select('.title-class')]
+        descriptions = [desc.text.strip() for desc in soup.select('.description-class')]
+
+        data = {
+            'titles': titles,
+            'descriptions': descriptions,
+        }
+
+        json_data = json.dumps(data)
+        # print_json_to_file(data)
+
+        with open(MAIN_DIR + STORAGE_PATH + f'/parsed_data{time.time()}.json', 'w') as outfile:
+            json.dump(data, outfile)
+
+        return json_data
 
 
-if __name__ == '__main__':
+def process_code():
+    # TODO make StructuredPage class
     content = make_request('https://rbc.ru')
     structured_page = StructuredPage(content)
     struct = structured_page.form()
     print(struct)
+
+
+if __name__ == '__main__':
+    link = 'https://rbc.ru'
+    for _ in range(10):
+        handler = PageHandler(link)
+        handler.make_request()
+        handler.write_page_source_code_to_file()
+        time.sleep(1)
