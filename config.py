@@ -17,3 +17,4 @@ load_dotenv()
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 NEWS_API_KEY = os.getenv('API_NEWS_FEED_KEY')
+NEWS_DATA_IO_KEY = os.getenv('NEWS_DATA_IO_KEY')
