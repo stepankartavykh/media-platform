@@ -1,7 +1,7 @@
 import asyncio
 from typing import List
 
-from utils import PageHandler
+from .page_handler import PageHandler
 from telegram import Update
 
 
@@ -27,7 +27,7 @@ async def start_async_processing(sources: List[str], update: Update) -> None:
         for link in handler.links:
             if link not in added_links:
                 added_links.add(link)
-                await update.message.reply_text(f'{link}')
+                # await update.message.reply_text(f'{link}')
                 await run_process(link)
     for source in sources:
         await run_process(source)

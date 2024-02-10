@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ContextTypes
 
 from database.queries import get_sources
-from utils import start_processing
+from utils import start_async_processing
 
 
 async def observe(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -17,4 +17,4 @@ async def observe(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         message = "Observation just started...Your sources:"
         await update.message.reply_text(message)
         await update.message.reply_text(sources)
-        await start_processing(current_sources, update)
+        await start_async_processing(current_sources, update)

@@ -90,8 +90,8 @@ class PageHandler:
         json_data = json.dumps(data)
         # print_json_to_file(data)
 
-        with open(MAIN_DIR + STORAGE_PATH + f'/parsed_data{time.time()}.json', 'w') as outfile:
-            json.dump(data, outfile)
+        # with open(MAIN_DIR + STORAGE_PATH + f'/parsed_data{time.time()}.json', 'w') as outfile:
+        #     json.dump(data, outfile)
 
         return json_data
 

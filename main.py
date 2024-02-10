@@ -56,7 +56,7 @@ conversation_handler_add_topic = ConversationHandler(
 )
 inline_caps_handler = InlineQueryHandler(inline_caps)
 
-app = ApplicationBuilder().token(BOT_TOKEN).post_init(post_init).build()
+app = ApplicationBuilder().token(BOT_TOKEN).post_init(post_init).concurrent_updates(True).build()
 
 handlers = [
     CommandHandler("start", start),
