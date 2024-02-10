@@ -24,13 +24,13 @@ async def start_async_processing(sources: List[str], update: Update) -> None:
         message = handler.make_content_analysis()
         bot_message = form_message_for_bot(message)
         await update.message.reply_text(bot_message)
-        for link in handler.links:
-            if link not in added_links:
-                added_links.add(link)
-                # await update.message.reply_text(f'{link}')
-                await run_process(link)
-    for source in sources:
-        await run_process(source)
+        new_links = [handler_link for handler_link in handler.links if handler_link not in added_links]
+        for new_link in new_links:
+            added_links.add(new_link)
+        new_tasks = [asyncio.create_task(run_process(link)) for link in new_links]
+        await asyncio.gather(*new_tasks)
+    tasks = [asyncio.create_task(run_process(source)) for source in sources]
+    await asyncio.gather(*tasks)
 
 
 def start_processing(link) -> None:
