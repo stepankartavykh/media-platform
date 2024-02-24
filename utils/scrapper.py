@@ -22,8 +22,6 @@ async def start_async_processing(sources: List[str], update: Update) -> None:
         await handler.make_async_request()
         handler.get_all_links_from_page()
         message = handler.make_content_analysis()
-        bot_message = form_message_for_bot(message)
-        await update.message.reply_text(bot_message)
         new_links = [handler_link for handler_link in handler.links if handler_link not in added_links]
         for new_link in new_links:
             added_links.add(new_link)

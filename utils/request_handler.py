@@ -34,11 +34,16 @@ def make_request(url: str) -> str:
 
 def get_status_code(url: str) -> int:
     try:
-        response = requests.get(url)
+        response_first = requests.get(url)
     except (requests.exceptions.MissingSchema, requests.exceptions.ConnectionError):
-        return -1
+        try:
+            response_second = requests.get('https://' + url)
+        except (requests.exceptions.MissingSchema, requests.exceptions.ConnectionError):
+            return -1
+        else:
+            return response_second.status_code
     else:
-        return response.status_code
+        return response_first.status_code
 
 
 if __name__ == '__main__':

@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 
 from config import STORAGE_PATH, MAIN_DIR
 from page_analyzer import Analyzer
+from utils import print_json_to_file
 from .request_handler import make_async_request, make_request
 
 
@@ -77,6 +78,7 @@ class PageHandler:
         analysis.make_general_analysis()
 
     def make_content_analysis(self):
+        print(self.links)
         soup = BeautifulSoup(self.content, features="html.parser")
 
         titles = [title.text.strip() for title in soup.select('.title-class')]
@@ -88,12 +90,11 @@ class PageHandler:
         }
 
         json_data = json.dumps(data)
-        # print_json_to_file(data)
+        print_json_to_file(data)
 
-        # with open(MAIN_DIR + STORAGE_PATH + f'/parsed_data{time.time()}.json', 'w') as outfile:
-        #     json.dump(data, outfile)
-
-        return json_data
+        with open(MAIN_DIR + STORAGE_PATH + f'/parsed_data{time.time()}.json', 'w') as outfile:
+            json.dump(data, outfile)
+        return {}
 
 
 def process_code():
