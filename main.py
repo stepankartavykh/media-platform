@@ -75,6 +75,7 @@ handlers = [
 for handler in handlers:
     app.add_handler(handler)
 cache_system = CacheSystem()
+cache_system.check()
 
 print('Bot is running...')
 app.run_polling()
