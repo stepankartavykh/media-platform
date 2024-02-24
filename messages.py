@@ -3,7 +3,6 @@ START_GREETINGS_RUS = """
 
 Доступные команды:
 /start - старт бота (перезапуск)
-/help - справка по командам
 /last - последние новости по моим темам
 /add_source - добавить желаемый источник информации
 /add_topics - добавить интересующую тему для мониторинга
@@ -17,6 +16,5 @@ Welcome to the news aggregation bot.
 
 Available commands:
 /start - start the bot (restart)
-/help - help on commands
 /last - latest news
 """
