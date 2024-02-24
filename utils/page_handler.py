@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 from config import STORAGE_PATH, MAIN_DIR
 from page_analyzer import Analyzer
-from utils import print_json_to_file
+from utils.system_utils import print_json_to_file
 from .request_handler import make_async_request, make_request
 
 
