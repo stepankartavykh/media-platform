@@ -34,13 +34,25 @@ class Source:
     def __init__(self, url=None):
         self.base_url = url
 
+    def get_content(self):
+        return requests.get(self.base_url).text
+
 
 sources = [
     Source('https://kommersant.ru'),
     Source('https://rbc.ru'),
+    Source('https://ria.ru'),
+    Source('https://tass.ru'),
+    Source('https://rg.ru'),
+    Source('https://russian.rt.com'),
 ]
 
 
 def add_article_to_cache(article_json, interface):
     """Function to send article content to cache system according to interface of source API"""
     pass
+
+
+if __name__ == '__main__':
+    for source in sources:
+        print(source.get_content())

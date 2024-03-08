@@ -13,6 +13,8 @@ STORAGE_PATH = config_parser['DEFAULT']['STORAGE_PATH']
 REDIS_HOST = config_parser['DEFAULT']['REDIS_HOST']
 REDIS_PORT = config_parser['DEFAULT']['REDIS_PORT']
 
+LOCAL_STORAGE_PATH = MAIN_DIR + STORAGE_PATH
+
 load_dotenv()
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
