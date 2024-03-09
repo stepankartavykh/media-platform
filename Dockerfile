@@ -2,9 +2,10 @@ FROM python
 
 WORKDIR /app
 
-COPY requirements.txt .
+COPY . .
 
-RUN pip install --no-cache-dir -r requirements.txt
+RUN source env/bin/activate
+RUN pip install -r reqs.txt
 
 COPY . .
 
