@@ -1,6 +1,10 @@
+import asyncio
+
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ContextTypes, ConversationHandler
 
+from database import DBSession
+from database.models import Topic
 from database.queries import add_topic_query
 
 
@@ -14,33 +18,39 @@ mapper_button_callback_data_to_subjects = {
     'button_research_health_new_topic': 'Research (Health)',
 }
 
-keyboard = [
-    [InlineKeyboardButton(subject_name, callback_data=callback_data)]
-    for callback_data, subject_name in mapper_button_callback_data_to_subjects.items()
-]
+
+async def get_top_topics() -> list[Topic]:
+    await asyncio.sleep(0.1)
+    all_topics = DBSession.query(Topic).all()
+    return all_topics
 
 
-topic_options = InlineKeyboardMarkup(keyboard)
+async def get_buttons_reply_markup() -> InlineKeyboardMarkup:
+    topics: list[Topic] = await get_top_topics()
+    keyboard = [
+        [InlineKeyboardButton(topic.name, callback_data=f"{topic.id}_topic_callback_data")]
+        for topic in topics
+    ]
+    return InlineKeyboardMarkup(keyboard)
 
 
 async def add_topics(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text('Введите интересную для вас тему.', reply_markup=topic_options)
+    topics_buttons = await get_buttons_reply_markup()
+    await update.message.reply_text('Введите интересную для вас тему.', reply_markup=topics_buttons)
 
 
-async def action_on_click_button(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+async def button_coroutine(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     query = update.callback_query
+    t = query.message.message_id
+    print(t)
+    print(query)
     await query.answer()
-    topic = mapper_button_callback_data_to_subjects[query.data]
-    add_topic_query(query.from_user.id, topic)
-    await query.edit_message_text(text='Тема добавлена!')
-    markup = query.message.reply_markup
-    markup.inline_keyboard = None
-    await query.edit_message_reply_markup(reply_markup=markup)
-    # await query.edit_message_reply_markup(reply_markup=None)
+    await query.edit_message_reply_markup(reply_markup=None)
+    await add_topic_to_config(query.from_user.id, query.data)
+    new_text = f'Тема {query.data} добавлена.'
+    await context.bot.edit_message_text(chat_id=query.message.chat.id, message_id=t, text=new_text)
 
 
-async def add_topic_to_config(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
-    topic = update.message.text
-    add_topic_query(update.message.from_user.id, topic)
-    await update.message.reply_text('Тема добавлена!')
+async def add_topic_to_config(user_id, chosen_topic) -> int:
+    add_topic_query(user_id, chosen_topic)
     return ConversationHandler.END

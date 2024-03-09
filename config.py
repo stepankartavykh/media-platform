@@ -10,6 +10,13 @@ config_parser.read(MAIN_DIR + '/development.ini')
 
 DATABASE_PATH = config_parser['DEFAULT']['DATABASE_PATH']
 STORAGE_PATH = config_parser['DEFAULT']['STORAGE_PATH']
+
+POSTGRES_HOST = config_parser['DEFAULT']['POSTGRES_HOST']
+POSTGRES_PORT = config_parser['DEFAULT']['POSTGRES_PORT']
+POSTGRES_USER = config_parser['DEFAULT']['POSTGRES_USER']
+POSTGRES_PASSWORD = config_parser['DEFAULT']['POSTGRES_PASSWORD']
+POSTGRES_DATABASE_NAME = 'postgres'
+
 REDIS_HOST = config_parser['DEFAULT']['REDIS_HOST']
 REDIS_PORT = config_parser['DEFAULT']['REDIS_PORT']
 

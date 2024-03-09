@@ -1,32 +1,36 @@
-from typing import List
 from typing import Optional
-from sqlalchemy import ForeignKey
-from sqlalchemy import String
-from sqlalchemy import create_engine
-from sqlalchemy.orm import DeclarativeBase
-from sqlalchemy.orm import Mapped
-from sqlalchemy.orm import mapped_column
-from sqlalchemy.orm import relationship
+from sqlalchemy import ForeignKey, Table
+from sqlalchemy.orm import Mapped, mapped_column
 
-
-class Base(DeclarativeBase):
-    pass
+from database import Base
 
 
 class User(Base):
     __tablename__ = "user"
     id: Mapped[int] = mapped_column(primary_key=True)
+    email_address: Mapped[str]
     fullname: Mapped[Optional[str]]
 
 
 class Article(Base):
     __tablename__ = "article"
     id: Mapped[int] = mapped_column(primary_key=True)
-    email_address: Mapped[str]
-    # user_id: Mapped[int] = mapped_column(ForeignKey("user.id"))
+    user_id: Mapped[int] = mapped_column(ForeignKey("user.id"))
+    title: Mapped[Optional[str]]
+    content: Mapped[Optional[str]]
 
 
-engine = create_engine("sqlite://", echo=True)
+class Topic(Base):
+    __tablename__ = "topic"
+    id: Mapped[int] = mapped_column(primary_key=True)
+    pid: Mapped[int] = mapped_column(ForeignKey("topic.id"))
+    name: Mapped[str]
+    rank: Mapped[int]
 
-if __name__ == '__main__':
-    Base.metadata.create_all(engine)
+
+class UserTopic(Base):
+    __tablename__ = "user_topic"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey("user.id"))
+    topic_id: Mapped[int] = mapped_column(ForeignKey("topic.id"))
