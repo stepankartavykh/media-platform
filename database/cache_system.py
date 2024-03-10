@@ -5,10 +5,14 @@
 3. Delete entry.
 4. Update entry. Include functions to update by specific fields.
 """
-
+import json
 
 import redis
-from config import REDIS_PORT, REDIS_HOST
+from config import REDIS_PORT, REDIS_HOST, LOCAL_STORAGE_PATH
+
+
+def get_filenames_with_dump() -> list[str]:
+    return ['bloomberg_quint_news.json']
 
 
 class CacheSystem:
@@ -17,6 +21,14 @@ class CacheSystem:
 
     def check(self):
         self.redis.ping()
+
+    def load_start_cache(self):
+        files = get_filenames_with_dump()
+        for filename in files:
+            with open(LOCAL_STORAGE_PATH + f'/{filename}') as f:
+                data = json.load(f)
+            for article in data:
+                self.redis.set(article['url'], str(article))
 
     def add_article_news_to_cache(self, articles: list[dict]) -> None:
         for article in articles:

@@ -3,8 +3,9 @@ from telegram import Update, InlineQueryResultArticle, InputTextMessageContent
 from telegram.ext import (ContextTypes, InlineQueryHandler, CallbackQueryHandler, MessageHandler, filters,
                           ConversationHandler)
 
-from config import BOT_TOKEN
+from config import BOT_TOKEN, IS_LOCAL_DEV
 from database.cache_system import CacheSystem
+from database.config_database import ConfigDatabase
 from handlers import start, echo, support, add_source, observe, stop, observe_topics
 from handlers.add_source_handler import get_source
 from handlers.add_topics_handler import add_topics, add_topic_to_config, button_coroutine
@@ -73,8 +74,13 @@ handlers = [
 ]
 for handler in handlers:
     app.add_handler(handler)
+
+config_database = ConfigDatabase()
+config_database.check()
 cache_system = CacheSystem()
 cache_system.check()
+if IS_LOCAL_DEV:
+    cache_system.load_start_cache()
 
 print('Bot is running...')
 app.run_polling()
