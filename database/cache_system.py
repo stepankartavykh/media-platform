@@ -19,10 +19,10 @@ class CacheSystem:
     def __init__(self, host=REDIS_HOST, port=REDIS_PORT):
         self.redis = redis.Redis(host=host, port=port, decode_responses=True)
 
-    def check(self):
+    def check(self) -> None:
         self.redis.ping()
 
-    def load_start_cache(self):
+    def load_start_cache(self) -> None:
         files = get_filenames_with_dump()
         for filename in files:
             with open(LOCAL_STORAGE_PATH + f'/{filename}') as f:

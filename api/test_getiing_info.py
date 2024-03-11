@@ -38,5 +38,6 @@ def get_news_feed_everything(topic: str):
 
 
 if __name__ == '__main__':
-    # get_news_feed_everything('ukraine')
-    get_news_from_news_data_io('ukraine')
+    query = input()
+    get_news_feed_everything(query)
+    get_news_from_news_data_io(query)
