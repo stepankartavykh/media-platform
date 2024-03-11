@@ -34,4 +34,19 @@ class UserTopic(Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     user_id: Mapped[int] = mapped_column(ForeignKey("user.id"))
     topic_id: Mapped[int] = mapped_column(ForeignKey("topic.id"))
-Ye
+
+
+class UserSource(Base):
+    __tablename__ = "user_topic"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey("user.id"))
+    topic_id: Mapped[int] = mapped_column(ForeignKey("topic.id"))
+
+
+class Source(Base):
+    __tablename__ = "source"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    url: Mapped[str] = mapped_column(unique=True)
+    name: Mapped[Optional[str]]
