@@ -12,18 +12,14 @@ class User(Base):
     username: Mapped[Optional[str]]
 
 
-class Article(Base):
-    __tablename__ = "article"
-    id: Mapped[int] = mapped_column(primary_key=True)
-    user_id: Mapped[int] = mapped_column(ForeignKey("user.id"))
-    title: Mapped[Optional[str]]
-    content: Mapped[Optional[str]]
-
-
 class Topic(Base):
+    """
+    rank: number describing in which order give "messages" (compilation of articles). For example 1 is the highest
+    priority - if there are two articles with rank 1 and 2, then the article with rank 1 added first
+    """
     __tablename__ = "topic"
     id: Mapped[int] = mapped_column(primary_key=True)
-    pid: Mapped[int] = mapped_column(ForeignKey("topic.id"))
+    pid: Mapped[int] = mapped_column(ForeignKey("topic.id"), nullable=True)
     name: Mapped[str]
     rank: Mapped[int]
 
@@ -37,11 +33,11 @@ class UserTopic(Base):
 
 
 class UserSource(Base):
-    __tablename__ = "user_topic"
+    __tablename__ = "user_source"
 
     id: Mapped[int] = mapped_column(primary_key=True)
     user_id: Mapped[int] = mapped_column(ForeignKey("user.id"))
-    topic_id: Mapped[int] = mapped_column(ForeignKey("topic.id"))
+    source_id: Mapped[int] = mapped_column(ForeignKey("source.id"))
 
 
 class Source(Base):
