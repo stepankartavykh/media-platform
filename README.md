@@ -1,7 +1,8 @@
 
 # Advanced media platform to understand what's going on.
-Several services must be created. Architectire building in progress...
-Telegram bot to make analysis on news agenda.
+Several services must be created. Architectire building for MVP in progress...
+
+1. Frontend part (for start) is telegram bot.
 
 ## Description
 
