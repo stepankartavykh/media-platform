@@ -1,13 +1,29 @@
 import json
 import datetime
+from abc import abstractmethod
+from typing import Type
+
 import requests
 import aiohttp
 
 from config import MAIN_DIR, STORAGE_PATH
 
 
+class RequiredInterface:
+    """
+    Base class for description of required interface.
+    """
+
+    def __init__(self):
+        ...
+
+    @abstractmethod
+    def check_input_data(self):
+        ...
+
+
 class ApiEndpoint:
-    def __init__(self, url, payload, api_type, interface):
+    def __init__(self, url, payload, api_type, interface: Type[RequiredInterface]):
         self.api_url = url
         self.payload = payload
         self.api_type = api_type

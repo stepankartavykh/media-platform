@@ -3,7 +3,7 @@ from datetime import datetime
 
 import requests
 
-from config import STORAGE_PATH, NEWS_API_KEY, MAIN_DIR, NEWS_DATA_IO_KEY
+from api.config import NEWS_API_KEY, MAIN_DIR, NEWS_DATA_IO_KEY, STORAGE_PATH
 
 url_everything = 'https://newsapi.org/v2/everything'
 url_top_headlines = 'https://newsapi.org/v2/top-headlines'
@@ -27,12 +27,16 @@ def get_news_from_news_data_io(topic: str) -> str:
 
 
 def get_news_feed_everything(topic: str) -> str:
+    if not NEWS_API_KEY:
+        raise Exception('There is no NEWS_API_KEY in .env')
     everything_payload = {
         'q': topic,
         'apiKey': NEWS_API_KEY,
     }
     response = requests.get(url_everything, params=everything_payload)
-    template = '%Y-%m-%d_%H-%M-%S'
+    if response.json().get('status') != 'ok':
+        print('Error with query to API!')
+    template = '%Y-%m-%d_%H-%M-%S-%f'
     path_to_save = MAIN_DIR + STORAGE_PATH + f'/{datetime.now().strftime(template)}_everything_feed.json'
     with open(path_to_save, 'w') as f:
         json.dump(response.json(), f, indent=4)
@@ -41,5 +45,5 @@ def get_news_feed_everything(topic: str) -> str:
 
 if __name__ == '__main__':
     query = input()
-    get_news_feed_everything(query)
+    print(get_news_feed_everything(query))
     get_news_from_news_data_io(query)
