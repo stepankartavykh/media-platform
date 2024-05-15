@@ -20,6 +20,10 @@ class Metric:
     
     """
 
+    def __init__(self, score_value: float, unique_metric_name: int = None):
+        self.unique_name: int = unique_metric_name or id(self)
+        self.score_value: float = score_value
+
 
 class Subject:
     physics = 'physics'

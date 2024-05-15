@@ -46,4 +46,4 @@ def get_news_feed_everything(topic: str) -> str:
 if __name__ == '__main__':
     query = input()
     print(get_news_feed_everything(query))
-    get_news_from_news_data_io(query)
+    print(get_news_from_news_data_io(query))

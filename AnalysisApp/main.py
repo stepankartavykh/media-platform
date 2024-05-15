@@ -1,13 +1,73 @@
+import asyncio
+from random import random
+from contextlib import asynccontextmanager
 from enum import Enum
 from typing import Annotated
 
-from fastapi import FastAPI, Query
+from fastapi import FastAPI, Query, Body
 
 from DataApp.cache_system import CacheSystem
 from api.get_news_dump import get_news_feed_everything
 from pydantic import BaseModel
 
-app = FastAPI(debug=True)
+
+async def clustering_model(x: float) -> float:
+    await asyncio.sleep(random() * 3)
+    return x * random()
+
+
+async def bias_model(x: float) -> float:
+    await asyncio.sleep(random() * 3)
+    return x * random()
+
+
+async def first_test_model(x: float) -> float:
+    await asyncio.sleep(random() * 3)
+    return x * 4
+
+
+async def second_test_model(x: float) -> float:
+    await asyncio.sleep(random() * 3)
+    return x * 4
+
+
+possible_text_models = {}
+
+
+def load_start_cache_logic() -> None:
+    print("START: cache is loading...")
+    print("FINISHED: cache is ready...")
+    pass
+
+
+@asynccontextmanager
+async def lifespan(app_: FastAPI):
+    load_start_cache_logic()
+    possible_text_models["bias_model"] = bias_model
+    possible_text_models["first_test_model"] = first_test_model
+    possible_text_models["second_test_model"] = second_test_model
+    possible_text_models[""] = bias_model
+    yield
+    possible_text_models.clear()
+
+
+app = FastAPI(debug=True, lifespan=lifespan)
+
+
+@app.get("/predict")
+async def predict(x: float):
+    result = await possible_text_models["bias_model"](x)
+    return {"result": result}
+
+
+@app.post("/compare_texts")
+async def run_comparison_view(model_type: str,
+                              first_text: str = Body(...),
+                              second_text: str = Body(...)):
+    await asyncio.sleep(2)
+    print("first:", first_text[:10])
+    print("second:", second_text[:10])
+    return {"result": "text is processed!", "status": 200}
 
 
 class Subject:
@@ -42,7 +102,6 @@ async def main():
 @app.get("/accept-notification")
 def read_item(user_id: int, chat_id: int):
     print(f'user_id = {user_id} in chat with chat_id = {chat_id}')
-
     return {"item_id": user_id, "chat_id": chat_id}
 
 

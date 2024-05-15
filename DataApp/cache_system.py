@@ -13,7 +13,7 @@ from typing import NewType
 import redis
 
 from api.get_news_dump import get_news_from_news_data_io, get_news_feed_everything
-from .config import REDIS_PORT, REDIS_HOST, LOCAL_STORAGE_PATH
+from DataApp.config import REDIS_PORT, REDIS_HOST, LOCAL_STORAGE_PATH
 
 
 def get_filenames_with_dump() -> list[str]:
@@ -142,11 +142,11 @@ class Article:
 
 def load_default_start_cache():
     cache_system = CacheSystem()
-    default_dump_dir = LOCAL_STORAGE_PATH + '/default_dump'
+    default_dump_dir = '/home/skartavykh/MyProjects/media-bot/storage' + '/default_dump'
     for index, filename in enumerate(os.listdir(default_dump_dir)):
         file_path = os.path.join(default_dump_dir, filename)
         if os.path.isfile(file_path):
-            db_section = index % (REDIS_SECTIONS_COUNT // 3)
+            db_section = index % REDIS_SECTIONS_COUNT
             cache_system.load_cache(file_path, db_section)
 
 
@@ -162,9 +162,9 @@ def find_content(query):
 
 if __name__ == '__main__':
     # clear_cache_system()
-    # load_default_start_cache()
+    load_default_start_cache()
     # cache = CacheSystem()
     # print(cache.get_keys())
     # print(find_content('covid'))
-    cache_loader = CacheLoad()
-    cache_loader.load(CacheLoadQueryInterface('trump'))
+    # cache_loader = CacheLoad()
+    # cache_loader.load(CacheLoadQueryInterface('trump'))
