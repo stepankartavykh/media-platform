@@ -49,12 +49,12 @@ class TextPacket:
         pass
 
 
-async def text_to_vector(input_text: str, model_type: ModelType) -> None:
+async def text_to_vector(input_text: str, type_model: ModelType) -> None:
     await asyncio.sleep(random.random())
-    await model_type.add_text(input_text)
+    await type_model.add_text(input_text)
 
 
-async def run_comparison(first_text: str, second_text: str, model_type: ModelType = None, step: int = None) -> Metric:
+async def run_comparison(first_text: str, second_text: str, type_model: ModelType = None, step: int = None) -> Metric:
     await asyncio.sleep(random.random() * 10)
     # TODO simulation of working model
     value_from_model = random.random()

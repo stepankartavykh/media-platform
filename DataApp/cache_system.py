@@ -8,6 +8,7 @@
 import datetime
 import json
 import os.path
+from enum import Enum
 from typing import NewType
 
 import redis
@@ -21,6 +22,12 @@ def get_filenames_with_dump() -> list[str]:
 
 
 REDIS_SECTIONS_COUNT = 16
+
+
+class SectionsDistribution(Enum):
+    economics = "economics"
+    physics_research = "physics research"
+    investing = "investing"
 
 
 class CacheSystem:

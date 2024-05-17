@@ -6,6 +6,7 @@ from typing import Annotated
 
 from fastapi import FastAPI, Query, Body
 
+from AnalysisApp.ml_models.bias import load_bias_model
 from DataApp.cache_system import CacheSystem
 from api.get_news_dump import get_news_feed_everything
 from pydantic import BaseModel
@@ -43,7 +44,7 @@ def load_start_cache_logic() -> None:
 @asynccontextmanager
 async def lifespan(app_: FastAPI):
     load_start_cache_logic()
-    possible_text_models["bias_model"] = bias_model
+    possible_text_models["bias_model"] = load_bias_model
     possible_text_models["first_test_model"] = first_test_model
     possible_text_models["second_test_model"] = second_test_model
     possible_text_models[""] = bias_model
@@ -60,14 +61,26 @@ async def predict(x: float):
     return {"result": result}
 
 
+class TextPair(BaseModel):
+    first_text: str
+    second_text: str
+    type_model: str
+
+
 @app.post("/compare_texts")
-async def run_comparison_view(model_type: str,
-                              first_text: str = Body(...),
-                              second_text: str = Body(...)):
+async def run_comparison_view(text_pair: TextPair = Body(...)):
     await asyncio.sleep(2)
-    print("first:", first_text[:10])
-    print("second:", second_text[:10])
-    return {"result": "text is processed!", "status": 200}
+    print("first:", text_pair.first_text[:20])
+    print("second:", text_pair.second_text[:20])
+    print("type_model:", text_pair.type_model)
+    return {"result": "two text packets are processed!", "status": 200}
+
+
+@app.post("/send_text")
+async def send_text(text: str = Body(...)):
+    await asyncio.sleep(1)
+    print("test snippet:", text[:10])
+    return {"message": "Text received successfully"}
 
 
 class Subject:

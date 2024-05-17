@@ -1,0 +1,2 @@
+bias_pretrained_tokenizer: "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis"
+bias_model: "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis"
