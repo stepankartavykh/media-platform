@@ -2,9 +2,15 @@ import asyncio
 import json
 import random
 import time
+from enum import Enum
 
 from api.get_news_dump import get_news_feed_everything
-from api.interfaces.news_sources import EverythingResponseInterface
+from api.interfaces.news_sources import EverythingResponseInterface, ArticleInterface
+
+
+class MessageBrokerNotification(Enum):
+    success = 1
+    error = 0
 
 
 def define_topic_for_api_call() -> str:
@@ -12,6 +18,26 @@ def define_topic_for_api_call() -> str:
     if not possible_topics:
         possible_topics.append("news")
     return random.choice(possible_topics)
+
+
+async def send_to_message_broker(article: ArticleInterface) -> MessageBrokerNotification:
+    await asyncio.sleep(0.01)
+    print(f'article from {article.source} send to processing queue...')
+    return MessageBrokerNotification.success
+
+
+async def database_configure(article: ArticleInterface) -> int:
+    await asyncio.sleep(0.01)
+    print(f'article {article.url} configured with database...')
+    return 1
+
+
+async def process_article_in_pipeline(article: ArticleInterface) -> None:
+    print("Processing" + article.url + "...")
+    send_to_message_broker_task = asyncio.create_task(send_to_message_broker(article))
+    config_database_task = asyncio.create_task(database_configure(article))
+    await asyncio.gather(send_to_message_broker_task,
+                         config_database_task)
 
 
 def data_pipeline_simulation(count_times: int) -> None:
@@ -22,9 +48,9 @@ def data_pipeline_simulation(count_times: int) -> None:
             data = json.load(f)
         everything_on_topic = EverythingResponseInterface.model_validate(data)
         articles_tasks = []
-        for article in everything_on_topic.articles[:15]:
-            print(article.description)
-            articles_tasks.append(asyncio.create_task())
+        for article in everything_on_topic.articles:
+            articles_tasks.append(asyncio.create_task(process_article_in_pipeline(article)))
+        asyncio.run(asyncio.gather(*articles_tasks))
         time.sleep(3)
 
 
