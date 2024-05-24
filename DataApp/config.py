@@ -22,6 +22,9 @@ POSTGRES_DATABASE_NAME = 'postgres'
 REDIS_HOST = config_parser['DEFAULT']['REDIS_HOST']
 REDIS_PORT = config_parser['DEFAULT']['REDIS_PORT']
 
+MESSAGE_BROKER_HOST = config_parser['MESSAGE_BROKER_HOST']
+MESSAGE_BROKER_PORT = config_parser['MESSAGE_BROKER_PORT']
+
 
 class DatabaseConfig(Enum):
     host = POSTGRES_HOST
@@ -29,6 +32,11 @@ class DatabaseConfig(Enum):
     user = POSTGRES_USER
     password = POSTGRES_PASSWORD
     database_name = POSTGRES_DATABASE_NAME
+
+
+class MessageBrokerConfig(Enum):
+    host = MESSAGE_BROKER_HOST
+    port = MESSAGE_BROKER_PORT
 
 
 LOCAL_STORAGE_PATH = MAIN_DIR + STORAGE_PATH
