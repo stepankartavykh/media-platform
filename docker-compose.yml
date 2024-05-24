@@ -1,12 +1,6 @@
-# Версия схемы, которую мы используем.
-# Зависит от установленной версии docker
-# https://docs.docker.com/compose/compose-file/
 version: "3"
-# Определяем список сервисов — services
-# Эти сервисы будут частью нашего приложения
 services:
-
-  app: # Имя сервиса
+  app:
     build:
       # Контекст для сборки образа,
       # в данном случае, текущая директория
@@ -29,8 +23,17 @@ services:
 
   db:
     # Имя образа. Здесь мы используем базу данных Postgres
+    container_name: mediaDB
     image: postgres:latest
     environment: # А так задаются переменные окружения
+      POSTGRES_USER: admin
       POSTGRES_PASSWORD: password
+      POSTGRES_DB: postgres
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - ./postgres:/data/postgres
+    ports:
+      - "5500:5432"
+
+  analysis:
+    container_name: analysisApp
+    image:
