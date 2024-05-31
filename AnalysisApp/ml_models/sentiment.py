@@ -11,22 +11,22 @@ with open(config_path, "r") as file:
 
 
 @dataclass
-class BiasPrediction:
+class SentimentPrediction:
     """Class representing a sentiment prediction result."""
 
     label: str
     score: float
 
 
-def load_bias_model() -> Callable[[str], BiasPrediction]:
-    tokenizer = AutoTokenizer.from_pretrained(config["bias_pretrained_tokenizer"])
-    model_ = AutoModelForSequenceClassification.from_pretrained(config["bias_model"])
+def load_bias_model() -> Callable[[str], SentimentPrediction]:
+    tokenizer = AutoTokenizer.from_pretrained(config["sentiment_tokenizer"])
+    model_ = AutoModelForSequenceClassification.from_pretrained(config["sentiment_model"])
     model_hf = pipeline(config["task"], model=model_, tokenizer=tokenizer)
 
-    def model(text: str) -> BiasPrediction:
+    def model(text: str) -> SentimentPrediction:
         pred = model_hf(text)
         pred_best_class = pred[0]
-        return BiasPrediction(
+        return SentimentPrediction(
             label=pred_best_class["label"],
             score=pred_best_class["score"],
         )
