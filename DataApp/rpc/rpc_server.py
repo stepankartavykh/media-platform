@@ -1,26 +1,36 @@
+import base64
+
 import pika
 
-connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
+from DataApp.config import MessageBrokerConfig
+
+connection = pika.BlockingConnection(pika.ConnectionParameters(host=MessageBrokerConfig.host.value,
+                                                               port=MessageBrokerConfig.port.value))
 
 channel = connection.channel()
 
 channel.queue_declare(queue='rpc_queue')
 
 
-def fib(n):
-    if n == 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fib(n - 1) + fib(n - 2)
+def calc_fib_number(n) -> int:
+    def fib(number: int) -> int:
+        if number == 0:
+            return 0
+        elif number == 1:
+            return 1
+        else:
+            return fib(number - 1) + fib(number - 2)
+    print(f'processing fib({n})...')
+    result = fib(n)
+    print('end')
+    return result
 
 
 def on_request(ch, method, props, body):
-    n = int(body)
+    n = int(base64.b64decode(body))
 
     print(f" [.] fib({n})")
-    response = fib(n)
+    response = calc_fib_number(n)
 
     ch.basic_publish(exchange='',
                      routing_key=props.reply_to,

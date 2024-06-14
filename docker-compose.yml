@@ -1,36 +1,28 @@
-# Версия схемы, которую мы используем.
-# Зависит от установленной версии docker
-# https://docs.docker.com/compose/compose-file/
-version: "3"
-# Определяем список сервисов — services
-# Эти сервисы будут частью нашего приложения
+version: '3'
+
 services:
-
-  app: # Имя сервиса
-    build:
-      # Контекст для сборки образа,
-      # в данном случае, текущая директория
-      context: .
-      # Имя докерфайла из которого будет собран образ
-      dockerfile: Dockerfile
-      # Команда, которая будет выполнена после старта сервиса
-    command: make start
-    ports: # Проброс портов
-      - "3000:8000"
-    # Перечисляем тома (volumes)
-    # Они будут подключены к файловой системе сервиса
-    # Например, всё что находится в . мы увидим в директории /app
-    volumes:
-      - ".:/app"
-      - "/tmp:/tmp"
-    # Сервис будет запущен, только после старта db
-    depends_on:
-      - db
-
-  db:
-    # Имя образа. Здесь мы используем базу данных Postgres
+  mediaDB:
     image: postgres:latest
-    environment: # А так задаются переменные окружения
+    environment:
+      POSTGRES_USER: admin
       POSTGRES_PASSWORD: password
-    volumes:
-      - pgdata:/var/lib/postgresql/data
+      POSTGRES_DB: postgres
+    ports:
+      - "5500:5432"
+
+  redis-first-storage:
+    image: redis/redis-stack-server:latest
+    ports:
+      - "6379:6379"
+
+  redis-second-storage:
+    image: redis/redis-stack-server:latest
+    ports:
+      - "6378:6379"
+
+  rabbitmq:
+    image: rabbitmq:3.13-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+

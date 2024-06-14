@@ -22,9 +22,6 @@ POSTGRES_DATABASE_NAME = 'postgres'
 REDIS_HOST = config_parser['DEFAULT']['REDIS_HOST']
 REDIS_PORT = config_parser['DEFAULT']['REDIS_PORT']
 
-MESSAGE_BROKER_HOST = config_parser['MESSAGE_BROKER_HOST']
-MESSAGE_BROKER_PORT = config_parser['MESSAGE_BROKER_PORT']
-
 
 class DatabaseConfig(Enum):
     host = POSTGRES_HOST
@@ -32,11 +29,6 @@ class DatabaseConfig(Enum):
     user = POSTGRES_USER
     password = POSTGRES_PASSWORD
     database_name = POSTGRES_DATABASE_NAME
-
-
-class MessageBrokerConfig(Enum):
-    host = MESSAGE_BROKER_HOST
-    port = MESSAGE_BROKER_PORT
 
 
 LOCAL_STORAGE_PATH = MAIN_DIR + STORAGE_PATH
@@ -50,3 +42,11 @@ NEWS_API_KEY = os.getenv('API_NEWS_FEED_KEY')
 NEWS_DATA_IO_KEY = os.getenv('NEWS_DATA_IO_KEY')
 CACHE_SYSTEM_HOST = os.getenv('CACHE_SYSTEM_HOST')
 CACHE_SYSTEM_PORT = os.getenv('CACHE_SYSTEM_PORT')
+
+MESSAGE_BROKER_HOST = os.getenv('MESSAGE_BROKER_HOST')
+MESSAGE_BROKER_PORT = os.getenv('MESSAGE_BROKER_PORT')
+
+
+class MessageBrokerConfig(Enum):
+    host = MESSAGE_BROKER_HOST
+    port = MESSAGE_BROKER_PORT
