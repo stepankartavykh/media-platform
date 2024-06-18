@@ -2,6 +2,7 @@ version: '3'
 
 services:
   mediaDB:
+    container_name: mediaConfigDatabase
     image: postgres:latest
     environment:
       POSTGRES_USER: admin
@@ -11,18 +12,20 @@ services:
       - "5500:5432"
 
   redis-first-storage:
+    container_name: firstRedisKVStorage
     image: redis/redis-stack-server:latest
     ports:
       - "6379:6379"
 
   redis-second-storage:
+    container_name: secondRedisKVStorage
     image: redis/redis-stack-server:latest
     ports:
       - "6378:6379"
 
   rabbitmq:
+    container_name: messageBrokerRabbitMQ
     image: rabbitmq:3.13-management
     ports:
       - "5672:5672"
       - "15672:15672"
-
