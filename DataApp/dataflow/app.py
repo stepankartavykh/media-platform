@@ -1,5 +1,6 @@
 import asyncio
 import multiprocessing
+import os
 import random
 import time
 from contextlib import asynccontextmanager
@@ -8,49 +9,17 @@ from typing import TypeAlias
 import uvicorn
 from apscheduler.schedulers.background import BackgroundScheduler
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
-from fastapi.responses import HTMLResponse
-
-from DataApp.dataflow.html_page import html, html_multiple_connections
-from DataApp.dataflow.main import data_pipeline_simulation
 
 
 @asynccontextmanager
 async def lifespan(app_: FastAPI):
     print('Start app procedures...')
+    app_.start_up_time = time.time()
     yield
     print('Shutdown procedures...')
 
 
 app = FastAPI(debug=True, lifespan=lifespan)
-
-
-class ConnectionManager:
-    def __init__(self):
-        self.active_connections: list[WebSocket] = []
-
-    async def connect(self, websocket: WebSocket):
-        await websocket.accept()
-        self.active_connections.append(websocket)
-
-    def disconnect(self, websocket: WebSocket):
-        self.active_connections.remove(websocket)
-
-    @staticmethod
-    async def send_personal_message(message: str, websocket: WebSocket):
-        await websocket.send_text(message)
-
-    async def broadcast(self, message: str):
-        for connection in self.active_connections:
-            await connection.send_text(message)
-
-
-manager = ConnectionManager()
-
-
-@app.get("/")
-async def get():
-    return HTMLResponse(html_multiple_connections)
-
 
 GeneratedArticleContent: TypeAlias = dict[str, str]
 
@@ -69,37 +38,11 @@ async def websocket_endpoint(websocket: WebSocket):
     await websocket.accept()
     try:
         while True:
-            for i in range(3):
-                await websocket.send_text(str(generate_article_content()))
-                time.sleep(1)
+            await websocket.send_text(str(generate_article_content()))
             data = await websocket.receive_text()
-            print("=" * 30, "DEBUG:", data)
             await websocket.send_text(f"Message text was: {data}")
     except WebSocketDisconnect:
-        # await websocket.close()
         print(f'websocket {websocket.client_state.value} closed!')
-
-
-@app.websocket("/ws/{client_id}")
-async def websocket_endpoint(websocket: WebSocket, client_id: int):
-    await manager.connect(websocket)
-    try:
-        while True:
-            data = await websocket.receive_text()
-            await manager.send_personal_message(f"You wrote: {data}", websocket)
-            await manager.broadcast(f"Client #{client_id} says: {data}")
-    except WebSocketDisconnect:
-        manager.disconnect(websocket)
-        await manager.broadcast(f"Client #{client_id} left the chat")
-
-
-def data_pipeline_from_api():
-    print("Processing data pipeline ...")
-    # done = 10
-    # for i in range(done + 1):
-    #     print(f'Data pipeline working in progress({i / done * 100}%)...', )
-    #     time.sleep(10)
-    # asyncio.run(data_pipeline_simulation(count_times=4, interval=20))
 
 
 def run_app():
@@ -116,15 +59,20 @@ async def restart_processing():
     pass
 
 
-def app_with_data_pipeline():
-    app_process = multiprocessing.Process(target=run_app)
-    app_process.start()
+def background_task():
+    while True:
+        print(f'DEBUG UNDER PROCESS ({os.getpid()})', time.time())
+        time.sleep(2)
+        if time.time() - app.start_up_time > 15:
+            multiprocessing.current_process().join()
+            break
 
-    scheduler = BackgroundScheduler()
-    scheduler.add_job(func=data_pipeline_from_api, trigger='interval', seconds=5, max_instances=2)
-    scheduler.start()
 
-    app_process.join()
+@app.get('/start-job')
+def start_job():
+    t2 = multiprocessing.Process(target=background_task)
+    t2.start()
+    return {"status": "Task is running."}
 
 
 def simple_app():

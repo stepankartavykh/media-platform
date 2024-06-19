@@ -9,8 +9,8 @@ from DataApp.config import MessageBrokerConfig
 class FibonacciRpcClient:
 
     def __init__(self):
-        self.connection = pika.BlockingConnection(pika.ConnectionParameters(host=MessageBrokerConfig.host,
-                                                                            port=MessageBrokerConfig.port))
+        self.connection = pika.BlockingConnection(pika.ConnectionParameters(host=MessageBrokerConfig.host.value,
+                                                                            port=MessageBrokerConfig.port.value))
         self.channel = self.connection.channel()
         result = self.channel.queue_declare(queue='', exclusive=True)
         self.callback_queue = result.method.queue
