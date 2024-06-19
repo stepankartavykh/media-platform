@@ -1,4 +1,7 @@
 import base64
+import random
+import sys
+import time
 
 import pika
 import uuid
@@ -31,16 +34,44 @@ class FibonacciRpcClient:
                                    routing_key='rpc_queue',
                                    properties=pika.BasicProperties(reply_to=self.callback_queue,
                                                                    correlation_id=self.corr_id),
-                                   body=base64.b64encode(bytes(str(n))))
+                                   body=base64.b64encode(str(n).encode()))
         while self.response is None:
-            self.connection.process_data_events(time_limit=None)
+            self.connection.process_data_events(time_limit=3)
         if isinstance(self.response, int):
             return int(self.response)
-        raise Exception('Response is not integer!')
+        elif isinstance(self.response, bytes):
+            try:
+                return int(self.response)
+            except ValueError:
+                return str(self.response)
+        raise Exception('Response is not integer!', str(self.response))
 
 
-fibonacci_rpc = FibonacciRpcClient()
+def process_args() -> int:
+    args = sys.argv
+    if len(args) == 1:
+        print("Enter value for rpc client!")
+        sys.exit()
+    elif len(args) > 2:
+        print("Too many arguments!")
+        sys.exit()
+    return int(args[1])
 
-print(" [x] Requesting fib(30)")
-response = fibonacci_rpc.call(30)
-print(f" [.] Got {response}")
+
+def main():
+    value = process_args()
+    fibonacci_rpc_client = FibonacciRpcClient()
+    while True:
+        try:
+            val = value + random.randint(30, 35)
+            print(f" [x] Requesting fib({val})")
+            response = fibonacci_rpc_client.call(val)
+            time.sleep(1)
+            print(f" [.] Got {response}")
+        except KeyboardInterrupt:
+            print('\nEnough!')
+            break
+
+
+if __name__ == '__main__':
+    main()
