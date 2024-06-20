@@ -165,13 +165,3 @@ def clear_cache_system():
 def find_content(query):
     c = CacheSystem()
     return c.find(query)
-
-
-if __name__ == '__main__':
-    # clear_cache_system()
-    load_default_start_cache()
-    # cache = CacheSystem()
-    # print(cache.get_keys())
-    # print(find_content('covid'))
-    # cache_loader = CacheLoad()
-    # cache_loader.load(CacheLoadQueryInterface('trump'))

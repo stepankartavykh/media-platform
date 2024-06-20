@@ -1,39 +1,31 @@
-version: "3"
-services:
-  app:
-    build:
-      # Контекст для сборки образа,
-      # в данном случае, текущая директория
-      context: .
-      # Имя докерфайла из которого будет собран образ
-      dockerfile: Dockerfile
-      # Команда, которая будет выполнена после старта сервиса
-    command: make start
-    ports: # Проброс портов
-      - "3000:8000"
-    # Перечисляем тома (volumes)
-    # Они будут подключены к файловой системе сервиса
-    # Например, всё что находится в . мы увидим в директории /app
-    volumes:
-      - ".:/app"
-      - "/tmp:/tmp"
-    # Сервис будет запущен, только после старта db
-    depends_on:
-      - db
+version: '3'
 
-  db:
-    # Имя образа. Здесь мы используем базу данных Postgres
-    container_name: mediaDB
+services:
+  mediaDB:
+    container_name: mediaConfigDatabase
     image: postgres:latest
-    environment: # А так задаются переменные окружения
+    environment:
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: password
       POSTGRES_DB: postgres
-    volumes:
-      - ./postgres:/data/postgres
     ports:
       - "5500:5432"
 
-  analysis:
-    container_name: analysisApp
-    image:
+  redis-first-storage:
+    container_name: firstRedisKVStorage
+    image: redis/redis-stack-server:latest
+    ports:
+      - "6379:6379"
+
+  redis-second-storage:
+    container_name: secondRedisKVStorage
+    image: redis/redis-stack-server:latest
+    ports:
+      - "6378:6379"
+
+  rabbitmq:
+    container_name: messageBrokerRabbitMQ
+    image: rabbitmq:3.13-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"

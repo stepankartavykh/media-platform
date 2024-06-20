@@ -5,7 +5,7 @@ from typing import Optional
 import requests
 from pydantic import BaseModel, Field
 
-from config import NEWS_API_KEY, MAIN_DIR, STORAGE_PATH
+from api.config import NEWS_API_KEY, MAIN_DIR, STORAGE_PATH
 
 
 class SourceInterface(BaseModel):
@@ -56,15 +56,9 @@ def get_news_feed_everything(topic: str):
         print(article.published_at)
 
 
-def get_dates_from_response():
-    with open(MAIN_DIR + STORAGE_PATH + '/test_dump.json') as f:
+def get_dates_from_response(file_name: str):
+    with open(MAIN_DIR + STORAGE_PATH + file_name) as f:
         dump = json.load(f)
     everything_on_topic = EverythingResponseInterface.model_validate(dump)
     for article in everything_on_topic.articles[:15]:
         print(article.published_at)
-
-
-if __name__ == '__main__':
-    t = 'economics'
-    # get_news_feed_everything(t)
-    get_dates_from_response()
