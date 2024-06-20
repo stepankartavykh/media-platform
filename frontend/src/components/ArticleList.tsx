@@ -13,7 +13,7 @@ const ArticleList: React.FC<ArticleListProps> = ({ articles, onArticleClick }) =
 
   return (
     <div className='article_list'>
-      (/** вывод новостей через перебор */)
+      {/** вывод новостей через перебор */}
       {sortedArticles.map((article) => (
         <ArticleItem key={article.url} article={article} onClick={onArticleClick} />
       ))}
