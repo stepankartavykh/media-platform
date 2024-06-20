@@ -1,0 +1,37 @@
+.App {
+  width: 100%;
+  height: 100vh;
+}
+
+.title {
+  font-weight: 200;
+  margin: 0;
+}
+.article_list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 7em;
+}
+.article_item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25rem;
+  height: 11rem;
+  border: 1.2px solid #938CBE;
+  border-radius: 5px;
+  padding: 30px;
+  cursor: pointer;
+}
+.article_item h2 {
+  margin: 0;
+}
+.article_item button {
+  cursor: pointer;
+  display: flex;
+  align-self: end;
+  margin-top: auto;
+  color: #FFF;
+  border: none;
+  background: none;
+}
