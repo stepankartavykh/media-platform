@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 from enum import Enum
+from typing import TypeAlias
 
 import requests
 
@@ -37,6 +38,9 @@ def get_news_from_news_data_io(topic: str) -> str:
     return path_to_save
 
 
+PathToFile: TypeAlias = str
+
+
 def get_news_feed_everything(topic: str,
                              search_in: str = None,
                              sources: str = None,
@@ -47,7 +51,8 @@ def get_news_feed_everything(topic: str,
                              lang: str = None,
                              sort_by: str = None,
                              page_size: int = None,
-                             page: int = None) -> str:
+                             page: int = None,
+                             return_without_dump: bool = False) -> PathToFile | requests.Response:
     if not NEWS_API_KEY:
         raise Exception('There is no NEWS_API_KEY in .env')
     everything_payload = {
@@ -78,6 +83,8 @@ def get_news_feed_everything(topic: str,
     if response.json().get('status') != 'ok':
         print('Error with query to API!')
         raise NewsAPIErrorLoad(f'error with loading data via {response.url}')
+    if return_without_dump:
+        return response
     template = '%Y-%m-%d_%H-%M-%S-%f'
     path_to_save = MAIN_DIR + STORAGE_PATH + f'/{datetime.now().strftime(template)}_everything_feed.json'
     with open(path_to_save, 'w') as f:
