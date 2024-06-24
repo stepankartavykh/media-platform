@@ -21,6 +21,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 5px;
   width: 25rem;
   height: 11rem;
   border: 1.2px solid #938CBE;
@@ -30,6 +31,10 @@
 }
 .article_item h2 {
   margin: 0;
+}
+.article_item p {
+  margin: 0;
+  overflow: hidden;
 }
 .article_item button {
   cursor: pointer;
