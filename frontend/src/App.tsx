@@ -81,8 +81,6 @@ const App: React.FC = () => {
 
 
   const handleArticleClick = (article: ArticleType) => {
-    //** в аргументы добавить article: Article */
-    console.log("Take Article ");
     setSelectedArticle(article);
   };
 
@@ -91,11 +89,13 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="App">
+    <section className="App">
       <h1 className="title">Advanced Media</h1>
-      <ArticleList articles={articles} onArticleClick={handleArticleClick} />
-      <ArticleModal article={selectedArticle} onClose={handleCloseModal} />
-    </div>
+      <div className="articles_container">
+        <ArticleList articles={articles} onArticleClick={handleArticleClick}/> 
+        <ArticleModal article={selectedArticle} onClose={handleCloseModal} />
+      </div>
+    </section>
   );
 };
 

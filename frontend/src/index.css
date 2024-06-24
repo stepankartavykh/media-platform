@@ -9,6 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:  #030617;
 }
 
 code {
@@ -19,5 +20,4 @@ code {
 #root {
   padding: 20px 0 0 50px;
   color: #fff;
-  background-color:  #030617;
 }
