@@ -17,6 +17,9 @@ const ArticleModal: React.FC<ArticleModalProps> = ({ article, onClose }) => {
         <p>by {article.author}</p>
         <p>{article.description}</p>
         <img src={article.urlToImage} alt="article images" style={{ width: '100%' }} />
+        <p>
+          <a href={article.url}>Link to source</a>
+        </p>
         <p>{article.content}</p>
         <button onClick={onClose}>
           Close
