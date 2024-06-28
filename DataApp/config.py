@@ -2,7 +2,7 @@ import os
 import inspect
 import configparser
 from enum import Enum
-
+import psycopg2
 from dotenv import load_dotenv
 
 MAIN_DIR = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
@@ -29,6 +29,15 @@ class DatabaseConfig(Enum):
     user = POSTGRES_USER
     password = POSTGRES_PASSWORD
     database_name = POSTGRES_DATABASE_NAME
+
+    @classmethod
+    def check(cls):
+        with psycopg2.connect(dbname=cls.database_name.value,
+                              host=cls.host.value,
+                              user=cls.user.value,
+                              password=cls.password.value,
+                              port=cls.port.value):
+            print('Connection to config database is established!')
 
 
 LOCAL_STORAGE_PATH = MAIN_DIR + STORAGE_PATH

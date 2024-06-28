@@ -51,8 +51,3 @@ class SourceRepository:
             source = source[0]
         session.close()
         return source
-
-
-if __name__ == '__main__':
-    test = Source(url='https://www.washingtonpost.com/qwe')
-    print(SourceRepository.add(test))

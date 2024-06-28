@@ -29,10 +29,3 @@ class SourceService:
 
     def get_sources_for_user(self, user_id):
         self.repository.get_sources_for_user(user_id)
-
-
-if __name__ == '__main__':
-    sources = [
-        ''
-    ]
-    SourceService().add_source('qwer')

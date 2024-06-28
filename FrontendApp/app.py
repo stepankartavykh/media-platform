@@ -3,12 +3,25 @@ import json
 import random
 import threading
 import time
+import uuid
 from contextlib import asynccontextmanager
+
 import uvicorn
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
-from DataApp.dataflow.main import define_topic_for_api_call
+from fastapi.encoders import jsonable_encoder
 from FrontendApp.interface_data import DataPacketInterface, AddArticleInterface, UpdateArticleInterface
 from api.get_news_dump import get_news_feed_everything
+from DataApp.storage_schemas.storage import Article, engine
+from sqlalchemy.orm import Session
+
+
+def define_topic_for_api_call() -> str:
+    possible_topics = ["economics", "microelectronics", "quantum computing", "investing", "research technologies",
+                       "medicine", "water desalination", "physics", "economics reports", "microchips new research",
+                       "power", "new sources energy"]
+    if not possible_topics:
+        possible_topics.append("news")
+    return random.choice(possible_topics)
 
 
 class ConnectionManager:
@@ -39,15 +52,14 @@ class ContentEvent:
     pass
 
 
-event_update_state = False
+EVENT_UPDATE_STATE = False
 
 
 def event_generator() -> None:
-    global event_update_state
+    global EVENT_UPDATE_STATE
     while True:
-        print('DEBUG: event generator')
-        time.sleep(random.randint(10, 20))
-        event_update_state = True
+        time.sleep(random.randint(3, 6))
+        EVENT_UPDATE_STATE = True
 
 
 @asynccontextmanager
@@ -57,64 +69,75 @@ async def lifespan(app_: FastAPI):
     thread.start()
     yield
     print('Shutdown procedures...')
+    thread.join(timeout=3.0)
 
 
 app = FastAPI(debug=True, lifespan=lifespan)
 
 
-def generate_article_content(from_api: bool = True) -> DataPacketInterface:
+async def generate_article_content(from_api: bool = True, consider_amount: int | None = None) -> DataPacketInterface:
     if not from_api:
         raise NotImplementedError('Implementation of dump load is required!')
-    extracted_data_path = get_news_feed_everything(define_topic_for_api_call())
+    extracted_data_path = get_news_feed_everything(topic=define_topic_for_api_call())
     with open(extracted_data_path, 'r') as f:
         data = json.load(f)
     articles_to_add = []
     articles_to_update = []
-    for data_article in data['articles'][:50]:
+    articles_to_database = []
+    if not consider_amount:
+        consider_amount = len(data['articles'])
+    for data_article in data['articles'][:consider_amount]:
         if random.randint(1, 10) < 6:
-            add_article = AddArticleInterface(
-                source=data_article.get('source', {'name': "Unknown"}).get('name'),
-                priority=random.randint(1, 10),
-                author=data_article.get('author', 'Unknown'),
-                title=data_article.get('title', 'Unknown'),
-                description=data_article.get('description', 'None'),
-                url=data_article.get('url'),
-                urlToImage=data_article.get('urlToImage'),
-                publishedAt=data_article.get('publishedAt'),
-                content=data_article.get('content'),
-            )
+            add_article = AddArticleInterface(source=data_article.get('source', {'name': "Unknown"}).get('name'),
+                                              priority=random.randint(1, 10),
+                                              author=data_article.get('author', 'Unknown'),
+                                              title=data_article.get('title', 'Unknown'),
+                                              description=data_article.get('description', 'None'),
+                                              url=data_article.get('url'),
+                                              urlToImage=data_article.get('urlToImage'),
+                                              publishedAt=data_article.get('publishedAt'),
+                                              content=data_article.get('content'))
+            articles_to_database.append(Article(author=data_article.get('author', 'Unknown'),
+                                                title=data_article.get('title', 'Unknown'),
+                                                description=data_article.get('description', 'None'),
+                                                content=data_article.get('content'),
+                                                published_at=data_article.get('publishedAt'),
+                                                url=data_article.get('url') + str(uuid.uuid4())))
             articles_to_add.append(add_article)
         else:
-            update_article = UpdateArticleInterface(
-                update_type=random.choice(('update', 'add_content', 'replace')),
-                priority=random.randint(1, 10),
-                source=data_article.get('source', {'name': "Unknown"}).get('name'),
-                author=data_article.get('author', 'Unknown'),
-                title=data_article.get('title', 'Unknown'),
-                description=data_article.get('description', 'None'),
-                url=data_article.get('url'),
-                urlToImage=data_article.get('urlToImage'),
-                publishedAt=data_article.get('publishedAt'),
-                content=data_article.get('content'),
-            )
+            update_article = UpdateArticleInterface(update_type=random.choice(('update', 'add_content', 'replace')),
+                                                    priority=random.randint(1, 10),
+                                                    source=data_article.get('source', {'name': "Unknown"}).get('name'),
+                                                    author=data_article.get('author', 'Unknown'),
+                                                    title=data_article.get('title', 'Unknown'),
+                                                    description=data_article.get('description', 'None'),
+                                                    url=data_article.get('url'),
+                                                    urlToImage=data_article.get('urlToImage'),
+                                                    publishedAt=data_article.get('publishedAt'),
+                                                    content=data_article.get('content'))
             articles_to_update.append(update_article)
     content_packet = DataPacketInterface(articlesAdd=articles_to_add,
                                          articlesUpdate=articles_to_update)
+    with open(f'/home/skartavykh/MyProjects/media-bot/storage/data_packets/{time.time_ns()}.json', 'w') as f:
+        json.dump(jsonable_encoder(content_packet), f)
+    with Session(engine) as session:
+        session.add_all(articles_to_database)
+        print('loaded!')
+        session.commit()
     return content_packet
-
-
-def trigger_update_frontend_content():
-    print('updates were send to users')
-    pass
 
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
+    global EVENT_UPDATE_STATE
     await connection_manager.connect(websocket)
     try:
         while True:
-            if event_update_state:
-                await connection_manager.broadcast(generate_article_content().json())
+            if EVENT_UPDATE_STATE:
+                data_packet = await generate_article_content()
+                await connection_manager.broadcast(data_packet.json())
+                print('broadcasting current state is complete!')
+                EVENT_UPDATE_STATE = False
     except WebSocketDisconnect:
         connection_manager.disconnect(websocket)
         print(f'websocket {websocket.client_state.value} closed!')
