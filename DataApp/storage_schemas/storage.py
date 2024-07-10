@@ -4,9 +4,11 @@ from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy.orm import DeclarativeBase
 
 from sqlalchemy import create_engine
+from sqlalchemy.ext.asyncio import create_async_engine
 
 
 engine = create_engine("postgresql://admin:password@localhost:5500/storage", echo=True)
+async_engine = create_async_engine("postgresql://admin:password@localhost:5500/storage", echo=True)
 
 
 class Base(DeclarativeBase):

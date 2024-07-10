@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   mediaDB:
     container_name: mediaConfigDatabase

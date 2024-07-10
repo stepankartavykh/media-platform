@@ -5,7 +5,7 @@ psql postgresql://admin:password@localhost:5500/postgres <<-EOSQL
 
 CREATE DATABASE storage;
 \c storage
-CREATE SCHEMA configuration;
+CREATE SCHEMA articles;
 
 EOSQL
 
