@@ -31,13 +31,24 @@ class DatabaseConfig(Enum):
     database_name = POSTGRES_DATABASE_NAME
 
     @classmethod
-    def check(cls):
+    def check(cls) -> None:
         with psycopg2.connect(dbname=cls.database_name.value,
                               host=cls.host.value,
                               user=cls.user.value,
                               password=cls.password.value,
                               port=cls.port.value):
             print('Connection to config database is established!')
+
+    @classmethod
+    def get_config_url(cls, driver: str = '') -> str:
+        url_pattern = '{dialect}{driver}://{username}:{password}@{host}:{port}/{database}'
+        return url_pattern.format(dialect='postgresql',
+                                  driver=driver,
+                                  username=cls.user.value,
+                                  password=cls.password.value,
+                                  host=cls.host.value,
+                                  port=cls.port.value,
+                                  database=cls.database_name.value)
 
 
 LOCAL_STORAGE_PATH = MAIN_DIR + STORAGE_PATH
@@ -52,10 +63,7 @@ NEWS_DATA_IO_KEY = os.getenv('NEWS_DATA_IO_KEY')
 CACHE_SYSTEM_HOST = os.getenv('CACHE_SYSTEM_HOST')
 CACHE_SYSTEM_PORT = os.getenv('CACHE_SYSTEM_PORT')
 
-MESSAGE_BROKER_HOST = os.getenv('MESSAGE_BROKER_HOST')
-MESSAGE_BROKER_PORT = os.getenv('MESSAGE_BROKER_PORT')
-
 
 class MessageBrokerConfig(Enum):
-    host = MESSAGE_BROKER_HOST
-    port = MESSAGE_BROKER_PORT
+    host = os.getenv('MESSAGE_BROKER_HOST')
+    port = os.getenv('MESSAGE_BROKER_PORT')
