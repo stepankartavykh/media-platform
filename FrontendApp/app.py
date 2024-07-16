@@ -1,18 +1,25 @@
 import asyncio
 import json
+import os
 import random
 import threading
 import time
-import uuid
 from contextlib import asynccontextmanager
 
 import uvicorn
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.encoders import jsonable_encoder
+
+from DataApp.cache_system import CacheSystem
 from FrontendApp.interface_data import DataPacketInterface, AddArticleInterface, UpdateArticleInterface
 from api.get_news_dump import get_news_feed_everything
 from DataApp.storage_schemas.storage import Article, engine
 from sqlalchemy.orm import Session
+from aiohttp import ClientSession
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 def define_topic_for_api_call() -> str:
@@ -46,6 +53,7 @@ class ConnectionManager:
 
 
 connection_manager = ConnectionManager()
+cache_system_plugin = CacheSystem()
 
 
 class ContentEvent:
@@ -58,21 +66,28 @@ EVENT_UPDATE_STATE = False
 def event_generator() -> None:
     global EVENT_UPDATE_STATE
     while True:
-        time.sleep(random.randint(3, 6))
+        time.sleep(random.randint(10, 20))
         EVENT_UPDATE_STATE = True
 
 
 @asynccontextmanager
 async def lifespan(app_: FastAPI):
     print('Start app procedures...')
+    if not os.getenv('IS_CACHE_SERVICE_UPDATE_READY'):
+        cache_system_plugin.load_initial_data()
     thread = threading.Thread(target=event_generator, args=())
     thread.start()
     yield
     print('Shutdown procedures...')
-    thread.join(timeout=3.0)
+    thread.join(timeout=1.0)
 
 
 app = FastAPI(debug=True, lifespan=lifespan)
+
+
+async def fetch_status(session: ClientSession, url: str) -> int:
+    async with session.get(url) as result:
+        return result.status
 
 
 async def generate_article_content(from_api: bool = True, consider_amount: int | None = None) -> DataPacketInterface:
@@ -86,7 +101,29 @@ async def generate_article_content(from_api: bool = True, consider_amount: int |
     articles_to_database = []
     if not consider_amount:
         consider_amount = len(data['articles'])
+    with Session(engine) as session:
+        all_articles_urls = session.query(Article.url).all()
+    all_articles_urls = set(all_articles_urls)
+    all_urls = [art.get('url') for art in data['articles'][:consider_amount]]
+    filtered_urls = set()
+    async with ClientSession() as session:
+        tasks = []
+        for url in all_urls:
+            tasks.append(fetch_status(session, url))
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+        for i, res in enumerate(results):
+            if isinstance(res, Exception):
+                # TODO custom exception (must be processed in layer above)
+                print("EXCEPTION (BAD URL):", all_urls[i])
+            else:
+                print('GOOD URL (FOR NEXT SEARCH ITERATION):', all_urls[i])
+                filtered_urls.add(all_urls[i])
     for data_article in data['articles'][:consider_amount]:
+        if data_article.get('url') in all_articles_urls:
+            print('Same article!')
+            continue
+        if data_article.get('url') not in filtered_urls:
+            continue
         if random.randint(1, 10) < 6:
             add_article = AddArticleInterface(source=data_article.get('source', {'name': "Unknown"}).get('name'),
                                               priority=random.randint(1, 10),
@@ -102,7 +139,7 @@ async def generate_article_content(from_api: bool = True, consider_amount: int |
                                                 description=data_article.get('description', 'None'),
                                                 content=data_article.get('content'),
                                                 published_at=data_article.get('publishedAt'),
-                                                url=data_article.get('url') + str(uuid.uuid4())))
+                                                url=data_article.get('url')))
             articles_to_add.append(add_article)
         else:
             update_article = UpdateArticleInterface(update_type=random.choice(('update', 'add_content', 'replace')),
@@ -122,9 +159,25 @@ async def generate_article_content(from_api: bool = True, consider_amount: int |
         json.dump(jsonable_encoder(content_packet), f)
     with Session(engine) as session:
         session.add_all(articles_to_database)
-        print('loaded!')
         session.commit()
     return content_packet
+
+
+class ActualContent:
+    def __init__(self, data):
+        self.data = data
+
+
+async def get_current_content(get_from_cache_directly: bool = False) -> ActualContent:
+    content = None
+    if get_from_cache_directly:
+        content = await cache_system_plugin.get_actual_content()
+    return ActualContent(data=content)
+
+
+@app.get("/change-frontend-state-signal")
+async def accept_signal_to_change_frontend_state():
+    pass
 
 
 @app.websocket("/ws")
@@ -134,6 +187,7 @@ async def websocket_endpoint(websocket: WebSocket):
     try:
         while True:
             if EVENT_UPDATE_STATE:
+                actual_content = await get_current_content()
                 data_packet = await generate_article_content()
                 await connection_manager.broadcast(data_packet.json())
                 print('broadcasting current state is complete!')

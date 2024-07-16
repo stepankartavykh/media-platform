@@ -5,6 +5,7 @@
 3. Delete entry.
 4. Update entry. Include functions to update by specific fields.
 """
+import asyncio
 import datetime
 import json
 import os.path
@@ -12,7 +13,8 @@ from enum import Enum
 from typing import NewType
 
 import redis
-
+from redis import Redis
+from redis.asyncio import Redis as AsyncioRedis
 from api.get_news_dump import get_news_from_news_data_io, get_news_feed_everything
 from DataApp.config import REDIS_PORT, REDIS_HOST, LOCAL_STORAGE_PATH
 
@@ -22,6 +24,8 @@ def get_filenames_with_dump() -> list[str]:
 
 
 REDIS_SECTIONS_COUNT = 16
+REDIS_SECTION_WITH_BLOCKS = 0
+REDIS_SECTION_BLOCK_INFO = 1
 
 
 class SectionsDistribution(Enum):
@@ -30,16 +34,37 @@ class SectionsDistribution(Enum):
     investing = "investing"
 
 
+class AsyncCacheSystem:
+    def __init__(self, host: str = REDIS_HOST, port: int = REDIS_PORT, db_section: int = 0):
+        self._redis = AsyncioRedis(host=host,
+                                   port=port,
+                                   db=db_section,
+                                   decode_responses=True)
+
+
 class CacheSystem:
-    def __init__(self, host: str = REDIS_HOST, port: str = REDIS_PORT, db_sections: int = REDIS_SECTIONS_COUNT):
-        # if db_section not in range(0, 16):
-        #     raise Exception(f'Schema number of Redis from 0 to 15. {db_section} was passed')
-        self._redis: dict[int, redis.client.Redis] = {
-            section: redis.Redis(host=host, port=port, db=section, decode_responses=True)
-            for section in range(db_sections)
-        }
+    def __init__(self, host: str = REDIS_HOST, port: int = REDIS_PORT, db_sections: int = REDIS_SECTIONS_COUNT):
+        self._redis: dict[int, redis.client.Redis] = {section: Redis(host=host,
+                                                                     port=port,
+                                                                     db=section,
+                                                                     decode_responses=True)
+                                                      for section in range(db_sections)}
         self.default_section = 0
         self.available_sections = list(range(REDIS_SECTIONS_COUNT))
+
+    def load_initial_data(self) -> None:
+        redis_client = self._redis[0]
+        initial_dump_path = '/home/skartavykh/MyProjects/media-bot/storage/initial_articles/initial.json'
+        if os.path.exists(initial_dump_path) and initial_dump_path.endswith('.json'):
+            with open(initial_dump_path) as f:
+                data = json.load(f)
+            if not data.get('itemsBlocks'):
+                raise Exception('Interface in data is incorrect!')
+            for block_key, block_structure in data['itemsBlocks'].items():
+                print(block_key, block_structure)
+                redis_client.set("block" + block_key, str(block_structure))
+        else:
+            raise Exception(f"Json file in path {initial_dump_path} doesn't exist")
 
     @property
     def redis(self, section: int = 0):
@@ -63,7 +88,7 @@ class CacheSystem:
             for article in data:
                 self.redis.set(article['url'], str(article))
 
-    def load_cache(self, file_path: str, section: int) -> None:
+    def load_cache(self, file_path: str, section: int = 0) -> None:
         redis_section = self._redis[section]
         if os.path.exists(file_path) and file_path.endswith('.json'):
             with open(file_path) as f:
@@ -107,6 +132,13 @@ class CacheSystem:
                 if value and search_term in value:
                     search_results.append((key, value))
         return search_results
+
+    async def get_actual_content(self):
+        redis_section = self._redis[0]
+        all_content_blocks = [key for key in redis_section.scan_iter()]
+        for block_key in all_content_blocks:
+            piece = redis_section.json().get(block_key)
+            print(piece)
 
 
 class CacheLoadQueryInterface:
@@ -157,11 +189,6 @@ def load_default_start_cache():
             cache_system.load_cache(file_path, db_section)
 
 
-def clear_cache_system():
-    c = CacheSystem()
-    c.clear_cache_storage()
-
-
-def find_content(query):
-    c = CacheSystem()
-    return c.find(query)
+if __name__ == '__main__':
+    cache_client = CacheSystem()
+    asyncio.run(cache_client.get_actual_content())
