@@ -2,6 +2,7 @@ import datetime
 
 from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy.dialects.postgresql import JSONB
 
 from sqlalchemy import create_engine
 from sqlalchemy.ext.asyncio import create_async_engine
@@ -17,6 +18,7 @@ class Base(DeclarativeBase):
 
 ARTICLES_COMMON_SCHEMA = "articles"
 RESOURCE_COMMON_SCHEMA = "resources"
+PARSED_DATA_COMMON_SCHEMA = "parsed"
 
 
 class Block(Base):
@@ -49,6 +51,14 @@ class Resource(Base):
     base_url: Mapped[str] = mapped_column(unique=True)
     subject: Mapped[str | None]
     category: Mapped[str | None]
+
+
+class ParsedPacket(Base):
+    __tablename__ = "packets"
+    __table_args__ = {"schema": PARSED_DATA_COMMON_SCHEMA}
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    packet: Mapped[dict] = mapped_column(JSONB)
 
 
 def create_tables():

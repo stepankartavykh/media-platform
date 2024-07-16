@@ -8,6 +8,7 @@ CREATE DATABASE storage;
 \c storage
 CREATE SCHEMA articles;
 CREATE SCHEMA resources;
+CREATE SCHEMA parsed;
 
 EOSQL
 
