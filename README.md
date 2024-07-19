@@ -1,8 +1,8 @@
 # Media platform to understand what's going on.
 ## Description
 The main purpose of the platform is to create a tool for evaluating and analyzing information, news, and reports in a simplified form.
-The initial stage of the platform's formation is the creation of a chronology of events for news for several topics to build a chain of events.
-List of main topics (not all):
+The initial stage of the platform's formation is the creation of a chronology of news events for several topics.
+<br />List of main topics (not all):
 - Physics news
 - Economics
 - Investing
