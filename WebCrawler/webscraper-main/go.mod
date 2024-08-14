@@ -4,7 +4,7 @@ go 1.21.3
 
 require (
 	github.com/chromedp/cdproto v0.0.0-20240202021202-6d0b6a386732
-	golang.org/x/net v0.22.0
+	golang.org/x/net v0.23.0
 )
 
 require (
