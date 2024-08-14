@@ -41,6 +41,14 @@ class AsyncCacheSystem:
                                    db=db_section,
                                    decode_responses=True)
 
+    @property
+    def redis(self):
+        return self._redis
+
+    async def send_data(self, data_packets: list[dict]):
+        for packet in data_packets:
+            await self.redis.set(packet.get('url'), str(packet))
+
 
 class CacheSystem:
     def __init__(self, host: str = REDIS_HOST, port: int = REDIS_PORT, db_sections: int = REDIS_SECTIONS_COUNT):
@@ -136,9 +144,11 @@ class CacheSystem:
     async def get_actual_content(self):
         redis_section = self._redis[0]
         all_content_blocks = [key for key in redis_section.scan_iter()]
+        print(all_content_blocks)
+        result = []
         for block_key in all_content_blocks:
-            piece = redis_section.json().get(block_key)
-            print(piece)
+            result.append(redis_section.get(block_key))
+        return result
 
 
 class CacheLoadQueryInterface:
@@ -191,4 +201,11 @@ def load_default_start_cache():
 
 if __name__ == '__main__':
     cache_client = CacheSystem()
-    asyncio.run(cache_client.get_actual_content())
+    # asyncio.run(cache_client.get_actual_content())
+    # cache_client = AsyncCacheSystem()
+
+    async def main():
+        res = await cache_client.get_actual_content()
+        print(res)
+
+    asyncio.run(main())
