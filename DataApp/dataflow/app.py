@@ -1,20 +1,29 @@
-import asyncio
 import multiprocessing
 import os
 import random
 import time
 from contextlib import asynccontextmanager
+from enum import Enum
 from typing import TypeAlias
 
 import uvicorn
-from apscheduler.schedulers.background import BackgroundScheduler
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
+
+from DataApp.dataflow.main import data_pipeline_simulation
+
+START_UP_TIME = time.time()
+
+
+def load_available_dumps():
+    # TODO create loader for dumps in storage.
+    pass
 
 
 @asynccontextmanager
 async def lifespan(app_: FastAPI):
     print('Start app procedures...')
-    app_.start_up_time = time.time()
+    loader_process = multiprocessing.Process(target=load_available_dumps)
+    loader_process.start()
     yield
     print('Shutdown procedures...')
 
@@ -45,10 +54,6 @@ async def websocket_endpoint(websocket: WebSocket):
         print(f'websocket {websocket.client_state.value} closed!')
 
 
-def run_app():
-    uvicorn.run(app, host="localhost", port=8000)
-
-
 @app.get('/stop-data-pipeline')
 async def stop_processing():
     pass
@@ -59,25 +64,26 @@ async def restart_processing():
     pass
 
 
-def background_task():
-    while True:
-        print(f'DEBUG UNDER PROCESS ({os.getpid()})', time.time())
-        time.sleep(2)
-        if time.time() - app.start_up_time > 15:
-            multiprocessing.current_process().join()
-            break
+class ContentStatus(Enum):
+    pass
 
 
-@app.get('/start-job')
-def start_job():
-    t2 = multiprocessing.Process(target=background_task)
-    t2.start()
-    return {"status": "Task is running."}
+@app.get('/content-status')
+def get_content_status():
+    return {
+        'status': 'full'
+    }
 
 
-def simple_app():
-    run_app()
+@app.get('/run-pipeline/{query}')
+async def run_pipeline(query: str):
+    await data_pipeline_simulation(query)
+    return {"status": f"pipeline for query = {query} is completed!"}
+
+
+def run_app():
+    uvicorn.run('DataApp.dataflow.app:app', host="localhost", port=7999, workers=4)
 
 
 if __name__ == "__main__":
-    simple_app()
+    run_app()
