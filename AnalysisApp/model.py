@@ -1,6 +1,3 @@
-from enum import Enum
-
-
 class Metric:
     """
     Metric is the calculated quantity of some article or other entity,
@@ -30,7 +27,3 @@ class Subject:
     math = 'math'
     economics = 'economics'
     investments = 'investing'
-
-
-if __name__ == '__main__':
-    print(Subject.__dict__)
