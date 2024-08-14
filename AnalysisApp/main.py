@@ -1,10 +1,7 @@
 import asyncio
 from random import random
 from contextlib import asynccontextmanager
-from enum import Enum
-from typing import Annotated
-
-from fastapi import FastAPI, Query, Body
+from fastapi import FastAPI, Body
 
 from AnalysisApp.ml_models.bias import load_bias_model
 from DataApp.cache_system import CacheSystem
@@ -107,61 +104,5 @@ async def main():
     for number, path in enumerate(file_paths):
         section = number % 16
         cache_system.load_cache(path, section)
-    # result = read_item(123, 234)
     result = {'status': "ok"}
     return result
-
-
-@app.get("/accept-notification")
-def read_item(user_id: int, chat_id: int):
-    print(f'user_id = {user_id} in chat with chat_id = {chat_id}')
-    return {"item_id": user_id, "chat_id": chat_id}
-
-
-@app.get('/test')
-def get(point: int):
-    print(f'requests with {point} is processed in /test endpoint')
-    return {'status': 'ok'}
-
-
-@app.get("/items/{item_id}")
-async def read_item(item_id: int):
-    return {"item_id": item_id}
-
-
-class ModelName(str, Enum):
-    alexnet = "alexnet"
-    resnet = "resnet"
-    lenet = "lenet"
-
-
-@app.get("/models/{model_name}")
-async def get_model(model_name: ModelName):
-    if model_name is ModelName.alexnet:
-        return {"model_name": model_name, "message": "Deep Learning FTW!"}
-
-    if model_name.value == "lenet":
-        return {"model_name": model_name, "message": "LeCNN all the images"}
-
-    return {"model_name": model_name, "message": "Have some residuals"}
-
-
-class Item(BaseModel):
-    name: str
-    description: str | None = None
-    price: float
-    tax: float | None = None
-
-
-@app.post("/items")
-async def create_item(item: Item):
-    print(type(item))
-    return item.name
-
-
-@app.get("/items-ann")
-async def read_items(q: Annotated[str | None, Query(max_length=50)] = None):
-    results = {"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
-    if q:
-        results.update({"q": q})
-    return results
