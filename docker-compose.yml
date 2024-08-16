@@ -27,11 +27,3 @@ services:
     ports:
       - "5672:5672"
       - "15672:15672"
-
-  scrape-service:
-    container_name: scraperService
-    build:
-      context: .
-      dockerfile: WebCrawler/webscraper-main/Dockerfile
-    ports:
-      - "4090:4090"
