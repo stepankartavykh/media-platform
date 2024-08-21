@@ -9,6 +9,7 @@ CREATE DATABASE storage;
 CREATE SCHEMA articles;
 CREATE SCHEMA resources;
 CREATE SCHEMA parsed;
+CREATE SCHEMA actual_content;
 
 EOSQL
 
