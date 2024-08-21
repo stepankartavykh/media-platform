@@ -7,7 +7,8 @@ from contextlib import asynccontextmanager
 from sse_starlette.sse import EventSourceResponse
 import uvicorn
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect, Request
-from DataApp.cache_system import CacheSystem, AsyncCacheSystem
+
+from FrontendApp.app.cache_plugin import AsyncCacheSystemPlugin
 from FrontendApp.app.connection_manager import ConnectionManager
 from FrontendApp.app.content import generate_article_content, get_current_content
 from dotenv import load_dotenv
@@ -16,8 +17,7 @@ load_dotenv()
 
 
 connection_manager = ConnectionManager()
-cache_system_plugin = CacheSystem()
-async_cache_plugin = AsyncCacheSystem()
+cache_system_plugin = AsyncCacheSystemPlugin()
 
 
 class ContentEvent:
@@ -37,13 +37,16 @@ def event_generator() -> None:
 @asynccontextmanager
 async def lifespan(app_: FastAPI):
     print('Start app procedures...')
-    if not os.getenv('IS_CACHE_SERVICE_UPDATE_READY'):
+    if os.getenv('IS_CACHE_SERVICE_UPDATE_READY'):
         cache_system_plugin.load_initial_data()
-    thread = threading.Thread(target=event_generator, args=())
-    thread.start()
+    thread = None
+    if os.getenv('IS_LOCAL_DEV'):
+        thread = threading.Thread(target=event_generator, args=())
+        thread.start()
     yield
     print('Shutdown procedures...')
-    thread.join(timeout=1.0)
+    if thread:
+        thread.join(timeout=1.0)
 
 
 app = FastAPI(debug=True, lifespan=lifespan)
@@ -59,7 +62,7 @@ async def accept_signal_to_change_frontend_state():
 async def websocket_endpoint(websocket: WebSocket):
     global EVENT_UPDATE_STATE
     await connection_manager.connect(websocket)
-    actual_content = await get_current_content(get_from_cache_directly=True)
+    actual_content = await get_current_content(start_load=True)
     await connection_manager.send_personal_message(actual_content.convert_data(), websocket)
     try:
         while True:

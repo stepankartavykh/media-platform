@@ -2,11 +2,15 @@ import asyncio
 import json
 import random
 import time
+from enum import Enum
+
 import aiohttp
 from fastapi.encoders import jsonable_encoder
 
 from FrontendApp.app.cache_plugin import AsyncCacheSystemPlugin
-from FrontendApp.app.interface_data import DataPacketInterface, AddArticleInterface, UpdateArticleInterface
+from FrontendApp.app.database_storage_plugin import AsyncDatabaseStoragePlugin
+from FrontendApp.app.interface_data import DataPacketInterface, AddArticleInterface, UpdateArticleInterface, \
+    AllDataStartState
 from api.get_news_dump import get_news_feed_everything
 from DataApp.storage_schemas.storage import Article, engine
 from sqlalchemy.orm import Session
@@ -14,10 +18,19 @@ from aiohttp import ClientSession
 
 
 CacheSystemResponse: type = tuple[int, str]
+OperationType: type = str
+
+
+class OperationChangeFrontendState(Enum):
+    """Enumeration for types of operations."""
+
+    start = 'start'
+    update = 'update'
 
 
 class ActualContent:
-    def __init__(self, data):
+    def __init__(self, operation_type: OperationType, data: DataPacketInterface | AllDataStartState):
+        self.operation = operation_type
         self.data = data
 
     def convert_data(self) -> str:
@@ -25,6 +38,7 @@ class ActualContent:
 
 
 cache_system_plugin = AsyncCacheSystemPlugin()
+database_plugin = AsyncDatabaseStoragePlugin()
 
 
 async def get_current_content(get_from_cache_directly: bool = False) -> ActualContent:
@@ -66,6 +80,39 @@ def define_topic_for_api_call() -> str:
     return random.choice(possible_topics)
 
 
+def generate_article_to_add(data_article) -> AddArticleInterface:
+    return AddArticleInterface(source=data_article.get('source', {'name': "Unknown"}).get('name'),
+                               priority=random.randint(1, 10),
+                               author=data_article.get('author', 'Unknown'),
+                               title=data_article.get('title', 'Unknown'),
+                               description=data_article.get('description', 'None'),
+                               url=data_article.get('url'),
+                               publishedAt=data_article.get('publishedAt'),
+                               content=data_article.get('content'))
+
+
+def generate_article_to_database_storage(data_article) -> Article:
+    return Article(author=data_article.get('author', 'Unknown'),
+                   title=data_article.get('title', 'Unknown'),
+                   description=data_article.get('description', 'None'),
+                   content=data_article.get('content'),
+                   published_at=data_article.get('publishedAt'),
+                   url=data_article.get('url'))
+
+
+def generate_article_to_update(data_article):
+    return UpdateArticleInterface(update_type=random.choice(('update', 'add_content', 'replace')),
+                                  priority=random.randint(1, 10),
+                                  source=data_article.get('source', {'name': "Unknown"}).get('name'),
+                                  author=data_article.get('author', 'Unknown'),
+                                  title=data_article.get('title', 'Unknown'),
+                                  description=data_article.get('description', 'None'),
+                                  url=data_article.get('url'),
+                                  urlToImage=data_article.get('urlToImage'),
+                                  publishedAt=data_article.get('publishedAt'),
+                                  content=data_article.get('content'))
+
+
 async def generate_article_content(from_api: bool = True, consider_amount: int | None = None) -> DataPacketInterface:
     if not from_api:
         raise NotImplementedError('Implementation of dump load is required!')
@@ -97,7 +144,6 @@ async def generate_article_content(from_api: bool = True, consider_amount: int |
                     if status == 200:
                         filtered_urls.add(url)
             # TODO Figure out what to do with "bad" urls.
-
     for data_article in data['articles'][:consider_amount]:
         if data_article.get('url') in all_articles_urls:
             print('Same article!')
@@ -105,33 +151,11 @@ async def generate_article_content(from_api: bool = True, consider_amount: int |
         if data_article.get('url') not in filtered_urls:
             continue
         if random.randint(1, 10) < 6:
-            add_article = AddArticleInterface(source=data_article.get('source', {'name': "Unknown"}).get('name'),
-                                              priority=random.randint(1, 10),
-                                              author=data_article.get('author', 'Unknown'),
-                                              title=data_article.get('title', 'Unknown'),
-                                              description=data_article.get('description', 'None'),
-                                              url=data_article.get('url'),
-                                              urlToImage=data_article.get('urlToImage', 'Unknown'),
-                                              publishedAt=data_article.get('publishedAt'),
-                                              content=data_article.get('content'))
-            articles_to_database.append(Article(author=data_article.get('author', 'Unknown'),
-                                                title=data_article.get('title', 'Unknown'),
-                                                description=data_article.get('description', 'None'),
-                                                content=data_article.get('content'),
-                                                published_at=data_article.get('publishedAt'),
-                                                url=data_article.get('url')))
+            add_article = generate_article_to_add(data_article)
+            articles_to_database.append(generate_article_to_database_storage(data_article))
             articles_to_add.append(add_article)
         else:
-            update_article = UpdateArticleInterface(update_type=random.choice(('update', 'add_content', 'replace')),
-                                                    priority=random.randint(1, 10),
-                                                    source=data_article.get('source', {'name': "Unknown"}).get('name'),
-                                                    author=data_article.get('author', 'Unknown'),
-                                                    title=data_article.get('title', 'Unknown'),
-                                                    description=data_article.get('description', 'None'),
-                                                    url=data_article.get('url'),
-                                                    urlToImage=data_article.get('urlToImage'),
-                                                    publishedAt=data_article.get('publishedAt'),
-                                                    content=data_article.get('content'))
+            update_article = generate_article_to_update(data_article)
             articles_to_update.append(update_article)
     await send_articles_to_cache_system(articles_to_add)
     content_packet = DataPacketInterface(articlesAdd=articles_to_add,

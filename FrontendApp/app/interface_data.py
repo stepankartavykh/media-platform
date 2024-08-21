@@ -24,7 +24,6 @@ class AddArticleInterface(BaseModel):
     title: str
     description: Optional[str]
     url: str
-    url_to_image: Optional[str] = Field(alias='urlToImage')
     published_at: Optional[datetime.datetime] = Field(alias='publishedAt')
     content: str
 
@@ -37,7 +36,6 @@ class UpdateArticleInterface(BaseModel):
     title: str
     description: Optional[str]
     url: str
-    url_to_image: Optional[str] = Field(alias='urlToImage')
     published_at: datetime.datetime = Field(alias='publishedAt')
     content: str
 
@@ -45,3 +43,28 @@ class UpdateArticleInterface(BaseModel):
 class DataPacketInterface(BaseModel):
     articlesAdd: Optional[list[AddArticleInterface]]
     articlesUpdate: Optional[list[UpdateArticleInterface]]
+
+
+class BlockPart(BaseModel):
+    id: int
+    priority: int
+    short_title: str
+
+
+class Block(BaseModel):
+    id: int
+    priority: int
+    short_title: str = Field(alias='shortTitle')
+    short_description: str = Field(alias='shortDescription')
+    block_content: Optional[list[BlockPart]] = Field(alias='blockContent')
+
+
+class AllDataStartState(BaseModel):
+    """Interface for loading all content data when user opens first page."""
+    blocks: Optional[list[Block]]
+
+
+def load_json_structure(path: str) -> str:
+    with open(path) as f:
+        all_content = f.read()
+    return all_content

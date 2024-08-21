@@ -1,0 +1,18 @@
+{
+    "blocks": [
+        {
+            "id":  1,
+            "priority": 2,
+            "shortTitle":  "Short title",
+            "shortDescription": "short_description",
+            "blockContent": []
+        },
+        {
+            "id": 2,
+            "priority": 3,
+            "shortTitle":  "Test short title",
+            "shortDescription": "short_description",
+            "blockContent": []
+        }
+    ]
+}
