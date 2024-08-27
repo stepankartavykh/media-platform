@@ -1,7 +1,7 @@
 import datetime
 
-from sqlalchemy.orm import Mapped, mapped_column
-from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy import ForeignKey, func
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 from sqlalchemy.dialects.postgresql import JSONB
 
 from sqlalchemy import create_engine
@@ -19,9 +19,11 @@ class Base(DeclarativeBase):
 ARTICLES_COMMON_SCHEMA = "articles"
 RESOURCE_COMMON_SCHEMA = "resources"
 PARSED_DATA_COMMON_SCHEMA = "parsed"
+FRONTEND_CONTENT_SCHEMA = "actual_content"
+EVENTS_SCHEMA = "events"
 
 
-class Block(Base):
+class ArticleBlock(Base):
     __tablename__ = "block"
     __table_args__ = {"schema": ARTICLES_COMMON_SCHEMA}
 
@@ -59,6 +61,42 @@ class ParsedPacket(Base):
 
     id: Mapped[int] = mapped_column(primary_key=True)
     packet: Mapped[dict] = mapped_column(JSONB)
+
+
+class Block(Base):
+    __tablename__ = "block"
+    __table_args__ = {"schema": FRONTEND_CONTENT_SCHEMA}
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    priority: Mapped[int]
+    short_title: Mapped[str]
+    short_description: Mapped[str]
+
+    items: Mapped[list["BlockContent"]] = relationship(back_populates="parent_block")
+
+
+class BlockContent(Base):
+    __tablename__ = "block_item"
+    __table_args__ = {"schema": FRONTEND_CONTENT_SCHEMA}
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    priority: Mapped[int]
+    block_id: Mapped[int] = mapped_column(ForeignKey(Block.id))
+    title: Mapped[str | None]
+    description: Mapped[str | None]
+    content: Mapped[str | None]
+    links: Mapped[str]
+
+    parent_block: Mapped["Block"] = relationship(back_populates="items")
+
+
+class Event(Base):
+    __tablename__ = "event"
+    __table_args__ = {"schema": EVENTS_SCHEMA}
+
+    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
+    event_datetime: Mapped[datetime.datetime] = mapped_column(insert_default=func.utc_timestamp(), nullable=False,
+                                                              server_default=func.now())
 
 
 def create_tables():
