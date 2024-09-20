@@ -1,3 +1,4 @@
+import asyncio
 from typing import Sequence
 
 from sqlalchemy.ext.asyncio import async_sessionmaker, create_async_engine
@@ -27,9 +28,15 @@ class AsyncDatabaseStoragePlugin:
         # TODO make check function to make sure that service is available
 
     async def get_actual_content(self) -> Sequence[Row]:
-        query = 'SELECT * FROM actual_content.content'
+        query = 'SELECT * FROM actual_content.block'
         async with self.async_engine.begin() as connection:
             res: CursorResult = await connection.execute(text(query))
             content_blocks = res.fetchall()
-            print(content_blocks)
             return content_blocks
+
+
+if __name__ == '__main__':
+    plugin = AsyncDatabaseStoragePlugin()
+    elements = asyncio.run(plugin.get_actual_content())
+    for element in elements:
+        print(element)

@@ -62,6 +62,7 @@ class CacheSystem:
 
     def load_initial_data(self) -> None:
         redis_client = self._redis[0]
+
         initial_dump_path = '/home/skartavykh/MyProjects/media-bot/storage/initial_articles/initial.json'
         if os.path.exists(initial_dump_path) and initial_dump_path.endswith('.json'):
             with open(initial_dump_path) as f:
@@ -69,8 +70,10 @@ class CacheSystem:
             if not data.get('itemsBlocks'):
                 raise Exception('Interface in data is incorrect!')
             for block_key, block_structure in data['itemsBlocks'].items():
-                print(block_key, block_structure)
-                redis_client.set("block" + block_key, str(block_structure))
+                # print(block_key, block_structure)
+                # redis_client.set("block" + block_key, str(block_structure))
+                # redis_client.json().set(block_key, "$", block_structure)
+                redis_client.json().set(block_structure.get('url', block_key), "$", block_structure)
         else:
             raise Exception(f"Json file in path {initial_dump_path} doesn't exist")
 
@@ -147,7 +150,7 @@ class CacheSystem:
         print(all_content_blocks)
         result = []
         for block_key in all_content_blocks:
-            result.append(redis_section.get(block_key))
+            result.append(redis_section.json().get(block_key, ))
         return result
 
 
@@ -201,11 +204,15 @@ def load_default_start_cache():
 
 if __name__ == '__main__':
     cache_client = CacheSystem()
+    cache_client.clear_cache_storage()
+    # cache_client.load_initial_data()
     # asyncio.run(cache_client.get_actual_content())
     # cache_client = AsyncCacheSystem()
 
-    async def main():
-        res = await cache_client.get_actual_content()
-        print(res)
-
-    asyncio.run(main())
+    # async def main():
+    #     res = await cache_client.get_actual_content()
+    #
+    #     print(res)
+    #
+    # asyncio.run(main())
+#

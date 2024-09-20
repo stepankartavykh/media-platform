@@ -1,0 +1,2 @@
+local:
+	@echo 'wer'
