@@ -2,7 +2,7 @@ import json
 import os
 
 
-from DataApp.config import LOCAL_STORAGE_PATH
+# from DataApp.config import LOCAL_STORAGE_PATH
 
 
 class DataPacket:
@@ -35,7 +35,11 @@ def load(directory_path: str):
                 data = json.load(file_reader)
             if isinstance(data, list):
                 for data_packet in data:
-                    process_data_packet(data_packet)
+                    try:
+                        process_data_packet(data_packet)
+                    except Exception:
+                        print('file:', file)
+                        raise
             elif isinstance(data, dict):
                 if data.get('status') not in ('ok', 'success'):
                     print(f'smth wrong with file {file}')
@@ -47,4 +51,5 @@ def load(directory_path: str):
 
 
 if __name__ == '__main__':
+    LOCAL_STORAGE_PATH = '/home/skartavykh/MyProjects/media-bot/storage'
     load(LOCAL_STORAGE_PATH)
