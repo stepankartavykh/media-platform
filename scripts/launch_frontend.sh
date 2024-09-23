@@ -7,3 +7,6 @@ else
     echo "Docker is launched!"
 fi
 
+docker build -t frontend-app:latest ../frontend/.
+
+docker run -d -p 8000:3000 --name frontend-app-container frontend-app:latest
