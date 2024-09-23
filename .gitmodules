@@ -1,0 +1,3 @@
+[submodule "DataApp/pyspark-loader/cc-pyspark"]
+	path = DataApp/pyspark-loader/cc-pyspark
+	url = https://github.com/commoncrawl/cc-pyspark
