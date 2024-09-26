@@ -9,7 +9,10 @@ from sqlalchemy.ext.asyncio import create_async_engine
 
 
 engine = create_engine("postgresql://admin:password@localhost:5500/storage", echo=True)
-async_engine = create_async_engine("postgresql+asyncpg://admin:password@localhost:5500/storage", echo=True)
+try:
+    async_engine = create_async_engine("postgresql+asyncpg://admin:password@localhost:5500/storage", echo=True)
+except ModuleNotFoundError:
+    print('Package \'asyncpg\' is required, but you can ignore this right now.')
 
 
 class Base(DeclarativeBase):
