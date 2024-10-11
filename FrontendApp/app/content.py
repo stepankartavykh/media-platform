@@ -9,9 +9,9 @@ from fastapi.encoders import jsonable_encoder
 
 from sqlalchemy.engine import Row
 
-from FrontendApp.app.cache_plugin import AsyncCacheSystemPlugin
-from FrontendApp.app.database_storage_plugin import AsyncDatabaseStoragePlugin
-from FrontendApp.app.interface_data import DataPacketInterface, AddArticleInterface, UpdateArticleInterface, \
+from cache_plugin import AsyncCacheSystemPlugin
+from database_storage_plugin import AsyncDatabaseStoragePlugin
+from interface_data import DataPacketInterface, AddArticleInterface, UpdateArticleInterface, \
     AllDataStartState
 from api.get_news_dump import get_news_feed_everything
 from DataApp.storage_schemas.storage import Article, engine
