@@ -13,6 +13,8 @@ sleep 1
 
 ./scripts/dump_load.sh
 
-./env/bin/python ./DataApp/storage_schemas/storage.py
+python_executor="$(which python)"
+
+python_executor ./DataApp/storage_schemas/storage.py
 
 echo "Databases and cache storage setup is completed!"
