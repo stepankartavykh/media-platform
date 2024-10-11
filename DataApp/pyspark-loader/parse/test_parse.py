@@ -1,9 +1,10 @@
 import functools
 import os
+import time
 from collections import defaultdict
 from enum import IntEnum
 from multiprocessing import Pool
-from typing import Iterable, Callable, Any
+from typing import Iterable, Any
 
 import html_to_json
 from fastwarc.stream_io import GZipStream
@@ -11,13 +12,20 @@ from fastwarc.warc import ArchiveIterator, WarcRecordType
 from resiliparse.parse.html import HTMLTree
 from resiliparse.parse.encoding import detect_encoding
 
-from .db_manager import engine
+from db_manager import engine
 from sqlalchemy.orm import Session
 
-from .db_models import ParsedPacket
-
+from db_models import ParsedPacket
 
 WARC_FILES_DIR = '/home/skartavykh/MyProjects/media-bot/storage/crawled_dumps/warc_dumps/'
+
+
+def get_default_metadata() -> dict:
+    return {'count_processed_records': 0,
+            'languages_codes': defaultdict(int),
+            'count_appropriate_records': 0,
+            'NO_URL_IN_WARC-Target-URI': 0,
+            'pages_without_doctype': 0}
 
 
 class BytesContentError(Exception):
@@ -47,9 +55,20 @@ class ProcessingHTMLStatusCode(IntEnum):
 
 
 MAIN_LINKS_NOT_FOUND = 0
+source_link_flag = '<link rel="canonical" href='
+
+
+def _get_canonical_link(content_html: str) -> str | None:
+    start_url_index = content_html.find(source_link_flag) + len(source_link_flag) + 1
+    if start_url_index == -1:
+        return None
+    end_url_index = content_html.find('"', start_url_index)
+    return content_html[start_url_index:end_url_index]
 
 
 def process_html(content_string: str) -> dict[str, Any]:
+    canon_link = _get_canonical_link(content_html=content_string)
+
     structure_json = html_to_json.convert(content_string)
     status_error = None
 
@@ -62,14 +81,15 @@ def process_html(content_string: str) -> dict[str, Any]:
     links = []
     main_link = None
 
-    def traverse(struct):
+    def traverse(struct: Any) -> None:
         nonlocal main_link
         if isinstance(struct, (int, str)):
             return
         if isinstance(struct, dict):
             for key, _ in struct.items():
                 if key == "href":
-                    if isinstance(struct[key], str) and struct[key].startswith('http'):
+                    condition_on_link = isinstance(struct[key], str) and struct[key].startswith('http')
+                    if condition_on_link:
                         links.append(struct[key])
                 if struct.get('_attributes') and struct['_attributes'].get('rel') and struct['_attributes'].get('href') \
                         and struct['_attributes']['rel'][0] == 'canonical':
@@ -97,24 +117,14 @@ def process_html(content_string: str) -> dict[str, Any]:
     result['status'] = status
     if main_link is not None:
         result['link'] = main_link
-    result['title'] = title if title else "NO TITLE"
+    result['pageTitle'] = title if title else "NO TITLE"
+    result['canonicalLink'] = canon_link
     return result
 
 
-source_link_flag = '<link rel="canonical" href='
-
-
-def get_canonical_link(content_html: str) -> str | None:
-    start_url_index = content_html.find(source_link_flag) + len(source_link_flag) + 1
-    if start_url_index == -1:
-        return None
-    end_url_index = content_html.find('"', start_url_index)
-    return content_html[start_url_index:end_url_index]
-
-
-def process_warc_file(file_path: str, limit_records: int = -1, return_iterator: bool = False) -> Iterable:
-    languages_codes = defaultdict(int)
-    count_appropriate_records = 0
+def process_warc_file(file_path: str, limit_records: int = -1) -> Iterable:
+    _metadata = getattr(process_warc_file, 'metadata', get_default_metadata())
+    pages_without_doctype = 0
     with open(file_path, 'rb') as file:
         stream = GZipStream(file)
         file_iterator = ArchiveIterator(stream, record_types=WarcRecordType.response | WarcRecordType.request,
@@ -123,39 +133,38 @@ def process_warc_file(file_path: str, limit_records: int = -1, return_iterator: 
             if limit_records != -1:
                 if entry_number > limit_records:
                     break
+            _metadata['count_processed_records'] += 1
             record_reader = record.reader
             content: bytes = record_reader.read()
             html_tree = HTMLTree.parse_from_bytes(content, detect_encoding(content))
             content_string = str(html_tree.document)
+            with open(f'/home/skartavykh/MyProjects/media-bot/storage/raw_html_dump/raw_html_{time.time_ns()}.html',
+                      'w') as f:
+                f.write(content_string)
             if not content_string.startswith('<!DOCTYPE'):
+                pages_without_doctype += 1
                 continue
-            try:
-                headers_dict = {str(k): v for k, v in record.headers}
-                url = headers_dict['WARC-Target-URI']
-                print(url)
-            except KeyError:
-                print(record.record_type, 'NO URL')
+            headers_dict = {str(k): v for k, v in record.headers}
+            # print(headers_dict)
+            url = headers_dict.get('WARC-Target-URI')
+            print(url)
+            if url is None:
+                _metadata['NO_URL_IN_WARC-Target-URI'] += 1
             meta = html_tree.document.query_selector('html')
             language = None
             if meta is not None:
                 language = meta.getattr('lang')
             if language in ('ru', 'en', 'en-US', 'ru-ru', 'en-us', 'EN'):
-                link = get_canonical_link(content_string)
-                print("CANONICAL LINK:", link)
-                count_appropriate_records += 1
+                _metadata['count_appropriate_records'] += 1
                 processed_html_content = process_html(content_string)
-                print(processed_html_content)
-                if return_iterator:
-                    yield processed_html_content
-                else:
-                    print(processed_html_content)
+                yield processed_html_content
             else:
-                languages_codes[language] += 1
+                _metadata['languages_codes'][language] += 1
+    _metadata['pages_without_doctype'] += 1
 
 
 def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool = False) -> int:
     params = {"file_path": WARC_FILES_DIR + warc_file_name,
-              "return_iterator": True,
               "limit_records": -1}
     if debug:
         for i, item in enumerate(process_warc_file(**params)):
@@ -182,22 +191,38 @@ def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool =
     return GeneralStatusCode.success
 
 
-def run_tasks_with_multiprocessing_pool() -> None:
-    process_one_warc_file_partial = functools.partial(process_one_warc_file, records=-1, debug=False)
-    warc_dump_files = os.listdir(WARC_FILES_DIR)
-    with Pool(processes=2) as process_pool:
+def run_tasks_with_multiprocessing_pool(workers: int = 1) -> None:
+    process_one_warc_file_partial = functools.partial(process_one_warc_file, records=-1)
+    warc_dump_files = reversed(os.listdir(WARC_FILES_DIR))
+    with Pool(processes=workers) as process_pool:
         process_pool.map(process_one_warc_file_partial, warc_dump_files)
 
 
 def debug_process_warc_file() -> None:
+    process_warc_file.metadata = {'count_processed_records': 0,
+                                  'languages_codes': defaultdict(int),
+                                  'count_appropriate_records': 0,
+                                  'NO_URL_IN_WARC-Target-URI': 0,
+                                  'pages_without_doctype': 0}
     try:
         iterator = process_warc_file(file_path=WARC_FILES_DIR + 'CC-NEWS-20240101002957-01499.warc.gz',
-                                     limit_records=-1, return_iterator=True)
-        for i, _ in enumerate(iterator):
-            print(i, "=" * 40)
+                                     limit_records=1000)
+        for i, json_struct in enumerate(iterator):
+            # link: str = json_struct['link']
+            # if not link.startswith('http'):
+            #     print(json_struct)
+            # print(i, json_struct)
+            print(i)
     except KeyboardInterrupt:
         print("MAIN_LINKS_NOT_FOUND", MAIN_LINKS_NOT_FOUND)
+    metadata = process_warc_file.metadata
+    # print('count_processed_records', metadata['count_processed_records'])
+    # print('unknown_languages_codes', dict(metadata['languages_codes']))
+    # print('count_appropriate_records', metadata['count_appropriate_records'])
+    # print('No URL in WARC-Target-URI', metadata['NO_URL_IN_WARC-Target-URI'])
+    # print('pages_without_doctype', metadata['pages_without_doctype'])
 
 
 if __name__ == '__main__':
-    run_tasks_with_multiprocessing_pool()
+    run_tasks_with_multiprocessing_pool(workers=4)
+    # debug_process_warc_file()
