@@ -6,51 +6,11 @@ services:
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: password
       POSTGRES_DB: postgres
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./scripts/create_database_schemas.sh:/docker-entrypoint-initdb.d/create_database_schemas.sh
     ports:
       - "5500:5432"
 
-  redis-first-storage:
-    container_name: firstRedisKVStorage
-    image: redis/redis-stack-server:latest
-    ports:
-      - "6379:6379"
-
-  redis-second-storage:
-    container_name: secondRedisKVStorage
-    image: redis/redis-stack-server:latest
-    ports:
-      - "6378:6379"
-
-  rabbitmq:
-    container_name: messageBrokerRabbitMQ
-    image: rabbitmq:3.13-management
-    ports:
-      - "5672:5672"
-      - "15672:15672"
-
-#  spark-master:
-#    image: apache/spark:3.2.1
-#    ports:
-#      - "8080:8080"
-#      - "7077:7077"
-#    environment:
-#      - SPARK_MASTER_URL=spark://spark-master:7077
-#      - SPARK_MASTER_UI_ADDRESS=http://localhost:8080
-#    command: [ "/opt/spark/bin/spark-class", "org.apache.spark.deploy.master.Master" ]
-#  spark-worker:
-#    image: apache/spark:3.2.1
-#    environment:
-#      - SPARK_MASTER_URL=spark://spark-master:7077
-#    command: [ "/opt/spark/bin/spark-class", "org.apache.spark.deploy.worker.Worker" ]
-#    depends_on:
-#      - spark-master
-#  jupyter:
-#    image: jupyter/pyspark-notebook:latest
-#    ports:
-#      - "8888:8888"
-#    environment:
-#      - SPARK_MASTER_URL=spark://spark-master:7077
-#    command: [ "start-notebook.sh", "--NotebookApp.token=''" ]
-#    depends_on:
-#      - spark-master
-#      - spark-worker
+volumes:
+  postgres-data:

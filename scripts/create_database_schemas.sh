@@ -1,11 +1,11 @@
 #!/bin/bash
 
-echo "start setting up database storage"
-sleep 1
-psql postgresql://admin:password@localhost:5500/postgres <<-EOSQL
+echo "LOG: Start creating database storage schemas..."
+psql postgresql://admin:password@localhost:5432/postgres <<-EOSQL
 
 CREATE DATABASE storage;
 \c storage
+
 CREATE SCHEMA articles;
 CREATE SCHEMA resources;
 CREATE SCHEMA parsed;
@@ -15,4 +15,4 @@ CREATE SCHEMA raw;
 
 EOSQL
 
-echo "end of creating database storage structure"
+echo "LOG: Schemas are created."
