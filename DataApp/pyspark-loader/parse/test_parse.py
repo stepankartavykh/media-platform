@@ -123,6 +123,7 @@ def process_html(content_string: str) -> dict[str, Any]:
 
 
 def process_warc_file(file_path: str, limit_records: int = -1) -> Iterable:
+    warc_file_label = file_path[file_path.find('CC-NEWS-') + len('CC-NEWS-'):].strip('.warc.gz')
     _metadata = getattr(process_warc_file, 'metadata', get_default_metadata())
     pages_without_doctype = 0
     with open(file_path, 'rb') as file:
@@ -157,13 +158,14 @@ def process_warc_file(file_path: str, limit_records: int = -1) -> Iterable:
             if language in ('ru', 'en', 'en-US', 'ru-ru', 'en-us', 'EN'):
                 _metadata['count_appropriate_records'] += 1
                 processed_html_content = process_html(content_string)
+                processed_html_content['warc_file_id'] = warc_file_label
                 yield processed_html_content
             else:
                 _metadata['languages_codes'][language] += 1
     _metadata['pages_without_doctype'] += 1
 
 
-def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool = False) -> int:
+def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool = False, delete_file: bool = False) -> int:
     params = {"file_path": WARC_FILES_DIR + warc_file_name,
               "limit_records": -1}
     if debug:
@@ -188,6 +190,11 @@ def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool =
         except KeyboardInterrupt:
             session.commit()
         session.commit()
+    if delete_file:
+        # TODO Create entry in configuration database or write in log file that warc-file is successfully processed.
+        print('LOG(PROCESSING SUCCESSFULLY): WARC file:', warc_file_name, 'is processed!')
+        if os.path.exists(WARC_FILES_DIR + warc_file_name):
+            os.remove(WARC_FILES_DIR + warc_file_name)
     return GeneralStatusCode.success
 
 
