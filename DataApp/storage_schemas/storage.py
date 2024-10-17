@@ -9,7 +9,10 @@ from sqlalchemy.ext.asyncio import create_async_engine
 
 
 engine = create_engine("postgresql://admin:password@localhost:5500/storage", echo=True)
-async_engine = create_async_engine("postgresql+asyncpg://admin:password@localhost:5500/storage", echo=True)
+try:
+    async_engine = create_async_engine("postgresql+asyncpg://admin:password@localhost:5500/storage", echo=True)
+except ModuleNotFoundError:
+    print('Package \'asyncpg\' is required, but you can ignore this right now.')
 
 
 class Base(DeclarativeBase):
@@ -61,6 +64,8 @@ class ParsedPacket(Base):
 
     id: Mapped[int] = mapped_column(primary_key=True)
     packet: Mapped[dict] = mapped_column(JSONB)
+    appearance_date: Mapped[datetime.datetime] = mapped_column(insert_default=func.now(), nullable=False,
+                                                               server_default=func.now())
 
 
 class Block(Base):

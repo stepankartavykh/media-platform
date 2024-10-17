@@ -8,9 +8,10 @@ from sse_starlette.sse import EventSourceResponse
 import uvicorn
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect, Request
 
-from FrontendApp.app.cache_plugin import AsyncCacheSystemPlugin
-from FrontendApp.app.connection_manager import ConnectionManager
-from FrontendApp.app.content import generate_article_content, get_current_content
+from database_storage_plugin import AsyncDatabaseStoragePlugin
+from cache_plugin import AsyncCacheSystemPlugin
+from connection_manager import ConnectionManager
+# from content import generate_article_content, get_current_content
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -37,7 +38,8 @@ def event_generator() -> None:
 @asynccontextmanager
 async def lifespan(app_: FastAPI):
     print('Start app procedures...')
-    if os.getenv('IS_CACHE_SERVICE_UPDATE_READY'):
+    print(os.getenv('IS_CACHE_SERVICE_UPDATE_READY'))
+    if os.getenv('IS_CACHE_SERVICE_UPDATE_READY') == 'True':
         cache_system_plugin.load_initial_data()
     thread = None
     if os.getenv('IS_LOCAL_DEV'):
@@ -83,11 +85,12 @@ RETRY_TIMEOUT = 15000
 class MessageInterface:
     @classmethod
     def build_message(cls):
-        pass
+        return time.time_ns()
 
 
 @app.get('/stream')
 async def message_stream(request: Request):
+
     def new_messages():
         for _ in range(100):
             yield MessageInterface.build_message()
@@ -107,8 +110,18 @@ FRONTEND_APP_HOST = 'localhost'
 FRONTEND_APP_PORT = 8001
 
 
+storage_plugin = AsyncDatabaseStoragePlugin()
+
+
+@app.get("/last-packets")
+async def get_last_packets():
+    packets = await storage_plugin.get_packets(100)
+    api_data = [elem[0] for elem in packets]
+    return api_data
+
+
 def run_app():
-    uvicorn.run('FrontendApp.app:app', host=FRONTEND_APP_HOST, port=FRONTEND_APP_PORT)
+    uvicorn.run('app:app', host=FRONTEND_APP_HOST, port=FRONTEND_APP_PORT, reload=True)
 
 
 if __name__ == "__main__":

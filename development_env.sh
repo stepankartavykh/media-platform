@@ -7,12 +7,23 @@ else
     echo "Docker is launched!"
 fi
 
+docker ps
+docker stop mediaConfigDatabase
+docker rm mediaConfigDatabase
+
 docker compose up -d
 
-sleep 1
+python_executor=$(which python)
 
-./scripts/dump_load.sh
+echo "${python_executor}"
 
-./env/bin/python ./DataApp/storage_schemas/storage.py
+if [ -z "$python_executor" ]; then
+  echo "Error"
+  exit 1
+fi
+
+"$python_executor" ./DataApp/storage_schemas/storage.py
+
+psql postgresql://admin:password@localhost:5500/storage < ./storage/database_dumps/processed_warc_files.sql
 
 echo "Databases and cache storage setup is completed!"
