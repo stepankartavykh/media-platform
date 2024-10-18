@@ -13,6 +13,10 @@ docker rm mediaConfigDatabase
 
 docker compose up -d
 
+COMMANDS_INSIDE_DB_CONTAINER="bash /docker-entrypoint-initdb.d/create_database_schemas.sh"
+
+docker exec -it mediaConfigDatabase bash -c "$COMMANDS_INSIDE_DB_CONTAINER"
+
 python_executor=$(which python)
 
 echo "${python_executor}"
