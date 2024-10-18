@@ -122,7 +122,7 @@ def process_html(content_string: str) -> dict[str, Any]:
     return result
 
 
-def process_warc_file(file_path: str, limit_records: int = -1, write_raw_html: bool = False) -> Iterable:
+def process_warc_file(file_path: str, limit_records: int = -1) -> Iterable:
     warc_file_label = file_path[file_path.find('CC-NEWS-') + len('CC-NEWS-'):].strip('.warc.gz')
     _metadata = getattr(process_warc_file, 'metadata', get_default_metadata())
     pages_without_doctype = 0
@@ -139,10 +139,9 @@ def process_warc_file(file_path: str, limit_records: int = -1, write_raw_html: b
             content: bytes = record_reader.read()
             html_tree = HTMLTree.parse_from_bytes(content, detect_encoding(content))
             content_string = str(html_tree.document)
-            if write_raw_html:
-                with open(f'/home/skartavykh/MyProjects/media-bot/storage/raw_html_dump/raw_html_{time.time_ns()}.html',
-                          'w') as f:
-                    f.write(content_string)
+            with open(f'/home/skartavykh/MyProjects/media-bot/storage/raw_html_dump/raw_html_{time.time_ns()}.html',
+                      'w') as f:
+                f.write(content_string)
             if not content_string.startswith('<!DOCTYPE'):
                 pages_without_doctype += 1
                 continue
