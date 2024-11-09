@@ -6,6 +6,8 @@ from enum import IntEnum
 from multiprocessing import Pool
 from typing import Iterable, Any
 
+from dotenv import load_dotenv
+
 import html_to_json
 from fastwarc.stream_io import GZipStream
 from fastwarc.warc import ArchiveIterator, WarcRecordType
@@ -16,6 +18,9 @@ from db_manager import engine
 from sqlalchemy.orm import Session
 
 from db_models import ParsedPacket
+
+
+load_dotenv()
 
 WARC_FILES_DIR = '/home/skartavykh/MyProjects/media-bot/storage/crawled_dumps/warc_dumps/'
 
@@ -122,7 +127,7 @@ def process_html(content_string: str) -> dict[str, Any]:
     return result
 
 
-def process_warc_file(file_path: str, limit_records: int = -1) -> Iterable:
+def process_warc_file(file_path: str, limit_records: int = -1, write_raw_html: bool = False) -> Iterable:
     warc_file_label = file_path[file_path.find('CC-NEWS-') + len('CC-NEWS-'):].strip('.warc.gz')
     _metadata = getattr(process_warc_file, 'metadata', get_default_metadata())
     pages_without_doctype = 0
@@ -139,16 +144,15 @@ def process_warc_file(file_path: str, limit_records: int = -1) -> Iterable:
             content: bytes = record_reader.read()
             html_tree = HTMLTree.parse_from_bytes(content, detect_encoding(content))
             content_string = str(html_tree.document)
-            with open(f'/home/skartavykh/MyProjects/media-bot/storage/raw_html_dump/raw_html_{time.time_ns()}.html',
-                      'w') as f:
-                f.write(content_string)
+            if write_raw_html:
+                save_to = f'/home/skartavykh/MyProjects/media-bot/storage/raw_html_dump/raw_html_{time.time_ns()}.html'
+                with open(save_to, 'w') as f:
+                    f.write(content_string)
             if not content_string.startswith('<!DOCTYPE'):
                 pages_without_doctype += 1
                 continue
             headers_dict = {str(k): v for k, v in record.headers}
-            # print(headers_dict)
             url = headers_dict.get('WARC-Target-URI')
-            print(url)
             if url is None:
                 _metadata['NO_URL_IN_WARC-Target-URI'] += 1
             meta = html_tree.document.query_selector('html')
