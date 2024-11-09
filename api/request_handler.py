@@ -18,6 +18,7 @@ async def make_async_request(url: str) -> asyncio.coroutines:
     async with aiohttp.ClientSession() as session:
         async with session.get(url, headers=default_headers) as response:
             html = await response.text()
+            print(await response.json())
             return html
 
 

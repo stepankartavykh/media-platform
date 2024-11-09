@@ -4,13 +4,18 @@ import random
 import threading
 import time
 from contextlib import asynccontextmanager
+from inspect import trace
+
 from sse_starlette.sse import EventSourceResponse
 import uvicorn
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect, Request
 
-from FrontendApp.app.cache_plugin import AsyncCacheSystemPlugin
-from FrontendApp.app.connection_manager import ConnectionManager
-from FrontendApp.app.content import generate_article_content, get_current_content
+from fastapi.openapi.utils import get_openapi
+
+from database_storage_plugin import AsyncDatabaseStoragePlugin
+from cache_plugin import AsyncCacheSystemPlugin
+from connection_manager import ConnectionManager
+# from content import generate_article_content, get_current_content
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -37,7 +42,8 @@ def event_generator() -> None:
 @asynccontextmanager
 async def lifespan(app_: FastAPI):
     print('Start app procedures...')
-    if os.getenv('IS_CACHE_SERVICE_UPDATE_READY'):
+    print(os.getenv('IS_CACHE_SERVICE_UPDATE_READY'))
+    if os.getenv('IS_CACHE_SERVICE_UPDATE_READY') == 'True':
         cache_system_plugin.load_initial_data()
     thread = None
     if os.getenv('IS_LOCAL_DEV'):
@@ -62,13 +68,15 @@ async def accept_signal_to_change_frontend_state():
 async def websocket_endpoint(websocket: WebSocket):
     global EVENT_UPDATE_STATE
     await connection_manager.connect(websocket)
-    actual_content = await get_current_content(start_load=True)
-    await connection_manager.send_personal_message(actual_content.convert_data(), websocket)
+    # actual_content = await get_current_content(start_load=True)
+    actual_content = {'debug_message': True, 'timestamp': time.time_ns()}
+    await connection_manager.send_personal_message(str(actual_content), websocket)
     try:
         while True:
             if EVENT_UPDATE_STATE:
-                data_packet = await generate_article_content()
-                await connection_manager.broadcast(data_packet.json())
+                # data_packet = await generate_article_content()
+                data_packet = actual_content
+                await connection_manager.broadcast(str(data_packet))
                 print('broadcasting current state is complete!')
                 EVENT_UPDATE_STATE = False
     except WebSocketDisconnect:
@@ -76,39 +84,60 @@ async def websocket_endpoint(websocket: WebSocket):
         print(f'websocket {websocket.client_state.value} closed!')
 
 
-STREAM_DELAY = 1
-RETRY_TIMEOUT = 15000
+STREAM_DELAY = 0.2
 
 
 class MessageInterface:
     @classmethod
     def build_message(cls):
-        pass
+        mess = {"timestamp": time.time_ns(), "test_number": random.randint(0, 1000)}
+        return mess
 
 
 @app.get('/stream')
 async def message_stream(request: Request):
+    print('start streaming...')
+
+    _TIMEOUT = 5
+    _start = time.time()
+
     def new_messages():
-        for _ in range(100):
+        for _ in range(10):
             yield MessageInterface.build_message()
 
     async def event_to_stream_generator():
         while True:
+            if time.time() - _start > _TIMEOUT:
+                break
             if await request.is_disconnected():
+                print('request.is_disconnected == True')
                 break
             message = new_messages()
+            print(message)
             if message:
                 yield message
             await asyncio.sleep(STREAM_DELAY)
-    return EventSourceResponse(event_to_stream_generator())
+    response = EventSourceResponse(event_to_stream_generator())
+    response.headers["Access-Control-Allow-Origin"] = "*"
+    return response
 
 
 FRONTEND_APP_HOST = 'localhost'
 FRONTEND_APP_PORT = 8001
 
 
+storage_plugin = AsyncDatabaseStoragePlugin()
+
+
+@app.get("/last-packets")
+async def get_last_packets():
+    packets = await storage_plugin.get_packets(100)
+    api_data = [elem[0] for elem in packets]
+    return api_data
+
+
 def run_app():
-    uvicorn.run('FrontendApp.app:app', host=FRONTEND_APP_HOST, port=FRONTEND_APP_PORT)
+    uvicorn.run('app:app', host=FRONTEND_APP_HOST, port=FRONTEND_APP_PORT, reload=True)
 
 
 if __name__ == "__main__":

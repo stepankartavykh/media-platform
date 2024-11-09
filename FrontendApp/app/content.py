@@ -7,9 +7,11 @@ from enum import Enum
 import aiohttp
 from fastapi.encoders import jsonable_encoder
 
-from FrontendApp.app.cache_plugin import AsyncCacheSystemPlugin
-from FrontendApp.app.database_storage_plugin import AsyncDatabaseStoragePlugin
-from FrontendApp.app.interface_data import DataPacketInterface, AddArticleInterface, UpdateArticleInterface, \
+from sqlalchemy.engine import Row
+
+from cache_plugin import AsyncCacheSystemPlugin
+from database_storage_plugin import AsyncDatabaseStoragePlugin
+from interface_data import DataPacketInterface, AddArticleInterface, UpdateArticleInterface, \
     AllDataStartState
 from api.get_news_dump import get_news_feed_everything
 from DataApp.storage_schemas.storage import Article, engine
@@ -34,23 +36,36 @@ class ActualContent:
         self.data = data
 
     def convert_data(self) -> str:
-        return str(self.data)
+        return str(type(self.data).model_dump(self.data))
 
 
 cache_system_plugin = AsyncCacheSystemPlugin()
 database_plugin = AsyncDatabaseStoragePlugin()
 
 
-async def get_current_content(get_from_cache_directly: bool = False) -> ActualContent:
-    content = []
+def serialize_item(item: Row) -> dict:
+    return {
+        "id": item.id,
+        "priority": item.priority,
+        "shortTitle": item.short_title,
+        "shortDescription": item.short_description,
+        "blockContent": []
+    }
+
+
+async def get_current_content(start_load: bool = False, get_from_cache_directly: bool = False) -> ActualContent:
     if get_from_cache_directly:
         content = await cache_system_plugin.get_actual_content()
-    arts = []
-    for obj in content:
-        arts.append(AddArticleInterface.model_validate_json(obj))
-    content = DataPacketInterface(articlesAdd=arts,
-                                  articlesUpdate=[])
-    return ActualContent(data=content)
+        arts = []
+        for obj in content:
+            arts.append(AddArticleInterface.model_validate_json(str(obj).replace("'", '"')))
+        content = DataPacketInterface(articlesAdd=arts,
+                                      articlesUpdate=[])
+        return ActualContent(operation_type='update', data=content)
+    content = await database_plugin.get_actual_content()
+    content_start_state = AllDataStartState(blocks=[serialize_item(item) for item in content])
+    actual_content = ActualContent(operation_type='start', data=content_start_state)
+    return actual_content
 
 
 async def send_articles_to_cache_system(articles: list[AddArticleInterface]) -> CacheSystemResponse:
@@ -63,11 +78,11 @@ async def fetch_status(session: ClientSession, url: str) -> (int, str):
         async with session.get(url) as result:
             return result.status, url
     except aiohttp.client_exceptions.ClientConnectorError:
-        return 400, ''
+        return 400, 'ClientConnectorError'
     except aiohttp.client_exceptions.ServerDisconnectedError:
-        return 400, ''
+        return 400, 'ServerDisconnectedError'
     except aiohttp.client_exceptions.TooManyRedirects:
-        return 300, ''
+        return 300, 'TooManyRedirects'
 
 
 def define_topic_for_api_call() -> str:
@@ -157,7 +172,7 @@ async def generate_article_content(from_api: bool = True, consider_amount: int |
         else:
             update_article = generate_article_to_update(data_article)
             articles_to_update.append(update_article)
-    await send_articles_to_cache_system(articles_to_add)
+    # await send_articles_to_cache_system(articles_to_add)
     content_packet = DataPacketInterface(articlesAdd=articles_to_add,
                                          articlesUpdate=articles_to_update)
     with open(f'/home/skartavykh/MyProjects/media-bot/storage/data_packets/{time.time_ns()}.json', 'w') as f:
@@ -166,3 +181,8 @@ async def generate_article_content(from_api: bool = True, consider_amount: int |
         session.add_all(articles_to_database)
         session.commit()
     return content_packet
+
+
+if __name__ == '__main__':
+    actual_content: ActualContent = asyncio.run(get_current_content())
+    print(actual_content.convert_data())

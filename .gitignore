@@ -137,3 +137,5 @@ dmypy.json
 *.sqlite3
 
 /storage
+
+/config-files-dumps
