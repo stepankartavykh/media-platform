@@ -22,7 +22,7 @@ from db_models import ParsedPacket
 
 load_dotenv()
 
-WARC_FILES_DIR = '/home/skartavykh/MyProjects/media-bot/storage/crawled_dumps/warc_dumps/'
+WARC_FILES_DIR = os.getenv('WARC_FILES_DIR')
 
 
 def get_default_metadata() -> dict:
