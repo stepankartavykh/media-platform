@@ -23,6 +23,7 @@ from db_models import ParsedPacket
 load_dotenv()
 
 WARC_FILES_DIR = os.getenv('WARC_FILES_DIR')
+RAW_HTML_DUMP_DIR = os.getenv('RAW_HTML_DUMP_DIR')
 
 
 def get_default_metadata() -> dict:
@@ -145,7 +146,7 @@ def process_warc_file(file_path: str, limit_records: int = -1, write_raw_html: b
             html_tree = HTMLTree.parse_from_bytes(content, detect_encoding(content))
             content_string = str(html_tree.document)
             if write_raw_html:
-                save_to = f'/home/skartavykh/MyProjects/media-bot/storage/raw_html_dump/raw_html_{time.time_ns()}.html'
+                save_to = f'{RAW_HTML_DUMP_DIR}/raw_html_{time.time_ns()}.html'
                 with open(save_to, 'w') as f:
                     f.write(content_string)
             if not content_string.startswith('<!DOCTYPE'):
@@ -192,7 +193,7 @@ def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool =
                     i = 0
                     items_to_add.clear()
         except KeyboardInterrupt:
-            session.commit()
+            pass
         session.commit()
     if delete_file:
         # TODO Create entry in configuration database or write in log file that warc-file is successfully processed.
