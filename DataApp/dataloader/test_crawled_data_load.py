@@ -2,8 +2,14 @@ import gzip
 import os
 import subprocess
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
+path_to_load_dump = os.getenv('PATH_TO_LOAD_DUMP')
+
+
 MAIN_URL = 'https://data.commoncrawl.org'
-path_to_load_dump = '/home/skartavykh/MyProjects/media-bot/storage/crawled_dumps/warc_dumps'
 
 
 def _download_dump(dump_name: str) -> None:
@@ -12,8 +18,9 @@ def _download_dump(dump_name: str) -> None:
 
 
 def read_paths_file_and_download_dumps(warc_paths_file: str, dumps_limit_count: int = None,
+                                       load_dumps_to_path: str = path_to_load_dump,
                                        use_multiple_processes: bool = True, count_processes: int = 1):
-    already_loaded_files = os.listdir(path_to_load_dump)
+    already_loaded_files = os.listdir(load_dumps_to_path)
     for loaded_warc_file_name in already_loaded_files:
         if not loaded_warc_file_name.endswith('.warc.gz'):
             raise Exception('Wrong file in directory that must contain only WARC files!')

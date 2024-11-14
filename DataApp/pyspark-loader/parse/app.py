@@ -1,8 +1,9 @@
 import os
-import subprocess
 from random import randint
 import uvicorn
 from fastapi import FastAPI, BackgroundTasks
+
+from DataApp.dataloader.test_crawled_data_load import read_paths_file_and_download_dumps
 from test_parse import run_tasks_with_multiprocessing_pool
 import requests
 import gzip
@@ -13,8 +14,10 @@ DEBUG = True
 
 app = FastAPI(debug=DEBUG)
 
+load_dotenv()
 
 WARC_PATHS_DIR = os.getenv('WARC_PATHS_DIR')
+WARC_FILES_DIR = os.getenv('WARC_FILES_DIR')
 
 
 @app.get('/debug-message')
@@ -23,7 +26,7 @@ async def debug_message():
 
 
 @app.get('/load-all-warc-files')
-async def load_all_warc_path_files():
+async def load_all_warc_path_files(unzip_archive: bool = False, load_dump_count: int = 10):
     import os
     crawl_names = os.getenv('WARC_CRAWL_NAMES').split()
     not_loaded_files = []
@@ -34,13 +37,21 @@ async def load_all_warc_path_files():
         if response.status_code == 200:
             with open(file_path, 'wb') as response_writer:
                 response_writer.write(response.content)
-            with gzip.open(file_path, 'rb') as gz_opener:
-                with open(path_to_load_dump + '/' + crawl + '_warc.paths', 'wb') as paths_writer:
-                    paths_writer.write(gz_opener.read())
+            if unzip_archive:
+                with gzip.open(file_path, 'rb') as gz_opener:
+                    with open(path_to_load_dump + '/' + crawl + '_warc.paths', 'wb') as paths_writer:
+                        paths_writer.write(gz_opener.read())
         else:
             not_loaded_files.append(crawl)
 
     return {"debug": DEBUG, 'not_loaded_files': not_loaded_files}
+
+
+@app.get('/load-some-warc-files')
+async def load_some_warc_files(paths_file_name: str, count_dumps):
+    read_paths_file_and_download_dumps(WARC_PATHS_DIR + '/' + paths_file_name, count_dumps,
+                                       load_dumps_to_path=WARC_FILES_DIR)
+    return {"debug": DEBUG, "status": 'success'}
 
 
 @app.get('/start-processing-warc')
