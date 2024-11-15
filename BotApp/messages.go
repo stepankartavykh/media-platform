@@ -1,6 +1,7 @@
-START_GREETINGS_RUS = """
-Вас приветствует бот для агрегации новостей. Для задания параметров выборки настройте конфигурацию.
+package main
 
+const START_GREETINGS_RUS = `
+Вас приветствует бот для агрегации новостей. Для задания параметров выборки настройте конфигурацию.
 Доступные команды:
 /start - старт бота (перезапуск)
 /last - последние новости по моим темам
@@ -8,13 +9,12 @@ START_GREETINGS_RUS = """
 /add_topics - добавить интересующую тему для мониторинга
 /observe - начать мониторинг ресурсов
 /observe_topics - начать мониторинг интересующих тем
-/stop - закончить мониторинг (перенастроить)
-"""
+/stop - закончить мониторинг (перенастроить)`
 
-START_GREETINGS_ENG = """
+const START_GREETINGS_ENG = `
 Welcome to the news aggregation bot.
 
 Available commands:
 /start - start the bot (restart)
 /last - latest news
-"""
+`
