@@ -30,16 +30,15 @@ async def load_all_warc_path_files(unzip_archive: bool = False, load_dump_count:
     import os
     crawl_names = os.getenv('WARC_CRAWL_NAMES').split()
     not_loaded_files = []
-    path_to_load_dump = '/home/skartavykh/MyProjects/media-bot/storage/crawled_dumps/warc_paths_files'
-    for crawl in crawl_names:
+    for crawl in crawl_names[:load_dump_count]:
         response = requests.get(f'https://data.commoncrawl.org/crawl-data/{crawl}/warc.paths.gz')
-        file_path = path_to_load_dump + '/' + crawl + '_warc.paths.gz'
+        file_path = WARC_PATHS_DIR + '/' + crawl + '_warc.paths.gz'
         if response.status_code == 200:
             with open(file_path, 'wb') as response_writer:
                 response_writer.write(response.content)
             if unzip_archive:
                 with gzip.open(file_path, 'rb') as gz_opener:
-                    with open(path_to_load_dump + '/' + crawl + '_warc.paths', 'wb') as paths_writer:
+                    with open(WARC_PATHS_DIR + '/' + crawl + '_warc.paths', 'wb') as paths_writer:
                         paths_writer.write(gz_opener.read())
         else:
             not_loaded_files.append(crawl)
@@ -48,7 +47,7 @@ async def load_all_warc_path_files(unzip_archive: bool = False, load_dump_count:
 
 
 @app.get('/load-some-warc-files')
-async def load_some_warc_files(paths_file_name: str, count_dumps):
+async def load_some_warc_files(paths_file_name: str, count_dumps: int):
     read_paths_file_and_download_dumps(WARC_PATHS_DIR + '/' + paths_file_name, count_dumps,
                                        load_dumps_to_path=WARC_FILES_DIR)
     return {"debug": DEBUG, "status": 'success'}
