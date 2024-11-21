@@ -11,18 +11,16 @@ docker ps
 docker stop mediaConfigDatabase
 docker rm mediaConfigDatabase
 
-docker compose up -d
+docker volume rm $(docker volume ls -qf dangling="true")
 
-COMMANDS_INSIDE_DB_CONTAINER="bash /docker-entrypoint-initdb.d/create_database_schemas.sh"
-
-docker exec -it mediaConfigDatabase bash -c "$COMMANDS_INSIDE_DB_CONTAINER"
+docker compose --verbose up -d
 
 python_executor=$(which python)
 
 echo "${python_executor}"
 
 if [ -z "$python_executor" ]; then
-  echo "Error"
+  echo "Error with choosing python interpreter"
   exit 1
 fi
 
