@@ -1,16 +1,25 @@
 FROM python:3.12
 
 
-WORKDIR /code
+WORKDIR /app-code
 
 
-COPY ./requirements.txt /code/requirements.txt
+COPY ./requirements.txt /app-code/requirements.txt
 
 
-RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
+RUN apt-get update && apt-get install -y htop
+RUN pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org --no-cache-dir --upgrade -r /app-code/requirements.txt
+RUN python -m pip install --upgrade certifi
+
+COPY ./app.py /app-code/app.py
+COPY ./test_parse.py /app-code/test_parse.py
+COPY ./data_loader.py /app-code/data_loader.py
+COPY ./db_manager.py /app-code/db_manager.py
+COPY ./db_models.py /app-code/db_models.py
+COPY ./.env /app-code/.env
+
+CMD ["fastapi", "run", "/app-code/app.py", "--port", "8000"]
 
 
-COPY ./app /code/app
-
-
-CMD ["fastapi", "run", "app/main.py", "--port", "80"]
+# docker build . -t parse-app-image
+# docker run -d --name parse-app -p 8005:8000 parse-app-image

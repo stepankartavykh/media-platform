@@ -3,7 +3,7 @@ from random import randint
 import uvicorn
 from fastapi import FastAPI, BackgroundTasks
 
-from DataApp.dataloader.test_crawled_data_load import read_paths_file_and_download_dumps
+from data_loader import read_paths_file_and_download_dumps
 from test_parse import run_tasks_with_multiprocessing_pool
 import requests
 import gzip
