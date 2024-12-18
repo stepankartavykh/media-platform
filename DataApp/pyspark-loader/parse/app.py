@@ -31,7 +31,7 @@ async def load_all_warc_path_files(unzip_archive: bool = False, load_dump_count:
     crawl_names = os.getenv('WARC_CRAWL_NAMES').split()
     not_loaded_files = []
     for crawl in crawl_names[:load_dump_count]:
-        response = requests.get(f'https://data.commoncrawl.org/crawl-data/{crawl}/warc.paths.gz')
+        response = requests.get(f'https://data.commoncrawl.org/crawl-data/{crawl}/warc.paths.gz', verify=False)
         file_path = WARC_PATHS_DIR + '/' + crawl + '_warc.paths.gz'
         if response.status_code == 200:
             with open(file_path, 'wb') as response_writer:
