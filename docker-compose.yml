@@ -10,8 +10,27 @@ services:
       - ./scripts/init_database_schemas.sql:/docker-entrypoint-initdb.d/init_database_schemas.sql
     ports:
       - "5500:5432"
+    networks:
+      - app-network
+
+  parseApp:
+#    container_name: parseApp
+#    build: ./DataApp/pyspark-loader/parse/Dockerfile
+    container_name: parser-app
+    image: parse-app-image
+    ports:
+      - "8005:8000"
+    networks:
+      - app-network
+
   frontend:
     build: ./frontend
     container_name: frontendUIApp
     ports:
       - "8000:3000"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

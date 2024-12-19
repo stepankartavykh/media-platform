@@ -171,7 +171,7 @@ def process_warc_file(file_path: str, limit_records: int = -1, write_raw_html: b
 
 
 def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool = False, delete_file: bool = False) -> int:
-    params = {"file_path": WARC_FILES_DIR + warc_file_name,
+    params = {"file_path": WARC_FILES_DIR + '/' + warc_file_name,
               "limit_records": -1}
     if debug:
         for i, item in enumerate(process_warc_file(**params)):
