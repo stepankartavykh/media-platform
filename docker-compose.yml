@@ -13,11 +13,13 @@ services:
     networks:
       - app-network
 
-  parseApp:
-#    container_name: parseApp
-#    build: ./DataApp/pyspark-loader/parse/Dockerfile
+  parse-app:
+    build:
+      context: ./DataApp/pyspark-loader/parse
+      dockerfile: Dockerfile
     container_name: parser-app
-    image: parse-app-image
+    depends_on:
+      - mediaDB
     ports:
       - "8005:8000"
     networks:

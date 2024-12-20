@@ -4,7 +4,7 @@ from sqlalchemy.engine.base import Engine
 from sqlalchemy import text
 
 
-engine = create_engine("postgresql://admin:password@localhost:5500/storage")
+engine = create_engine("postgresql://admin:password@mediaDB:5432/storage")
 
 
 class DatabaseManagerWARC:

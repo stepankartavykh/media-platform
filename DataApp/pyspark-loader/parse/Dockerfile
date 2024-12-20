@@ -5,11 +5,15 @@ WORKDIR /app-code
 
 
 COPY ./requirements.txt /app-code/requirements.txt
+COPY ./warc-files-for-debug-parse-app /tmp
 
 
 RUN apt-get update && apt-get install -y htop
 RUN apt-get install ca-certificates
 RUN apt-get update && apt-get install -y iputils-ping
+RUN apt-get update && apt-get install -y telnet
+
+
 RUN pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org --no-cache-dir --upgrade -r /app-code/requirements.txt
 RUN python -m pip install --upgrade certifi
 
