@@ -5,12 +5,16 @@ import os
 from redis.asyncio import Redis as AsyncioRedis
 from redis import Redis
 
-REDIS_HOST = 'localhost'
-REDIS_PORT = 6379
+from dotenv import load_dotenv
+
+load_dotenv()
+
+CACHE_HOST = os.getenv('CACHE_HOST')
+CACHE_PORT = os.getenv('CACHE_PORT')
 
 
 class AsyncCacheSystemPlugin:
-    def __init__(self, host: str = REDIS_HOST, port: int = REDIS_PORT, db_section: int = 0):
+    def __init__(self, host: str = CACHE_HOST, port: int = CACHE_PORT, db_section: int = 0):
         self._async_redis = AsyncioRedis(host=host,
                                          port=port,
                                          db=db_section,

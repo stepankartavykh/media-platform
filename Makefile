@@ -21,3 +21,6 @@ reload_parser_app:
 	@docker rm parse-app
 	@docker build ./DataApp/pyspark-loader/parse -t parse-app-image
 	@docker run -d --name parse-app -p 8005:8000 parse-app-image
+
+launch_compose_file:
+	@docker compose -f compose-test.yml --verbose up -d

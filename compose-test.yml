@@ -1,0 +1,46 @@
+services:
+  cache-first-storage:
+    container_name: cacheFirstStorage
+    image: redis/redis-stack-server:latest
+    ports:
+      - "6385:6385"
+    networks:
+      - app-network
+
+  cache-second-storage:
+    container_name: cacheSecondStorage
+    image: redis/redis-stack-server:latest
+    ports:
+      - "6378:6378"
+    networks:
+      - app-network
+
+  message-broker-rabbitmq:
+    container_name: messageBroker
+    image: rabbitmq:3.13-management
+    hostname: rabbitmq
+    restart: always
+    environment:
+      - RABBITMQ_DEFAULT_USER=user
+      - RABBITMQ_DEFAULT_PASS=password
+      - RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS=-rabbit disk_free_limit 2147483648
+    # TODO Why is there no permission to write to /var/lib?
+    volumes:
+      - ./rabbitmq:/var/lib/rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - app-network
+
+  message-broker-kafka:
+    container_name: messageBrokerKafka
+    image: apache/kafka:3.7.0
+    ports:
+      - "9092:9092"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
