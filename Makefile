@@ -24,3 +24,6 @@ reload_parser_app:
 
 launch_compose_file:
 	@docker compose -f compose-test.yml --verbose up -d
+
+remove_compose_file:
+	@docker compose -f compose-test.yml down

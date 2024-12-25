@@ -25,6 +25,18 @@ services:
     networks:
       - app-network
 
+  frontend-backend-app:
+    build:
+      context: ./FrontendApp/app
+      dockerfile: Dockerfile
+    container_name: frontend-backend-app
+    depends_on:
+      - mediaDB
+    ports:
+      - "8001:8000"
+    networks:
+      - app-network
+
   frontend:
     build: ./frontend
     container_name: frontendUIApp

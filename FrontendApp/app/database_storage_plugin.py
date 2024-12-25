@@ -64,15 +64,15 @@ class AsyncDatabaseStoragePlugin:
             return content_blocks
 
     async def get_packets(self, count: int):
-        query = f'SELECT packet FROM parsed.packets ORDER BY appearance_date LIMIT {count}'
+        query = f'SELECT id, packet FROM parsed.packets ORDER BY appearance_date LIMIT {count}'
         async with self.async_engine.begin() as connection:
             packets_result: CursorResult = await connection.execute(text(query))
             packets = packets_result.fetchall()
-            return packets
+            return [{"id": pack[0], "packet": pack[1]} for pack in packets]
 
 
 if __name__ == '__main__':
     plugin = AsyncDatabaseStoragePlugin()
     elements = asyncio.run(plugin.get_packets(100))
     for element in elements:
-        print(element[0])
+        print(element)
