@@ -66,6 +66,11 @@ async def abort_processing():
     return {"debug": DEBUG, "status": "processed", "metadata": meta_object}
 
 
+@app.get('/get-unprocessed-warc-files')
+async def get_unprocessed_files():
+    return os.listdir('/tmp')
+
+
 PARSER_APP_HOST = 'localhost'
 PARSER_APP_PORT = 8002
 

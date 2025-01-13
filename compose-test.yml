@@ -25,8 +25,8 @@ services:
       - RABBITMQ_DEFAULT_PASS=password
       - RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS=-rabbit disk_free_limit 2147483648
     # TODO Why is there no permission to write to /var/lib?
-    volumes:
-      - ./rabbitmq:/var/lib/rabbitmq
+#    volumes:
+#      - ./rabbitmq:/var/lib/rabbitmq
     ports:
       - "5672:5672"
       - "15672:15672"

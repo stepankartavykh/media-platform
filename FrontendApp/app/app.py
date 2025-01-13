@@ -1,11 +1,10 @@
 import asyncio
-import os
 import random
 import time
 from contextlib import asynccontextmanager
 from sse_starlette.sse import EventSourceResponse
 import uvicorn
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, HTTPException
 
 from database_storage_plugin import AsyncDatabaseStoragePlugin
 from cache_plugin import AsyncCacheSystemPlugin
@@ -81,10 +80,11 @@ storage_plugin = AsyncDatabaseStoragePlugin()
 
 
 @app.get("/last-packets")
-async def get_last_packets():
-    packets = await storage_plugin.get_packets(100)
-    api_data = [elem[0] for elem in packets]
-    return api_data
+async def get_last_packets(count: int = 100):
+    if count < 1:
+        raise HTTPException(status_code=400,
+                            detail='count must be greater than 0.')
+    return await storage_plugin.get_packets(count)
 
 
 def run_app():

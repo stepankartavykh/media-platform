@@ -7,6 +7,7 @@ from redis.asyncio import Redis as AsyncioRedis
 from redis import Redis
 
 from dotenv import load_dotenv
+from datetime import timedelta
 
 load_dotenv()
 
@@ -34,6 +35,18 @@ class AsyncCacheSystemPlugin:
                     pipe.set(key, str(item))
             pipe.execute()
         self._sync_redis.bgsave()
+
+    def set_expired_key(self, key, value, minutes=1):
+        """Set key with timeout. After some time key and value will be deleted."""
+        self._sync_redis.setex(key, timedelta(minutes=minutes), value=value)
+
+    def make_snapshot(self):
+        last_save_datetime = self._sync_redis.lastsave()
+
+        self._sync_redis.bgsave()
+
+    def _prepare_storage_with_data(self, data):
+        pass
 
     def pipe_watch_example(self, item_id: int, first_field: str, second_field: str):
         logging.basicConfig()
@@ -90,3 +103,4 @@ class AsyncCacheSystemPlugin:
 if __name__ == '__main__':
     client = AsyncCacheSystemPlugin()
     client.set_mapping({'qwe': '123'})
+    client.set_expired_key('test1235', 12345, 1)
