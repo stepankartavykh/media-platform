@@ -26,6 +26,9 @@ class AsyncCacheSystemPlugin:
                                  db=db_section,
                                  decode_responses=True)
 
+    def check(self):
+        self._sync_redis.ping()
+
     def set_mapping(self, data: dict):
         with self._sync_redis.pipeline() as pipe:
             for key, item in data.items():
