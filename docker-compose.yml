@@ -13,7 +13,7 @@ services:
     networks:
       - app-network
 
-  parse-app:
+  parser-app:
     build:
       context: ./DataApp/pyspark-loader/parse
       dockerfile: Dockerfile

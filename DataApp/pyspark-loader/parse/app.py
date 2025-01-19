@@ -2,7 +2,7 @@ import os
 from random import randint
 import uvicorn
 from fastapi import FastAPI, BackgroundTasks
-
+from contextlib import asynccontextmanager
 from data_loader import read_paths_file_and_download_dumps
 from test_parse import run_tasks_with_multiprocessing_pool
 import requests
@@ -10,14 +10,31 @@ import gzip
 
 from dotenv import load_dotenv
 
-DEBUG = True
-
-app = FastAPI(debug=DEBUG)
-
 load_dotenv()
 
+DEBUG = os.getenv('DEBUG') == 'True'
 WARC_PATHS_DIR = os.getenv('WARC_PATHS_DIR')
+WARC_PATHS_DIR_PROCESSED = os.getenv('WARC_PATHS_DIR_PROCESSED')
 WARC_FILES_DIR = os.getenv('WARC_FILES_DIR')
+WARC_FILES_DIR_PROCESSED = os.getenv('WARC_FILES_DIR_PROCESSED')
+
+
+@asynccontextmanager
+async def procedures_on_startup():
+    print('Start app procedures...')
+    if not os.path.exists(WARC_PATHS_DIR):
+        os.mkdir(WARC_PATHS_DIR)
+    if not os.path.exists(WARC_PATHS_DIR_PROCESSED):
+        os.mkdir(WARC_PATHS_DIR_PROCESSED)
+    if not os.path.exists(WARC_FILES_DIR):
+        os.mkdir(WARC_FILES_DIR)
+    if not os.path.exists(WARC_FILES_DIR_PROCESSED):
+        os.mkdir(WARC_FILES_DIR_PROCESSED)
+    yield
+    print('Shutdown procedures...')
+
+
+app = FastAPI(debug=DEBUG, lifespan=procedures_on_startup)
 
 
 @app.get('/debug-message')
@@ -27,6 +44,7 @@ async def debug_message():
 
 @app.get('/load-all-warc-files')
 async def load_all_warc_path_files(unzip_archive: bool = False, load_dump_count: int = 10):
+    """Download files with paths for WARC files."""
     import os
     crawl_names = os.getenv('WARC_CRAWL_NAMES').split()
     not_loaded_files = []

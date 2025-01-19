@@ -23,6 +23,7 @@ from db_models import ParsedPacket
 load_dotenv()
 
 WARC_FILES_DIR = os.getenv('WARC_FILES_DIR')
+WARC_FILES_DIR_PROCESSED = os.getenv('WARC_FILES_DIR_PROCESSED')
 RAW_HTML_DUMP_DIR = os.getenv('RAW_HTML_DUMP_DIR')
 
 
@@ -200,11 +201,13 @@ def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool =
         print('LOG(PROCESSING SUCCESSFULLY): WARC file:', warc_file_name, 'is processed!')
         if os.path.exists(WARC_FILES_DIR + warc_file_name):
             os.remove(WARC_FILES_DIR + warc_file_name)
+    else:
+        os.replace(WARC_FILES_DIR + warc_file_name, WARC_FILES_DIR_PROCESSED + warc_file_name)
     return GeneralStatusCode.success
 
 
-def run_tasks_with_multiprocessing_pool(workers: int = 1) -> None:
-    process_one_warc_file_partial = functools.partial(process_one_warc_file, records=-1)
+def run_tasks_with_multiprocessing_pool(workers: int = 1, delete: bool = False) -> None:
+    process_one_warc_file_partial = functools.partial(process_one_warc_file, records=-1, delete_file=delete)
     warc_dump_files = reversed(os.listdir(WARC_FILES_DIR))
     with Pool(processes=workers) as process_pool:
         process_pool.map(process_one_warc_file_partial, warc_dump_files)
