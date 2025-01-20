@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import time
 
 import redis
 from redis.asyncio import Redis as AsyncioRedis
@@ -105,5 +106,8 @@ class AsyncCacheSystemPlugin:
 
 if __name__ == '__main__':
     client = AsyncCacheSystemPlugin()
+    client.check()
     client.set_mapping({'qwe': '123'})
+    time.sleep(1)
+    client.set_mapping({'test': {'qwe': 1234}})
     client.set_expired_key('test1235', 12345, 1)

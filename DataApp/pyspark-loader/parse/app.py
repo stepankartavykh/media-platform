@@ -1,3 +1,4 @@
+import inspect
 import os
 from random import randint
 import uvicorn
@@ -12,15 +13,21 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+LOCAL_DIR = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 DEBUG = os.getenv('DEBUG') == 'True'
-WARC_PATHS_DIR = os.getenv('WARC_PATHS_DIR')
-WARC_PATHS_DIR_PROCESSED = os.getenv('WARC_PATHS_DIR_PROCESSED')
-WARC_FILES_DIR = os.getenv('WARC_FILES_DIR')
-WARC_FILES_DIR_PROCESSED = os.getenv('WARC_FILES_DIR_PROCESSED')
+IS_CONTAINER = os.getenv('IS_CONTAINER') == 'True'
+WARC_PATHS_DIR = \
+    os.getenv('WARC_PATHS_DIR') if IS_CONTAINER else LOCAL_DIR + '/storage/warc_paths_dir'
+WARC_PATHS_DIR_PROCESSED = \
+    os.getenv('WARC_PATHS_DIR_PROCESSED') if IS_CONTAINER else LOCAL_DIR + '/storage/warc_paths_dir_processed'
+WARC_FILES_DIR = \
+    os.getenv('WARC_FILES_DIR') if IS_CONTAINER else LOCAL_DIR + '/storage/warc_files_dir'
+WARC_FILES_DIR_PROCESSED = \
+    os.getenv('WARC_FILES_DIR_PROCESSED') if IS_CONTAINER else LOCAL_DIR + '/storage/warc_files_dir_processed'
 
 
 @asynccontextmanager
-async def procedures_on_startup():
+async def procedures_on_startup(app_: FastAPI):
     print('Start app procedures...')
     if not os.path.exists(WARC_PATHS_DIR):
         os.mkdir(WARC_PATHS_DIR)
@@ -84,8 +91,16 @@ async def abort_processing():
     return {"debug": DEBUG, "status": "processed", "metadata": meta_object}
 
 
+from enum import StrEnum
+
+
+class PossibleFileType(StrEnum):
+    paths = 'paths'
+    warc = 'warc'
+
+
 @app.get('/get-unprocessed-warc-files')
-async def get_unprocessed_files():
+async def get_unprocessed_files(file_type: PossibleFileType):
     return os.listdir('/tmp')
 
 
