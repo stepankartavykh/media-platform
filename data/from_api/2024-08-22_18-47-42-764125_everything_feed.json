@@ -1,0 +1,552 @@
+{
+    "status": "ok",
+    "totalResults": 42,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Mike Silver",
+            "title": "New, more sustainable method for manufacturing microchips and other nanoscale devices",
+            "description": "Putting 50 billion transistors into a microchip the size of a fingernail is a feat that requires manufacturing methods of nanometer level precision\u2014layering of thin films, then etching, depositing, or using photolithography to create the patterns of semicondu\u2026",
+            "url": "https://phys.org/news/2024-07-sustainable-method-microchips-nanoscale-devices.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-more-sustainable-m.jpg",
+            "publishedAt": "2024-07-30T13:58:28Z",
+            "content": "Putting 50 billion transistors into a microchip the size of a fingernail is a feat that requires manufacturing methods of nanometer level precisionlayering of thin films, then etching, depositing, or\u2026 [+4074 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Werner Siefer",
+            "title": "Photolithography research shows computer chips have the potential to become even smaller",
+            "description": "Researchers at the Paul Scherrer Institute PSI have been improving the resolution of a process known as photolithography. They hope to use their technique to help advance the miniaturization of computer chips.",
+            "url": "https://phys.org/news/2024-08-photolithography-chips-potential-smaller.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/researchers-show-that-6.jpg",
+            "publishedAt": "2024-08-13T15:20:04Z",
+            "content": "Researchers at the Paul Scherrer Institute PSI have been improving the resolution of a process known as photolithography. They hope to use their technique to help advance the miniaturization of compu\u2026 [+5050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Research team achieves faster and more efficient synthesis of high-density RNA microarrays",
+            "description": "An international research team led by the University of Vienna has succeeded in developing a new version of RNA building blocks with higher chemical reactivity and photosensitivity. This can significantly reduce the production time of RNA chips used in biotec\u2026",
+            "url": "https://phys.org/news/2024-07-team-faster-efficient-synthesis-high.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/the-next-generation-of.jpg",
+            "publishedAt": "2024-07-31T18:00:02Z",
+            "content": "An international research team led by the University of Vienna has succeeded in developing a new version of RNA building blocks with higher chemical reactivity and photosensitivity. This can signific\u2026 [+4451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "The next generation of RNA chips",
+            "description": "An international research team has succeeded in developing a new version of RNA building blocks with higher chemical reactivity and photosensitivity. This can significantly reduce the production time of RNA chips used in biotechnological and medical research.\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240731170949.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-31T21:09:49Z",
+            "content": "An international research team led by the University of Vienna has succeeded in developing a new version of RNA building blocks with higher chemical reactivity and photosensitivity. This can signific\u2026 [+3883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jonathan Reichental, PhD, Contributor, \n Jonathan Reichental, PhD, Contributor\n https://www.forbes.com/sites/jonathanreichental/",
+            "title": "Colorado Takes The Lead In Quantum Technologies",
+            "description": "While Silicon Valley continues to dominate in digital innovation, it\u2019s less appreciated that Colorado has become a leader in quantum technologies.",
+            "url": "https://www.forbes.com/sites/jonathanreichental/2024/07/28/colorado-takes-the-lead-in-quantum-technologies/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66a66ac65753eb9f50c7e67e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-29T00:18:48Z",
+            "content": "Quantum computers use qubits that exploit quantum superposition and entanglement to perform complex ... [+] computations probabilistically.\r\ngetty\r\nNestled among the vast plains and mesas of the Moun\u2026 [+6849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "Joseph S. Nye, Jr.",
+            "title": "AI and National Security",
+            "description": "It is a truism that technology moves faster than policy or diplomacy, especially when it is driven by intense market competition in the private sector. But when it comes addressing the potential security risks associated with today's AI, policymakers need to \u2026",
+            "url": "https://www.project-syndicate.org/commentary/ai-national-security-some-benefits-and-many-risks-by-joseph-s-nye-2024-07",
+            "urlToImage": "https://webapi.project-syndicate.org/library/47c272099813ceb74bcc3645b5b2d19f.2-1-super.1.jpg",
+            "publishedAt": "2024-07-31T09:45:51Z",
+            "content": "It is a truism that technology moves faster than policy or diplomacy, especially when it is driven by intense market competition in the private sector. But when it comes addressing the potential secu\u2026 [+6103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "Hermann Hauser",
+            "title": "The Rise of Techno-Colonialism",
+            "description": "As their rivalry escalates, the United States and China are competing to control the design, development, and production of critical technologies like semiconductors, artificial intelligence, and quantum computing. By fostering asymmetric dependencies, both p\u2026",
+            "url": "https://www.project-syndicate.org/commentary/techno-colonialism-defines-us-china-rivalry-by-hermann-hauser-and-hazem-danny-nakib-2024-08",
+            "urlToImage": "https://webapi.project-syndicate.org/library/576bbb06b245569492001c93779eab8c.2-1-super.1.jpg",
+            "publishedAt": "2024-08-07T14:05:37Z",
+            "content": "As their rivalry escalates, the United States and China are competing to control the design, development, and production of critical technologies like semiconductors, artificial intelligence, and qua\u2026 [+7065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "New more sustainable method for manufacturing microchips and other nanoscale devices",
+            "description": "Researchers develop a more environmentally friendly approach to manufacturing nano-scale microchip devices using water as a solvent in place of toxic chemicals. The method not only cleans up the manufacturing waste stream, but also enables the integration of \u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240730134749.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-30T17:47:49Z",
+            "content": "Putting 50 billion transistors into a microchip the size of a fingernail is a feat that requires manufacturing methods of nanometer level precision -- layering of thin films, then etching, depositing\u2026 [+3376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Usman Kabir",
+            "title": "ASML Holding N.V. (ASML): An Important AI Stock You Should Pay Attention To",
+            "description": "We recently compiled a list of the 33 Most Important AI Companies You Should Pay Attention To. In this article, we are going to take a look at where ASML...",
+            "url": "https://finance.yahoo.com/news/asml-holding-n-v-asml-121251025.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fdIpqMBAle29Vty0i85ubg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/b36da0caf4f59d829430a8a0f203a758",
+            "publishedAt": "2024-08-15T12:12:51Z",
+            "content": "We recently compiled a list of the 33 Most Important AI Companies You Should Pay Attention To.\u00a0In this article, we are going to take a look at where ASML Holding N.V. (NASDAQ:ASML) stands against the\u2026 [+9921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mit.edu"
+            },
+            "author": "Walid Klibi, Kai Trepte, and James B. Rice Jr.. Walid Klibi is a professor at Kedge Business School and a research affiliate at the MIT Center for Transportation & Logistics. Kai Trepte is a research associate at the MIT Center for Transportation & Logistics. James B. Rice Jr. is deputy director of the MIT Center for Transportation & Logistics.",
+            "title": "Make Smarter Investments in Resilient Supply Chains",
+            "description": "Ken Orvidas/theispot.com More than ever, companies need supply chains that are resilient to disruptions, whether the cause is a natural disaster, an infrastructure failure, labor actions, or a global pandemic. Yet the conventional approach to resilience is se\u2026",
+            "url": "https://sloanreview.mit.edu/article/make-smarter-investments-in-resilient-supply-chains/",
+            "urlToImage": "https://sloanreview.mit.edu/wp-content/uploads/2024/08/2024FALL_Klibi-2400x1260-1-1200x630.jpg",
+            "publishedAt": "2024-08-12T11:00:30Z",
+            "content": "Ken Orvidas/theispot.com\r\nMore than ever, companies need supply chains that are resilient to disruptions, whether the cause is a natural disaster, an infrastructure failure, labor actions, or a globa\u2026 [+23599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Economictimes.com"
+            },
+            "author": null,
+            "title": "Money where our mouth is: Why India needs new public enterprises - now",
+            "description": "To occupy the commanding heights of innovation and strategic competence that the timid ambitions of India Inc have fled, India needs a new crop of public enterprises charged with producing the wherewithal of India's strategic autonomy and sustained economic d\u2026",
+            "url": "https://m.economictimes.com/opinion/et-commentary/money-where-our-mouth-is-why-india-needs-new-public-enterprises-now/articleshow/112145999.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-112146162,width-1200,height-630,imgsize-106142,overlay-economictimes/photo.jpg",
+            "publishedAt": "2024-07-30T17:15:50Z",
+            "content": "To maintain strategic autonomy in a geopolitically-riven world, India needs not just to spend more on defence but also to master assorted new technologies, ranging from quantum computing and nano tec\u2026 [+5179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ramish Cheema",
+            "title": "Microchip Technology Incorporated (MCHP): Why Are Hedge Funds Bullish On This Cheap Robotics Stock Right Now?",
+            "description": "We recently compiled a list of the 10 Cheap Robotics Stocks To Buy. In this article, we are going to take a look at where Microchip Technology Incorporated (...",
+            "url": "https://finance.yahoo.com/news/microchip-technology-incorporated-mchp-why-020930167.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qr0Jgn948k.SRwwodhJHZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/c3d6a9f83df1a6a2419703d8cb84487c",
+            "publishedAt": "2024-08-18T02:09:30Z",
+            "content": "We recently compiled a list of the 10 Cheap Robotics Stocks To Buy.\u00a0In this article, we are going to take a look at where Microchip Technology Incorporated (NASDAQ:MCHP) stands against the other chea\u2026 [+9083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Benjamin A. Senn",
+            "title": "New X-ray world record: Looking inside a microchip with 4 nanometer precision",
+            "description": "In a collaboration with EPFL Lausanne, ETH Zurich and the University of Southern California researchers at the Paul Scherrer Institute PSI have used X-rays to look inside a microchip with higher precision than ever before. The image resolution of 4 nanometers\u2026",
+            "url": "https://phys.org/news/2024-08-ray-world-microchip-nanometer-precision.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-x-ray-world-record.jpg",
+            "publishedAt": "2024-08-06T15:51:25Z",
+            "content": "In a collaboration with EPFL Lausanne, ETH Zurich and the University of Southern California researchers at the Paul Scherrer Institute PSI have used X-rays to look inside a microchip with higher prec\u2026 [+7980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CounterPunch"
+            },
+            "author": "Meghan P. Keating",
+            "title": "Rat Poison is Threatening Carnivores Around the\u00a0World",
+            "description": "This mountain lion, known as P-47, was found dead in Southern California on March 21, 2019, with rat poison in his system. National Park Service via AP Rats thrive around humans, for good reason: They feed off crops and garbage and readily adapt to many setti\u2026",
+            "url": "https://www.counterpunch.org/2024/08/14/rat-poison-is-threatening-carnivores-around-the-world/",
+            "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2024/08/Screenshot-2024-08-12-at-7.57.20\u202fAM-934x630.png",
+            "publishedAt": "2024-08-14T05:51:31Z",
+            "content": "This mountain lion, known as P-47, was found dead in Southern California on March 21, 2019, with rat poison in his system.National Park Service via AP\r\nRats thrive around humans, for good reason: The\u2026 [+7691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "New substrate material for flexible electronics could help combat e-waste",
+            "description": "A new material for flexible electronics could enable multilayered, recyclable electronic devices and help limit e-waste.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240806130254.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-06T17:02:54Z",
+            "content": "Electronic waste, or e-waste, is a rapidly growing global problem, and it's expected to worsen with the production of new kinds of flexible electronics for robotics, wearable devices, health monitors\u2026 [+4159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Research and Markets",
+            "title": "Global Industrial Robotics Market Report 2024-2032 with Competitive Analysis of KUKA, iRobot, Intuitive Surgical, Panasonic, Fanuc, ABB, and Stryker",
+            "description": "Dublin, Aug. 19, 2024 (GLOBE NEWSWIRE) -- The \"Global Industrial Robotics Market Report by Segment (Plastic & Chemical Products, Automotive Industry, Electrical & Electronics, Metal & Machinery, Food, and Others), Countries and Company Analysis, 2024-2032\" re\u2026",
+            "url": "https://www.globenewswire.com/news-release/2024/08/19/2932237/28124/en/Global-Industrial-Robotics-Market-Report-2024-2032-with-Competitive-Analysis-of-KUKA-iRobot-Intuitive-Surgical-Panasonic-Fanuc-ABB-and-Stryker.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2024-08-19T14:32:00Z",
+            "content": "Dublin, Aug. 19, 2024 (GLOBE NEWSWIRE) -- The \"Global Industrial Robotics Market Report by Segment (Plastic &amp; Chemical Products, Automotive Industry, Electrical &amp; Electronics, Metal &amp; Mac\u2026 [+9064 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fair Observer"
+            },
+            "author": "SM Saifee Islam",
+            "title": "Semiconductor Tech Is a New Battlefield in the US\u2013China Rivalry",
+            "description": "Semiconductor chips, or microchips, are the tiny brains that run countless devices we use each day. These marvels power everything from refrigerators to smartphones, car navigation to wearable tech. The ever-growing demand for smart devices has created a desi\u2026",
+            "url": "https://www.fairobserver.com/economics/semiconductor-tech-is-a-new-battlefield-in-the-us-china-rivalry/",
+            "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2024/08/semi.webp",
+            "publishedAt": "2024-08-15T12:19:19Z",
+            "content": "Semiconductor chips, or microchips, are the tiny brains that run countless devices we use each day. These marvels power everything from refrigerators to smartphones, car navigation to wearable tech. \u2026 [+6985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "list.metadata.agency",
+            "title": "The soldiers of the silicon supply chain are worried",
+            "description": "Geopolitics risks distorting a miracle of modern technology",
+            "url": "https://www.livemint.com/industry/the-soldiers-of-the-silicon-supply-chain-are-worried-11722332634704.html",
+            "urlToImage": "https://images.livemint.com/img/2024/07/30/1600x900/g819e456559377224a7483a82e0417e81680d7e046ca90316e_1722332689676_1722332689868.jpg",
+            "publishedAt": "2024-07-30T09:50:26Z",
+            "content": "There is a wry sense of seen-it-all-before in the crucible of the worlds semiconductor industry. When your columnist took the bullet train to Hsinchu Science Park, home to Taiwan Semiconductor Manufa\u2026 [+6093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "SPHERICAL INSIGHTS LLP",
+            "title": "Global Multimedia Chipsets Market Size To Worth USD 60.38 Billion By 2033 | CAGR of 6.76%",
+            "description": "The Global Multimedia Chipsets Market Size was Valued at USD 31.40 Billion in 2023 and the Worldwide Multimedia Chipsets Market Size is Expected to Reach USD 60.38 Billion by 2033, according to a research report published by Spherical Insights & Consulting. C\u2026",
+            "url": "https://www.globenewswire.com/news-release/2024/08/20/2932529/0/en/Global-Multimedia-Chipsets-Market-Size-To-Worth-USD-60-38-Billion-By-2033-CAGR-of-6-76.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/b27a94e8-407e-46ae-a5c2-47bb2a1c8a2e",
+            "publishedAt": "2024-08-20T06:00:00Z",
+            "content": "New York, United States , Aug. 20, 2024 (GLOBE NEWSWIRE) -- The Global Multimedia Chipsets Market Size is to Grow from USD 31.40 Billion in 2023 to USD 60.38 Billion by 2033, at a Compound Annual Gro\u2026 [+10865 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Greg Rosalsky",
+            "title": "10 reasons why AI may be overrated",
+            "description": "A list of reasons why generative AI may be overhyped.",
+            "url": "https://www.npr.org/sections/planet-money/2024/08/06/g-s1-15245/10-reasons-why-ai-may-be-overrated-artificial-intelligence",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F3c%2F0738d4d24d4cbc7a90a2e035aef0%2Fgettyimages-2032811185.jpg",
+            "publishedAt": "2024-08-06T10:30:00Z",
+            "content": "Is artificial intelligence overrated? Ever since ChatGPT heralded the explosion of generative AI in late 2022, the technology has seen incredible hype in the industry and media. And countless investo\u2026 [+17182 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "The New York Times",
+            "title": "With Smugglers and Front Companies, China Is Skirting American A.I. Bans",
+            "description": "In the southern Chinese city of Shenzhen, a mazelike market stretches for a half-mile, packed with stalls selling every type of electronic imaginable. It\u2019s an open secret that vendors here are offering one of the world\u2019s most sought-after technologies: the mi\u2026",
+            "url": "https://freerepublic.com/focus/f-chat/4256134/posts",
+            "urlToImage": null,
+            "publishedAt": "2024-08-04T04:40:44Z",
+            "content": "Skip to comments.\r\nWith Smugglers and Front Companies, China Is Skirting American A.I. BansThe New York Times ^\r\n | Aug. 4, 2024, 12:00 a.m. ET\r\n | Ana Swanson and Claire Fu\r\nPosted on 08/03/2024 9:4\u2026 [+2464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "SEALCOIN Technology Successfully Tested in a Proof of Concept for Transactional-IoT M2M",
+            "description": "SEALCOIN Technology Successfully Tested in a Proof of Concept for Transactional-IoT M2M",
+            "url": "https://www.investing.com/news/press-releases/sealcoin-technology-successfully-tested-in-a-proof-of-concept-for-transactionaliot-m2m-93CH-3553841",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+            "publishedAt": "2024-08-05T05:12:06Z",
+            "content": "Geneva, Switzerland, Aug. 05, 2024 (GLOBE NEWSWIRE) -- For more information see this video presentation: https://youtu.be/daOvoOxqGvQ\r\nWISeKey International Holding Ltd. (WISeKey or the Company) (SIX\u2026 [+6985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Wisekey International Holding Ltd.",
+            "title": "SEALCOIN Technology Successfully Tested in a Proof of Concept for Transactional-IoT M2M",
+            "description": "Geneva, Switzerland, Aug.  05, 2024  (GLOBE NEWSWIRE) -- For more information see this video presentation: https://youtu.be/daOvoOxqGvQ  WISeKey......",
+            "url": "https://www.globenewswire.com/news-release/2024/08/05/2924029/0/en/SEALCOIN-Technology-Successfully-Tested-in-a-Proof-of-Concept-for-Transactional-IoT-M2M.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788",
+            "publishedAt": "2024-08-05T05:00:00Z",
+            "content": "Geneva, Switzerland, Aug. 05, 2024 (GLOBE NEWSWIRE) -- For more information see this video presentation: https://youtu.be/daOvoOxqGvQ\r\nWISeKey International Holding Ltd. (WISeKey or the Company) (SIX\u2026 [+6974 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mit.edu"
+            },
+            "author": "David L. Chandler | MIT News",
+            "title": "New substrate material for flexible electronics could help combat e-waste",
+            "description": "A new material for flexible electronics could enable multilayered, recyclable electronic devices and help limit e-waste. The material was developed at MIT, the University of Utah, and Meta.",
+            "url": "https://news.mit.edu/2024/new-substrate-flexible-material-could-help-combat-electronic-waste-0806",
+            "urlToImage": "https://news.mit.edu/sites/default/files/images/202408/MIT_Recyclable-Electronics-01-PRESS.jpg",
+            "publishedAt": "2024-08-06T04:00:00Z",
+            "content": "Electronic waste, or e-waste, is a rapidly growing global problem, and its expected to worsen with the production of new kinds of flexible electronics for robotics, wearable devices, health monitors,\u2026 [+4554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "The Star Online",
+            "title": "How ants are inspiring tomorrow\u2019s autonomous drones",
+            "description": "Read full story",
+            "url": "https://www.thestar.com.my/tech/tech-news/2024/07/23/how-ants-are-inspiring-tomorrows-autonomous-drones",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/07/23/2816890.jpg",
+            "publishedAt": "2024-07-23T02:00:00Z",
+            "content": "Scientists at The Netherlands' Delft University of Technology (TU Delft) have drawn inspiration from the behavior of ants to develop a novel navigation technique for lightweight drones. The idea is f\u2026 [+1924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "SNS Insider pvt ltd",
+            "title": "Krypton Market to Reach USD 62.6 Million by 2032 Driven by Expanding Applications in Energy Efficiency and High-Performance Technologies | Report by SNS Insider",
+            "description": "The growing demand for energy-efficient lighting solutions and the increasing use of krypton in high-performance windows and laser applications are driving the Krypton market. The rising focus on sustainable construction and advancements in healthcare and aer\u2026",
+            "url": "https://www.globenewswire.com/news-release/2024/08/13/2929183/0/en/Krypton-Market-to-Reach-USD-62-6-Million-by-2032-Driven-by-Expanding-Applications-in-Energy-Efficiency-and-High-Performance-Technologies-Report-by-SNS-Insider.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/cb2adc75-7bac-484e-a705-cb2addc4a99e",
+            "publishedAt": "2024-08-13T12:24:00Z",
+            "content": "Austin, Aug. 13, 2024 (GLOBE NEWSWIRE) -- The Krypton Market \r\nShare\r\n\u00a0was valued at USD 58.0 million in 2023, and is expected to reach USD 62.6 million by 2032, and grow at a CAGR of 0.9% over the f\u2026 [+7933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Wisekey International Holding Ltd.",
+            "title": "WISeKey Renews WebTrust Compliance for OISTE/WISeKey Global Root of Trust",
+            "description": "Geneva and Zug, Switzerland \u2013 August 6, 2024 \u2013 WISeKey International Holding Ltd (\u201cWISeKey\u201d, SIX: WIHN; Nasdaq: WKEY), a leading global cybersecurity and IoT company operating as a holding company, today announced the renewal of the WebTrust seal of assurance\u2026",
+            "url": "https://www.globenewswire.com/news-release/2024/08/06/2924724/0/en/WISeKey-Renews-WebTrust-Compliance-for-OISTE-WISeKey-Global-Root-of-Trust.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788",
+            "publishedAt": "2024-08-06T05:00:00Z",
+            "content": "Geneva and Zug, Switzerland August 6, 2024 WISeKey International Holding Ltd (WISeKey, SIX: WIHN; Nasdaq: WKEY), a leading global cybersecurity and IoT company operating as a holding company, today a\u2026 [+7708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "WISeKey Renews WebTrust Compliance for OISTE/WISeKey Global Root of Trust",
+            "description": "WISeKey Renews WebTrust Compliance for OISTE/WISeKey Global Root of Trust",
+            "url": "https://www.investing.com/news/press-releases/wisekey-renews-webtrust-compliance-for-oistewisekey-global-root-of-trust-93CH-3555986",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+            "publishedAt": "2024-08-06T05:48:10Z",
+            "content": "Geneva and Zug, Switzerland August 6, 2024 WISeKey International Holding Ltd (WISeKey, SIX: WIHN; Nasdaq: WKEY), a leading global cybersecurity and IoT company operating as a holding company, today a\u2026 [+7764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Wisekey International Holding Ltd.",
+            "title": "WISeKey Partners with Venafi on Post-Quantum Encryption Services",
+            "description": "Zug, Switzerland, Aug. 14, 2024 (GLOBE NEWSWIRE) -- WISeKey International Holding Ltd. (\u201cWISeKey\u201d or the \u201cCompany\u201d) (SIX: WIHN, NASDAQ: WKEY), a global leader in cybersecurity, digital identity and IoT solutions operating as a holding company, announced today\u2026",
+            "url": "https://www.globenewswire.com/news-release/2024/08/14/2929766/0/en/WISeKey-Partners-with-Venafi-on-Post-Quantum-Encryption-Services.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788",
+            "publishedAt": "2024-08-14T05:00:00Z",
+            "content": "Zug, Switzerland, Aug. 14, 2024 (GLOBE NEWSWIRE) -- WISeKey International Holding Ltd. (WISeKey or the Company) (SIX: WIHN, NASDAQ: WKEY), a global leader in cybersecurity, digital identity and IoT s\u2026 [+8175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "WISeKey Partners with Venafi on Post-Quantum Encryption Services",
+            "description": "WISeKey Partners with Venafi on Post-Quantum Encryption Services",
+            "url": "https://www.investing.com/news/press-releases/wisekey-partners-with-venafi-on-postquantum-encryption-services-93CH-3570508",
+            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+            "publishedAt": "2024-08-14T05:12:06Z",
+            "content": "Zug, Switzerland, Aug. 14, 2024 (GLOBE NEWSWIRE) -- WISeKey International Holding Ltd. (WISeKey or the Company) (SIX: WIHN, NASDAQ: WKEY), a global leader in cybersecurity, digital identity and IoT s\u2026 [+8197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+            "title": "Automotive Microcontroller Market to Hit USD 31.7 Billion by 2034 with 8.27% CAGR | Future Market Insights.",
+            "description": "The automotive microcontroller market is experiencing robust growth, driven by the increasing complexity of vehicle electronics and the demand for advanced features such as autonomous driving, infotainment systems, and advanced safety technologies. These micr\u2026",
+            "url": "https://www.globenewswire.com/news-release/2024/08/05/2924197/0/en/Automotive-Microcontroller-Market-to-Hit-USD-31-7-Billion-by-2034-with-8-27-CAGR-Future-Market-Insights.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+            "publishedAt": "2024-08-05T11:30:00Z",
+            "content": "NEWARK, Del, Aug. 05, 2024 (GLOBE NEWSWIRE) -- The automotive microcontroller market is estimated to be valued at USD 14.32 billion in 2024. The market is projected to register an 8.27% CAGR from 202\u2026 [+9371 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "NYT News Service",
+            "title": "With smugglers and front companies, China is skirting US AI bans",
+            "description": "The chips are an American innovation powering self-driving cars, chatbots and medical research. They have also led to rapid advances in defense technology, spurring US fears that they could help China develop superior weaponry, launch cyberattacks and make fa\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/with-smugglers-and-front-companies-china-is-skirting-us-ai-bans/articleshow/112264985.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-112265018,width-1200,height-630,imgsize-109684,overlay-ettech/photo.jpg",
+            "publishedAt": "2024-08-04T10:55:46Z",
+            "content": "In the southern Chinese city of Shenzhen, a mazelike market stretches for a half-mile, packed with stalls selling every type of electronic imaginable.It's an open secret that vendors here are offerin\u2026 [+17362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Meghan P. Keating, PhD Candidate in Wildlife and Fisheries Biology, Clemson University",
+            "title": "Rat poison is moving up through food chains, threatening carnivores around the world",
+            "description": "Modern rodenticides can kill rats with a single dose and readily pass up the food chain to larger carnivores. They are widely used and largely unregulated.",
+            "url": "https://theconversation.com/rat-poison-is-moving-up-through-food-chains-threatening-carnivores-around-the-world-232471",
+            "urlToImage": "https://images.theconversation.com/files/611604/original/file-20240805-17-sqkq76.jpg?ixlib=rb-4.1.0&rect=0%2C150%2C3240%2C1620&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2024-08-09T12:40:28Z",
+            "content": "This mountain lion, known as P-47, was found dead in Southern California on March 21, 2019, with rat poison in his system. National Park Service via AP\r\nRats thrive around humans, for good reason: Th\u2026 [+7925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Caroline Bologna",
+            "title": "9 Mistakes People Make When Traveling With Pets",
+            "description": "Animal experts share the ill-informed decisions you should avoid when you take your dog or cat on a trip.",
+            "url": "https://www.huffpost.com/entry/mistakes-traveling-with-pets_l_66aced0fe4b07dd05a201708",
+            "urlToImage": "https://img.huffingtonpost.com/asset/66bd10de230000580020d1c2.jpeg?cache=uaySqnjzhm&ops=1200_630",
+            "publishedAt": "2024-08-15T07:00:51Z",
+            "content": "Going on a vacation is a great way to take a break from the stresses of everyday life and recharge while exploring a new place. For pet owners, however, travel can present a different sort of challen\u2026 [+13584 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "The Blaze",
+            "title": "The government has a new plan to seize patents, and it's a huge threat to innovation",
+            "description": "Over the weekend, I took my daughter and her best friend on a day trip from Northern Virginia to Hico, West Virginia. In a matter of 120 minutes, you pass from one of the statistically wealthiest areas in the United States to some of the most destitute roadsi\u2026",
+            "url": "https://freerepublic.com/focus/f-bloggers/4258850/posts",
+            "urlToImage": null,
+            "publishedAt": "2024-08-16T19:31:13Z",
+            "content": "Skip to comments.\r\nThe government has a new plan to seize patents, and it's a huge threat to innovationThe Blaze ^\r\n | August 13, 2024\r\n | Stephen Kent\r\nPosted on 08/16/2024 12:31:13 PM PDT by Twoton\u2026 [+8008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Amkor Signs Preliminary Memorandum of Terms with US Department of Commerce for Arizona Advanced Packaging and Test Facility",
+            "description": "Amkor Signs Preliminary Memorandum of Terms with US Department of Commerce for Arizona Advanced Packaging and Test Facility",
+            "url": "https://www.investing.com/news/press-releases/amkor-signs-preliminary-memorandum-of-terms-with-us-department-of-commerce-for-arizona-advanced-packaging-and-test-facility-93CH-3538476",
+            "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+            "publishedAt": "2024-07-26T09:16:04Z",
+            "content": "TEMPE, Ariz.--(BUSINESS WIRE)--Amkor Technology, Inc. (Nasdaq: AMKR), a leading provider of semiconductor packaging and test services, announced today it has signed a non-binding preliminary memorand\u2026 [+11707 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "NYT News Service",
+            "title": "With smugglers and front companies, China is skirting US AI bans",
+            "description": "The United States, with some success, has tried to control the export of chips. Still, The New York Times has found an active trade in restricted AI technology -- part of a global effort to help China circumvent U.S. restrictions amid the countries' growing m\u2026",
+            "url": "https://economictimes.indiatimes.com/tech/technology/with-smugglers-and-front-companies-china-is-skirting-us-ai-bans/articleshow/112430619.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-112430658,width-1200,height-630,imgsize-340880,overlay-ettech/photo.jpg",
+            "publishedAt": "2024-08-10T15:16:52Z",
+            "content": "In the southern Chinese city of Shenzhen, a mazelike market stretches for a half-mile, packed with stalls selling every type of electronic imaginable.It's an open secret that vendors are offering one\u2026 [+8712 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techtarget.com"
+            },
+            "author": "Arielle Waldman",
+            "title": "Microchip Technology discloses cyber attack, business delays",
+            "description": "The microprocessor manufacturer detected malicious activity in its network over the weekend, which disrupted business operations and impaired its ability to fulfill orders.",
+            "url": "https://www.techtarget.com/searchsecurity/news/366608152/Microchip-Technology-discloses-cyber-attack-business-delays",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a226543052.jpg",
+            "publishedAt": "2024-08-21T12:41:00Z",
+            "content": "Microchip Technology, Inc., disclosed it suffered a cyber attack last week that disrupted its ability to fulfill customer orders.\r\nIn an 8K filing Tuesday, Microchip president Ganesh Moorthy revealed\u2026 [+3116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tech Xplore"
+            },
+            "author": "David L. Chandler",
+            "title": "New substrate material for flexible electronics could help combat e-waste",
+            "description": "Electronic waste, or e-waste, is a rapidly growing global problem, and it's expected to worsen with the production of new kinds of flexible electronics for robotics, wearable devices, health monitors, and other new applications, including single-use devices.",
+            "url": "https://techxplore.com/news/2024-08-substrate-material-flexible-electronics-combat.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/new-substrate-material-1.jpg",
+            "publishedAt": "2024-08-06T12:03:27Z",
+            "content": "Electronic waste, or e-waste, is a rapidly growing global problem, and it's expected to worsen with the production of new kinds of flexible electronics for robotics, wearable devices, health monitors\u2026 [+5059 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Microchip Technology Inc.",
+            "title": "Microchip Technology Announces Financial Results for First Quarter of Fiscal Year 2025",
+            "description": "CHANDLER, Ariz., Aug. 01, 2024 (GLOBE NEWSWIRE) -- (NASDAQ: MCHP) - Microchip Technology Incorporated, a leading provider of smart, connected, and secure embedded control solutions, today reported results for the three months ended June\u00a030, 2024, as summarize\u2026",
+            "url": "https://www.globenewswire.com/news-release/2024/08/01/2923237/0/en/Microchip-Technology-Announces-Financial-Results-for-First-Quarter-of-Fiscal-Year-2025.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/443d82a7-09a7-4ecd-a1b6-6884351a2b14",
+            "publishedAt": "2024-08-01T20:10:00Z",
+            "content": "<ul><li>Net sales of $1.241 billion, down 6.4% sequentially and down45.8% from the year ago quarter. The midpoint of our guidance provided on May\u00a06, 2024 was net sales of $1,240 billion.</li><li>On a\u2026 [+46149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Drum"
+            },
+            "author": "Richard Draycott",
+            "title": "People and partnerships: how to stay ahead of the pack in adland",
+            "description": "In this week\u2019s Agency Advice installment, leaders share the initiatives they employ to keep their people up to speed and ensure that new knowledge drips through their agency like a leaking tap.To quote Ferris Bueller, \u201cLife moves pretty fast. If you don\u2019t sto\u2026",
+            "url": "https://www.thedrum.com/news/2024/08/15/people-and-partnerships-how-stay-ahead-the-pack-adland",
+            "urlToImage": "https://thedrum-media.imgix.net//thedrum-prod/s3/news/353477/staying_ahead.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
+            "publishedAt": "2024-08-15T10:02:00Z",
+            "content": "In this weeks Agency Advice installment, leaders share the initiatives they employ to keep their people up to speed and ensure that new knowledge drips through their agency like a leaking tap.To quot\u2026 [+19843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foreign Affairs"
+            },
+            "author": "Zongyuan Zoe Liu",
+            "title": "China\u2019s Real Economic Crisis",
+            "description": "The Chinese economy is stuck. Following Beijing\u2019s decision, in late 2022, to abruptly end its draconian \u201czero COVID\u201d policy, many observers assumed that China\u2019s growth engine would rapidly reignite. After years of pandemic lockdowns that brought some economic\u2026",
+            "url": "https://www.foreignaffairs.com/china/chinas-real-economic-crisis",
+            "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2024/08/01/1_GettyImages-2157136873_1.jpg?itok=8Yji-Xpy",
+            "publishedAt": "2024-08-06T05:49:33Z",
+            "content": "The Chinese economy is stuck. Following Beijings decision, in late 2022, to abruptly end its draconian zero COVID policy, many observers assumed that Chinas growth engine would rapidly reignite. Afte\u2026 [+36837 chars]"
+        }
+    ]
+}

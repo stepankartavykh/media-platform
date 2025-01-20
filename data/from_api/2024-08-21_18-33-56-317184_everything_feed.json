@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 13288,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "How China Built Tech Prowess: Chemistry Classes and Research Labs",
+            "description": "Stressing science education, China is outpacing other countries in research fields like battery chemistry, crucial to its lead in electric vehicles. From a report: China's domination of electric cars, which is threatening to start a trade war, was born decade\u2026",
+            "url": "https://news.slashdot.org/story/24/08/09/144214/how-china-built-tech-prowess-chemistry-classes-and-research-labs",
+            "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
+            "publishedAt": "2024-08-09T18:00:00Z",
+            "content": "China's domination of electric cars, which is threatening to start a trade war, was born decades ago in university laboratories in Texas, when researchers discovered how to make batteries with minera\u2026 [+1465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "New Research Reveals AI Lacks Independent Learning, Poses No Existential Threat",
+            "description": "ZipNada writes: New research reveals that large language models (LLMs) like ChatGPT cannot learn independently or acquire new skills without explicit instructions, making them predictable and controllable. The study dispels fears of these models developing co\u2026",
+            "url": "https://slashdot.org/story/24/08/14/0456259/new-research-reveals-ai-lacks-independent-learning-poses-no-existential-threat",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-08-14T07:00:00Z",
+            "content": "ZipNada writes: New research reveals that large language models (LLMs) like ChatGPT cannot learn independently or acquire new skills without explicit instructions, making them predictable and control\u2026 [+1565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "Bicycles Can Be Hacked Now",
+            "description": "High-level racers now have a new form of sabotage to worry about.",
+            "url": "https://gizmodo.com/bicycles-can-be-hacked-now-2000487952",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Bikers-at-the-Tour-de-France.jpg",
+            "publishedAt": "2024-08-16T18:05:03Z",
+            "content": "The Internet of Things has made it possible for you to dispose of your cat\u2019s poop with the click of a button, close your garage door with your phone, and even use utensils that vibrate when you\u2019re ab\u2026 [+2687 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arpa-h.gov"
+            },
+            "author": null,
+            "title": "ARPA-H announces awards to develop novel technologies for precise tumor removal",
+            "description": "The Advanced Research Projects Agency for Health (ARPA-H) supports transformative research to drive biomedical and health breakthroughs ranging from molecular to societal to provide transformative health solutions for all.",
+            "url": "https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal",
+            "urlToImage": "https://arpa-h.gov/sites/default/files/2023-11/PI_1200x600.jpg",
+            "publishedAt": "2024-08-13T21:00:10Z",
+            "content": "PSI performer teams aim to deliver groundbreaking tools enabling surgeons to successfully remove tumors through a single operation\r\nThe Advanced Research Projects Agency for Health (ARPA-H), an agenc\u2026 [+7398 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "You Won\u2019t Believe What Car Headlights Have in Store",
+            "description": "New technology and a drive toward electrified powertrains have converged to create a flashy new car-lighting landscape. What comes next could be an international light language.",
+            "url": "https://www.wired.com/story/you-wont-believe-what-car-headlights-have-in-store/",
+            "urlToImage": "https://media.wired.com/photos/66ab9e4105e2c8a2510afd5c/191:100/w_1280,c_limit/Lucid%20Headlight%20Rendering%20(1).gif",
+            "publishedAt": "2024-08-02T11:00:00Z",
+            "content": "Sure, duh: Vehicle lights serve the important and vital safety function of allowing drivers to see where theyre going, and everyone else to see when theyre coming. But for decades, car designers have\u2026 [+2972 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Honda and Nissan invite Mitsubishi to join their EV development partnership",
+            "description": "Mitsubishi is joining Honda and Nissan\u2019s joint venture to codevelop electric vehicles and other tech products. Honda and Nissan are also working together on software-defined vehicles.",
+            "url": "https://www.theverge.com/2024/8/1/24211319/honda-nissan-mitsubishi-ev-development-partnership",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BWBJ_BjUzqykq_ohNgF974wwi-w=/0x0:4389x2926/1200x628/filters:focal(2195x1463:2196x1464)/cdn.vox-cdn.com/uploads/chorus_asset/file/25555499/2164107743.jpg",
+            "publishedAt": "2024-08-01T18:35:14Z",
+            "content": "Honda and Nissan invite Mitsubishi to join their EV development partnership\r\nHonda and Nissan invite Mitsubishi to join their EV development partnership\r\n / The three Japanese companies need to catch\u2026 [+3150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Palantir Technologies Inc. (PLTR) Recently Broke Out Above the 20-Day Moving Average",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a981852-b3c0-4557-9300-cd844f589833",
+            "urlToImage": null,
+            "publishedAt": "2024-08-09T13:35:04Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emily Stewart",
+            "title": "A new study shows that men are terrible at giving medical advice online",
+            "description": "New research shows that drug reviews from women can predict a serious problem. On the flip side, men's comments are \"completely meaningless.\"",
+            "url": "https://www.businessinsider.com/women-men-medicine-drug-reviews-online-health-medical-advice-webmd-2024-7",
+            "urlToImage": "https://i.insider.com/66a93d4f1a227600e632e242?width=1200&format=jpeg",
+            "publishedAt": "2024-07-31T09:56:02Z",
+            "content": "iStock; Rebecca Zisser/BI\r\nIt's a familiar experience: You wake up feeling a little off with a slight headache and some sniffles. Or maybe you started on a new medicine, and you've noticed a small ra\u2026 [+6416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Missing Henry VIII portrait found after random X post",
+            "description": "A historian spots the work from the 1590s in the background of a photo shared on the social media site.",
+            "url": "https://www.bbc.com/news/articles/ckdgp7r5y11o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2252/live/e3e231f0-49cd-11ef-93bd-53dd3ccea4f1.jpg",
+            "publishedAt": "2024-07-25T14:53:50Z",
+            "content": "The portrait of King Henry VIII dates back to the 1590s\r\nA post on X spotted randomly by an art historian has led to a portrait of King Henry VIII - hanging in a West Midland council hall - to be ide\u2026 [+2553 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "An Open AI Backed Non-Profit Gave $1,000 a Month to Poor People. Here\u2019s What They Did With It",
+            "description": "OpenResearch released the first results of the most comprehensive study on giving unrestricted cash grants to impoverished Americans. Researchers say it will flame both sides of the debate over welfare.",
+            "url": "https://www.wired.com/story/sam-altmans-big-basic-income-study-is-finally-out/",
+            "urlToImage": "https://media.wired.com/photos/669e47189ed5d5cbf284adf4/191:100/w_1280,c_limit/GettyImages-1445809826.jpg",
+            "publishedAt": "2024-07-22T12:00:18Z",
+            "content": "OpenAI CEO Sam Altmans decadein-the-making effort to understand how handing out free money affects recipients and the broader economy delivered its first big results Monday. OpenResearch found that w\u2026 [+4506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Solutions to Nigeria's newborn mortality rate might lie in existing innovations, finds review",
+            "description": "Newborn deaths in sub-Saharan Africa could be reduced by nationally scaling up in-country technologies, a review of 32 years' research has found.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240815123715.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-15T16:37:15Z",
+            "content": "The review, led by Imperial College London's Professor Hippolite Amadi, argues that Nigeria's own discoveries and technological advancements of the past three decades have been \"abandoned\" by policym\u2026 [+3447 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smashingmagazine.com"
+            },
+            "author": "hello@smashingmagazine.com (Joas Pambou)",
+            "title": "Integrating Image-To-Text And Text-To-Speech Models (Part\u00a01)",
+            "description": "Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what\u2019s in an i\u2026",
+            "url": "https://www.smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/",
+            "urlToImage": "https://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg",
+            "publishedAt": "2024-07-24T10:00:00Z",
+            "content": "Audio descriptions involve narrating contextual visual information in images or videos, improving user experiences, especially for those who rely on audio cues.\r\nAt the core of audio description tech\u2026 [+24126 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "The Conversation",
+            "title": "Drones could revolutionise the construction industry, supporting a new UK housing\u00a0boom",
+            "description": "The UK\u2019s new Labour government has pledged to build 1.5 million homes during its first term in office. To achieve this, it promises planning reform and the reintroduction of local housing targets. Yet little attention has been given to the role of new technol\u2026",
+            "url": "https://thenextweb.com/news/drones-could-revolutionise-construction-industry-supporting-uk-housing-boom",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2FDesigner.jpeg&signature=8b3930b75828fe7c32f1da61602d420c",
+            "publishedAt": "2024-07-30T09:37:49Z",
+            "content": "The UKs new Labour government has pledged to build 1.5 million homes during its first term in office. To achieve this, it promises planning reform and the reintroduction of local housing targets. Yet\u2026 [+5876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "China Is Getting Secretive About Its Supercomputers",
+            "description": "For decades, American and Chinese scientists collaborated on supercomputers. But Chinese scientists have become more secretive as the U.S. has tried to hinder China's technological progress, and they have stopped participating altogether in a prominent intern\u2026",
+            "url": "https://tech.slashdot.org/story/24/07/23/1919232/china-is-getting-secretive-about-its-supercomputers",
+            "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
+            "publishedAt": "2024-07-23T21:21:00Z",
+            "content": "The withdrawal marked the end of an era and created a divide that Western scientists say will slow the development of AI and other technologies as countries pursue separate projects. The new secrecy \u2026 [+1116 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "ASML\u2019s latest machine powers new breakthroughs for logic and memory chips",
+            "description": "Imec, a leading semiconductor research company based in Belgium, today announced a series of chipmaking breakthroughs at its joint lab with ASML. The lab opened its doors in June with the aim to provide ecosystem partners with early access to the High NA EUV \u2026",
+            "url": "https://thenextweb.com/news/asmls-latest-machine-powers-new-breakthroughs-for-logic-and-memory-chips",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2Fveldhoven-cleanroom.png&signature=4fad4ee46d08f3f876f50b782ac25304",
+            "publishedAt": "2024-08-07T15:16:38Z",
+            "content": "Imec, a leading semiconductor research company based in Belgium, today announced a series of chipmaking breakthroughs at its joint lab with ASML.\r\nThe lab opened its doors in June with the aim to pro\u2026 [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Suswati Basu",
+            "title": "Qualcomm launches new \u2018affordable and reliable\u2019 Snapdragon 4s Gen 2 chip",
+            "description": "Qualcomm has unveiled its new and affordable smartphone chip, the Snapdragon 4s Gen 2 chipset, at an event in India.\u2026 Continue reading Qualcomm launches new \u2018affordable and reliable\u2019 Snapdragon 4s Gen 2 chip\nThe post Qualcomm launches new \u2018affordable and reli\u2026",
+            "url": "https://readwrite.com/qualcomm-snapdragon-4s-gen-2-chip/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/Qualcomm-launches-affordable-and-reliable-Snapdragon-4s-Gen-2-chip.png",
+            "publishedAt": "2024-07-30T14:17:14Z",
+            "content": "Qualcomm has unveiled its new and affordable smartphone chip, the Snapdragon 4s Gen 2 chipset, at an event in India. The entry-level chip is set to be available in phones at the end of the year.\r\nWha\u2026 [+2205 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Depop and Selfridges are stitching AI analytics into second-hand fashion",
+            "description": "Depop and Selfridges are sewing an AI thread\u00a0into their clothes. The fashion retailers have enlisted British startup Kelp Technologies to analyse market trends and prices of second-hand apparel. Kelp \u2014 aka Truss \u2014 will apply AI to automatically assess items o\u2026",
+            "url": "https://thenextweb.com/news/ai-analyses-depop-selfridges-second-hand-fashion",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FUntitled-design-2.jpg&signature=edddde210b8b3d6119b4f67560da52cb",
+            "publishedAt": "2024-08-07T10:01:46Z",
+            "content": "Depop and Selfridges are sewing an AI thread\u00a0into their clothes.\r\nThe fashion retailers have enlisted British startup Kelp Technologies to analyse market trends and prices of second-hand apparel.\r\nKe\u2026 [+2057 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jacob Zinkula",
+            "title": "How the AI revolution could cost you your job without replacing you",
+            "description": "Huge AI investments are costing some workers their jobs as companies change their spending priorities.",
+            "url": "https://www.businessinsider.com/ai-job-losses-spending-new-tech-meta-google-amazon-layoffs-2024-7",
+            "urlToImage": "https://i.insider.com/669fe1ee2d66759f66fd5746?width=1200&format=jpeg",
+            "publishedAt": "2024-07-26T10:03:02Z",
+            "content": "Meta CEO Mark Zuckerberg (left) and Google CEO Sundar Pichai (right) have both cited AI investments as a reason for layoffs at their companies. Johannes Simon via Getty Images; Boris Streubel via Get\u2026 [+5169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Saima S. Iqbal",
+            "title": "American Science is in Dangerous Decline while Chinese Research Surges, Experts Warn",
+            "description": "The U.S. sorely needs a coordinated national research strategy, says Marcia McNutt, president of the U.S. National Academy of Sciences",
+            "url": "https://www.scientificamerican.com/article/american-science-is-in-dangerous-decline-while-chinese-research-surges/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/5c6b0ea5c2fbe312/original/GettyImages-470622789_WEB.jpg?w=1200",
+            "publishedAt": "2024-08-07T12:00:00Z",
+            "content": "In a first-ever \u201cState of the Science\u201d address at the end of June, National Academy of Sciences president Marcia McNutt warned that the U.S. was ceding its global scientific leadership to other count\u2026 [+7818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SemiEngineering"
+            },
+            "author": "Ed Sperling",
+            "title": "Intel vs. Samsung vs. TSMC",
+            "description": "Foundry competition heats up in three dimensions and with novel technologies as planar scaling benefits diminish.",
+            "url": "https://semiengineering.com/intel-vs-samsung-vs-tsmc/",
+            "urlToImage": "https://semiengineering.com/wp-content/uploads/6.png",
+            "publishedAt": "2024-07-20T20:29:37Z",
+            "content": "The three leading-edge foundries Intel, Samsung, and TSMC have started filling in some key pieces in their roadmaps, adding aggressive delivery dates for future generations of chip technology and set\u2026 [+22285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigaom.com"
+            },
+            "author": "Chris Ray",
+            "title": "Navigating the Unique Landscape of OT Security Solutions",
+            "description": "Operational technology (OT) security solutions are software and hardware technologies designed to protect OT assets from cyberthreats. They provide automated asset discovery, dynamic network segmentation, AI technologies for threat detection, protocol and app\u2026",
+            "url": "https://gigaom.com/2024/08/16/navigating-the-unique-landscape-of-ot-security-solutions/",
+            "urlToImage": "https://gigaom.com/wp-content/uploads/sites/1/2024/08/753b1efa-blogcoverart_navigating.png",
+            "publishedAt": "2024-08-16T21:29:54Z",
+            "content": "Exploring the operational technology (OT) security sector has been both enlightening and challenging, particularly due to its distinct priorities and requirements compared to traditional IT security.\u2026 [+4427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kylie Mohr, Grist",
+            "title": "\u2018Wood Vaulting\u2019 Explained: The Climate Solution You\u2019ve Never Heard Of",
+            "description": "Forests throughout the West are overgrown and full of flammable vegetation, fueling wildfires and carbon emissions. Could burying it help solve the problem?",
+            "url": "https://gizmodo.com/wood-vaulting-explained-the-climate-solution-youve-never-heard-of-2000477856",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/vault-dig.jpg",
+            "publishedAt": "2024-07-23T14:54:10Z",
+            "content": "This story was originally published by Grist. Sign up for Grist\u2019s weekly newsletter here.\r\nIn northwestern Montanas Swan Valley, a pile of about 100 small logs, 10 feet long or so, sits neatly stacke\u2026 [+10195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "Meta Quest 3 will include AI personal assistant soon",
+            "description": "In a constant race against competitors, the Meta Quest 3 will be the first to bring an AI assistant to\u2026 Continue reading Meta Quest 3 will include AI personal assistant soon\nThe post Meta Quest 3 will include AI personal assistant soon appeared first on ReadW\u2026",
+            "url": "https://readwrite.com/meta-quest-3-will-include-ai-personal-assistant-soon/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/Meta_Quest_3_display_unit.jpg",
+            "publishedAt": "2024-07-24T13:31:56Z",
+            "content": "In a constant race against competitors, the Meta Quest 3 will be the first to bring an AI assistant to the device.\r\nMark Zuckerbergs company announced the news on Tuesday (July 23) through a press re\u2026 [+1730 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jacob Zinkula",
+            "title": "Why workers who lose their jobs to AI will be better off than the Midwest manufacturing employees of two decades ago",
+            "description": "The AI boom won't follow the same path as the US's manufacturing decline, an economist says. Workers will have a better chance of finding new jobs.",
+            "url": "https://www.businessinsider.com/ai-job-loss-wont-hurt-labor-market-like-manufacturing-decline-2024-8",
+            "urlToImage": "https://i.insider.com/663260e110dfcda409655b38?width=1200&format=jpeg",
+            "publishedAt": "2024-08-02T10:03:02Z",
+            "content": "The loss of manufacturing jobs in recent decades has brought about economic hardships for many Americans. AI job displacement won't play out quite the same way. AP Photo/Rick Bowmer\r\n<ul><li>AI techn\u2026 [+8233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "The Cause of Alzheimer's Might Not Be Amyloid",
+            "description": "New research from Emory University suggests that proteins accumulating around amyloid-beta deposits, rather than the deposits themselves, may play a crucial role in the progression of Alzheimer's disease, offering new directions for treatment. Recent research\u2026",
+            "url": "https://scitechdaily.com/the-real-cause-of-alzheimers-might-not-be-amyloid-groundbreaking-discovery-challenges-decades-old-theories/",
+            "urlToImage": "https://scitechdaily.com/images/Beta-Amyloid-Protein-in-the-Brain-Form-Plaques.jpg",
+            "publishedAt": "2024-08-16T21:45:46Z",
+            "content": "In the brain affected by Alzheimer\u2019s, abnormal levels of the beta-amyloid protein clump together to form plaques (seen in brown) that collect between neurons and disrupt cell function. Abnormal colle\u2026 [+4958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Lewin Day",
+            "title": "Australia Didn\u2019t Invent WiFi, Despite What You\u2019ve Heard",
+            "description": "Wireless networking is all-pervasive in our modern lives. Wi-Fi technology lives in our smartphones, our laptops, and even our watches. Internet is available to be plucked out of the air in virtual\u2026",
+            "url": "https://hackaday.com/2024/08/20/australia-didnt-invent-wifi-despite-what-youve-heard/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/08/WifiAustralia.jpg",
+            "publishedAt": "2024-08-20T14:00:31Z",
+            "content": "Wireless networking is all-pervasive in our modern lives. Wi-Fi technology lives in our smartphones, our laptops, and even our watches. Internet is available to be plucked out of the air in virtually\u2026 [+7916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "Does AI increase productivity at work? New study suggests otherwise",
+            "description": "Artificial intelligence software reduces productivity and harms the working environment, according to a study from the freelance platform, Upwork.\u00a0 The\u2026 Continue reading Does AI increase productivity at work? New study suggests otherwise\nThe post Does AI incr\u2026",
+            "url": "https://readwrite.com/study-finds-ai-drives-down-work-productivity-and-increases-workloads/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/ais.webp",
+            "publishedAt": "2024-07-26T16:40:42Z",
+            "content": "Artificial intelligence software reduces productivity and harms the working environment, according to a study from the freelance platform, Upwork.\u00a0\r\nThe findings appear to question how AI is being de\u2026 [+2934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Associated Press",
+            "title": "Nissan is developing 'cool paint' for cars cut summer cabin temperatures",
+            "description": "Filed under:\n Green,Nissan,Emerging Technologies\n Continue reading Nissan is developing 'cool paint' for cars cut summer cabin temperatures\nNissan is developing 'cool paint' for cars cut summer cabin temperatures originally appeared on Autoblog on Tue, 6 Aug \u2026",
+            "url": "https://www.autoblog.com/2024/08/06/nissan-is-developing-cool-paint-for-cars-cut-summer-cabin-temperatures/",
+            "urlToImage": "https://edgecast-img.yahoo.net/mysterio/api/8189158C8C90FB548DFAAA49410142D058C8E96061D95FF04B89C60FA8DFA9F1/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://s.aolcdn.com/images/dims3/GLOB/crop/928x522 0 79/resize/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/08/06101711/Cool-cars-2.jpg",
+            "publishedAt": "2024-08-06T14:32:00Z",
+            "content": "TOKYO Nissan showed Tuesday what it called a cool paint to keep people inside vehicles cooler, although the coating is six times thicker, making commercialization still a challenge.\r\nThe company's an\u2026 [+2417 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Jaron Schneider",
+            "title": "Harman Makes Largest Investment in Film Manufacturing Since the 1990s",
+            "description": "Harman Technologies committed a \"multi-million-pound\" investment into its film manufacturing capabilities and says it is now one of the largest and \"most active\" film production, research, and development businesses on the planet.\n[Read More]",
+            "url": "https://petapixel.com/2024/07/29/harman-makes-largest-investment-in-film-manufacturing-since-the-1990s/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2024/07/Harman-Makes-Significant-Investment-into-the-Future-of-Film-Production.jpg",
+            "publishedAt": "2024-07-29T16:12:38Z",
+            "content": "Harman Technologies committed a \u201cmulti-million-pound\u201d investment into its film manufacturing capabilities and says it is now one of the largest and \u201cmost active\u201d film production, research, and develo\u2026 [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Rachel Nuwer",
+            "title": "Next-Generation Biotech Is Rendering Some Lab Animals Obsolete",
+            "description": "Replacing research animals with tools that better mimic human biology could improve medicine",
+            "url": "https://www.scientificamerican.com/article/next-generation-biotech-is-rendering-some-lab-animals-obsolete/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/68aae50e67516e7/original/sa0924Nuwe01.jpg?w=1200",
+            "publishedAt": "2024-08-20T13:00:00Z",
+            "content": "When it came time for Itzy Morales Pantoja to start her Ph.D. in cellular and molecular medicine, she chose a laboratory that used stem cells\u2014not only animals\u2014for its research. Morales Pantoja had ju\u2026 [+23188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Beyond CPAP: Future Sleep Apnea Treatments Could Revolutionize Nighttime Health",
+            "description": "Sleep apnea used to be managed by puncturing the neck, but treatments for the common condition in the near-future promise to be far less intrusive.",
+            "url": "https://gizmodo.com/beyond-cpap-future-sleep-apnea-treatments-could-revolutionize-nighttime-health-2000484840",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/CPAP-machine.jpg",
+            "publishedAt": "2024-08-11T10:00:21Z",
+            "content": "Snoring is routinely a nuisance, particularly for people who share a bed with a light sleeper. For some, though, snoring can be a sign of a more serious health problem: sleep apnea. Once a barely kno\u2026 [+8608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blackforestlabs.ai"
+            },
+            "author": null,
+            "title": "Black Forest Labs \u2013 FLUX.1 open weights SOTA text to image model",
+            "description": "Today, we are excited to announce the launch of Black Forest Labs. Deeply rooted in the generative AI research community, our mission is to develop and advance state-of-the-art generative deep\u2026",
+            "url": "https://blackforestlabs.ai/announcing-black-forest-labs/",
+            "urlToImage": "https://i0.wp.com/blackforestlabs.ai/wp-content/uploads/2024/07/1263421895286591490_2-1.jpg?fit=1360%2C768&ssl=1",
+            "publishedAt": "2024-08-01T13:49:36Z",
+            "content": "Today, we are excited to announce the launch of Black Forest Labs. Deeply rooted in the generative AI research community, our mission is to develop and advance state-of-the-art generative deep learni\u2026 [+5948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Lee V. Gaines",
+            "title": "In the face of global warming, students are dreaming up a better climate future",
+            "description": "With heat waves and extreme weather becoming more and more common, one Indiana teacher wants to empower her students with information, and the creative freedom to imagine big ideas.",
+            "url": "https://www.npr.org/2024/08/05/nx-s1-5013643/indiana-students-climate-change",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1622x912+0+84/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F1e%2Fd79308bb466e95f39efc14d4b9c5%2Fcelberfeld-wide-teacher-w-globe.jpg",
+            "publishedAt": "2024-08-05T09:00:00Z",
+            "content": "High school freshman DeWayne Murphy has a big idea for a new green technology.\r\nThere's going to be a tank and it should be like a big giant metal tank, he explains to climate scientist Ben Kravitz o\u2026 [+6346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigaom.com"
+            },
+            "author": "Jamal Bihya",
+            "title": "Embracing the Future: A Vision for the CASB Market",
+            "description": "Cloud access security broker (CASB) solutions are security tools that act as an intermediary layer between users and cloud services, helping organizations secure their use of cloud services by monitoring and controlling access to cloud data, whether from mana\u2026",
+            "url": "https://gigaom.com/2024/08/19/embracing-the-future-a-vision-for-the-casb-market/",
+            "urlToImage": "https://gigaom.com/wp-content/uploads/sites/1/2024/08/c29f40bb-blogcoverart_embracing-the-future.png",
+            "publishedAt": "2024-08-19T17:41:41Z",
+            "content": "As we stand on the cusp of a new era in cloud security, the landscape of cloud access security brokers (CASB) is poised for transformative evolution. In this blog, we adopt the lens of foresight and \u2026 [+2691 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lloyd Lee",
+            "title": "Ex-Google CEO walked back claims that remote work is hurting Google. But a lot of CEOs have voiced a similar sentiment about returning to the office.",
+            "description": "Former Google CEO Eric Schmidt previously said that Google was behind in the AI race because of the companies remote-work policy.",
+            "url": "https://www.businessinsider.com/google-ceo-eric-schmidt-criticism-remote-work-google-openai-2024-8",
+            "urlToImage": "https://i.insider.com/663a63acb8f515beaf12653f?width=1200&format=jpeg",
+            "publishedAt": "2024-08-15T02:02:00Z",
+            "content": "Ex-Google CEO Eric Schmidt said he regrets his previous statements, blaming Google's remote work policy as the reason why the company was trailing behind startups like OpenAI.John Lamparski/Getty Ima\u2026 [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Dan Maloney",
+            "title": "Welding Wood Is As Simple as Rubbing Two Sticks Together",
+            "description": "Can you weld wood? It seems like a silly question \u2014 if you throw a couple of pieces of oak on the welding table and whip out the TIG torch, you know nothing is going to happen. But as [Action\u2026",
+            "url": "https://hackaday.com/2024/07/21/welding-wood-is-as-simple-as-rubbing-two-sticks-together/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/07/wood_welding.png",
+            "publishedAt": "2024-07-21T11:00:08Z",
+            "content": "Can you weld wood? It seems like a silly question \u2014 if you throw a couple of pieces of oak on the welding table and whip out the TIG torch, you know nothing is going to happen. But as [Action Lab] sh\u2026 [+1763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "APT41 Hackers Use ShadowPad, Cobalt Strike in Taiwanese Institute Cyber Attack",
+            "description": "A Taiwanese government-affiliated research institute that specializes in computing and associated technologies was breached by nation-state threat actors with ties to China, according to new findings from Cisco Talos.\nThe unnamed organization was targeted as \u2026",
+            "url": "https://thehackernews.com/2024/08/apt41-hackers-use-shadowpad-cobalt.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi125FXWcrNA0V42mEJt0r6IiXRsnTwpCg4tNw2H0vlMWRwZjCziEeTYbZScgOAxkQ5oFMnqUmZXpN_YXNBfX1iGQnEZanJS2INqx-EQHosA9O3DMHp3uoddksTKavfyGg7eiQrGFc6e5yciT_Wrr8troTGZ6xpMYprUj2t7TYKqdZanMZWcvihkB7UHslQ/s728-rw-e365/china.jpg",
+            "publishedAt": "2024-08-02T16:32:00Z",
+            "content": "A Taiwanese government-affiliated research institute that specializes in computing and associated technologies was breached by nation-state threat actors with ties to China, according to new findings\u2026 [+3089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Lewin Day",
+            "title": "Small Mammals Appear To Have A Secret Infrared Sense",
+            "description": "If you\u2019ve ever watched\u00a0Predator, you\u2019ve noted the tactical advantage granted to the alien warrior by its heat vision. Indeed, even with otherwise solid camoflauge, Dutch and his squad ended up \u2026read more",
+            "url": "https://hackaday.com/2024/07/22/small-mammals-appear-to-have-a-secret-infrared-sense/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/07/Lab_mouse_mg_3263.jpg",
+            "publishedAt": "2024-07-22T17:00:44Z",
+            "content": "If you\u2019ve ever watched\u00a0Predator, you\u2019ve noted the tactical advantage granted to the alien warrior by its heat vision. Indeed, even with otherwise solid camoflauge, Dutch and his squad ended up very m\u2026 [+7165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "'Smarter' semiconductor technology for training 'smarter' artificial intelligence",
+            "description": "A research team has recently demonstrated that analog hardware using ECRAM devices can maximize the computational performance of artificial intelligence, showcasing its potential for commercialization.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240801121936.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-01T16:19:36Z",
+            "content": "A research team, consisting of Professor Seyoung Kim from the Department of Materials Science and Engineering and the Department of Semiconductor Engineering and alumnus Kyungmi Noh and PhD student H\u2026 [+3208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Engineering researchers crack the code to boost solar cell efficiency and durability",
+            "description": "Photovoltaic (PV) technologies, which convert light into electricity, are increasingly applied worldwide to generate renewable energy. Researchers have now developed a molecular treatment that significantly enhances the efficiency and durability of perovskite\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240801121900.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-01T16:19:00Z",
+            "content": "Photovoltaic (PV) technologies, which convert light into electricity, are increasingly applied worldwide to generate renewable energy. Researchers at the School of Engineering of the Hong Kong Univer\u2026 [+4258 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Verdict"
+            },
+            "author": "Helen Clarke",
+            "title": "Intel launches its\u00a0first\u00a0dGPU\u00a0for automotive",
+            "description": "The announcement marks further AI innovation for the integrated digital chip maker.",
+            "url": "https://www.verdict.co.uk/intel-launches-its-first-dgpu-for-automotive/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wCukYQ4aJRacMxmJsgpXEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/verdict_626/8f2a29be1a43ff4f7e5c449d48a60aa4",
+            "publishedAt": "2024-08-08T13:55:09Z",
+            "content": "Today (8 August) Intel unveiled its first discrete graphics processing unit (dGPU), the Intel Arc Graphics for automotive.\r\nThe announcement came at the AI Cockpit Innovation Experience event in Shen\u2026 [+2566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Versatile fluidic platform for programmable liquid processing",
+            "description": "Society relies heavily on diverse fluidic technologies. The ability to precisely capture and release various chemical and biological fluids plays a fundamental role in many fields. A long-standing challenge is to design a platform that enables the switchable \u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240816121456.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-16T16:14:56Z",
+            "content": "Society relies heavily on diverse fluidic technologies. The ability toprecisely capture and release various chemical and biological fluids plays a fundamental role in many fields.A long-standing chal\u2026 [+5532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Meredith Garofalo",
+            "title": "New ISS research project will benefit cancer patients on Earth",
+            "description": "AI space biotech company shares with Space.com how a new research project in space will help benefit cancer patients on Earth.",
+            "url": "https://www.space.com/cancer-project-international-space-station",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FrjEaaGDNne7wWaSVGswKk-1200-80.jpg",
+            "publishedAt": "2024-08-14T12:00:01Z",
+            "content": "Since 2013, research has been underway on the International Space Station (ISS) National Lab\r\n with astronauts conducting experiments in microgravity to ultimately help improve our lives here on Eart\u2026 [+4623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Say 'aah' and get a diagnosis on the spot: is this the future of health?",
+            "description": "A computer algorithm has achieved a 98% accuracy in predicting different diseases by analyzing the color of the human tongue. The proposed imaging system can diagnose diabetes, stroke, anemia, asthma, liver and gallbladder conditions, COVID-19, and a range of\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240813132031.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-13T17:20:31Z",
+            "content": "A computer algorithm has achieved a 98% accuracy in predicting different diseases by analysing the colour of the human tongue.The proposed imaging system developed by Iraqi and Australian researchers\u2026 [+2029 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kyle Orland",
+            "title": "Mysterious \u201cBlack Mesa\u201d website says it\u2019s \u201cnot secretly working on Half Life 3\u201d",
+            "description": "It's \"actually a real company in the Boston area\"\u2014or is that just a cover?!",
+            "url": "https://arstechnica.com/gaming/2024/08/mysterious-black-mesa-website-says-its-not-secretly-working-on-half-life-3/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/blackmesa-760x380.jpg",
+            "publishedAt": "2024-08-15T20:55:08Z",
+            "content": "Enlarge/ Kind of a weird image to post if you're trying to convince people you're not involved in a Half-Life ARG...\r\n1\r\nHere at Ars, we're always on the lookout for hints and actions that suggest th\u2026 [+4204 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Rocket Report: ULA is losing engineers; SpaceX is launching every two days",
+            "description": "The first missions of Stoke Space's reusable Nova rocket will fly in expendable mode.",
+            "url": "https://arstechnica.com/space/2024/08/rocket-report-faa-seeks-answers-from-spacex-falcon-9-is-back-in-a-big-way/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GVCfiWiaEAAYkJ9-760x380.jpeg",
+            "publishedAt": "2024-08-16T11:00:13Z",
+            "content": "Enlarge/ A Falcon 9 booster returns to landing at Cape Canaveral Space Force Station following a launch Thursday with two WorldView Earth observation satellites for Maxar. \r\n16\r\nWelcome to Edition 7.\u2026 [+5271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "William Gavin",
+            "title": "Honda and Nissan join forces to research next-generation EVs",
+            "description": "Honda Motor and Nissan Motor have officially banded together to research electrifying their automotive fleets. A third leading Japanese automaker, Mitsubishi, has entered into a memorandum of understanding with the other two automakers as they seek an advanta\u2026",
+            "url": "https://qz.com/honda-nissan-mitsubishi-evs-partner-climate-change-1851610544",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/91464a7ff2affefa9be8b36b3b581f3d.jpg",
+            "publishedAt": "2024-08-01T13:45:00Z",
+            "content": "Honda Motor and Nissan Motor have officially banded together to research electrifying their automotive fleets. A third leading Japanese automaker, Mitsubishi, has entered into a memorandum of underst\u2026 [+2710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Imec-int.com"
+            },
+            "author": null,
+            "title": "Imec demonstrates logic and DRAM structures using High NA EUV Lithography",
+            "description": "These Results confirm the readiness of the High NA EUV patterning ecosystem for enabling future logic and memory use cases.",
+            "url": "https://www.imec-int.com/en/press/imec-demonstrates-logic-and-dram-structures-using-high-na-euv-lithography",
+            "urlToImage": "https://www.imec-int.com/sites/default/files/2024-08/fig%201.P19%20AEI.png",
+            "publishedAt": "2024-08-12T09:20:32Z",
+            "content": "LEUVEN (Belgium), August 7, 2024Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, presents patterned structures obtained after exposure with the 0.55NA EU\u2026 [+3349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Denise Wee and Chanyaporn Chanjaroen",
+            "title": "JPMorgan Gives Staff AI-Powered \u2018Research Analyst\u2019 Chatbot",
+            "description": "(Bloomberg) -- JPMorgan Chase & Co. has launched a generative artificial intelligence tool and told employees to think of it as a research analyst that can...",
+            "url": "https://finance.yahoo.com/news/jpmorgan-gives-staff-ai-powered-064014864.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lRBqn_LX6a8IXKu2Ql9QdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/6280eeee7e4d1ea30c47ab3d67f10590",
+            "publishedAt": "2024-07-26T06:40:14Z",
+            "content": "(Bloomberg) -- JPMorgan Chase &amp; Co. has launched a generative artificial intelligence tool and told employees to think of it as a research analyst that can offer information, solutions and advice\u2026 [+2212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Inbred-parent\u2013based cassava hybrids promise enhanced efficiency and resilience",
+            "description": "A research team has proposed inbred-parent\u2013based hybrid cassava breeding to overcome the challenges of heterozygous parent use, aiming to transform cassava breeding by purging deleterious mutations and utilizing heterosis. This approach leverages self-compati\u2026",
+            "url": "https://phys.org/news/2024-07-inbred-parentbased-cassava-hybrids-efficiency.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/inbred-parentbased-cas.jpg",
+            "publishedAt": "2024-07-29T15:50:01Z",
+            "content": "A research team has proposed inbred-parentbased hybrid cassava breeding to overcome the challenges of heterozygous parent use, aiming to transform cassava breeding by purging deleterious mutations an\u2026 [+4468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Research reveals pharmaceuticals are polluting England's National Parks",
+            "description": "Research from the University of York and the Rivers Trust has revealed widespread contamination of rivers in the parks, with antidepressants, anticonvulsants, antimicrobials, anti-inflammatory substances, lipid regulators and diabetes treatments being detecte\u2026",
+            "url": "https://phys.org/news/2024-08-reveals-pharmaceuticals-polluting-england-national.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/new-study-reveals-phar.jpg",
+            "publishedAt": "2024-08-14T20:06:36Z",
+            "content": "Research from the University of York and the Rivers Trust has revealed widespread contamination of rivers in the parks, with antidepressants, anticonvulsants, antimicrobials, anti-inflammatory substa\u2026 [+8543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wikipedia.org"
+            },
+            "author": "Contributors to Wikimedia projects",
+            "title": "Michael Sperberg-McQueen has died",
+            "description": "Comments",
+            "url": "https://en.wikipedia.org/wiki/Michael_Sperberg-McQueen",
+            "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/5/58/XML_2007-_Michael_Sperberg-McQueen.jpg",
+            "publishedAt": "2024-08-18T16:43:32Z",
+            "content": "Michael Sperberg-McQueen at the XML 2007 conference.\r\nC. Michael Sperberg-McQueen (18 May 1954\u00a0\u2013 16 August 2024) was an American medieval Germanphilologist and markup language specialist. He was co-e\u2026 [+55749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Revolutionizing thermoelectric technology: Hourglass-shaped materials achieve a 360% efficiency boost",
+            "description": "A groundbreaking technology has been unveiled that improves the efficiency of thermoelectric materials, which are key in converting waste heat into electricity, by altering their geometry to resemble an hourglass. Unlike previous research that solely depended\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240816121526.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-16T16:15:26Z",
+            "content": "A groundbreaking technology has been unveiled that improves the efficiency of thermoelectric materials, which are key in converting waste heat into electricity, by altering their geometry to resemble\u2026 [+3236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Georgina Torbet",
+            "title": "A quantum breakthrough in the coolest place on the space station",
+            "description": "The Cold Atom Lab on the International Space Station has made use of atom interferometry in space to detect environmental changes.",
+            "url": "https://www.digitaltrends.com/space/cold-atom-lab-interferometery/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/08/1-MAIN-cal_image_jpg_75.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-08-15T19:11:29Z",
+            "content": "Tucked into a corner of the International Space Station is one very cool facility: the Cold Atom Lab, where atoms can be chilled down to minus 459 degrees Fahrenheit (minus 273 degrees Celsius). At a\u2026 [+2237 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Taryn Plumb",
+            "title": "Tech giants: AI will transform 92% of ICT jobs; we must upskill now",
+            "description": "Google, IBM, Microsoft, SAP and other tech giants say ICT work will be transformed, and we must prepare now.",
+            "url": "https://venturebeat.com/ai/tech-giants-ai-will-transform-92-of-ict-jobs-we-must-upskill-now/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/07/nuneybits_A_marathon_race_track_with_various_AI_robots_lined_up_b7eb2227-5c1a-4533-828a-bf2a77bd95ad-transformed.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-07-31T23:43:39Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nGenerative AI is already changing the way many of us work and it is set\u2026 [+6566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Robert English",
+            "title": "BMW set to revolutionize EV range with new in-wheel motor: 'An exciting vision for the electric drive of the future'",
+            "description": "The new design allows for a dual-rotor design that gives each wheel a separate motor.",
+            "url": "https://autos.yahoo.com/bmw-set-revolutionize-ev-range-073000081.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hqw3WGPUlbWz0lgajNvUgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/934691bda8359be02b1593230c98ce3d",
+            "publishedAt": "2024-08-07T07:30:00Z",
+            "content": "BMW, in collaboration with German tech firm DeepDrive, is testing a new in-wheel motor that could redefine the efficiency and performance of electric vehicles, according to Interesting Engineering.\r\n\u2026 [+2801 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Deep-sea mining of rare metals produces 'dark oxygen,' new study finds",
+            "description": "Mining conducted on the floors of deep seas could create \"dark oxygen\" containing metals that could impact the quality of oxygen above water.",
+            "url": "https://abcnews.go.com/US/deep-sea-mining-rare-metals-produces-dark-oxygen/story?id=112193017",
+            "urlToImage": "https://i.abcnewsfe.com/a/48c2711f-6453-41a5-84c3-e8163ed1aeca/ocean-floor-deep-st-lv-240722_1721747458405_hpMain_16x9t.jpg?w=1600",
+            "publishedAt": "2024-07-23T18:36:35Z",
+            "content": "Mining of rare metals on deep sea and ocean floors miles below the surface could create \"dark oxygen\" and also cause potentially harmful changes to the marine ecosystem, according to new research.\r\nD\u2026 [+3348 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Gary Grossman, Edelman",
+            "title": "AI regulation in peril: Navigating uncertain times",
+            "description": "Unified efforts are essential to ensure that AI development remains ethical, safe and beneficial for society.",
+            "url": "https://venturebeat.com/ai/ai-regulation-in-peril-navigating-uncertain-times/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/07/Article_Image-transformed.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-07-21T17:05:00Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nThe Supreme Court recently took a sledgehammer to federal agencies powe\u2026 [+8377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Politicopro.com"
+            },
+            "author": "Francisco \"A.J.\" Camacho, E&E News",
+            "title": "Climate-Friendly Concrete Paves Path to Green Construction",
+            "description": "A California company says it has developed a novel way of making concrete that doesn\u2019t contribute to global warming",
+            "url": "https://subscriber.politicopro.com/article/eenews/2024/07/23/climate-friendly-concrete-offers-path-to-green-construction-00169008",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/3fffac0c6719eea6/original/GettyImages-1340621817_WEB.jpg?w=1200",
+            "publishedAt": "2024-07-23T18:30:00Z",
+            "content": "CLIMATEWIRE | The modern world is built on concrete. It holds together driveways, bridges and the buildings in which more than 70 percent of the world\u2019s population makes their home.\r\nBut the material\u2026 [+6770 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "VB Staff",
+            "title": "AI training costs are growing exponentially \u2014\u00a0 IBM says quantum computing could be a solution",
+            "description": "Experts from IBM, AWS and HP Labs tackle the big question of gen AI: soaring training costs, at VB Transform 2024.",
+            "url": "https://venturebeat.com/ai/ai-training-costs-are-growing-exponentially-ibm-says-quantum-computing-could-be-a-solution/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/07/DSC8383.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-07-25T21:06:36Z",
+            "content": "Earlier this month, the Wall Street Journal reported that a third of nuclear power plants are in talks with tech companies to power their new data centers. Meanwhile, Goldman Sachs projected that AI \u2026 [+7689 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ana Altchek",
+            "title": "Here's a closer look at how much Big Tech is spending on AI",
+            "description": "Big Tech companies have been cryptic about how much they've spending overall on AI. Here's a list of what we do know.",
+            "url": "https://www.businessinsider.com/how-much-big-tech-spending-on-ai-investments-2024-7",
+            "urlToImage": "https://i.insider.com/66a7e080a0fc5856d598564f?width=1200&format=jpeg",
+            "publishedAt": "2024-07-30T15:31:38Z",
+            "content": "Elon Musk (top left), Jensen Huang (top center), Sam Altman (top right), Mark Zuckerberg (bottom left), Sundar Pichai (bottom right).Kent Nishimura/Ethan Miller/Justin Sullivan/Anna Moneymaker/Jeff B\u2026 [+6297 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Bianca Chan,Hayley Cuccinello,Reed Alexander,Emmalyse Brownstein",
+            "title": "Here's everything we know about how Wall Street banks are embracing AI",
+            "description": "From JPMorgan to Goldman Sachs, this is everything we know about how banks are using AI.",
+            "url": "https://www.businessinsider.com/everything-we-know-about-how-banks-using-ai-2024-8",
+            "urlToImage": "https://i.insider.com/66bf62d95da406397bf6896f?width=1200&format=jpeg",
+            "publishedAt": "2024-08-20T13:27:58Z",
+            "content": "Michael M. Santiago/Getty Images; Getty Images; BI\r\n<ul><li>Wall Street banks are proving that generative AI is here to stay and the tech is not just a fad.</li><li>Business Insider has reported on h\u2026 [+7067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Chloe Veltman",
+            "title": "This could be the way we watch movies in the future",
+            "description": "Watching a movie is all about kicking back in a comfy chair with a bucket of popcorn and letting the story unfold. But that might change thanks to virtual reality.",
+            "url": "https://www.npr.org/2024/07/22/nx-s1-5040633/marvel-apple-virtual-reality-vr-movies-tv",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4309x2423+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F1f%2F8ce654d047488b3181be2744250c%2Fgettyimages-598893010.jpg",
+            "publishedAt": "2024-07-22T09:00:00Z",
+            "content": "Marvel StudiosWhat If? An Immersive Story is tricky to describe. Part interactive game, part narrative-driven movie and part 3D comic book, it puts you the viewer? the player? at the center of a narr\u2026 [+5590 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Polly Thompson",
+            "title": "Dell is cutting staff as it pivots to AI. A company exec says it will make jobs easier and more fulfilling.",
+            "description": "Vivek Mohindra, Dell's corporate strategy SVP, says AI will make Dell staff \"much more effective at their jobs,\" but not all workers are convinced.",
+            "url": "https://www.businessinsider.com/dell-layoffs-ai-strategy-workers-more-effective-jobs-fulfilling-2024-8",
+            "urlToImage": "https://i.insider.com/66b3513fa5247369a3ea1eb2?width=1200&format=jpeg",
+            "publishedAt": "2024-08-08T11:49:24Z",
+            "content": "Michael Dell, CEO of Dell, speaking at the Mobile World Congress in Barcelona.NurPhoto/Getty Images\r\n<ul><li>Dell is putting AI at the forefront of its growth strategy.</li><li>AI will make workers' \u2026 [+4828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "The rise, fall and revival of research on human development",
+            "description": "A new study takes a tour of the history of research into human embryology and development to show the \"cycles of attention\" that led to major scientific breakthroughs.",
+            "url": "https://phys.org/news/2024-08-fall-revival-human.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/the-rise-fall-and-revi.jpg",
+            "publishedAt": "2024-08-02T14:30:01Z",
+            "content": "A new study takes a tour of the history of research into human embryology and development to show the \"cycles of attention\" that led to major scientific breakthroughs.\r\nAnalyzing the past sheds light\u2026 [+8523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Heating for fusion: Why toast plasma when you can microwave it!",
+            "description": "Can plasma be sufficiently heated inside a tokamak using only microwaves? New research suggests it can! Eliminating the central ohmic heating coil normally used in tokamaks will free up much-needed space for a more compact, efficient spherical tokamak.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240806131216.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-06T17:12:16Z",
+            "content": "Some believe the future of fusion in the U.S. lies in compact, spherical fusion vessels. A smaller tokamak, it is thought, could offer a more economical fusion option. The trick is squeezing everythi\u2026 [+6639 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "X-ray imagery of vibrating diamond opens avenues for quantum sensing",
+            "description": "Scientists at three research institutions capture the pulsing motion of atoms in diamond, uncovering the relationship between the diamond's strain and the behavior of the quantum information hosted within.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240807122901.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-07T16:29:01Z",
+            "content": "When it comes to materials for quantum sensors, diamond is the best game in town, says Cornell University professor Gregory Fuchs. Now he and a team of scientists have upped diamond's game by generat\u2026 [+6938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Beth Ridgeway",
+            "title": "The Marshall Star for August 7, 2024",
+            "description": "NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers The widespread commercial adoption of additive manufacturing technologies, commonly known as 3D printing, is no surprise to design engineers at NASA\u2019s Marshall Space Flight C\u2026",
+            "url": "https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-7-2024/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/08/dnb-9394.jpg",
+            "publishedAt": "2024-08-07T19:40:21Z",
+            "content": "The widespread commercial adoption of additive manufacturing technologies, commonly known as 3D printing, is no surprise to design engineers at NASAs Marshall Space Flight Center whose research creat\u2026 [+27818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Beth Ridgeway",
+            "title": "NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers",
+            "description": "The widespread commercial adoption of additive manufacturing technologies, commonly known as 3D printing, is no surprise to design engineers at NASA\u2019s Marshall Space Flight Center in Huntsville, Alabama whose research created stronger, lighter weight material\u2026",
+            "url": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg",
+            "publishedAt": "2024-08-01T15:19:47Z",
+            "content": "The widespread commercial adoption of additive manufacturing technologies, commonly known as 3D printing, is no surprise to design engineers at NASAs Marshall Space Flight Center in Huntsville, Alaba\u2026 [+6121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Bruce Gil",
+            "title": "President Joe Biden sets his sights on tumor-removal - forking over $150 million in funding",
+            "description": "The White House announced Tuesday $150 million in new federal funding for research targeting the development of tumor-removal technologies.Read more...",
+            "url": "https://qz.com/biden-150-million-tumor-cancer-moonshot-1851621089",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a687624f5ab7ed99d841115141fac5ad.jpg",
+            "publishedAt": "2024-08-13T17:00:00Z",
+            "content": "The White House announced Tuesday $150 million in new federal funding for research targeting the development of tumor-removal technologies.\r\nThe funding will be awarded by the Advanced Research Proje\u2026 [+1578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Kelly M. Matter",
+            "title": "NASA\u2019s First-Ever Quantum Memory Made at Glenn Research Center",
+            "description": "Bringing bright minds together has once again proven to be the key to unlocking the mysteries of the universe. Researchers developed technology that will store information within a cloud of atoms. Together with Infleqtion Inc., researchers at NASA\u2019s Glenn Res\u2026",
+            "url": "https://www.nasa.gov/general/nasas-first-ever-quantum-memory-made-at-glenn-research-center/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/07/grc-2023-c-09651.jpg",
+            "publishedAt": "2024-07-31T12:59:00Z",
+            "content": "Bringing bright minds together has once again proven to be the key to unlocking the mysteries of the universe. Researchers developed technology that will store information within a cloud of atoms.\r\nT\u2026 [+2387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Dan Robinson",
+            "title": "Angstrom age angst ameliorated as ASML's High NA EUV chipmaking kit delivers",
+            "description": "Imec tests show Dutch master etcher has markedly boosted transistor density\nResearch org Imec claims it has demonstrated the viability of ASML's next generation extreme UV technology for next generation chip manufacturing, showing off how it can create patter\u2026",
+            "url": "https://www.theregister.com/2024/08/08/imec_asml_na_uev_results/",
+            "urlToImage": "https://regmedia.co.uk/2023/09/28/shutterstock_euv.jpg",
+            "publishedAt": "2024-08-08T03:15:09Z",
+            "content": "Research org Imec claims it has demonstrated the viability of ASML's next generation extreme UV technology for next generation chip manufacturing, showing off how it can create patterned structures a\u2026 [+4006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Georgina Torbet",
+            "title": "NASA agreement with oil company BP could see its technology used on moon",
+            "description": "While most often used to drill for oil on Earth, BP has entered an agreement with NASA which could see its technology used to drill for resources on the moon.",
+            "url": "https://www.digitaltrends.com/space/nasa-bp-agreement/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/03/astronaut-moon.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-08-14T19:33:22Z",
+            "content": "While its technology is most often used to drill for oil here on Earth, oil company BP has entered into an agreement with NASA that could see its technology used to drill for resources on the moon.\r\n\u2026 [+2103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Unveiling the power of hot carriers in plasmonic nanostructures",
+            "description": "A new scientific review explores the exciting potential of hot carriers, energetic electrons generated by light in plasmonic nanostructures. These tiny structures hold immense promise for future technologies due to their unique way of interacting with light a\u2026",
+            "url": "https://phys.org/news/2024-08-unveiling-power-hot-carriers-plasmonic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/unveiling-the-power-of-1.jpg",
+            "publishedAt": "2024-08-16T17:36:03Z",
+            "content": "by Light Publishing Center, Changchun Institute of Optics, Fine Mechanics And Physics, CASA new scientific review explores the exciting potential of hot carriers, energetic electrons generated by lig\u2026 [+2342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Motoko Hunt",
+            "title": "Using AI Tools For Global Websites Operation And Management via @sejournal, @motokohunt",
+            "description": "Supercharge your global website management with AI tools. Explore the benefits of leveraging AI technology for content, SEO, research, and more.\nThe post Using AI Tools For Global Websites Operation And Management appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/using-ai-tools-for-global-websites-operation-and-management/522268/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/07/ai-tools-for-global-websites-687.jpg",
+            "publishedAt": "2024-08-07T10:30:58Z",
+            "content": "Running and maintaining global websites is not an easy task.\r\nThe good news is there are new AI tool solutions available that ease some of the work that goes into website management as well as assist\u2026 [+6456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Activision.com"
+            },
+            "author": null,
+            "title": "Call of Duty: Warzone Caldera Data Set for Academic Use",
+            "description": "Comments",
+            "url": "https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set",
+            "urlToImage": "https://blog.activision.com/content/dam/atvi/activision/atvi-touchui/blog/callofduty/feature/ATVI-COD-WZ-CALDERA-TOUT.jpg",
+            "publishedAt": "2024-07-31T01:06:09Z",
+            "content": "Why Open-Source Matters\r\nIn an era where AI training and the evolution of authoring tools are pivotal, the availability of production-proven maps is crucial. By releasing Caldera as an open-source as\u2026 [+2472 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Suswati Basu",
+            "title": "A guide to Grok 2 including how to use, release date, and features",
+            "description": "Elon Musk\u2019s xAI is expected to launch the next-gen Grok language model soon and is planning further advancements to compete\u2026 Continue reading A guide to Grok 2 including how to use, release date, and features\nThe post A guide to Grok 2 including how to use, r\u2026",
+            "url": "https://readwrite.com/grok-2-guide-how-to-use-release-date-features/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/A-guide-to-Grok-2-including-how-to-use-release-date-and-features.png",
+            "publishedAt": "2024-07-27T08:09:08Z",
+            "content": "Elon Musk\u2019s xAI is expected to launch the next-gen Grok language model soon and is planning further advancements to compete with OpenAI.\r\nWhat is Grok?\r\nIn November, Musk announced Grok, his companys\u2026 [+5775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Versatile fluidic platform for programmable liquid processing",
+            "description": "Society relies heavily on diverse fluidic technologies. The ability to precisely capture and release various chemical and biological fluids plays a fundamental role in many fields. A long-standing challenge is to design a platform that enables the switchable \u2026",
+            "url": "https://phys.org/news/2024-08-versatile-fluidic-platform-programmable-liquid.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/versatile-fluidic-plat.jpg",
+            "publishedAt": "2024-08-08T11:40:02Z",
+            "content": "Society relies heavily on diverse fluidic technologies. The ability to precisely capture and release various chemical and biological fluids plays a fundamental role in many fields. A long-standing ch\u2026 [+6261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Werner Siefer",
+            "title": "Photolithography research shows computer chips have the potential to become even smaller",
+            "description": "Researchers at the Paul Scherrer Institute PSI have been improving the resolution of a process known as photolithography. They hope to use their technique to help advance the miniaturization of computer chips.",
+            "url": "https://phys.org/news/2024-08-photolithography-chips-potential-smaller.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/researchers-show-that-6.jpg",
+            "publishedAt": "2024-08-13T15:20:04Z",
+            "content": "Researchers at the Paul Scherrer Institute PSI have been improving the resolution of a process known as photolithography. They hope to use their technique to help advance the miniaturization of compu\u2026 [+5050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Andrew Merrington",
+            "title": "Historical research finds Britain's 1987 hurricane exposed growing separation from nature",
+            "description": "The historic hurricane of October 1987 that wrought devastation to households across the South and East of Britain exposed a range of anxieties and fears in people and an increasing sense of separation from nature.",
+            "url": "https://phys.org/news/2024-07-historical-britain-hurricane-exposed-nature.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/broken-fence.jpg",
+            "publishedAt": "2024-07-29T13:30:01Z",
+            "content": "The historic hurricane of October 1987 that wrought devastation to households across the South and East of Britain exposed a range of anxieties and fears in people and an increasing sense of separati\u2026 [+4753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Rohit Nambisan, Forbes Councils Member, \n Rohit Nambisan, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/rohitnambisan/",
+            "title": "Representation In Clinical Research Calls For A New Approach",
+            "description": "Despite the issues and complexity, industry leaders can make clinical trials more patient-friendly and increase representation. Here are my recommendations.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/08/07/representation-in-clinical-research-calls-for-a-new-approach/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66b269d07ed9a5e47077eec5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-08-07T13:15:00Z",
+            "content": "Rohit Nambisan is CEO and co-founder at Lokavant, a clinical trial intelligence platform company.\r\ngetty\r\nIncreasing clinical trial participant representation in clinical research is critical to deve\u2026 [+6964 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Noahpinion.blog"
+            },
+            "author": "Noah Smith",
+            "title": "Why did the U.S. miss the battery revolution?",
+            "description": "We were early to the party on every other technological revolution, but we missed this one.",
+            "url": "https://www.noahpinion.blog/p/why-did-the-us-miss-the-battery-revolution",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e05dd4-0850-4520-9d03-599851b5fc9d_1200x900.jpeg",
+            "publishedAt": "2024-08-02T14:51:01Z",
+            "content": "Once in a great while, Twitter \r\nX can still be a place for interesting discussions instead of breathless political screeching. Yesterday was one of those times. I wrote a thread asking why America m\u2026 [+16036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Jacqueline Nesi",
+            "title": "When Should Kids Get a Smartphone?",
+            "description": "Teens\u2019 use of smartphones has been blamed for all manner of societal ills. So when should parents take the plunge and equip their kids with these devices?",
+            "url": "https://www.scientificamerican.com/article/when-should-kids-get-a-smartphone/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/5a222e07e6b73afe/original/GettyImages-1197312767_WEB.jpg?w=1200",
+            "publishedAt": "2024-08-13T11:30:00Z",
+            "content": "Mental health concerns. Exposure to pornography. Addiction. Loneliness. Bullying. Adolescents\u2019 use of smartphones has been blamed for all manner of societal ills. For parents, the stakes feel impossi\u2026 [+7176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Researchers explore the potential of clean energy markets as a hedging tool",
+            "description": "Climate change has significantly impacted lives worldwide and prompted governments to adopt policies promoting sustainability and use of clean energy sources. This shift to clean energy has triggered increased investments in renewable energy and technologies.",
+            "url": "https://phys.org/news/2024-07-explore-potential-energy-hedging-tool.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/pusan-national-univers-12.jpg",
+            "publishedAt": "2024-07-31T15:58:55Z",
+            "content": "Climate change has significantly impacted lives worldwide and prompted governments to adopt policies promoting sustainability and use of clean energy sources. This shift to clean energy has triggered\u2026 [+4006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rock Paper Shotgun"
+            },
+            "author": "Edwin Evans-Thirlwell",
+            "title": "Stellaris turns Twister with new Cosmic Storms you can bend to your will",
+            "description": "Space 4X strategy game Stellaris launched in 2016, but Paradox can't stop adding to the universe. Last time I checked in, it was school trips to other dimensions. Now, it's Cosmic Storms. Due for release alongside the Stellaris 3.13 Vela update on September 1\u2026",
+            "url": "https://www.rockpapershotgun.com/stellaris-turns-twister-with-new-cosmic-storms-you-can-bend-to-your-will",
+            "urlToImage": "https://assetsio.gnwcdn.com/cosmicstorm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2024-08-15T17:02:59Z",
+            "content": "Space 4X strategy game Stellaris launched in 2016, but Paradox can't stop adding to the universe. Last time I checked in, it was school trips to other dimensions. Now, it's Cosmic Storms. Due for rel\u2026 [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Joseph E. Harmon",
+            "title": "Investigation into the regime between the nano- and microscale could pave the way for nanoscale technologies",
+            "description": "In electronic technologies, key material properties change in response to stimuli like voltage or current. Scientists aim to understand these changes in terms of the material's structure at the nanoscale (a few atoms) and microscale (the thickness of a piece \u2026",
+            "url": "https://phys.org/news/2024-08-regime-nano-microscale-pave-nanoscale.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/pursuing-the-middle-pa.jpg",
+            "publishedAt": "2024-08-01T10:41:12Z",
+            "content": "In electronic technologies, key material properties change in response to stimuli like voltage or current. Scientists aim to understand these changes in terms of the material's structure at the nanos\u2026 [+4378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Precise package delivery in cells?",
+            "description": "Researchers have developed new real-time microscopy technology and successfully observed the behavior of 'motor proteins', which may hold the key to unraveling the efficient material transport strategy of cells.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240802132418.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-02T17:24:18Z",
+            "content": "A team led by Professor Seo Dae-ha of the Department of Physics and Chemistry at DGIST (President Lee Kun-woo) has developed new real-time microscopy technology and successfully observed the behavior\u2026 [+3231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Michael Copley",
+            "title": "Climate activists rally around Harris, seeing a chance to build on Biden\u2019s record",
+            "description": "Kamala Harris has long voiced support for action on climate change, during her career in California and as vice president. Environmentalists hope that background signals she'd take major steps if elected.",
+            "url": "https://www.npr.org/2024/08/11/g-s1-16052/kamala-harris-climate-change-environment-trump",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4007x2254+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2F01%2F9778e5f34e7ebc88cb8cfc70b896%2Fap24220710246566.jpg",
+            "publishedAt": "2024-08-11T09:30:00Z",
+            "content": "Endorsements for Vice President Harris are rolling in from environmental groups who see her as a strong potential ally on issues like climate change.\r\nClimate advocates have highlighted Harris record\u2026 [+7735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Artificial blood vessels could improve heart bypass outcomes",
+            "description": "3D-printed blood vessels, which closely mimic the properties of human veins, could transform the treatment of cardiovascular diseases. Strong, flexible, gel-like tubes -- created using a novel 3D printing technology -- could improve outcomes for heart bypass \u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240725154723.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-25T19:47:23Z",
+            "content": "3D-printed blood vessels, which closely mimic the properties of human veins, could transform the treatment of cardiovascular diseases.Strong, flexible, gel-like tubes -- created using a novel 3D prin\u2026 [+2215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Climate reporting standards insufficient, must be expanded, say experts",
+            "description": "A new article concludes that current climate standards are not sufficiently incentivizing the big picture innovations necessary to deliver net zero, and must be expanded to include a company's broader influence on climate action.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240814211149.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-15T01:11:49Z",
+            "content": "A new paper from the Smith School of Enterprise and the Environment, University of Oxford concludes that current climate standards are not sufficiently incentivising the big picture innovations neces\u2026 [+2440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Switching from gas to electric stoves cuts indoor air pollution",
+            "description": "Switching from a gas stove to an electric induction stove can reduce indoor nitrogen dioxide air pollution, a known health hazard, by more than 50 percent according to new research led by scientists at Columbia University Mailman School of Public Health. The \u2026",
+            "url": "https://phys.org/news/2024-07-gas-electric-stoves-indoor-air.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/gas-stove-1.jpg",
+            "publishedAt": "2024-07-22T16:45:08Z",
+            "content": "Switching from a gas stove to an electric induction stove can reduce indoor nitrogen dioxide air pollution, a known health hazard, by more than 50 percent according to new research led by scientists \u2026 [+5549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Setra",
+            "title": "Ce chiffre illustre le long chemin parcouru par la voiture \u00e9lectrique",
+            "description": "Entre 2008 et 2023, le co\u00fbt d\u2019une batterie de voiture \u00e9lectrique a baiss\u00e9 de 90 %, selon une estimation du d\u00e9partement am\u00e9ricain de l\u2019\u00e9nergie.",
+            "url": "https://www.presse-citron.net/ce-chiffre-illustre-le-long-chemin-parcouru-par-la-voiture-electrique/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2024/05/tesla-cybertruck-avant.jpg",
+            "publishedAt": "2024-08-07T05:07:34Z",
+            "content": "Les prix des voitures \u00e9lectriques restent aujourdhui lun des obstacles \u00e0 la d\u00e9mocratisation de ce type de v\u00e9hicule. Pourtant, ces prix ont d\u00e9j\u00e0 consid\u00e9rablement baiss\u00e9, par rapport \u00e0 la pr\u00e9c\u00e9dente d\u00e9\u2026 [+2534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "The atmosphere in the room can affect strategic decision-making, study finds",
+            "description": "The atmosphere within a group can influence the outcome of strategic decision-making, according to a new study. Researchers found that different atmospheres led to people speaking and interacting in different ways that changed how they made sense of the strat\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240813132040.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-13T17:20:40Z",
+            "content": "The atmosphere within a group can influence the outcome of strategic decision-making, according to a new study co-authored by Bayes Business School (formerly Cass).Paula Jarzabkowski, Professor of St\u2026 [+2287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Polarization volume gratings break uniformity-efficiency tradeoff in AR waveguide displays",
+            "description": "Augmented reality (AR) has evolved from a futuristic concept to a widespread technology, thanks to advancements in microdisplay technologies, ultracompact imaging optics, and high-speed digital processors.",
+            "url": "https://phys.org/news/2024-08-polarization-volume-uniformity-efficiency-tradeoff.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/polarization-volume-gr-1.jpg",
+            "publishedAt": "2024-08-19T17:35:03Z",
+            "content": "Augmented reality (AR) has evolved from a futuristic concept to a widespread technology, thanks to advancements in microdisplay technologies, ultracompact imaging optics, and high-speed digital proce\u2026 [+4522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Harvard Business Review"
+            },
+            "author": null,
+            "title": "How EdTech Firm Coursera Is Incorporating GenAI into Its Products and Services",
+            "description": "How can Coursera continuously improve its GenAI-enabled offerings to stay competitive as the technology evolves?",
+            "url": "https://hbr.org/podcast/2024/08/how-edtech-firm-coursera-is-incorporating-genai-into-its-products-and-services",
+            "urlToImage": "https://hbr.org/resources/images/article_assets/2023/04/wide-cold-call-hbr.png",
+            "publishedAt": "2024-08-06T13:22:00Z",
+            "content": "BRIAN KENNY: \u00a0Since ChatGPT appeared on the scene back in the fall of 2022, newsfeeds have been flooded with claims that generative AI is going to change the world, so if you\u2019re suffering from a bit \u2026 [+29581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Nathan Cranford",
+            "title": "NASA Research Volunteers to Begin Next Simulated Mission to Mars",
+            "description": "NASA selected a new team of four research volunteers to participate in a simulated mission to Mars within HERA (Human Exploration Research Analog) at the agency\u2019s Johnson Space Center in Houston. Erin Anderson, Sergii Iakymov, Brandon Kent, and Sarah Elizabet\u2026",
+            "url": "https://www.nasa.gov/humans-in-space/nasa-research-volunteers-to-begin-next-simulated-mission-to-mars/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/07/herac7m3crew-1.png",
+            "publishedAt": "2024-07-22T14:35:58Z",
+            "content": "NASA selected a new team of four research volunteers to participate in a simulated mission to Mars within HERA (Human Exploration Research Analog) at the agencys Johnson Space Center in Houston.\r\nEri\u2026 [+8506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Stephen Proctor",
+            "title": "U.S. Air Force successfully completes test flights of all-electric aircraft: 'It's going to make things faster and simpler'",
+            "description": "The plane can carry up to five people or 500 pounds of cargo, has a range of 288 miles, and can be recharged in less than an hour.",
+            "url": "https://www.yahoo.com/tech/u-air-force-successfully-completes-073000072.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/v_iHvQuJ0cp4Ct6lXP8bGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/f391142c941a9e4d62bd91976771c7c4",
+            "publishedAt": "2024-08-20T07:30:00Z",
+            "content": "The U.S. Air Force appears set to go electric. According to TheDefensePost.com, the Air Force has successfully completed test flights with BETA Technologies ALIA all-electric fixed-wing aircraft.\r\nTh\u2026 [+2474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jonathan Reichental, PhD, Contributor, \n Jonathan Reichental, PhD, Contributor\n https://www.forbes.com/sites/jonathanreichental/",
+            "title": "Colorado Takes The Lead In Quantum Technologies",
+            "description": "While Silicon Valley continues to dominate in digital innovation, it\u2019s less appreciated that Colorado has become a leader in quantum technologies.",
+            "url": "https://www.forbes.com/sites/jonathanreichental/2024/07/28/colorado-takes-the-lead-in-quantum-technologies/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66a66ac65753eb9f50c7e67e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-29T00:18:48Z",
+            "content": "Quantum computers use qubits that exploit quantum superposition and entanglement to perform complex ... [+] computations probabilistically.\r\ngetty\r\nNestled among the vast plains and mesas of the Moun\u2026 [+6849 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Valentine Faure",
+            "title": "\u00ab\u00a0Le dilemme\u00a0\u00bb\u00a0: le ghosting peut-il \u00eatre un choix moral\u00a0?",
+            "description": "Chaque mois, nos dilemmes moraux intimes pass\u00e9s au crible. Dispara\u00eetre du jour au lendemain, sans un mot \u00e0 son ou sa partenaire, d\u00e9coule d\u2019une libert\u00e9. Cette libert\u00e9 de rompre, conquise de haute lutte, est-elle assortie de devoirs\u00a0?",
+            "url": "https://www.lemonde.fr/intimites/article/2024/07/28/le-dilemme-le-ghosting-peut-il-etre-un-choix-moral_6260021_6190330.html",
+            "urlToImage": "https://img.lemde.fr/2023/11/06/0/0/3000/2000/1440/960/60/0/beacb1c_1699277903879-dilemmas.jpg",
+            "publishedAt": "2024-07-28T04:00:09Z",
+            "content": "Apparu il y a une dizaine dann\u00e9es telle une \u00e9tape franchie dans lindignit\u00e9, un cran au-dessus de la rupture par SMS, le \u00ab\u00a0ghosting\u00a0\u00bb semble bien install\u00e9 dans les murs amoureuses. Selon une \u00e9tude du \u2026 [+2886 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Rohan Grover, Leigh Palmer",
+            "title": "Google Distributed Cloud Air-Gapped Appliance",
+            "description": "The Google Distributed Cloud air-gapped appliance is an integrated hardware and software solution that lets you run workloads at the tactical edge.",
+            "url": "https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga",
+            "urlToImage": "https://storage.googleapis.com/gweb-cloudblog-publish/images/DO_NOT_USE_GFuAB3l.max-2500x2500.jpg",
+            "publishedAt": "2024-07-20T20:52:23Z",
+            "content": "In harsh, disconnected, or mobile environments like disaster zones, remote research stations, or long-haul trucking operations, organizations face significant challenges in providing computing capabi\u2026 [+6110 chars]"
+        }
+    ]
+}

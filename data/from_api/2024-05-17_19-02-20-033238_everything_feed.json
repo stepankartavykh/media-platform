@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 6240,
+    "articles": [
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Justin Worland",
+            "title": "Can Economics Better Value Nature?",
+            "description": "Protecting nature delivers economic dividends\u2014and can be advanced by a range of financial solutions",
+            "url": "https://time.com/6977021/conservation-milken-conference-nature/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/amazon-rain-forest-conservation.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-05-13T15:59:27Z",
+            "content": "A few weeks ago, I wrote in the TIME CO2 newsletter about the economic value of coral reefs as a quick look into the very tangible costs of the damage to the natural world caused by climate change. I\u2026 [+2972 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Sunak to warn of 'dangerous years' in pre-election speech",
+            "description": "The PM will argue in a speech that the UK is facing some of its \"most transformational\" years.",
+            "url": "https://www.bbc.co.uk/news/live/uk-politics-69001479",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2024-05-13T08:38:22Z",
+            "content": "Welcome to the Sunak and Starmer show and welcome to the next four, five, six or seven months of your life.\r\nEven if you pay only fleeting attention to the goings-on in UK politics, you have probably\u2026 [+510 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nick Catoggio",
+            "title": "DeSantis panders to ranchers with Florida's lab-grown meat ban. It's bad economics.",
+            "description": "The post-Trump populist version of Gov. Ron DeSantis not only sees no problem with state paternalism, he revels in it with authoritarian bombast.",
+            "url": "https://www.usatoday.com/story/opinion/2024/05/06/desantis-florida-ban-lab-grown-meat-populist-pandering/73554704007/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LTk9LpVM2pKHA4ookNWmHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/usa_today_opinion_532/34bb296a6a4dc2c0a9f4fa848187c6f3",
+            "publishedAt": "2024-05-06T09:23:37Z",
+            "content": "Last week was a bad one for libertarianism.\r\nActually, its been a bad decade for libertarianism. No, its been a bad century, a devout libertarian might counter, accurately enough.\r\nStill, things seem\u2026 [+11752 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Biden Is Trying to Buy EVs Time With New Tariffs on China. It Might Not Work",
+            "description": "America now has 100% tariffs on Chinese electric vehicles, but with US automakers struggling to compete and its reliance on China\u2019s materials, will this help? Mercedes, BMW and VW think not.",
+            "url": "https://www.wired.com/story/new-ev-china-tariffs-biden/",
+            "urlToImage": "https://media.wired.com/photos/664366addd1a5ee9b6c95ba7/191:100/w_1280,c_limit/Chinese-EV-Tariffs-Gear-GettyImages-2152725984.jpg",
+            "publishedAt": "2024-05-14T20:11:43Z",
+            "content": "Today, the Biden administration announced a near-unprecedented 100 percent tariff on Chinese-made electric vehicles, a move the White House said would protect the American industry from unfairly pric\u2026 [+3401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Yorker"
+            },
+            "author": "John Cassidy",
+            "title": "Joseph Stiglitz and the Meaning of Freedom",
+            "description": "John Cassidy writes about the progressive economist Joseph Stiglitz\u2019s book \u201cThe Road to Freedom: Economics and the Good Society.\u201d",
+            "url": "https://www.newyorker.com/news/our-columnists/joseph-stiglitz-and-the-meaning-of-freedom",
+            "urlToImage": "https://media.newyorker.com/photos/662928b8cebc716c7217007d/16:9/w_1280,c_limit/Cassidy-Stiglitz.jpg",
+            "publishedAt": "2024-04-25T10:00:00Z",
+            "content": "In the early days of the COVID-19 pandemic, when there was no vaccine in sight and more than a thousand people who had contracted the virus were dying each day in the United States, Joseph Stiglitz, \u2026 [+10224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "Political Language in Economics",
+            "description": "LLMs are going to reveal many of the world\u2019s secrets: Does academic writing in economics reflect the political orientation of economists? We use machine learning to measure partisanship in academic economics articles. We predict observed political behavior of\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/05/political-language-in-economics.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-05-16T06:39:19Z",
+            "content": "LLMs are going to reveal many of the world\u2019s secrets:\r\nDoes academic writing in economics reflect the political orientation of economists? We use machine learning to measure partisanship in academic \u2026 [+1288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "The new economics of gold investment?",
+            "description": "The real, inflation-adjusted, price of gold is high. Historically, a high real gold price has been associated with low inflation-adjusted gold returns over the subsequent 10 years. Further, historically the realized 10-year rate of inflation has had close to \u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/05/the-new-economics-of-gold-investment.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-05-08T04:25:43Z",
+            "content": "The real, inflation-adjusted, price of gold is high. Historically, a high real gold price has been associated with low inflation-adjusted gold returns over the subsequent 10 years. Further, historica\u2026 [+587 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "The economics of Apple share repurchase",
+            "description": "That is the topic of my latest Bloomberg column, and here is the basic setting: Apple unveiled a\u00a0record stock buyback plan\u00a0last week even as it\u00a0increased its dividend\u00a0by 4%, to 25 cents per share. That made the market happy, and shares in the company are up a\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/05/the-economics-of-apple-share-repurchase.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-05-11T18:02:00Z",
+            "content": "Given that the market approved of Apple sending more money outside the company, the market must think Apple shareholders are better at allocating funds than Apple is. Apple, to its credit, has realiz\u2026 [+1570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gwern.net"
+            },
+            "author": "Gwern Branwen",
+            "title": "Laws of Tech: Commoditize Your Complement (2022)",
+            "description": "A classic pattern in technology economics, identified by Joel Spolsky, is layers of the stack attempting to become monopolies while turning other layers into perfectly-competitive markets which are commoditized, in order to harvest most of the consumer surplu\u2026",
+            "url": "https://gwern.net/complement",
+            "urlToImage": "https://gwern.net/static/img/logo/logo-whitebg-large-border.png",
+            "publishedAt": "2024-04-25T09:45:57Z",
+            "content": "Every product in the marketplace has substitutes and complements. A substitute is another product you might buy if the first product is too expensive. Chicken is a substitute for beef. If youre a chi\u2026 [+30719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seths.blog"
+            },
+            "author": "Seth Godin",
+            "title": "Books don\u2019t sell",
+            "description": "That\u2019s not true, actually. Books sell, but book doesn\u2019t. The odds of a particular book selling a lot of copies are close to zero. The truth of the long tail is that most titles are way out on the fringe. Now that book publishing is unleashed from retail distr\u2026",
+            "url": "https://seths.blog/2024/04/books-dont-sell/",
+            "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061315.jpg",
+            "publishedAt": "2024-04-26T08:40:00Z",
+            "content": "That\u2019s not true, actually. Books sell, but book doesn\u2019t. The odds of a particular book selling a lot of copies are close to zero.\r\nThe truth of the long tail is that most titles are way out on the fr\u2026 [+2127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Sydney Lupkin",
+            "title": "Oncologists' meetings with drug reps don't help cancer patients live longer",
+            "description": "Drug company reps commonly visit doctors to talk about new medications. A team of economists wanted to know if that helps patients live longer. They found that for cancer patients, the answer is no.",
+            "url": "https://www.npr.org/sections/health-shots/2024/04/22/1246054537/doctor-meetings-drug-reps-pharma-cancer-patients-live-longer-survival",
+            "urlToImage": "https://media.npr.org/assets/img/2024/04/20/gettyimages-2092815_wide-ec8550b7e3a4791717c7a8595f226ec3b71ab9ae-s1400-c100.jpg",
+            "publishedAt": "2024-04-22T14:01:04Z",
+            "content": "Drug companies often do one-on-one outreach to doctors. A new study finds these meetings with drug reps lead to more prescriptions for cancer patients, but not longer survival.\r\nChris Hondros/Getty I\u2026 [+2095 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "Markets will rebel if Trump or any president tries to control the Fed, Harvard economist says",
+            "description": "\"If you take away Fed independence, investors are gonna get jittery, inflation expectations are going to go up, the dollar is going to tank.\"",
+            "url": "https://www.businessinsider.com/fed-independence-market-reaction-outlook-trump-biden-rate-cuts-rogoff-2024-4",
+            "urlToImage": "https://i.insider.com/663140d910dfcda40964fea7?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T19:15:01Z",
+            "content": "Kenneth RogoffAP Photo/Ron Thomas\r\n<ul>\n<li>Markets would resist executive influence over the Federal Reserve, Kenneth Rogoff told Bloomberg TV.</li>\n<li>Inflation expectations would jump while the d\u2026 [+2510 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Tilburg\u2019s Mr. Winston raises \u20ac600K for its hospitality POS system",
+            "description": "Tilburg-based Mr. Winston has raised \u20ac600,000 to further develop its hospitality POS system and expand into more markets. Founded in 2015, the startup provides a cloud-based POS solution that can work on all devices and operating systems such as iOS\u00a0and Andro\u2026",
+            "url": "https://thenextweb.com/news/mr-winston-raises-e600k-hospitality-pos-system",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F05%2FMr-Winston-POS-system.jpg&signature=c30c19d9dbd4dfb1c3d0f3c0d46cb06b",
+            "publishedAt": "2024-05-06T16:27:10Z",
+            "content": "Tilburg-based Mr. Winston has raised 600,000 to further develop its hospitality POS system and expand into more markets.\r\nFounded in 2015, the startup provides a cloud-based POS solution that can wor\u2026 [+1613 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Tech titans love Modi's economic powerhouse India \u2014 despite mass unemployment and abject poverty",
+            "description": "India is on track to become the world's third-largest economy by 2027, but Narendra Modi faces a pile of problems if he wins a third term in power.",
+            "url": "https://www.businessinsider.com/modi-india-election-economy-russia-oil-wealth-dimon-cook-musk-2024-5",
+            "urlToImage": "https://i.insider.com/66326aa2ec0c696569ffacab?width=1200&format=jpeg",
+            "publishedAt": "2024-05-04T09:02:02Z",
+            "content": "Indian Prime Minister Narendra Modi.Kevin Frayer/Getty\r\n<ul><li>The Indian economy has grown strongly under Narendra Modi, whose party is set to win another term.</li><li>India's success has caught t\u2026 [+10933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Economics impresses in Dante Stakes win at York",
+            "description": "Economics, ridden by Tom Marquand, powers to an impressive victory in the Dante Stakes at York.",
+            "url": "https://www.bbc.com/sport/horse-racing/articles/c80z00qv9zjo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/bdba/live/438e6690-1397-11ef-a0d0-c1afcc56af9b.jpg",
+            "publishedAt": "2024-05-16T15:58:06Z",
+            "content": "Economics, ridden by Tom Marquand, powered to an impressive victory in the Dante Stakes at York.\r\nThe three-year-old arrived from the back of the pack to surge to a comfortable victory, with favourit\u2026 [+1187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Brett Arends",
+            "title": "Wall Street hates REITs like it\u2019s 2009",
+            "description": "BofA Securities survey shows that fund managers are staggeringly underweight in real-estate investment trusts.",
+            "url": "https://www.marketwatch.com/story/wall-street-hates-reits-like-its-2009-b944cf9e",
+            "urlToImage": "https://images.mktw.net/im-34396804/social",
+            "publishedAt": "2024-05-15T18:58:00Z",
+            "content": "Brett Arends is an award-winning financial writer with many years experience writing about markets, economics and personal finance. He has received an individual award from the Society of American Bu\u2026 [+156 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Sor",
+            "title": "Trump 2.0 would be destructive for the economy, as the former president embraces 'crank' doctrine and economic fantasy, Paul Krugman says",
+            "description": "Trump's first term showed he's prone to \"magical thinking,\" and his economic doctrine would hobble growth and stoke inflation in a second term, Krugman said.",
+            "url": "https://www.businessinsider.com/trump-reelection-tax-cuts-inflation-economy-outlook-fed-paul-krugman-2024-4",
+            "urlToImage": "https://i.insider.com/5b4e37c77dd02418008b4568?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T15:59:06Z",
+            "content": "Getty/Drew Angerer\r\n<ul>\n<li>Trump's re-election could bring loads of problems to the US economy, Paul Krugman warned.</li>\n<li>The former president is prone to \"magical thinking\" and could pursue \"d\u2026 [+2662 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "The US could have to deal with both Russia and China if it ends up at war with one of them, top intelligence officials say",
+            "description": "Top officials say the US is revising its plans as the possibility of war with these rivals climbs higher than it was even a few years ago.",
+            "url": "https://www.businessinsider.com/us-deal-with-russia-china-if-at-war-with-one-2024-5",
+            "urlToImage": "https://i.insider.com/663506b7ec0c69656900d11a?width=1200&format=jpeg",
+            "publishedAt": "2024-05-03T19:27:29Z",
+            "content": "U.S. Marines receive instructions before disembarking from the USS Green Bay (LPD 20) on the ship's flight deck, April 4, 2015.U.S. Marine Corps photo by Lance Cpl. Tyler Ngiraswei/ Released\r\n<ul><li\u2026 [+2792 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "Russia's economic survival hinges on prolonging the Ukraine war, think tank expert says",
+            "description": "\"Should the authorities attempt to halt militarization, a hard landing could add pressure to the government,\" Elina Ribakova wrote for FT.",
+            "url": "https://www.businessinsider.com/russia-economy-hard-landing-recession-ukraine-war-military-spending-putin-2024-5",
+            "urlToImage": "https://i.insider.com/6633beacec0c696569004f6d?width=1200&format=jpeg",
+            "publishedAt": "2024-05-02T18:22:56Z",
+            "content": "&quotPutin's war has already been a failure for Russia on many levels,\" CIA director William J. Burns wrote in an opinion article for Foreign Affairs.Contributor via Getty Images\r\n<ul>\n<li>Russia nee\u2026 [+2916 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Warren Buffett is hoarding $200 billion as he may see 'storm clouds' ahead, says top economist Steve Hanke",
+            "description": "Warren Buffett keeps building Berkshire Hathaway's cash pile because bargains are scarce and he seems worried about the world, Steve Hanke said.",
+            "url": "https://www.businessinsider.com/warren-buffett-steve-hanke-berkshire-hathaway-cash-pile-stocks-recession-2024-5",
+            "urlToImage": "https://i.insider.com/66432b729686a6f37bff932b?width=1200&format=jpeg",
+            "publishedAt": "2024-05-14T09:46:48Z",
+            "content": "Warren Buffett.REUTERS/Rick Wilking\r\n<ul><li>Warren Buffett expects Berkshire Hathaway's cash pile to hit more than $200 billion this quarter.</li><li>The investor can't find assets worth buying and \u2026 [+3251 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Sor",
+            "title": "The Fed will only cut rates when it's panicking over a recession and a market crash, Black Swan investor says",
+            "description": "\"This economy is built on low interest rates,\" Mark Spitznagel said. \"There are lag effects when you reset interest rates like we had.\"",
+            "url": "https://markets.businessinsider.com/news/stocks/fed-rate-cuts-stock-market-crash-recession-outlook-economy-investing-2024-4",
+            "urlToImage": "https://i.insider.com/659d6daa6979d7371821a5eb?width=1200&format=jpeg",
+            "publishedAt": "2024-04-28T12:16:01Z",
+            "content": "OsakaWayne Studios/Getty Images\r\n<ul>\n<li>Investors should be wary of coming Fed rate cuts, Black Swan investor Mark Spitznagel warned.</li>\n<li>That's because the Fed is only cutting rates in respon\u2026 [+2794 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Eliza Goodwin",
+            "title": "The FTC is fighting for your right to job-hop",
+            "description": "The FTC approved a nationwide ban on noncompete agreements, boosting freedom for job hoppers. But the new rule faces an impending legal battle.",
+            "url": "https://www.businessinsider.com/ban-noncompete-agreements-approved-ftc-challenges-await-2024-4",
+            "urlToImage": "https://i.insider.com/66281f5e0dfb1341e9fe3eea?width=1200&format=jpeg",
+            "publishedAt": "2024-04-24T10:00:01Z",
+            "content": "FTC Chair Lina Khan in 2023.CQ-Roll Call, Inc./Getty Images\r\n<ul><li>The FTC is fighting for workers' ability to leave their employers for rival companies.</li><li>The agency voted on Tuesday to ban \u2026 [+3042 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Huileng Tan",
+            "title": "The West is freaking out that China is making too much stuff, and it looks like China might be starting to agree",
+            "description": "The West has been complaining that China is overproducing goods and dumping them on the global markets, incurring the ire of Beijing.",
+            "url": "https://www.businessinsider.com/china-concerned-overproduction-lithium-battery-proposal-xi-europe-trip-2024-5",
+            "urlToImage": "https://i.insider.com/663c66d3f27898f532d54fdf?width=1200&format=jpeg",
+            "publishedAt": "2024-05-09T07:50:37Z",
+            "content": "Employees work on a production line manufacturing lithium battery products at a factory in Yichang, Hubei province, China.Reuters/Stringer\r\n<ul><li>China published draft regulations for the battery i\u2026 [+3856 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Polly Thompson",
+            "title": "A woman in Brazil was arrested after she seemingly attempted to get a dead body in a wheelchair to sign for a bank loan",
+            "description": "The woman insists that the man, who she said was her uncle, was still alive when they entered the bank.",
+            "url": "https://www.businessinsider.com/woman-brazil-arrested-fraud-involving-corpse-bank-loan-2024-4",
+            "urlToImage": "https://i.insider.com/6620f7ab49058e6693572d69?width=1200&format=jpeg",
+            "publishedAt": "2024-04-18T11:45:18Z",
+            "content": "The woman entered a branch of an Ita\u00fa bank in a Rio de Janeiro suburb on Tuesday. VANDERLEI ALMEIDA/Getty\r\n<ul><li>A woman in Brazil was arrested after seemingly trying to secure a bank loan using he\u2026 [+3160 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Annie Ma / AP",
+            "title": "Minouche Shafik Has Navigated Global Crises. Columbia President Could Be Her Toughest Role",
+            "description": "Shafik\u00a0has navigated world conflicts at global financial institutions, but it remains to be seen if she can handle the thorny protests sweeping her campus.",
+            "url": "https://time.com/6970878/columbia-university-president-minouche-shafik-protests/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/Minouche-Shafik-Columbia-University-President.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-04-25T07:15:00Z",
+            "content": "Columbia University president Minouche Shafik is no stranger to navigating complex international issues, having worked at some of the worlds most prominent global financial institutions.\r\nAt the Worl\u2026 [+5418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wikipedia.org"
+            },
+            "author": "Contributors to Wikimedia projects",
+            "title": "Pareto Efficiency",
+            "description": "Comments",
+            "url": "https://en.wikipedia.org/wiki/Pareto_efficiency",
+            "urlToImage": null,
+            "publishedAt": "2024-05-01T14:26:30Z",
+            "content": "Pareto efficiency or Pareto optimality is a situation where no action or allocation is available that makes one individual better off without making another worse off.[1] The concept is named after V\u2026 [+32996 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Alena Kuzub",
+            "title": "Will the US ban the use of single-use plastics like England, India, Hong Kong and other countries?",
+            "description": "Madhavi Venkatesan, associate teaching professor of economics at Northeastern University, is convinced that human convenience is an expense the environment cannot afford.",
+            "url": "https://phys.org/news/2024-04-plastics-england-india-hong-kong.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/will-the-us-ban-the-us.jpg",
+            "publishedAt": "2024-04-24T18:55:04Z",
+            "content": "Madhavi Venkatesan, associate teaching professor of economics at Northeastern University, is convinced that human convenience is an expense the environment cannot afford.\r\nThat is why she founded Sus\u2026 [+6221 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Argentina's Milei defends radical austerity plan",
+            "description": "The Argentine leader tells the BBC that the \"political caste\" is bearing the brunt of his reforms.",
+            "url": "https://www.bbc.co.uk/news/world-latin-america-68935255",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EAB6/production/_133268006_18.jpg",
+            "publishedAt": "2024-05-06T16:11:31Z",
+            "content": "Argentina's President Javier Milei has denied that it is ordinary Argentines who are paying for his radical austerity measures.\r\nIn a BBC interview, Mr Milei, who campaigned with a chainsaw to symbol\u2026 [+5228 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Trellis (YC W24) is hiring Founding Eng to build snowflake for unstructured data",
+            "description": "Trellis is hiring founding backend engineers\nTrellis is building a Snowflake for unstructured data, turning unstructured data (e.g., financial documents, insurance policies, chat logs, etc.) into SQL-compliant tables. We're currently backed by YC and early in\u2026",
+            "url": "https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time",
+            "urlToImage": "https://www.ycombinator.com/images/original/missing.png",
+            "publishedAt": "2024-04-26T21:01:02Z",
+            "content": "Trellis is building a Snowflake for unstructured data, turning unstructured data (e.g., financial documents, insurance policies, chat logs, etc.) into SQL-compliant tables. We're currently backed by \u2026 [+1364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Analysis-US wheat farmers face bleak crop economics as grain oversupply hits",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_17643522-b153-430e-bc19-a26d72e8e67f",
+            "urlToImage": null,
+            "publishedAt": "2024-04-17T10:22:41Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "esgholist.com",
+            "title": "Some Notes on Wellbeing Economics",
+            "description": "In an earlier article, we introduced the concept of wellbeing economics\u2014an approach that places the overall wellbeing of individuals and communities at the forefront of economic considerations, diverging from traditional growth-oriented economic indicators. T\u2026",
+            "url": "https://biztoc.com/x/7792f4b0fe46e01b",
+            "urlToImage": "https://c.biztoc.com/p/7792f4b0fe46e01b/s.webp",
+            "publishedAt": "2024-04-22T14:16:11Z",
+            "content": "In an earlier article, we introduced the concept of wellbeing economicsan approach that places the overall wellbeing of individuals and communities at the forefront of economic considerations, diverg\u2026 [+263 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Daniel Chandler",
+            "title": "To Fight Inequality, America Needs to Rethink Its Economic Model",
+            "description": "Taxes and transfers alone won't address the inequalities that have brought America to such a perilous juncture, writes Daniel Chandler.",
+            "url": "https://time.com/6977602/6977602/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/american-inequality.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-05-14T11:00:00Z",
+            "content": "For decades, economic policy in most liberal democracies has been premised on two core beliefs: that free markets would maximize economic growth, and that we could address inequality through redistri\u2026 [+11544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Dengue fever infections have negative impacts on infant health for three years",
+            "description": "Dengue infections in pregnant women may have a negative impact on the first years of children's lives, new research has found.",
+            "url": "https://www.sciencedaily.com/releases/2024/04/240423113059.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-04-23T15:30:59Z",
+            "content": "Dengue infections in pregnant women may have a negative impact on the first years of children's lives, new research has found.Dengue fever is the most prevalent mosquito-borne disease globally and po\u2026 [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "*Scarce and Valuable Economic Tracts*",
+            "description": "Three big volumes, about 1800 pp., these books reprint the true classics behind the origins of economic thought.\u00a0 These are the best works of economics published before Adam Smith, and essentially they founded economic science.\u00a0 The originals were edited by t\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/05/scarce-and-valuable-economic-tracts.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-05-08T15:40:09Z",
+            "content": "Three big volumes, about 1800 pp., these books reprint the true classics behind the origins of economic thought.\u00a0 These are the best works of economics published before Adam Smith, and essentially th\u2026 [+352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Alex Tabarrok",
+            "title": "A Conversation on AI with my Son",
+            "description": "Son: Dad, you should text us more. Alex: Ok, but why is that? Son: Well, we are working on the Dad LLM but so far it just spits out economics and twitter quips. We need some sage Dad advice to help us out in the future. Alex: So you want training data for my \u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/05/a-conversation-on-ai-with-my-son.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-05-16T11:18:33Z",
+            "content": "Son: Dad, you should text us more.\r\nAlex: Ok, but why is that?\r\nSon: Well, we are working on the Dad LLM but so far it just spits out economics and twitter quips. We need some sage Dad advice to help\u2026 [+127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Google I/O Event Expectations Run High Amid OpenAI, Microsoft Rivalry",
+            "description": "Expectations for Google stock run high ahead of Alphabet's I/O conference, with analysts anticipating a slew of AI announcements.",
+            "url": "https://www.investors.com/news/technology/google-stock-google-io-artificial-intelligence-news/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2016/08/stock-Google-4-company.jpg",
+            "publishedAt": "2024-05-14T14:25:16Z",
+            "content": "Expectations run high ahead of Alphabet's (GOOGL) Google I/O conference for software developers today, with analysts anticipating a slew of artificial intelligence announcements. Google stock has cli\u2026 [+2851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "Hassan Sayed, banned from Princeton?",
+            "description": "Hassan Sayed, a fifth year PhD candidate in economics, it seems was banned from Princeton.\u00a0 Ostensibly for partaking in illegal demonstrations. I am not saying whether this is justified or not, as I do not know the circumstances.\u00a0 I can assure you I am fine w\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/04/hassan-sayed-banned-from-princeton.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-04-26T11:22:57Z",
+            "content": "Hassan Sayed, a fifth year PhD candidate in economics, it seems was banned from Princeton.\u00a0 Ostensibly for partaking in illegal demonstrations.\r\nI am not saying whether this is justified or not, as I\u2026 [+701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Sergio Mart\u00ednez-Beltr\u00e1n",
+            "title": "Some students who protested at colleges don't regret potential punishment",
+            "description": "Some students face criminal charges, suspensions and even expulsions for participating in pro-Palestinian protests and encampments. Their reason? A \"just cause\".",
+            "url": "https://www.npr.org/2024/05/07/1249755332/some-students-who-protested-at-colleges-dont-regret-potential-punishment",
+            "urlToImage": "https://media.npr.org/assets/img/2024/05/07/av9a7318-1-_wide-5c1a23e21f115131cbbcdb2985cc9ef977201279.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2024-05-07T23:32:34Z",
+            "content": "Ammer Qaddumi was arrested at a Pro-Palestinian protest at UT-Austin on April 24, 2024.\r\nMichael Minasi/KUT\r\nAUSTIN Ammer Qaddumi is jumping up and down at the beat of a drum. \r\nHe has a rolled-up pi\u2026 [+5770 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Ailsa Chang",
+            "title": "Why experts say inflation is relatively low but voters feel differently",
+            "description": "Grocery prices are a key component of any household budget, and rising food prices can sour the electorate's mood.",
+            "url": "https://www.npr.org/2024/04/25/1247177492/why-experts-say-inflation-is-relatively-low-but-voters-feel-differently",
+            "urlToImage": "https://media.npr.org/assets/img/2024/04/25/gettyimages-2008640078_wide-a45766cb5f08807ed26cf28b1f194c22407ac6c5-s1400-c100.jpg",
+            "publishedAt": "2024-04-25T20:49:55Z",
+            "content": "A report from Purdue University found that a majority of consumers expect food prices to keep rising in the coming year, which could sour voter sentiment.\r\nScott Olson/Getty Images\r\nA lot goes into p\u2026 [+4445 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Elon Musk wants to use AI to summarize the news on Twitter and ... it's not a terrible idea?",
+            "description": "X/Grok/Twitter won't replace a real news outlet. But a summary summarizer kinda makes sense.",
+            "url": "https://www.businessinsider.com/elon-musk-grok-x-twitter-news-summary-ai-plan-2024-5",
+            "urlToImage": "https://i.insider.com/66353c5d0dfb1341e9028eba?width=1200&format=jpeg",
+            "publishedAt": "2024-05-03T19:42:42Z",
+            "content": "Elon Musk wants to use AI to create a news machine on Grok.Ringo H.W. Chiu/Associated Press\r\n<ul><li>Elon Musk wants to combine Twitter and Grok, his AI engine, and create a news machine.</li><li>But\u2026 [+5464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "mises.org",
+            "title": "The FBI and CIA Are Enemies of the American People",
+            "description": "Among the larger albatrosses burdening the economics profession is the idea of Homo economicus. To this day, most economics undergraduates hear about it in the context of neoclassical economics. Homo...",
+            "url": "https://biztoc.com/x/7ea9668701b8395f",
+            "urlToImage": "https://c.biztoc.com/274/og.png",
+            "publishedAt": "2024-05-06T05:10:05Z",
+            "content": "Among the larger albatrosses burdening the economics profession is the idea of Homo economicus. To this day, most economics undergraduates hear about it in the context of neoclassical economics. Homo\u2026 [+39 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Juliana Kaplan",
+            "title": "Millennial wealth is booming. It turns out avocado toast didn't tank them after all.",
+            "description": "It turns out that, after killing off brands and choosing avocado toast over homeownership, millennials are getting wealthy.",
+            "url": "https://www.businessinsider.com/millennials-saw-wealth-grow-double-during-pandemic-2024-4",
+            "urlToImage": "https://i.insider.com/6627dd0423b29110d301dc18?width=1200&format=jpeg",
+            "publishedAt": "2024-04-24T13:01:02Z",
+            "content": "Getty\r\n<ul><li>Millennials' wealth saw historic growth from 2019 to 2023, according to a new report.</li><li>Despite the pandemic recession, millennial wealth increased due to factors like a robust l\u2026 [+5098 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "The AI-fueled stock market bubble will crash in 2026, research firm says",
+            "description": "\"This dynamic played out around both the dot-com bubble of the late 1990s and early 2000s and the Great Crash of 1929,\" Capital Economics said.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4",
+            "urlToImage": "https://i.insider.com/60186eca6dfbe10018e0128a?width=1200&format=jpeg",
+            "publishedAt": "2024-04-27T12:16:01Z",
+            "content": "An artificial intelligence-fueled stock market bubble will burst in 2026, according to Capital Economics.\r\nThe research firm has said that a stock market bubble, driven by investor excitement towards\u2026 [+2606 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Justin Worland",
+            "title": "What Powell\u2019s Interest Rate Comments Mean for Green Investment",
+            "description": "Interests rate shape markets, and that\u2019s especially true with renewable energy.",
+            "url": "https://time.com/6977014/jerome-powell-interest-rates-climate-change/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/Jerome-Powell-interest-rates-climate.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-05-13T16:00:43Z",
+            "content": "On May 1, Federal Reserve Chair Jerome Powell offered a two-part message to eager interest rate watchers. The Fed is unlikely to increase interest rates this year, but policymakers there are also not\u2026 [+3009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Daniel Long",
+            "title": "US labor market can affect 'people who are not even here'",
+            "description": "That the job market in Phoenix can affect a child's education in Mexico may strain credulity, but it's nevertheless true, according to a recent paper co-authored by Brian Cadena, a University of Colorado Boulder associate professor of economics.",
+            "url": "https://phys.org/news/2024-04-labor-affect-people.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/us-labor-market-can-af.jpg",
+            "publishedAt": "2024-04-27T19:30:01Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+5326 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "Antara Haldar",
+            "title": "The Psychologist Who Convinced Economists that to Err Is Human",
+            "description": "Daniel Kahneman, who passed away in March at the age of 90, received the Nobel Prize in Economics despite having never taken an economics course.\u00a0Nevertheless, his scholarship reshaped and upended the discipline\u2019s fundamental assumptions, laying the groundwor\u2026",
+            "url": "https://www.project-syndicate.org/commentary/remembering-daniel-kahneman-by-antara-haldar-2024-05",
+            "urlToImage": "https://webapi.project-syndicate.org/library/429932369da24163b39223bc9dd098ba.2-1-super.1.jpg",
+            "publishedAt": "2024-05-07T13:44:31Z",
+            "content": "Daniel Kahneman, who passed away in March at the age of 90, received the Nobel Prize in Economics despite having never taken an economics course.\u00a0Nevertheless, his scholarship reshaped and upended th\u2026 [+5959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Qwantz.com"
+            },
+            "author": null,
+            "title": "that's my secret, cap: it's all vibes of various degrees of credibility",
+            "description": "<table><tr><td><tr><td>archive - contact - sexy exciting merchandise - search - about</td></tr></td></tr></table><table><tr><td>\u2190 previous</td><td>May 6th, 2024</td><td>next</td></tr><tr><td>May 6th, 2024: The solution is simple - put \"law\" in scare quotes in\u2026",
+            "url": "https://qwantz.com/index.php?comic=4188",
+            "urlToImage": "https://www.qwantz.com/comics/comic2-4386.png",
+            "publishedAt": "2024-05-06T07:00:00Z",
+            "content": "T-Rex: If demand for a good exceeds the number supplied, then the price of this good increases! And as prices increase on a certain good, this decreases the demand. This is called the Law of Supply a\u2026 [+1056 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "Brian Eno's HARD ART to Release New Portrait Book and Exhibition",
+            "description": "HARD ART is a creative collective founded by legendary British musician, record producer and artist Brian Eno that looks to stand in solidarity with the global community in the face of climate and democratic collapse. Founded in 2022, the platform originally \u2026",
+            "url": "https://hypebeast.com/2024/5/brian-eno-hard-art-collective-exhibition-paul-stolper-gallery",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F05%2F10%2Fbrian-eno-hard-art-collective-exhibition-paul-stolper-gallery-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+            "publishedAt": "2024-05-10T15:45:45Z",
+            "content": "HARD ART is a creative collective founded by legendary British musician, record producer and artist Brian Eno that looks to stand in solidarity with the global community in the face of climate and de\u2026 [+1556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cheezburger.com"
+            },
+            "author": "Eleonora Bader, Eleonora Bader",
+            "title": "\u2018It\u2019s unreal': Farmers band together to dump unsold apples from their orchards, explaining it's due to high prices set by grocery stores",
+            "description": "Let's face it\u2026\r\nFarming is getting more and more difficult as time goes on. Rising labor costs, unexpected infestations, or water shortages can all push the economics of apple production to the brink. A bumper crop of apples in a valley might seem like a farm\u2026",
+            "url": "https://cheezburger.com/25867269/its-unreal-farmers-band-together-to-dump-unsold-apples-from-their-orchards-explaining-its-due-to",
+            "urlToImage": "https://i.chzbgr.com/thumb1200/25867269/h9E94417C/to-dump-unsold-apples-from-their-orchards-explaining-its-due-to-high-prices-set-by-grocery-stores",
+            "publishedAt": "2024-05-10T22:00:00Z",
+            "content": "Let's face it\r\nFarming is getting more and more difficult as time goes on. Rising labor costs, unexpected infestations, or water shortages can all push the economics of apple production to the brink.\u2026 [+971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Brian Domitrovic, Contributor, \n Brian Domitrovic, Contributor\n https://www.forbes.com/sites/briandomitrovic/",
+            "title": "Economics Was A Cause Of The Great Depression",
+            "description": "Economics almost always waves off taxation as significant among the causes of the Great Depression.",
+            "url": "https://www.forbes.com/sites/briandomitrovic/2024/04/26/economics-was-a-cause-of-the-great-depression/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662c47dc5c2eb94369dedaa8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-04-27T00:54:19Z",
+            "content": "Economics is a proud discipline. It has long seen itself as the premier social science and with the major natural sciences part of the core of the intellectual apparatus of modern society. It underst\u2026 [+6755 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Hamilton Mann, Contributor, \n Hamilton Mann, Contributor\n https://www.forbes.com/sites/hamiltonmann/",
+            "title": "There Will Be No Human-Centered AI Without Humane Economics",
+            "description": "In this all-digital, now all-AI frenzy, the value we seek to create today, determines the one of our tomorrow's society.",
+            "url": "https://www.forbes.com/sites/hamiltonmann/2024/05/06/there-will-be-no-human-centered-ai-without-humane-economics/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66379ca1eaabe8a6b18de32b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-05-06T07:07:52Z",
+            "content": "Financial stock exchange market display screen board on the street\r\ngetty\r\nMany economic actors around the world are seeking the next generation of new business models, focused, passionate, stubbornl\u2026 [+7495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futureofhumanityinstitute.org"
+            },
+            "author": null,
+            "title": "Future of Humanity Institute shuts down",
+            "description": "Comments",
+            "url": "https://www.futureofhumanityinstitute.org",
+            "urlToImage": "http://static1.squarespace.com/static/660e95991cf0293c2463bcc8/t/66152445ad2d873d7b76a049/1712661573390/FHI+logo+3.png?format=1500w",
+            "publishedAt": "2024-04-17T15:14:08Z",
+            "content": "(20052024)\r\nEstablished in 2005, initially for a 3-year period, the Future of Humanity Institute was a multidisciplinary research group at Oxford University.\u00a0 It was founded by Prof Nick Bostrom and \u2026 [+2114 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Dutch princess lived in Spain after threats - reports",
+            "description": "Princess Amalia studied in Madrid for more than a year but has since returned, sources say.",
+            "url": "https://www.bbc.co.uk/news/world-europe-68830917",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18228/production/_133165889_gettyimages-1464327441.jpg",
+            "publishedAt": "2024-04-16T21:26:03Z",
+            "content": "The heir to the Dutch throne, Princess Amalia, lived in Spain for at least a year because of severe threats made against her, Dutch media report.\r\nThe crown princess studied in Madrid because of the \u2026 [+2044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Apple won't fight EU over iPad gatekeeper status, third-party App Stores coming",
+            "description": "Despite the EU claiming that the iPad qualifies under its Digital Markets Act as a gatekeeper when it does not yet, Apple has announced that it will comply regardless.The EU is treating the iPad as a gatekeeper platform under its Digital Markets ActEven the E\u2026",
+            "url": "https://appleinsider.com/articles/24/05/02/apple-wont-fight-eu-over-ipad-gatekeeper-status-third-party-app-stores-coming",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/59518-121503-000-lede-iPad-EU-xl.jpg",
+            "publishedAt": "2024-05-02T15:03:32Z",
+            "content": "The EU is treating the iPad as a gatekeeper platform under its Digital Markets Act\r\nDespite the EU claiming that the iPad qualifies under its Digital Markets Act as a gatekeeper when it does not yet,\u2026 [+1738 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0412\u043e\u0440\u043e\u043d\u0438\u043d",
+            "title": "\u041f\u0435\u0440\u0435\u0433\u0440\u0435\u0432 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438 \u043e\u0446\u0435\u043d\u0438\u043b\u0438",
+            "description": "",
+            "url": "https://lenta.ru/news/2024/05/15/peregrev-rossiyskoy-ekonomiki-otsenili/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/05/15/08/20240515084952766/share_f1dbe4224c947732ca6a43cd72f00aaa.jpg",
+            "publishedAt": "2024-05-15T05:47:33Z",
+            "content": ", () , 2023 , , \u00ab\u00bb , .\r\n , \u00ab \u00bb. , , , .\r\n . \u00ab \u00bb , 10 . Bloomberg Economics , .\r\n .P , , - , . , , .\r\n 14 - . , , ."
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u041f\u043b\u0430\u0442\u043e\u043d \u0429\u0443\u043a\u0438\u043d",
+            "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0441\u043e\u0431\u0440\u0430\u043b\u0438\u0441\u044c \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0440\u0430\u0441\u0445\u043e\u0434\u044b \u0438\u0437 \u0424\u041d\u0411",
+            "description": "",
+            "url": "https://lenta.ru/news/2024/05/16/fnb/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/05/16/09/20240516094148323/share_202f78ccf0780b0ef565cf224fb7d01b.jpg",
+            "publishedAt": "2024-05-16T06:59:35Z",
+            "content": "(), 4,2 6 . , , \u00ab\u00bb.\r\n , , .\r\n , , , . , . , , .\r\n , ( , ), , , .\r\n , . . 2022 , 7 , 2,9 .\r\n Bloomberg Economics , , , , . \u00ab\u00bb , , , .\r\n 2,5 , . , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "npr.org",
+            "title": "Neoliberal economics: The road to freedom or authoritarianism?",
+            "description": "Neoliberal economics: The road to freedom or authoritarianism? In the early 1930s, Austrian economist Friedrich Hayek, then based at the London School of Economics, jotted off a memo to the school's director, William Beveridge. At the time, the Great Depressi\u2026",
+            "url": "https://biztoc.com/x/fa067c68f672165f",
+            "urlToImage": "https://c.biztoc.com/p/fa067c68f672165f/s.webp",
+            "publishedAt": "2024-05-07T10:54:06Z",
+            "content": "Neoliberal economics: The road to freedom or authoritarianism?In the early 1930s, Austrian economist Friedrich Hayek, then based at the London School of Economics, jotted off a memo to the school's d\u2026 [+309 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u0412\u043b\u0430\u0434\u0430 \u0413\u043e\u0440\u044f\u0447\u0435\u0432\u0430",
+            "title": "\u041a\u0438\u0442\u0430\u0439 \u0440\u0435\u0437\u043a\u043e \u0441\u043e\u043a\u0440\u0430\u0442\u0438\u043b \u043f\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u044e",
+            "description": "",
+            "url": "https://lenta.ru/news/2024/04/23/kitay-rezko-sokratil-postavki-oborudovaniya-v-rossiyu/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/04/23/09/20240423095757424/share_15258a855b93243d461e384c44f0f433.jpg",
+            "publishedAt": "2024-04-23T06:53:00Z",
+            "content": "2024 , , , 15 ( 2,9 ) . .\r\n 2022 . 11 .\r\n , . , 23 227,8 , .\r\n , 7,6 2023 . , .\r\n , 16 , 2022 . Bloomberg Economics Russia , , ."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Max Zahn",
+            "title": "Interest rates could be high for much longer. Here's what it means for you",
+            "description": "The Fed held interest rates steady at a meeting this week.",
+            "url": "https://abcnews.go.com/Business/interest-rates-high-longer-means-finances/story?id=109865366",
+            "urlToImage": "https://i.abcnewsfe.com/a/b0db57dc-deeb-4a46-8ac6-f6b7e4d912f0/credit-card-gty-jt-240502_1714676330688_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-05-02T19:28:47Z",
+            "content": "For months, the Federal Reserve has forecasted interest rate cuts that would deliver much-needed relief for Americans burdened by high mortgage and credit card loans.\r\nAt a press conference this week\u2026 [+3291 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u041f\u043b\u0430\u0442\u043e\u043d \u0429\u0443\u043a\u0438\u043d",
+            "title": "\u041f\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432 \u0415\u0432\u0440\u043e\u043f\u0443 \u0443\u043f\u0430\u043b\u0438 \u0432 \u0434\u0432\u0430 \u0440\u0430\u0437\u0430",
+            "description": "",
+            "url": "https://lenta.ru/news/2024/04/24/upal/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/04/24/08/20240424085337686/share_7ba988ebd99fdd84bce255b40a4300f3.jpg",
+            "publishedAt": "2024-04-24T05:52:00Z",
+            "content": "- 2023- 18,3 9 . () \u00ab\u00bb.\r\n , 5,4 , 58,5 . , .\r\n 2023 84,9 , , 2022 . 51 20 , , 33 12-.\r\n , . 40 , . 471 428,7 . .\r\n Bloomberg Economics , , , . , , .\r\n TTF , , \u00ab\u00bb, , . .\r\n , , . (), ."
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Will Henshall",
+            "title": "Big Tech Companies Were Investors in Smaller AI Labs. Now They\u2019re Rivals",
+            "description": "Microsoft and Amazon, once merely investors in OpenAI and Anthropic, are now competing with the frontier labs by making their own models.",
+            "url": "https://time.com/6977424/ai-competition-openai-anthropic-microsoft-amazon/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/ai-amazon-microsoft-openai-anthropic-google-02.gif?w=1200&h=628&crop=1",
+            "publishedAt": "2024-05-13T14:29:16Z",
+            "content": "Amazon and Microsoft have, so far, stood slightly apart from the artificial intelligence arms race. While Google and Meta made developing their own AI models a top priority, Microsoft and Amazon have\u2026 [+9988 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.hnn.us"
+            },
+            "author": "Cheryl Misak",
+            "title": "Frank Ramsey: A Genius by All Tests for Genius (2020)",
+            "description": "Unlike his friends Russell and Wittgenstein&nbsp;who focused on the vastness and the unknowability of the world,&nbsp;Ramsey believed it was more important to concentrate on&nbsp;what is admirable and conducive&nbsp;to living&nbsp;a good&nbsp;life.&nbsp;",
+            "url": "https://www.hnn.us/article/frank-ramsey-a-genius-by-all-tests-for-genius",
+            "urlToImage": "https://s3.amazonaws.com/cdn.historynewsnetwork.org/sites/default/files/174250-frankramsey.jpg",
+            "publishedAt": "2024-05-13T12:51:06Z",
+            "content": "It is hard to get our ordinary minds around\u00a0the achievements of the\u00a0great Cambridge mathematician, philosopher, and economist, Frank Ramsey. He made indelible\u00a0contributions to\u00a0as many as\u00a0seven discip\u2026 [+9406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Rachel Treisman",
+            "title": "Fake Botox has sickened patients nationwide. Here's what to know \u2014 and what to avoid",
+            "description": "Public health authorities are investigating reports of counterfeit injections sickening 19 people across nine states. Experts say getting bona fide Botox starts with finding a trustworthy provider.",
+            "url": "https://www.npr.org/2024/04/19/1245519732/fake-botox-tips-avoiding-illness-hospitalization",
+            "urlToImage": "https://media.npr.org/assets/img/2024/04/18/gettyimages-1235871949_wide-ed92758549f83ec299ea6ca436c32b970a93d502-s1400-c100.jpg",
+            "publishedAt": "2024-04-19T09:01:58Z",
+            "content": "The CDC and FDA are investigating reports of patients in nearly a dozen U.S. states being injected with counterfeit Botox.\r\nJens Kalaene/picture alliance via Getty Images\r\nBeware, Botox users: Public\u2026 [+7970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
+            "title": "Bitcoin Halving: Here\u2019s Why Some Expect Prices To Soar",
+            "description": "It\u2019s \u201cEconomics 101\u201d that halving should theoretically bring higher bitcoin prices, but the token\u2019s recent performance doesn\u2019t indicate much hype.",
+            "url": "https://www.forbes.com/sites/dereksaul/2024/04/17/bitcoin-halving-heres-why-some-expect-prices-to-soar/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66202629c692f67723220db5/0x0.jpg?format=jpg&crop=1267,712,x0,y72,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-04-17T20:20:14Z",
+            "content": "Set to occur on Saturday is the highly anticipated bitcoin halving event, a somewhat mysterious phenomenon that occurs every four years, which should theoretically provide a major tailwind to bitcoin\u2026 [+3657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Tim Maurer, Contributor, \n Tim Maurer, Contributor\n https://www.forbes.com/sites/timmaurer/",
+            "title": "Escaping The Sunk Cost Trap: How Behavioral Economics Can Improve Your Daily Decisions",
+            "description": "It\u2019s hard to imagine utilizing behavioral economics to make better decisions in everyday life\u2014but it's possible.",
+            "url": "https://www.forbes.com/sites/timmaurer/2024/05/05/escaping-the-sunk-cost-trap-how-behavioral-economics-can-improve-your-daily-decisions/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66355cb02c84dff9b7fc6a8e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-05-05T11:00:00Z",
+            "content": "Sunk cost, opportunity cost, and the endowment effect. You may expect these textbook-weight words to show up in the classroom. You may even imagine how understanding these concepts could help better \u2026 [+8838 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u0412\u043b\u0430\u0434\u0430 \u0413\u043e\u0440\u044f\u0447\u0435\u0432\u0430",
+            "title": "\u0420\u043e\u0441\u0441\u0438\u044f \u0440\u0435\u0437\u043a\u043e \u043d\u0430\u0440\u0430\u0441\u0442\u0438\u043b\u0430 \u0434\u043e\u0445\u043e\u0434\u044b \u043e\u0442 \u043d\u0435\u0444\u0442\u0438",
+            "description": "",
+            "url": "https://lenta.ru/news/2024/05/06/rossiya-rezko-narastila-dohody-ot-nefti/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/05/06/20/20240506204006648/share_c2e0d0202dce46dd9e3f2e5a08bb283b.jpg",
+            "publishedAt": "2024-05-06T18:48:28Z",
+            "content": "2024 . Bloomberg .\r\n , 497 1,053 . 90 , 1,23 .\r\n , . Urals 70,3 , 48,68 . , .\r\n , 2024 126 . Bloomberg Economics Russia , . , \u00ab\u00bb Brent 95 , 70 .\r\n , . 1990- . Kasatkin Consulting ( Deloitte) , 40 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "The Ludwig von Mises comeback",
+            "description": "That is the subject of my latest Bloomberg column.\u00a0 Here is one excerpt: The Austrian economist\u00a0Ludwig von Mises\u00a0is having a moment, especially in Latin America. Argentine President Javier Milei admires Mises, and he has\u00a0adopted\u00a0some Misesian ideas, such as t\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/04/the-ludwig-von-mises-comeback.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-04-17T04:54:13Z",
+            "content": "The Austrian economist\u00a0Ludwig von Mises\u00a0is having a moment, especially in Latin America. Argentine President Javier Milei admires Mises, and he has\u00a0adopted\u00a0some Misesian ideas, such as the notion tha\u2026 [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eliza Relman",
+            "title": "The US needs immigrants to fill jobs, but can't house them. Nowhere makes this more clear than New York City.",
+            "description": "As the US handles an uptick in asylum-seekers, pressure is mounting to solve the housing crisis.",
+            "url": "https://www.businessinsider.com/immigrants-boost-us-economy-housing-shortage-hurts-growth-nyc-2024-5",
+            "urlToImage": "https://i.insider.com/662ff0e1ec0c696569fee400?width=1200&format=jpeg",
+            "publishedAt": "2024-05-08T10:03:01Z",
+            "content": "The NYPD 7th Precinct activated a Level 1 for crowd control as a large number of asylum-seekers sought shelter at 185 East 7th Street in Manhattan on Saturday January 6, 2024.Theodore Parisienne/Gett\u2026 [+6711 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Paradis",
+            "title": "Why AI might make it harder to pull off a 4-day workweek",
+            "description": "Some say AI could help usher in a four-day workweek, but one CEO says it could actually increase demands on workers and add to an always-on culture.",
+            "url": "https://www.businessinsider.com/ai-could-supercharge-worker-always-on-culture-2024-4",
+            "urlToImage": "https://i.insider.com/662abbd20dfb1341e9ff6447?width=1200&format=jpeg",
+            "publishedAt": "2024-04-28T09:42:01Z",
+            "content": "A tech founder fears artificial intelligence could add to the pressure to work more, not less.zhuweiyi49/Getty Images\r\n<ul><li>Some have argued AI could help usher in a four-day workweek.</li><li>But\u2026 [+6273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "David Bradley",
+            "title": "How global factors influence Thailand's rubber market",
+            "description": "A study published in the International Journal of Economics and Business Research has looked at the various factors affecting fluctuations in the price of natural rubber in Thailand, the world's largest producer of the product. The study considers both domest\u2026",
+            "url": "https://phys.org/news/2024-04-global-factors-thailand-rubber.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/rubber-tree.jpg",
+            "publishedAt": "2024-04-23T18:45:47Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeksaresexy.net"
+            },
+            "author": "Geeks are Sexy",
+            "title": "Costco\u2019s Hot Dog Economics: Bun-derful Bargains or Frank-ly a Loss Leader?",
+            "description": "Ever wondered why the price of Costco\u2019s legendary hot dogs has remained unchanged at $1.50 for nearly 40 years? In this episode of Weird History, discover the secrets behind Costco\u2019s ability to keep its hot dog prices rock bottom despite inflation and economi\u2026",
+            "url": "https://www.geeksaresexy.net/2024/04/26/costcos-hot-dog-economics-bun-derful-bargains-or-frank-ly-a-loss-leader/",
+            "urlToImage": "https://i0.wp.com/www.geeksaresexy.net/wp-content/uploads/2024/04/hotdog.jpg?fit=1200%2C628&ssl=1",
+            "publishedAt": "2024-04-26T17:00:46Z",
+            "content": "Ever wondered why the price of Costco\u2019s legendary hot dogs has remained unchanged at $1.50 for nearly 40 years? In this episode of Weird History, discover the secrets behind Costco\u2019s ability to keep \u2026 [+169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lukekanies.com"
+            },
+            "author": null,
+            "title": "Why We Hate Working for Big Companies (2018)",
+            "description": "Comments",
+            "url": "https://lukekanies.com/writing/why-we-hate-working-for-big-companies/",
+            "urlToImage": null,
+            "publishedAt": "2024-04-29T10:17:06Z",
+            "content": "Posted 4/10/18It\u2019s quite a journey from being born on a commune to raising more than $87m in funding at a software company. This journey forced me to wrestle with existential questions about my true \u2026 [+14474 chars]"
+        },
+        {
+            "source": {
+                "id": "il-sole-24-ore",
+                "name": "Il Sole 24 Ore"
+            },
+            "author": "di Michela Finizio",
+            "title": "Transizione energetica: il ritardo aumenta i costi e riduce i benefici sul Pil",
+            "description": "Le stime Asvis e Oxford Economics: con interventi posticipati al 2030 danni climatici pi\u00f9 alti, carbon tax pi\u00f9 elevata e ricadute economiche sotto le attese",
+            "url": "https://www.ilsole24ore.com/art/transizione-energetica-ritardo-aumenta-costi-e-riduce-benefici-pil-AF7crVpD",
+            "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2024/05/06/Immagini/Ritagli/WIRGCSJ0_20240503170340-U04823173040YAS-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+            "publishedAt": "2024-05-10T18:36:15Z",
+            "content": "Ascolta la versione audio dell'articolo\r\n3' di lettura\r\nUna transizione energetica tardiva sarebbe pi\u00f9 costosa. Lazzeramento delle emissioni inquinanti al 2050 porterebbe meno benefici al Pil naziona\u2026 [+2786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurity: Research News"
+            },
+            "author": "Mike Cummings-Yale",
+            "title": "Team pins down huge cost of mental illness in the US",
+            "description": "Mental illness costs the United States economy as much as the average economic recession, according to a new study.",
+            "url": "https://www.futurity.org/cost-mental-illness-united-states-3211852/",
+            "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/04/mental-illness-costs-united-states-1600.jpg",
+            "publishedAt": "2024-04-25T17:28:49Z",
+            "content": "A new analysis of the economic toll of mental illness considers a host of adverse economic outcomes not considered in earlier estimates.\r\nMental illness costs the US economy $282 billion annually, wh\u2026 [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jo Debecker, Forbes Councils Member, \n Jo Debecker, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/jodebecker/",
+            "title": "AI Is Here: How Do You Control Your Cloud Spending?",
+            "description": "The growing interest in cloud economics is showing companies how to maximize the value of new technology investments rather than cutting them out altogether.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/04/17/ai-is-here-how-do-you-control-your-cloud-spending/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/61c31db687883ecd3e35c78e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-04-17T12:00:00Z",
+            "content": "Managing Partner and Global Head of Wipro FullStride Cloud.\r\ngetty\r\nBusiness technology leaders are expecting their cloud spending to grow in 2024 due to the growth of AI. Cloud economics is an intel\u2026 [+5750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "John Tamny, Contributor, \n John Tamny, Contributor\n https://www.forbes.com/sites/johntamny/",
+            "title": "Opposite Monetarists, Neo-Austrians and Keynesians, Wealth Isn\u2019t Money",
+            "description": "The fallacious notions that inform economics as practiced by leading economists of the various religions can be found in the bark stripped from the argeli shrub in Nepal.",
+            "url": "https://www.forbes.com/sites/johntamny/2024/04/21/opposite-monetarists-neo-austrians-and-keynesians-wealth-isnt-money/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6623aee85a0e8ba77833e516/0x0.jpg?format=jpg&crop=2168,1219,x0,y106,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-04-21T14:00:00Z",
+            "content": "One of the poorest pockets of Asia supplies a primary ingredient for the economy in one of the richest. Those are the words of New York TimesNYT\r\n reporters Bhadra Sharma and Alex Travelli in an arti\u2026 [+4683 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Charlie Campbell",
+            "title": "In China, Blinken Tries to Fix the Unfixable",
+            "description": "U.S. Secretary of State Antony Blinken has put on a friendly face during his visit to Shanghai, but the Washington-Beijing relationship remains broken.",
+            "url": "https://time.com/6970865/antony-blinken-us-china-relations-shanghai-beijing-visit/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/Antony-Blinken-US-China.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-04-25T05:30:00Z",
+            "content": "It could almost have been a vacation. U.S. Secretary of State Antony Blinken arrived in Shanghai on Wednesday to be whisked to a basketball game and a dinner of steamed buns atop a balcony overlookin\u2026 [+5836 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Christopher Rugaber / AP",
+            "title": "Are U.S. Interest Rates High Enough to Beat Inflation? The Fed Isn\u2019t So Sure",
+            "description": "Fed policymakers and some economists are concerned that higher borrowing costs aren't having the impact they expected.",
+            "url": "https://time.com/6977388/us-economy-interest-rates-inflation/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/GettyImages-2150525028.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-05-13T11:06:17Z",
+            "content": "WASHINGTON The sharp interest rate hikes of the past two years will likely take longer than previously expected to bring down inflation, several Federal Reserve officials have said in recent comments\u2026 [+5751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogger.com"
+            },
+            "author": "Calculated Risk",
+            "title": "NY Fed Q1 Report: Household Debt and Delinquency Rates Increased",
+            "description": null,
+            "url": "https://www.blogger.com/comment.g?blogID=10004977&postID=1659870819942937560&bpli=1",
+            "urlToImage": null,
+            "publishedAt": "2024-05-14T15:00:00Z",
+            "content": "From the NY Fed: Household Debt Rose by $184 Billion in Q1 2024; Delinquency Transition Rates Increased Across All Debt TypesThe Federal Reserve Bank of New Yorks Center for Microeconomic Data today \u2026 [+3820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Keila DePape",
+            "title": "Study presents strategy to stamp out illicit market for cannabis amid wave of policy shifts in North America",
+            "description": "It's been five years since Canada stepped into the forefront of cannabis legalization, setting a significant precedent in the realm of drug policy. With Canada and 24 US states now embracing recreational cannabis, the battle against the illegal market remains\u2026",
+            "url": "https://phys.org/news/2024-04-strategy-illicit-cannabis-policy-shifts.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/cannabis-5.jpg",
+            "publishedAt": "2024-04-25T20:00:03Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+2021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Bitcoin Boom Sparks Surge In Crypto Wallet Recovery Services: 'It's Just Pure Economics'",
+            "description": "As the Bitcoin BTC/USD price continues to surge, investors who have lost access to their accounts are turning to crypto wallet recovery firms in droves. What Happened: The increase in bitcoin prices has led to a spike in calls to wallet recovery services, Reu\u2026",
+            "url": "https://biztoc.com/x/1e2b0266b3530638",
+            "urlToImage": "https://c.biztoc.com/p/1e2b0266b3530638/s.webp",
+            "publishedAt": "2024-05-15T14:32:05Z",
+            "content": "As the Bitcoin BTC/USD price continues to surge, investors who have lost access to their accounts are turning to crypto wallet recovery firms in droves.What Happened: The increase in bitcoin prices h\u2026 [+303 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Daniel Markind, Contributor, \n Daniel Markind, Contributor\n https://www.forbes.com/sites/danielmarkind/",
+            "title": "Venezuela Faces The Loss Of Citgo",
+            "description": "Venezuela is about to learn a painful lesson on international economics as it loses control over Citgo, its world renown oil refiner. Read further to learn what it means.",
+            "url": "https://www.forbes.com/sites/danielmarkind/2024/04/18/venezuela-faces-the-loss-of-citgo/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662117e068c4706a6342d190/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-04-18T13:24:09Z",
+            "content": "LEMONT, ILLINOIS - FEBRUARY 01: Smoke rises from a refinery owned by Citgo, a subsidiary of PDVSA, ... [+] the Venezuelan state owned oil company, on February 01, 2019 in Lemont, Illinois. In an atte\u2026 [+5487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Leah Bottone, Forbes Staff, \n Leah Bottone, Forbes Staff\n https://www.forbes.com/sites/leahbottone/",
+            "title": "How Cognizant's Research On Generative AI Is Informing The Future Of Work",
+            "description": "Cognizant CEO Ravi Kumar sits down with Adrian Cooper, CEO of Oxford Economics, for a discussion on the findings of their joint study, \"New work, new world,\" the adoption of generative AI, and AI's impact on society.",
+            "url": "https://www.forbes.com/video/00ce014f-664f-47a2-9ee0-635f12ec0e01/how-cognizants-research-on-generative-ai-is-informing-the-future-of-work/",
+            "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2024/05/15/00ce014f-664f-47a2-9ee0-635f12ec0e01_thumb.jpg?format=jpg&height=460&width=800&fit=bounds",
+            "publishedAt": "2024-05-15T16:11:52Z",
+            "content": "Cognizant CEO Ravi Kumar sits down with Adrian Cooper, CEO of Oxford Economics, for a discussion on the findings of their joint study, \"New work, new world,\" the adoption of generative AI, and AI's i\u2026 [+16 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "mises.org",
+            "title": "Can There Be an Alliance between Austrian and Feminist Schools of Economics?",
+            "description": "While Austrian and feminist critiques of neoclassical economics have some similarities, they also differ strongly on important points. Feminist critiques are based upon what Mises called polylogism, while Austrian critiques are based upon praxeology.#austrian",
+            "url": "https://biztoc.com/x/0d8d9670b5f434f2",
+            "urlToImage": "https://c.biztoc.com/p/0d8d9670b5f434f2/s.webp",
+            "publishedAt": "2024-05-07T11:16:04Z",
+            "content": "While Austrian and feminist critiques of neoclassical economics have some similarities, they also differ strongly on important points. Feminist critiques are based upon what Mises called polylogism, \u2026 [+98 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "mises.org",
+            "title": "Conservatives Are Wrong on Economics. Here\u2019s How to Fix the Problem",
+            "description": "While conservatives and followers of Austrian economics often have much in common, many conservatives are against free trade and free exchange. Austrians need to carefully explain why those beliefs are harmful.#austrian #austrians",
+            "url": "https://biztoc.com/x/cad7683fefb4e481",
+            "urlToImage": "https://c.biztoc.com/274/og.png",
+            "publishedAt": "2024-05-06T05:10:05Z",
+            "content": "While conservatives and followers of Austrian economics often have much in common, many conservatives are against free trade and free exchange. Austrians need to carefully explain why those beliefs a\u2026 [+68 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "matthewgrobar",
+            "title": "TriStar Lands Wesley Wang Short \u2018Nothing, Except Everything\u2019 In Bidding War; Wang To Adapt, With Darren Aronofsky\u2019s Protozoa Producing",
+            "description": "EXCLUSIVE: Following a competitive situation with what we hear were four offers, TriStar Pictures has snapped up film rights to Wesley Wang\u2019s nothing, except everything., a short film that Wang will adapt for the big screen as writer and director, with Darren\u2026",
+            "url": "http://deadline.com/2024/04/wesley-wang-darren-aronofsky-team-nothing-except-everything-film-tristar-1235898595/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/04/Darren-Aronofsky-and-Wesley-Wang.jpg?w=1024",
+            "publishedAt": "2024-04-29T16:41:56Z",
+            "content": "EXCLUSIVE: Following a competitive situation with what we hear were four offers, TriStar Pictures has snapped up film rights to Wesley Wang\u2018s nothing, except everything., a short film that Wang will \u2026 [+1652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Zac Ntim",
+            "title": "Seriesly Berlin: New TV Festival Set To Launch In German Capital In September With Backers Including Medienboard Berlin-Brandenburg",
+            "description": "EXCLUSIVE: A new series-focused festival is set to hit the calendar this fall.\u00a0 Described as an \u201cinternational festival for series culture,\u201d Seriesly Berlin will launch in the German capital this September and run across two days (Sept 26-27) at Fotografiska \u2026",
+            "url": "http://deadline.com/2024/05/seriesly-berlin-september-medienboard-berlin-brandenburg-fotografiska-berlin-1235908456/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/GettyImages-1653674514.jpg?w=1024",
+            "publishedAt": "2024-05-08T10:40:07Z",
+            "content": "EXCLUSIVE: A new series-focused festival is set to hit the calendar this fall.\u00a0\r\nDescribed as an \u201cinternational festival for series culture,\u201d Seriesly Berlin will launch in the German capital this Se\u2026 [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nellie Andreeva",
+            "title": "Fox Chief On Future Of \u20189-1-1: Lone Star\u2019 Beyond Delayed Season 5",
+            "description": "During Fox Entertainment\u2019s upfront call last May, CEO Ron Wade spoke about the decision not to bring back the network\u2019s highest rated drama 9-1-1, produced by 20th Television, which moved to the studio\u2019s Disney sibling ABC. \u201cWe felt moving forward into what i\u2026",
+            "url": "http://deadline.com/2024/05/9-1-1-lone-star-future-season-5-final-fox-1235913419/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/LS415-Sc20_KE0022_f.jpg?w=1024",
+            "publishedAt": "2024-05-13T13:45:44Z",
+            "content": "During Fox Entertainment\u2019s upfront call last May, CEO Ron Wade spoke about the decision not to bring back the network\u2019s highest rated drama 9-1-1, produced by 20th Television, which moved to the stud\u2026 [+1546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fort Worth Star-Telegram"
+            },
+            "author": "Tiffani Jackson",
+            "title": "A Fort Worth neighborhood was a food desert. Then an ex-Dallas Cowboys linebacker moved in",
+            "description": "This former NFL star knows what it\u2019s like to be successful. Now, he wants his neighbors in Fort Worth to know that feeling.",
+            "url": "https://www.star-telegram.com/news/local/fort-worth/article287725305.html",
+            "urlToImage": "https://media.zenfs.com/en/fort_worth_star_telegram_mcclatchy_952/47bf4cc39b1f9e57955e9f940af54b06",
+            "publishedAt": "2024-04-24T15:58:15Z",
+            "content": "David Howard knows what its like to be successful. He was an NFL linebacker for the Dallas Cowboys, New England Patriots, and Minnesota Vikings in the 1980s. He also owned a restaurant and was a chef\u2026 [+11601 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lindsay Dodgson",
+            "title": "Black creators were instrumental in building TikTok. Now they fear they'll be hit the hardest by a ban.",
+            "description": "Black creators spoke with Business Insider about why they fear a potential TikTok ban.",
+            "url": "https://www.businessinsider.com/black-content-creators-could-be-most-affected-by-tiktok-ban-2024-4",
+            "urlToImage": "https://i.insider.com/662f79f5ec0c696569fe8e3e?width=1200&format=jpeg",
+            "publishedAt": "2024-05-01T08:59:35Z",
+            "content": "Black content creators may be most affected if TikTok is banned in the US (stock photo).Hector Pertuz/Getty Images\r\n<ul><li>A bill passed last week that could lead to a TikTok ban unless ByteDance se\u2026 [+8636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Erickimphotography.com"
+            },
+            "author": "ERIC KIM",
+            "title": "Life Economics",
+            "description": "ERIC KIM THOUGHTS",
+            "url": "https://erickimphotography.com/blog/2024/04/21/life-economics/",
+            "urlToImage": null,
+            "publishedAt": "2024-04-21T23:05:57Z",
+            "content": "Your cart is currently empty!"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "What are the takeaways for Beijing from Xi Jinping\u2019s visit to Europe?",
+            "description": "Chinese president conducts five-day charm offensive, signing trade deals and pledging investments.",
+            "url": "https://www.aljazeera.com/program/inside-story/2024/5/10/what-are-the-takeaways-for-beijing-from-xi-jinpings-visit-to-europe",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/05/image-1715364509.jpg?resize=1920%2C1080&quality=80",
+            "publishedAt": "2024-05-10T18:23:25Z",
+            "content": "Chinese president conducts five-day charm offensive, signing trade deals and pledging investments.Chinese President Xi Jinping has wrapped up his first visit to Europe in five years.\r\nHe visited Fran\u2026 [+520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Ronan Glon",
+            "title": "2025 Kia Tasman pickup previewed for global markets",
+            "description": "Filed under:\n Kia,Truck\n Continue reading 2025 Kia Tasman pickup previewed for global markets\n2025 Kia Tasman pickup previewed for global markets originally appeared on Autoblog on Tue, 23 Apr 2024 09:46:00 EDT. Please see our terms for use of feeds.\nPermalin\u2026",
+            "url": "https://www.autoblog.com/2024/04/23/2025-kia-tasman-preview-global-markets/",
+            "urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/04/23085749/666339.jpg",
+            "publishedAt": "2024-04-23T13:46:00Z",
+            "content": "Kia'slong-rumored entry into the global pickup segment is around the corner. Called Tasman, the truck was designed to compete head-to-head against the Ford Ranger and the Toyota Hilux, among other mo\u2026 [+2871 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Adam Rasmi/Athens",
+            "title": "Greece\u2019s Prime Minister Wants His Nation to be the Comeback Story of the Decade",
+            "description": "In an interview, the Greek Prime Minister lays out his vision for a different brand of conservatism\u2014and for a more modern Greece.",
+            "url": "https://time.com/6970097/mitsotakis-interview-greece-economy/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/Kyriakos-Mitsotakis-1.jpg?quality=85&crop=0px%2C459px%2C1800px%2C943px&resize=1200%2C628&strip",
+            "publishedAt": "2024-04-25T11:00:00Z",
+            "content": "Kyriakos Mitsotakis has a confession to make. Sometimes I watch the footage from my speeches and I always look much taller than everyone else around, the 6-ft. 1-in. Greek Prime Minister says with a \u2026 [+13831 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Himbonomics.com"
+            },
+            "author": "James",
+            "title": "The Great British Housing Famine",
+            "description": "Yes, it really is as simple as building more homes",
+            "url": "https://www.himbonomics.com/p/the-great-british-housing-famine",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F167162aa-6de6-4e89-b374-9d20fdda0d5e_1024x1024.jpeg",
+            "publishedAt": "2024-04-21T09:59:05Z",
+            "content": "What is the first country that comes to mind when images are invoked of a line of weary citizens, queueing up to purchase basic goods in limited supply?\r\nIts likely you thought of the USSR, where so-\u2026 [+12978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "Emergent Ventures Africa, fifth cohort",
+            "description": "Mwigereri Dorcas, Kenya, for research using machine learning techniques for solar energy distribution optimization. Mmesomachi Nwachukwu, Nigeria, to support the Special Maths Academy which prepares teams for competitions including the International Mathemati\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-africa-fifth-cohort.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-05-15T05:08:25Z",
+            "content": "Mwigereri Dorcas, Kenya, for research using machine learning techniques for solar energy distribution optimization.\r\nMmesomachi Nwachukwu, Nigeria, to support the Special Maths Academy which prepares\u2026 [+1793 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAUL WISEMAN AP economics writer",
+            "title": "US growth slowed sharply last quarter to 1.6% pace, reflecting an economy pressured by high rates",
+            "description": "The nation\u2019s economy slowed sharply last quarter to a 1.6% annual pace in the face of high interest rates, but consumers \u2014 the main driver of economic growth \u2014 kept spending at a solid pace",
+            "url": "https://abcnews.go.com/US/wireStory/us-growth-slowed-quarter-pointed-solid-economy-109604083",
+            "urlToImage": "https://i.abcnewsfe.com/a/f9abce77-9616-47e0-8557-c7e194858c3f/wirestory_5a64d255a09313dabe54954060a09530_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-25T14:38:22Z",
+            "content": "WASHINGTON -- The nations economy slowed sharply last quarter to a 1.6% annual pace in the face of high interest rates, but consumers the main driver of economic growth kept spending at a solid pace.\u2026 [+5488 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Max Zahn",
+            "title": "Interest rates may stay high for longer. Here\u2019s what it means for the 2024 election.",
+            "description": "The Fed has cast doubt over a previous forecast of interest rate cuts.",
+            "url": "https://abcnews.go.com/Business/interest-rates-stay-high-longer-heres-means-2024/story?id=109865430",
+            "urlToImage": "https://i.abcnewsfe.com/a/1e776770-a11b-45d6-aac5-a5828747b8d7/Biden1-ap-ml-240506_1714999067164_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-05-06T18:09:46Z",
+            "content": "At the start of 2024, the economy appeared to deliver just about everything President Joe Biden could want: falling inflation, robust growth and a forecast of interest rate cuts at the Federal Reserv\u2026 [+4247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Melvin Backman",
+            "title": "Oil markets are on edge after an Israeli airstrike on Iran",
+            "description": "The Israeli military attacked Iran early Friday, and oil markets have gotten the jitters in response. Initial reports suggest that Iran is downplaying the impact of the strikes, which might mean that tensions between the two countries could de-escalate. Read \u2026",
+            "url": "https://qz.com/oil-prices-israel-iran-1851421619",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1ad3413fad16fec9be84df31868ebb21.jpg",
+            "publishedAt": "2024-04-19T14:46:00Z",
+            "content": "The Israeli military attacked Iran early Friday, and oil markets have gotten the jitters in response. Initial reports suggest that Iran is downplayingthe impact of the strikes, which might mean that \u2026 [+1982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "\u201cThe Simple Macroeconomics of AI\u201d",
+            "description": "That is the new Daron Acemoglu paper, and he is skeptical about its overall economic effects.\u00a0 Here is part of the abstract: Using existing estimates on exposure to AI and productivity improvements at the task level, these macroeconomic effects appear nontriv\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/04/the-simple-macroeconomics-of-ai.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-04-21T05:19:08Z",
+            "content": "That is the new Daron Acemoglu paper, and he is skeptical about its overall economic effects.\u00a0 Here is part of the abstract:\r\nUsing existing estimates on exposure to AI and productivity improvements \u2026 [+6997 chars]"
+        }
+    ]
+}
