@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 4057,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "NASA Explains Why We May Not See Aliens (Yet)",
+            "description": "If intelligent civilizations exist out there, they may not rely on amounts of energy that would make them visible to us.",
+            "url": "https://gizmodo.com/nasa-explains-why-we-may-not-see-aliens-yet-2000483173",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/alien-exoplanet-solar-cells-technosignatures-e1722868409746.jpg",
+            "publishedAt": "2024-08-05T16:55:36Z",
+            "content": "In 1950, Enrico Fermi raised an innocuous but deeply unsettling question: in a galaxy filled with planets and star systems, why don\u2019t we see any other signs of life? The questionnow known as Fermi\u2019s \u2026 [+3911 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Cheyenne MacDonald",
+            "title": "NVIDIA\u2019s Blackwell AI chips have reportedly hit a snag and may arrive months late",
+            "description": "NVIDIA has discovered \u201cdesign flaws\u201d in its upcoming series of AI chips that may push their release back at least three months, The Information\r\n reports. The company has reportedly started notifying customers of the delay, including Microsoft. Large orders o\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dbb3bf24-eca6-49de-acee-444230a03e77",
+            "urlToImage": null,
+            "publishedAt": "2024-08-03T16:30:09Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Fracking for Heat: A New Source of Clean Energy?",
+            "description": "Southern California Edison \u2014 one of America's largest power companies \u2014 will buy power from 7-year-old fracking startup Fervo, reports the Washington Post. \n\n\"But instead of oil and gas, Fervo is hunting heat, a more abundant resource that neither pollutes th\u2026",
+            "url": "https://hardware.slashdot.org/story/24/07/27/1916214/fracking-for-heat-a-new-source-of-clean-energy",
+            "urlToImage": "https://a.fsdn.com/sd/topics/power_64.png",
+            "publishedAt": "2024-07-27T19:34:00Z",
+            "content": "Southern California Edison \u2014 one of America's largest power companies \u2014 will buy power from 7-year-old fracking startup Fervo, reports the Washington Post.\"But instead of oil and gas, Fervo is huntin\u2026 [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Rachael Davies",
+            "title": "The US grid can\u2019t handle the drain of growing generative AI energy use",
+            "description": "The growth of generative AI requires huge amounts of water and energy and the US grid is struggling to cope.\u2026 Continue reading The US grid can\u2019t handle the drain of growing generative AI energy use\nThe post The US grid can\u2019t handle the drain of growing genera\u2026",
+            "url": "https://readwrite.com/the-us-grid-generative-ai-energy-use/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/a-detailed-illustration-of-an-overworked-power-gri-msKxLNhQ_qrE3xkaI7osg-RJ9swqHBRH2GG55F-kuNeQ.jpeg",
+            "publishedAt": "2024-07-30T16:16:34Z",
+            "content": "The growth of generative AI requires huge amounts of water and energy and the US grid is struggling to cope.\r\nAs AI has taken off in the last few years, new data centers are popping up across the cou\u2026 [+2309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "Astronomers Detect Possible Matter-Antimatter Annihilation in Giant Space Explosion",
+            "description": "Subatomic particles colliding at nearly the speed of light may have produced a unique emission line in the brightest explosion ever observed.",
+            "url": "https://gizmodo.com/astronomers-detect-possible-matter-antimatter-annihilation-in-giant-space-explosion-2000479308",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/1-MAIN-grb-jet-illustration-16.width-1320-e1722003416538.jpg",
+            "publishedAt": "2024-07-26T14:55:04Z",
+            "content": "A team of researchers scrutinizing the brightest gamma-ray burst in at least 10,000 years identified a unique emission line that it believes could reveal some extreme physics at the heart of the burs\u2026 [+4591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "Big Bubble of Plasma in Space Shoots Fast Radio Burst Toward Earth",
+            "description": "The findings could clarify the origins of the enigmatic and brilliant emissions that often come from the deep recesses of space.",
+            "url": "https://gizmodo.com/big-bubble-of-plasma-in-space-shoots-fast-radio-burst-toward-earth-2000484616",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/fast-radio-burst-illustration.jpg",
+            "publishedAt": "2024-08-08T14:35:21Z",
+            "content": "A team of researchers believes the flurry of radio waves emanating from deep space came from a bubble of plasma surrounding a compact object, one of the universe\u2019s densest entities.\r\nThe waves were a\u2026 [+2718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Environmental Groups Accuse Amazon of 'Distorting the Truth' in Latest Clean-Energy Claim",
+            "description": "An anonymous reader shares a report: On Wednesday, Amazon claimed that it reached its goal of sourcing all its power from clean energy sources in the past year. If taken at face value, the announcement would mean it hit the milestone seven years ahead of sche\u2026",
+            "url": "https://news.slashdot.org/story/24/07/10/1735234/environmental-groups-accuse-amazon-of-distorting-the-truth-in-latest-clean-energy-claim",
+            "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
+            "publishedAt": "2024-07-10T17:35:00Z",
+            "content": "I think at this point, everyone understands that this is what they mean. There are very few projects that are entirely running out of renewable energies.Most of them are tied to the grid and overall \u2026 [+312 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Stokel-Walker",
+            "title": "How 5G technology is helping curb carbon emissions and waste at the Paris Games",
+            "description": "Historically, the Olympic Games have hurt host cities' environments. 5G technology, which requires less physical space and energy, could help.",
+            "url": "https://www.businessinsider.com/paris-olympics-how-5g-tech-could-curb-environmental-impact-2024-7",
+            "urlToImage": "https://i.insider.com/66a27ce82d66759f66fe52c0?width=1200&format=jpeg",
+            "publishedAt": "2024-07-29T15:24:40Z",
+            "content": "In August, athletes swam in the Seine as part of a test event for the Paris Games.Michel Euler/ AP\r\n<ul><li>The Games' need for a massive infrastructure project has historically hurt host cities' env\u2026 [+6616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Most homes will need heat pumps, Welsh government says",
+            "description": "The Welsh government sets out its plans to achieve Wales' net-zero emissions target by 2050.",
+            "url": "https://www.bbc.com/news/articles/c51yqvg0z04o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9186/live/a57ed670-4298-11ef-a41a-19459e4e18c0.jpg",
+            "publishedAt": "2024-07-15T09:56:08Z",
+            "content": "By\u00a0Steffan Messenger,\u00a0BBC Wales environment correspondent\r\nThe use of heat pumps are central in the Welsh government's plan to reach net-zero emissions by 2050\r\nHeat pumps will need to be installed i\u2026 [+5072 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lloyd Lee",
+            "title": "Kamala Harris' campaign strategy includes calling Trump's camp 'weird.' It could work, campaign experts say.",
+            "description": "Kamala Harris is running a \"ruthlessly efficient\" campaign, generating much needed energy for the Democratic base, a GOP strategist told BI.",
+            "url": "https://www.businessinsider.com/kamala-harris-campaign-strategy-trump-jd-vance-2024-7",
+            "urlToImage": "https://i.insider.com/66a58bb2a0fc5856d597feeb?width=1200&format=jpeg",
+            "publishedAt": "2024-07-28T09:52:02Z",
+            "content": "Vice President Kamala Harris has so far been able to energize the Democratic base in part with a new campaign strategy that involves calling Donald Trump and his team \"weird,\" \"old,\" and \"creepy.\"Kay\u2026 [+4834 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Taylor Freitas",
+            "title": "Want to Cut Your Energy Bills by 10 Percent? Set Your Thermostat to These Temperatures",
+            "description": "Learn the best temperatures for air conditioning to save money this summer.",
+            "url": "https://www.cnet.com/home/energy-and-utilities/want-to-cut-your-energy-bills-by-10-percent-set-your-thermostat-to-these-temperatures/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/16bfbc4d050005dd21c933035b65be996be17b2a/hub/2021/10/05/b9a8f780-a2c4-45d5-b345-8a7308a7eb15/person-adjusting-thermostat-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-25T21:16:04Z",
+            "content": "We're in the middle of a massive summer heatwave -- Monday, July 22 was the hottest day in recorded history, and Tuesday almost beat that record. All that summer heat leads to more air conditioning -\u2026 [+5560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "California's Grid Survives Heat Wave Thanks to Massive Battery Storage",
+            "description": "Longtime Slashdot reader Uncle_Meataxe shares a report from the Sacramento Bee: California's power grid handled a nearly three week long record-setting heat wave with few issues. The heat wave was the hottest 20-day period on record around Sacramento and set \u2026",
+            "url": "https://hardware.slashdot.org/story/24/07/17/2353232/californias-grid-survives-heat-wave-thanks-to-massive-battery-storage",
+            "urlToImage": "https://a.fsdn.com/sd/topics/power_64.png",
+            "publishedAt": "2024-07-18T01:25:00Z",
+            "content": "California's power grid handled a nearly three week long record-setting heat wave with few issues. The heat wave was the hottest 20-day period on record around Sacramento and set an all-time temperat\u2026 [+1160 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Catherine Boudreau",
+            "title": "What Americans say they want on climate versus what Biden and Trump are offering",
+            "description": "Trump says he'd \"drill, baby, drill\" for fossil fuels that are causing the climate crisis. Biden wants to invest in renewables and a green workforce.",
+            "url": "https://www.businessinsider.com/biden-trump-climate-policies-ev-subsidies-renewables-fossil-fuel-drilling-2024-7",
+            "urlToImage": "https://i.insider.com/66983e3d80d4d5da13d4c617?width=1200&format=jpeg",
+            "publishedAt": "2024-07-18T11:01:02Z",
+            "content": "Donald Trump and Joe Biden.Anna Moneymaker and Kevin Dietsch/Getty Images\r\n<ul><li>Biden and Trump diverge sharply on climate policy as the 2024 election nears.</li><li>Republicans are emphasizing fo\u2026 [+6063 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Catherine Boudreau",
+            "title": "Russia's war pushed Europe to a tipping point on wind and solar",
+            "description": "Wind and solar generated more EU electricity than fossil fuels in the first half of the year for the first time.",
+            "url": "https://www.businessinsider.com/russia-war-oil-prices-supply-europe-wind-solar-2024-7",
+            "urlToImage": "https://i.insider.com/66aaaa98fb6d32635ee58113?width=1200&format=jpeg",
+            "publishedAt": "2024-08-01T13:32:34Z",
+            "content": "A solar farm in rural Spain.Mikel Bilbao/Getty Images\r\n<ul><li>So far this year in the EU, wind and solar generated more electricity than fossil fuels.</li><li>Renewable energy met 50% of EU's power \u2026 [+3551 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Catherine Boudreau",
+            "title": "Russia's war pushed Europe to a tipping point on wind and solar",
+            "description": "Wind and solar generated more EU electricity than fossil fuels in the first half of the year for the first time.",
+            "url": "https://www.businessinsider.com/russias-war-oil-prices-supply-europe-wind-solar-2024-7",
+            "urlToImage": "https://i.insider.com/66aaaa98fb6d32635ee58113?width=1200&format=jpeg",
+            "publishedAt": "2024-08-01T10:59:02Z",
+            "content": "A solar farm in rural Spain.Mikel Bilbao/Getty Images\r\n<ul><li>So far this year in the EU, wind and solar generated more electricity than fossil fuels.</li><li>Renewable energy met 50% of EU's power \u2026 [+3551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Gault",
+            "title": "\u2018Disco Balls\u2019 and \u2018Peanuts\u2019: North Korea Now Has 50 Nukes, Scientists Say",
+            "description": "According to scientists, the DPRK has enough nuclear material to build 130 warheads by the end of the decade.",
+            "url": "https://gizmodo.com/disco-balls-and-peanuts-north-korea-now-has-50-nukes-scientists-say-2000473895",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/North_korea_2016_purported_warhead.jpg",
+            "publishedAt": "2024-07-16T14:45:01Z",
+            "content": "North Korean nukes look like disco balls, olives, and peanuts, according to a group of scientists and researchers who study nuclear weapons. Newly released research puts the DPRKs devastating stockpi\u2026 [+4674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Katie Collins",
+            "title": "How Cheap Is EV Charging vs. Gasoline? We Used Math to Find a Winner",
+            "description": "There's an ongoing Reddit debate between electric vehicles and gas-powered cars. After asking a few experts and doing some math, we can tell you which one's cheaper.",
+            "url": "https://www.cnet.com/home/electric-vehicles/how-much-cheaper-is-ev-charging-vs-gasoline-we-used-math-to-find-a-winner/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/8f88418f94a00ecca8c847002e7130d420dc0771/hub/2024/07/09/3f6067a4-c248-4852-abbf-9eff53bcfda1/we-do-the-math-image-2024-07-09-144204.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-24T15:00:04Z",
+            "content": "It's hard not to notice those vanity license plates like \"GASLOL\" on EVs while driving around. Why so braggy? Maybe EV drivers know something we don't?\u00a0\r\nWe combed through popular social media platfo\u2026 [+11845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Bolivia discovers huge natural gas field",
+            "description": "The discovery comes at a time when gas exports - one of Bolivia's main sources of revenue - had dwindled.",
+            "url": "https://www.bbc.com/news/articles/c25lpxzw9wlo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8065/live/ac53f500-4376-11ef-9e1c-3b4a473456a6.jpg",
+            "publishedAt": "2024-07-16T14:21:40Z",
+            "content": "The president of Bolivia, Luis Arce, has announced the discovery of a huge natural gas field.\r\nPresident Arce said the field had a capacity of 1.7 trillion cubic feet (TCF), making it the biggest dis\u2026 [+1315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Kristina Panos",
+            "title": "Is It Time for Synthetic Diamonds to Shine?",
+            "description": "The process of creating a diamond naturally takes between 1 and 3.3 billion years. Conversely, a lab-grown diamond can now be created in 150 minutes. But despite being an ethical and environmentall\u2026",
+            "url": "https://hackaday.com/2024/07/24/is-it-time-for-synthetic-diamonds-to-shine/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/07/diamonds-800.webp",
+            "publishedAt": "2024-07-24T11:00:12Z",
+            "content": "The process of creating a diamond naturally takes between 1 and 3.3 billion years. Conversely, a lab-grown diamond can now be created in 150 minutes. But despite being an ethical and environmentally-\u2026 [+1717 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stephanie Ebbs, Kelly Livingston",
+            "title": "Climate groups eye Harris' VP pick as campaign gets underway",
+            "description": "As Democrats await Harris' vice presidential pick, climate groups are \"all in\" to help her get elected. ABC News breaks down climate records of her top VP contenders.",
+            "url": "https://abcnews.go.com/US/harris-weighs-vp-pick-climate-groups-campaign/story?id=112281042",
+            "urlToImage": "https://i.abcnewsfe.com/a/63728025-105f-4850-933c-e85ab2affc7e/kamala-1-gty-er-240725_1721941765600_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-26T17:12:37Z",
+            "content": "As Vice President Kamala Harris' presidential campaign gains momentum, many environmental advocacy groups say they're \"all in\" to help her win the White House.\r\nGroups like the League of Conservation\u2026 [+8980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Researchers explore the potential of clean energy markets as a hedging tool",
+            "description": "Clean energy investments offer potential stability and growth, especially during volatile market conditions. A recent study explored the relationship between clean energy markets and global stock markets. Significant spillovers were observed from major indice\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240731141006.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-31T18:10:06Z",
+            "content": "Clean energy investments offer potential stability and growth, especially during volatile market conditions. A recent study by researchers from Korea explored the relationship between clean energy ma\u2026 [+3869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Dean Takahashi",
+            "title": "NTT Data unveils Ultralight Edge AI platform for internet of things and manufacturing",
+            "description": "NTT Data, the IT infrastructure and services company owned by Japan\u2019s NTT, unveiled its newEdge AI platform to accelerate AI processing to the edge. By processing data when and where it is generated and unifying diverse Internet of Things devices, systems and\u2026",
+            "url": "https://venturebeat.com/ai/ntt-data-unveils-ultralight-edge-ai-platform-for-internet-of-things-and-manufacturing/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/07/4-image-NTT-DATA-workers-on-manufacturing-floor.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-07-18T12:00:00Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nNTT Data, the IT infrastructure and services company owned by Japans NT\u2026 [+6610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Pinpointing coal plants to convert to nuclear energy, considering both practicality and community support",
+            "description": "An assessment ranks the feasibility of converting 245 operational coal power plants in the U.S. into advanced nuclear reactors, providing valuable insights for policymakers and utilities to meet decarbonization goals, according to a new study.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240709121808.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-09T16:18:08Z",
+            "content": "An assessment ranks the feasibility of converting 245 operational coal power plants in the U.S. into advanced nuclear reactors, providing valuable insights for policymakers and utilities to meet deca\u2026 [+3772 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "Marathon Oil reaches a $241 million settlement with EPA for environmental violations",
+            "description": "The federal government announced a settlement with Marathon Oil for alleged air quality violations at the company's oil and gas operations on the Fort Berthold Indian Reservation in North Dakota.",
+            "url": "https://www.npr.org/2024/07/11/nx-s1-5036900/marathon-oil-settlement-epa-north-dakota",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2Fe2%2Fb72b201740c49d838765580c5e7a%2Fap24193700458284.jpg",
+            "publishedAt": "2024-07-11T21:35:48Z",
+            "content": "The federal government announced a $241.5 million settlement with Marathon Oil on Thursday for alleged air quality violations at the company's oil and gas operations on the Fort Berthold Indian Reser\u2026 [+4839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "VB Staff",
+            "title": "AI training costs are growing exponentially \u2014\u00a0 IBM says quantum computing could be a solution",
+            "description": "Experts from IBM, AWS and HP Labs tackle the big question of gen AI: soaring training costs, at VB Transform 2024.",
+            "url": "https://venturebeat.com/ai/ai-training-costs-are-growing-exponentially-ibm-says-quantum-computing-could-be-a-solution/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/07/DSC8383.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-07-25T21:06:36Z",
+            "content": "Earlier this month, the Wall Street Journal reported that a third of nuclear power plants are in talks with tech companies to power their new data centers. Meanwhile, Goldman Sachs projected that AI \u2026 [+7689 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Leila Jordan",
+            "title": "Droughts are threatening California's water supply. The state is racing to save what's left.",
+            "description": "The US faces a $625 billion cost to repair its drinking- and clean-water infrastructure.",
+            "url": "https://www.businessinsider.com/how-californias-on-site-water-recycling-can-boost-water-conservation-2024-7",
+            "urlToImage": "https://i.insider.com/66997872fb2b6bedb0588627?width=1200&format=jpeg",
+            "publishedAt": "2024-07-19T18:32:02Z",
+            "content": "On-site-water-reuse systems recycle a building's wastewater to help conserve resources.LOREN ELLIOTT\r\n<ul><li>California has spent decades battling droughts and water insecurity.</li><li>Startups lik\u2026 [+10095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "NPR",
+            "title": "Don't think heat pumps are sexy? This slow jam could change your mind",
+            "description": "Heat pumps are an important tool to stave off global warming. Two Berkeley musicians wrote a sultry anthem about them.",
+            "url": "https://www.npr.org/2024/07/15/g-s1-8939/dont-think-heat-pumps-are-sexy-this-slow-jam-could-change-your-mind",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+176/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F57%2F2cd9d6ca44668a16d208c40083f4%2Fmike-roberts-left-and-will-hammond-jr-right-belt-about-the-virtues-of-heat-pumps-photo-by-eduardo-lopez-switch-is-on.jpg",
+            "publishedAt": "2024-07-15T09:15:00Z",
+            "content": "You know whats hot but also cool? R&amp;B music. You know what else is? Heat pumps.\r\nA pair of Berkeley musicians set out to prove it by combining the two in a sultry, catchy slow jam called (Im Your\u2026 [+4938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Researchers explore the potential of clean energy markets as a hedging tool",
+            "description": "Climate change has significantly impacted lives worldwide and prompted governments to adopt policies promoting sustainability and use of clean energy sources. This shift to clean energy has triggered increased investments in renewable energy and technologies.",
+            "url": "https://phys.org/news/2024-07-explore-potential-energy-hedging-tool.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/pusan-national-univers-12.jpg",
+            "publishedAt": "2024-07-31T15:58:55Z",
+            "content": "Climate change has significantly impacted lives worldwide and prompted governments to adopt policies promoting sustainability and use of clean energy sources. This shift to clean energy has triggered\u2026 [+4006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "New humidity-driven membrane to remove carbon dioxide from the air",
+            "description": "A new ambient-energy-driven membrane that pumps carbon dioxide out of the air has been developed by researchers.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240719123819.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-19T16:38:19Z",
+            "content": "A new ambient-energy-driven membrane that pumps carbon dioxide out of the air has been developed by Newcastle University researchers.Direct air capture was identified as one of the 'Seven chemical se\u2026 [+4678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Talen Energy offers up nuclear-powered crypto mining campus stake, sources say",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cbabb00a-ec39-4c9b-a2c7-08293c4b02e4",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T10:04:22Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Bryan Adams",
+            "title": "Duracell 100W Portable Solar Panel Review: More Power for Fewer Dollars",
+            "description": "We tested almost a dozen portable solar panels. Duracell outperformed the competition.",
+            "url": "https://www.cnet.com/home/energy-and-utilities/duracell-100w-portable-solar-panel-review-more-power-for-fewer-dollars/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/3161bea55d9b7102fcf9e8bf180d65d45b9ec042/hub/2024/08/02/fbb34c89-7930-4508-9f04-a8ceb38aeaff/duracell-100w-portable-solar-panel.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-08-05T18:42:00Z",
+            "content": "Portable solar panels neatly ride the line between fallback options during a power outage and convenient sources of electricity on the go. Solar power is the fastest growing source of electricity in \u2026 [+9119 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "MATTHEW DALY / AP",
+            "title": "Biden Awards $1.7 Billion to Boost Electric Vehicle Manufacturing and Assembly in Eight States",
+            "description": "The Biden Administration is awarding nearly $2 billion in grants to help electric vehicle manufacturing\u00a0and assembly sites in eight states.",
+            "url": "https://time.com/6997334/biden-awards-billion-boost-electric-vehicle-manufacturing-assembly-states/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/07/AP24192794637261.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-07-11T10:35:51Z",
+            "content": "WASHINGTON The Biden administration is awarding nearly $2 billion in grants to help restart or expand electric vehicle manufacturing and assembly sites in eight states, including the presidential bat\u2026 [+4863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Giselle Castro-Sloboda",
+            "title": "The Best Electrolytes, According to Experts",
+            "description": "Whether you\u2019re an athlete or simply trying to spruce up your water, these are some of the best electrolyte options to choose from.",
+            "url": "https://www.cnet.com/health/the-best-electrolytes-according-to-experts/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/6703c6ae4e4cb59c4197fe9277c39793ccfa8f19/hub/2024/08/01/5f1e45c9-a823-4c56-8379-2c761b253019/nuun-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-08-01T17:32:00Z",
+            "content": "With one of the hottest summers affecting the whole country, you\u2019ve probably heard about the importance of staying hydrated and replenishing electrolytes. Electrolytes are essential minerals (sodium,\u2026 [+7652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dmitry Zhdannikov and Julia Payne",
+            "title": "Trading houses lure top talent from BP, Shell",
+            "description": "Several high-profile energy traders have in recent weeks quit oil majors for trading houses, multiple sources told Reuters on Thursday, as talent follows...",
+            "url": "https://finance.yahoo.com/news/trading-houses-lure-top-talent-113634490.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/6f59fc309af1c9d6c9cf7aee1472aa37",
+            "publishedAt": "2024-07-11T11:36:34Z",
+            "content": "By Dmitry Zhdannikov and Julia Payne\r\nLONDON (Reuters) - Several high-profile energy traders have in recent weeks quit oil majors for trading houses, multiple sources told Reuters on Thursday, as tal\u2026 [+3146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ethz.ch"
+            },
+            "author": null,
+            "title": "Rapid extraction of europium from spent fluorescent lamps",
+            "description": "Comments",
+            "url": "https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste.html",
+            "urlToImage": "https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1642390118.jpg",
+            "publishedAt": "2024-07-09T09:26:08Z",
+            "content": "Rare earth metals are not as rare as their name suggests. However, they are indispensable for the modern economy. After all, these 17 metals are essential raw materials for digitalisation and the ene\u2026 [+2546 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rachel Hosie",
+            "title": "Ryan Reynolds' longtime personal trainer shared 5 simple pieces of advice he gives clients to boost their longevity",
+            "description": "Don Saladino, Ryan Reynolds' personal trainer, mastering the basics is key for longevity, from sleeping enough to eating plenty of fiber.",
+            "url": "https://www.businessinsider.com/ryan-reynolds-personal-trainer-don-saladino-simple-advice-boost-longevity-2024-7",
+            "urlToImage": "https://i.insider.com/66a8ef2daab37011780b949d?width=1200&format=jpeg",
+            "publishedAt": "2024-07-31T12:40:27Z",
+            "content": "Don Saladino (left) has been training Ryan Reynolds for 15 years. He advises all clients to include plenty of fiber in their meals alongside protein, carbs, and fats.Don Saladino/Getty\r\n<ul><li>Ryan \u2026 [+6516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Top 100 chart debuts on Apple Music Classical",
+            "description": "Apple Music Classical is now curating a top 100 chart compiled weekly from listening figures across more than 165 countries.The new Apple Music Classical Top 100 on an iPhoneIt's sixteen months since Apple launched the Apple Music Classical app for iOS, and s\u2026",
+            "url": "https://appleinsider.com/articles/24/07/22/top-100-chart-debuts-on-apple-music-classical",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/60458-124315-000-lede-Classical-100-xl.jpg",
+            "publishedAt": "2024-07-22T17:16:54Z",
+            "content": "The new Apple Music Classical Top 100 on an iPhone\r\nApple Music Classical is now curating a top 100 chart compiled weekly from listening figures across more than 165 countries.\r\nIt's sixteen months s\u2026 [+1952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Politicopro.com"
+            },
+            "author": "Jean Chemnick, E&E News",
+            "title": "Why Controlling Landfill Methane Is Key to Slowing Climate Change",
+            "description": "The EPA plans to propose a rule in 2025 that will tackle methane emissions from landfills, one of the country's largest sources of the greenhouse gas",
+            "url": "https://subscriber.politicopro.com/article/eenews/2024/07/29/epa-to-crack-down-on-landfill-methane-00171464",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/5a95a3c1730544f0/original/GettyImages-1940032824c.jpg?w=1200",
+            "publishedAt": "2024-07-29T16:00:00Z",
+            "content": "CLIMATEWIRE | EPA has quietly teed up what could become the first important climate rule of a potential Kamala Harris administration: a crackdown on landfill gas.\r\nThe agency announced last week that\u2026 [+5988 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Calvin Wankhede",
+            "title": "How much energy does ChatGPT consume? More than you think, but it\u2019s not all bad news",
+            "description": "ChatGPT and other AIs consume as much energy as thousands of US households, and demand is only set to rise, but it's a fraction of other tech.",
+            "url": "https://www.androidauthority.com/chatgpt-energy-consumption-3466882/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2021/08/Crypto-mining-with-GPU-stock-image-2.jpg",
+            "publishedAt": "2024-08-04T17:00:54Z",
+            "content": "Everything comes at a cost, and AI is no different. While ChatGPT and Gemini may be free to use, they require a staggering amount of computational power to operate. And if that wasnt enough, Big Tech\u2026 [+6371 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Melvin Backman",
+            "title": "Wind energy is powering America more than coal for the first time ever",
+            "description": "American energy generation has gotten just a little bit cleaner this year. Data from the Energy Information Administration suggests that wind power is a bigger source of electricity than coal for the first time ever. Data from the agency says that wind was re\u2026",
+            "url": "https://qz.com/wind-power-overtake-coal-power-1851581004",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d825ddfbff8c81dec701e56bff7c6062.jpg",
+            "publishedAt": "2024-07-08T18:00:00Z",
+            "content": "American energy generation has gotten just a little bit cleaner this year. Data from the Energy Information Administration suggests that wind power is a bigger source of electricity than coal for the\u2026 [+1197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jessica Rendall",
+            "title": "Napping Outside Isn't Just for Nordic Babies. You Can Reap the Benefits Too",
+            "description": "Sleeping outdoors offers multiple health benefits, like improving your sleep and potentially giving your eyes a break.",
+            "url": "https://www.cnet.com/health/sleep/napping-outside-isnt-just-for-nordic-babies-you-can-reap-the-benefits-too/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/24196dd6f86589558c1e7015e322249739202236/hub/2023/07/05/497ba5c9-640e-49c1-8e5f-ac0dec7aa98c/gettyimages-88583002.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-18T15:00:26Z",
+            "content": "A common practice in some Scandinavian countries slipped into central focus earlier this year when a TikTok video panning covered strollers lined up neatly outside on a Norwegian sidewalk went viral.\u2026 [+4220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sareena Dayaram",
+            "title": "Apple Watch X: Everything We Know About Apple's Next Smartwatch",
+            "description": "Apple announced its first smartwatch 10 years ago, and the company could reveal a special new X model this fall to celebrate that big anniversary.",
+            "url": "https://www.cnet.com/tech/mobile/apple-watch-x-everything-we-know-about-apples-next-smartwatch/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/edea4188dac5502e06d1b18012b330954b842576/hub/2024/05/22/f54002b0-cefb-4a49-b7d1-f6b08aac2d86/cellular-apple-watch-series-9.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-20T22:42:00Z",
+            "content": "Apple's annual fall event, where new iPhone and Apple Watch models are revealed, is likely just months away. This year marks the 10th anniversary of Apple announcing its first smartwatch, and the com\u2026 [+5268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Small Business Trends"
+            },
+            "author": "Michael Guta",
+            "title": "IRS Alerts Taxpayers About Clean Energy Tax Credit Scam",
+            "description": "IRS warns taxpayers about a scam involving clean energy tax credits under the Inflation Reduction Act. Consult a trusted tax professional.",
+            "url": "https://smallbiztrends.com/?p=1491571",
+            "urlToImage": "https://smallbiztrends.com/wp-content/themes/sahifa/images/logo-full.jpg",
+            "publishedAt": "2024-07-15T21:30:23Z",
+            "content": "The IRS has issued a warning to taxpayers about a new scam involving clean energy tax credits. This scheme involves unethical tax return preparers who misrepresent the rules for claiming these credit\u2026 [+2892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Labour\u2019s first week: Eight key plans, and the challenges ahead",
+            "description": "What has Labour announced in its first week since sweeping to power?",
+            "url": "https://www.bbc.com/news/articles/cqql0zlxkk6o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4d2f/live/c6a43ce0-4023-11ef-b74c-bb483a802c97.jpg",
+            "publishedAt": "2024-07-13T02:27:56Z",
+            "content": "Its been a busy first week for Labour, with a raft of announcements including plans to tackle prison overcrowding, get people back into work and build 1.5 million new homes. \r\nBut what are the hurdle\u2026 [+8730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Anchorage Daily News"
+            },
+            "author": "Anchorage Daily News, Alaska",
+            "title": "EDITORIAL: Eklutna power plan: Perfect compromise or failure by committee?",
+            "description": "Jul. 27\u2014A good compromise, as the saying goes, is one that leaves none of the parties involved satisfied. And by that metric, the hydropower plan for the...",
+            "url": "https://www.adn.com/opinions/editorials/2024/07/27/editorial-eklutna-power-plan-perfect-compromise-or-failure-by-committee/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2024-07-27T22:01:00Z",
+            "content": "Jul. 27A good compromise, as the saying goes, is one that leaves none of the parties involved satisfied. And by that metric, the hydropower plan for the Eklutna Dam may be the most successful comprom\u2026 [+3815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Popular Science"
+            },
+            "author": "Laura Baisas",
+            "title": "One in 100 million cotton candy lobster caught in New Hampshire",
+            "description": "A rare cotton candy lobster was the catch of the day recently off the coast of New Castle, New Hampshire. This candy-colored crustaceans was caught by a local lobsterman and donated to the Seacoast Science Center, a marine science education organization in Ry\u2026",
+            "url": "https://www.popsci.com/science/cotton-candy-lobster/",
+            "urlToImage": "https://www.popsci.com/wp-content/uploads/2024/07/lead-lobster.jpg",
+            "publishedAt": "2024-07-31T13:13:32Z",
+            "content": "A rare cotton candy lobster was the catch of the day recently off the coast of New Castle, New Hampshire. This candy-colored crustaceans was caught by a local lobsterman and donated to the Seacoast S\u2026 [+2874 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Meredith Schneider",
+            "title": "I tried 5 ways to add protein to my coffee. Egg whites were good, but the best add-in was completely undetectable.",
+            "description": "I tried protein powder, PB2, egg whites, cottage cheese, and collagen powder to find the best way to add protein to my coffee or \"proffee.\"",
+            "url": "https://www.businessinsider.com/finding-best-way-add-protein-to-coffee-taste-test",
+            "urlToImage": "https://i.insider.com/669ec14580d4d5da13d60b35?width=1200&format=jpeg",
+            "publishedAt": "2024-07-23T18:16:02Z",
+            "content": "I like finding new ways to add protein to my diet. Meredith Schneider\r\n<ul><li>I tried five different ways to add protein to my coffee to see if I could find a new go-to.</li><li>Adding protein to yo\u2026 [+5400 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Serafina Kenny",
+            "title": "A 78-year-old doctor says he's reversed his age by 20 years. Here are the 4 diet principles he follows to stay young.",
+            "description": "Dr. Michael Roizen, the chief wellness officer at Cleveland Clinic, shared how he eats to stay young, including following the Mediterranean diet.",
+            "url": "https://www.businessinsider.com/doctor-longevity-expert-reverse-biological-age-years-diet-principle-s2024-7",
+            "urlToImage": "https://i.insider.com/668fba66724ee4419a5db425?width=1200&format=jpeg",
+            "publishedAt": "2024-07-13T09:07:03Z",
+            "content": "Dr. Michael Rozien mostly eats a Mediterranean diet.Cleveland Clinic/Getty Images\r\n<ul><li>Dr. Michael Roizen is 78, but says his \"biological age\" is 57.6.</li><li>He's the chief wellness officer at \u2026 [+4016 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kiara Alfonseca",
+            "title": "What is Project 2025? A look at the conservative presidential wish list",
+            "description": "Project 2025, a plan for the next Republican presidency, has gained notoriety amid an intensifying presidential election.",
+            "url": "https://abcnews.go.com/Politics/project-2025-conservative-presidential-list/story?id=111952315",
+            "urlToImage": "https://i.abcnewsfe.com/a/64e6f12e-d388-40dc-80fa-ac3e93fdd6be/trump-speaking-ap-jef-240715_1721069232031_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-25T17:29:51Z",
+            "content": "Project 2025, a 922-page playbook of controversial policy proposals intended to guide the next conservative administration, is gaining attention as the presidential election campaigns heat up.\r\nProje\u2026 [+8203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Joy and relief as South Africa manages to keep its lights on",
+            "description": "After experiencing regular power cuts for 17 years there are signs things are now working properly.",
+            "url": "https://www.bbc.com/news/articles/c4ng1ygxzddo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d8d2/live/25e85260-5021-11ef-aebc-6de4d31bf5cd.jpg",
+            "publishedAt": "2024-08-06T23:10:51Z",
+            "content": "Business is better for restaurant owner Sizeka Rashamosa now that she has a reliable electricity supply\r\nRegular power cuts had become a feature of South African life and fed feelings the country was\u2026 [+7205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Study shows renewables raise food prices",
+            "description": "As countries including Aotearoa New Zealand embrace renewable energy production, a recent study sheds light on some overlooked impacts of this transition.",
+            "url": "https://phys.org/news/2024-08-renewables-food-prices.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2018/7-renewableene.jpg",
+            "publishedAt": "2024-08-07T11:21:46Z",
+            "content": "As countries including Aotearoa New Zealand embrace renewable energy production, a recent study sheds light on some overlooked impacts of this transition.\r\nWhile the benefits of renewable energy are \u2026 [+2722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Dan Robinson",
+            "title": "Don\u2019t blame AI for rise in carbon emissions, says Google exec",
+            "description": "Datacenter pollution is rising... but LLM workload not as big as you think\nGoogle's chief scientist claims that AI is being unfairly blamed for the rise in his company's carbon dioxide emissions, and says the tech giant's efforts to switch to entirely clean e\u2026",
+            "url": "https://www.theregister.com/2024/07/18/google_emissions/",
+            "urlToImage": "https://regmedia.co.uk/2023/11/28/datacenterforest.jpg",
+            "publishedAt": "2024-07-18T09:28:11Z",
+            "content": "Google's chief scientist claims that AI is being unfairly blamed for the rise in his company's carbon dioxide emissions, and says the tech giant's efforts to switch to entirely clean energy by 2030 r\u2026 [+3707 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Giant battery-powered dump truck dumps diesel for electric",
+            "description": "Kurt \u201cCyberGuy\" Knutsson: We're witnessing the potential dawn of a new, cleaner era in mining as Hitachi tests the world\u2019s first ultra-large, fully electric mining dump truck.",
+            "url": "https://www.foxnews.com/tech/giant-battery-powered-dump-truck-dumps-diesel-electric",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/2-Hitachis-battery-powered-dump-truck-dumps-diesel-for-electric.jpg",
+            "publishedAt": "2024-07-23T10:00:22Z",
+            "content": "In the world of heavy industry, change often comes at a glacial pace. But every once in a while, an innovation emerges that sends shock waves through the sector. Enter Hitachi Construction Machinery'\u2026 [+6052 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Nate Saunders",
+            "title": "P\u00e9rez, Ricciardo and Red Bull's sticky second-driver dilemma",
+            "description": "As Sergio P\u00e9rez continues to struggle, Red Bull is becoming increasingly vulnerable in the race for the constructors' crown. Is it time for a change?",
+            "url": "https://www.espn.com/racing/f1/story/_/id/40631495/sergio-perez-daniel-ricciardo-red-bull-sticky-second-driver-dilemma",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0724%2Fr1362591_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-24T16:38:55Z",
+            "content": "Red Bull's dilemma over what to do with Sergio P\u00e9rez deepened over the Hungarian Grand Prix.\r\nAs P\u00e9rez made yet another inexplicable qualifying mistake and Max Verstappen struggled to fifth on Sunday\u2026 [+12062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Trying to limit calories? Skip the dip, researchers advise",
+            "description": "Snacks provide, on average, about one-fourth of most people's daily calories. With nearly one in three adults in the United States overweight and more than two in five with obesity, researchers are investigating how Americans can snack smarter.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240801165632.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-01T20:56:32Z",
+            "content": "Snacks provide, on average, about one-fourth of most people's daily calories. With nearly one in three adults in the United States overweight and more than two in five with obesity, according to the \u2026 [+3619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "John Carlsen",
+            "title": "How I Use Smart Tech to Get Houseplants to Grow Faster",
+            "description": "These devices will kickstart your puttering plants and turn your browning plants into green growing machines.",
+            "url": "https://www.cnet.com/home/how-i-use-smart-tech-to-get-houseplants-to-grow-faster/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/ab663a1b84507fd3f43017e0f2565e4ddb1a0a0b/hub/2024/07/11/9cd0271c-1afe-4eb3-b345-d84dcde5ec8e/nepenthes-with-bright-coloration-under-grow-light.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-16T18:57:00Z",
+            "content": "Grow lights can help your indoor plants overcome poor lighting conditions.\r\nJohn Carlsen/CNET\r\nMany traditional houseplants come from the shaded understory of tropical forests, meaning they typically\u2026 [+8537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+            "title": "Microsoft and Google's electricity consumption surpasses the power usage of over 100 countries",
+            "description": "In 2023, Microsoft and Google consumed 48 TWh of electricity. According to a detailed analysis by Michael Thomas, this surpasses the power consumption of over 100 nations, including Ghana, Tunisia, and more.",
+            "url": "https://www.windowscentral.com/microsoft/microsoft-and-googles-electricity-consumption-surpasses-the-power-usage-of-over-100-countries",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qgguegUdahPk2jxsYsTkhV-1200-80.jpg",
+            "publishedAt": "2024-07-15T14:54:39Z",
+            "content": "What you need to know\r\n<ul><li>Google and Microsoft each consumed 24 TWh of electricity in 2023.</li><li>They are among the top tech firms championing renewable energy as a plausible alternative powe\u2026 [+3428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Solar absorption by black carbon in fire clouds quantified",
+            "description": "Aerosol scientists quantify the extent of light absorption by black carbon in fire clouds to better model climate impacts of extreme wildfire events.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240725154732.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-25T19:47:32Z",
+            "content": "In an actively warming world, large-scale wildfires are becoming more common. These wildfires emit black carbon to our atmosphere, one of the most potent short-lived atmospheric warming agents. This \u2026 [+4040 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sabrina Valle",
+            "title": "Analysis-Exxon clash with Chevron hinges on change of control of Hess' Guyana asset, sources say",
+            "description": "Exxon Mobil's legal bid to stop Chevron's proposed $53 billion acquisition of Hess rests on whether the transaction would involve a change of control of Hess...",
+            "url": "https://finance.yahoo.com/news/analysis-exxon-clash-chevron-hinges-100248056.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/f5235c1911c3708c3be4321a145a84ba",
+            "publishedAt": "2024-07-18T10:02:48Z",
+            "content": "By Sabrina Valle\r\nHOUSTON (Reuters) - Exxon Mobil's legal bid to stop Chevron's proposed $53 billion acquisition of Hess rests on whether the transaction would involve a change of control of Hess' pr\u2026 [+4702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Joe Salas",
+            "title": "Renewable wind energy blows away coal-fired power in the US",
+            "description": "Good news for planet Earth, at least as far as the data shows for the United States. According to the US Energy Information Administration, in the five years from 2019 to 2024, in March and April specifically, electricity production using wind power has almos\u2026",
+            "url": "https://newatlas.com/energy/wind-energy-overtakes-coal-usa/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/5259c57/2147483647/strip/true/crop/2000x1050+0+161/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2a%2F6d%2F51dfb5fe4182b554a9d460457cd5%2Fdepositphotos-729947466-l.jpg&na.image_optimisation=0",
+            "publishedAt": "2024-07-22T02:16:59Z",
+            "content": "Good news for planet Earth, at least as far as the data shows for the United States. According to the US Energy Information Administration, in the five years from 2019 to 2024, in March and April spe\u2026 [+6716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dezeen"
+            },
+            "author": "Dezeen staff",
+            "title": "Students at Ajman University present ten interior design projects",
+            "description": "Dezeen School Shows: a villa designed with an emphasis on energy efficiency and water conservation is included in Dezeen's latest school show by students at Ajman University. Also included is an educational space that aims to teach children about sustainabili\u2026",
+            "url": "https://www.dezeen.com/2024/07/16/ajman-university-student-interior-design-projects-dezeen-schoolshows/",
+            "urlToImage": "https://static.dezeen.com/uploads/2024/07/ajman-university-dezeen-schoolshows_dezeen_2364_col_0-4-600x600.jpg",
+            "publishedAt": "2024-07-16T16:00:07Z",
+            "content": "Dezeen School Shows: a villa designed with an emphasis on energy efficiency and water conservation is included in Dezeen's latest school show by students at Ajman University.\r\nAlso included is an edu\u2026 [+13664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Associated Press",
+            "title": "Biden awards $1.7 billion to boost EV manufacturing and assembly in eight states",
+            "description": "Filed under:\n Government/Legal,Green,Plants/Manufacturing,Electric\n Continue reading Biden awards $1.7 billion to boost EV manufacturing and assembly in eight states\nBiden awards $1.7 billion to boost EV manufacturing and assembly in eight states originally a\u2026",
+            "url": "https://www.autoblog.com/2024/07/11/biden-awards-1-7-billion-to-boost-ev-manufacturing-and-assembly-in-eight-states/",
+            "urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/07/11081906/automakers_contract_negotiations_will_decide_potential_ev_future_for_idled_illinois_plant.jpeg",
+            "publishedAt": "2024-07-11T12:30:00Z",
+            "content": "WASHINGTON The Biden administration is awarding nearly $2 billion in grants to help restart or expand electric vehicle manufacturing and assembly sites in eight states, including the presidential bat\u2026 [+4863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Domenico Montanaro",
+            "title": "4 takeaways from President Biden\u2019s Oval Office address",
+            "description": "In his first public remarks after exiting the race for president, Biden focused on his goals for his final months in office and painted a picture of the legacy he hopes to leave behind.",
+            "url": "https://www.npr.org/2024/07/25/g-s1-12556/biden-presidency-oval-office-legacy-history-trump-harris-democracy",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5593x3146+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2F7b%2Fea7f04b3441ba70a01897eb7ba78%2Fgettyimages-2162709040.jpg",
+            "publishedAt": "2024-07-25T09:00:00Z",
+            "content": "For the latest on race for president, head to NPR's Election 2024 page.\r\nIts not often that a politician takes a step back.\r\nThey are often their own biggest champions. But in rare cases, when the wr\u2026 [+6989 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Amanda Goh",
+            "title": "Singapore is considered one of the best-designed cities in the world. The man who masterminded it has 2 regrets.",
+            "description": "Singapore is home to a population of 5.9 million, despite spanning just 284 square miles.",
+            "url": "https://www.businessinsider.com/singapore-urban-planner-regrets-liu-thai-ker-architect-bicycle-squatter-2024-7",
+            "urlToImage": "https://i.insider.com/669f1677fb2b6bedb0597298?width=1200&format=jpeg",
+            "publishedAt": "2024-07-26T03:01:25Z",
+            "content": "Singapore is often lauded as one of the best-designed cities in the world.Martin Puddy/Getty Images\r\n<ul><li>Liu Thai Ker, 86, is an urban planner who's often considered the architect of modern Singa\u2026 [+7651 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Michael Peck",
+            "title": "Canada's 'shoestring' navy needs drastic changes to buy the new submarine fleet it wants",
+            "description": "Canada's navy wants 12 submarines capable of under-ice patrols in hopes of building one of NATO's largest sub fleets. But the plan faces challenges.",
+            "url": "https://www.businessinsider.com/royal-canadian-navy-buy-submarine-fleet-2024-7",
+            "urlToImage": "https://i.insider.com/66a171ab80d4d5da13d6fa5e?width=1200&format=jpeg",
+            "publishedAt": "2024-07-28T09:00:03Z",
+            "content": "Canada's navy wants to buy 12 new submarines but has trouble operating the four it already has.LS Zachariah Stopa/Canadian Forces\r\n<ul><li>Canada wants to build a larger submarine fleet than the UK.<\u2026 [+6858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Michael Franco",
+            "title": "Microwave technique recovers 87% of batteries' lithium in 15 minutes",
+            "description": "Lithium is a finite resource, and the more we lock inside rechargeable batteries, the less we have to use. A new speedy method to free the element from such sources could be a game changer in terms of the material's availability.Continue ReadingCategory: Ener\u2026",
+            "url": "https://newatlas.com/energy/microwave-lithium-recycling/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/c3d8faf/2147483647/strip/true/crop/2000x1050+0+100/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fae%2F72%2F4c92ba3b4301bd55ae88c202bbba%2Fdepositphotos-668562474-l.jpg&na.image_optimisation=0",
+            "publishedAt": "2024-07-30T14:17:00Z",
+            "content": "Lithium is a finite resource, and the more we lock inside rechargeable batteries, the less we have to use. A new speedy method to free the element from such sources could be a game changer in terms o\u2026 [+3767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Adrien Nejkovic, Forbes Councils Member, \n Adrien Nejkovic, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/adriennejkovic/",
+            "title": "Energy Management: The Use Of Wasted Energy For AI Computing",
+            "description": "As we move forward, it is essential for industry stakeholders, policymakers and technologists to collaborate and explore innovative solutions like this.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/07/17/energy-management-the-use-of-wasted-energy-for-ai-computing/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6696c4f3525116a69ee73297/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-17T14:00:00Z",
+            "content": "Adrien Nejkovic is CEO at Hearst Capital: Pioneering sustainable tech &amp; finance with AI, blockchain and renewable energy.\r\ngetty\r\nAs the world becomes increasingly digital, the demand for computi\u2026 [+6618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Paul McClure",
+            "title": "Cheap heat-storing 'firebricks' projected to save industries trillions",
+            "description": "Transitioning to 100% renewable energy globally would be cheaper and simpler using firebricks, a form of thermal energy storage with roots in the Bronze Age, to produce most of the heat needed for industrial processes, according to a new Stanford study.Contin\u2026",
+            "url": "https://newatlas.com/energy/firebricks-industrial-process-heat-clean-energy/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/75b80ec/2147483647/strip/true/crop/2000x1050+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F79%2F07%2F97aae61a4cc38cec77f5b6eb9caa%2Fdepositphotos-6020509-l.jpg&na.image_optimisation=0",
+            "publishedAt": "2024-08-05T07:17:18Z",
+            "content": "Transitioning to 100% renewable energy globally would be cheaper and simpler using firebricks, a form of thermal energy storage with roots in the Bronze Age, to produce most of the heat needed for in\u2026 [+6475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Observations confirm plasma bubble origin of persistent radio emissions from fast radio bursts",
+            "description": "Fast Radio Bursts (FRBs) are one of the most recent open mysteries of modern astrophysics. Within a few milliseconds, these powerful events release an immense amount of energy, among the highest observable in cosmic phenomena.",
+            "url": "https://phys.org/news/2024-08-plasma-persistent-radio-emissions-fast.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/plasma-bubbles-and-the.jpg",
+            "publishedAt": "2024-08-07T15:43:21Z",
+            "content": "Fast Radio Bursts (FRBs) are one of the most recent open mysteries of modern astrophysics. Within a few milliseconds, these powerful events release an immense amount of energy, among the highest obse\u2026 [+5550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Research catalogs greenhouse gas emissions tied to energy use for interbasin water transfers",
+            "description": "Much of the water in the U.S. West is transported across vast geographical areas by large infrastructure projects known as interbasin water transfers. Two of these projects in particular make up 85% of all energy-related greenhouse gas emissions associated wi\u2026",
+            "url": "https://phys.org/news/2024-07-greenhouse-gas-emissions-energy-interbasin.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/irrigation-canals.jpg",
+            "publishedAt": "2024-08-01T09:00:01Z",
+            "content": "Much of the water in the U.S. West is transported across vast geographical areas by large infrastructure projects known as interbasin water transfers. Two of these projects in particular make up 85% \u2026 [+5296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kk.org"
+            },
+            "author": "claudia",
+            "title": "Ultralight Hiking",
+            "description": "Tools for Possibilities: issue no. 94",
+            "url": "https://kk.org/cooltools/ultralight-hiking/",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T15:00:00Z",
+            "content": "Compare one of my packs \u2013 weighing 13 ounces and costing $10.40 to make \u2013 to a store-bought backpack weighing 7 pounds and costing $275.00. My pack is 12% of the weight and 4% of the cost.I should po\u2026 [+6042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Parade"
+            },
+            "author": "Beth Ann Mayer",
+            "title": "Here's Exactly What Happens to Your Body When You Eat Watermelon Every Day",
+            "description": "Plus, RD-approved ways to eat watermelon.",
+            "url": "https://parade.com/health/what-happens-to-your-body-when-you-eat-watermelon-every-day",
+            "urlToImage": "https://media.zenfs.com/en/parade_250/91120f4c49c64e961b5021f85ef27729",
+            "publishedAt": "2024-07-19T10:25:00Z",
+            "content": "Watermelon takes center stage in the produce section come summer. Giant boxes full of whole watermelon stand alone, and you can also find it halved, cubed, or sliced into wedgesa win for people hopin\u2026 [+7595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Mining rare earth metals from electronic waste",
+            "description": "A small molecule that naturally serves as a binding site for metals in enzymes also proves useful for separating certain rare earth metals from each other. In a proof of concept, the process extracts europium directly from fluorescent powder in used energy-sa\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240709121716.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-09T16:17:16Z",
+            "content": "Rare earth metals are not as rare as their name suggests. However, they are indispensable for the modern economy. After all, these 17 metals are essential raw materials for digitalisation and the ene\u2026 [+4600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Simon Sage",
+            "title": "How solar panels went from \u201950s satellites to your backyard",
+            "description": "From Einstein's theories of light to Bell Lab's revelations about doping silicon, solar power has been inching toward its current craze for more than a century. Here's how we got here.",
+            "url": "https://www.digitaltrends.com/cool-tech/solar-panel-history/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2016/10/47888280_ml.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-08-02T17:00:38Z",
+            "content": "Solar panels are rapidly becoming a common sight on homes, but once upon a time they were little more than a rare curiosity. How did we get from using solar energy on satellites to it becoming the mo\u2026 [+14485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Jeremy Gray",
+            "title": "Photoroom and Genesis Cloud Reduce Carbon Footprint of AI Photo Editing",
+            "description": "AI-powered photo editor Photoroom, which received $43 million in funding earlier this year, has partnered with Genesis Cloud to deliver more sustainable computing power to Photoroom users.\n[Read More]",
+            "url": "https://petapixel.com/2024/07/11/photoroom-and-genesis-cloud-reduce-carbon-footprint-of-ai-photo-editing/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2024/07/genesis-cloud-photoroom-featured.jpg",
+            "publishedAt": "2024-07-11T19:28:50Z",
+            "content": "AI-powered photo editor Photoroom, which received $43 million in funding earlier this year, has partnered with Genesis Cloud to deliver more sustainable computing power to Photoroom users. \r\nGenesis \u2026 [+2319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Aaron Mamiit",
+            "title": "Best Kasa Prime Day deals: $12 smart plugs available today",
+            "description": "Grab a smart plug or security camera for cheaper than usual with the Kasa Prime Day deals that we've gathered here, but you have to hurry as stocks are limited.",
+            "url": "https://www.digitaltrends.com/home/kasa-prime-day-deals/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/02/kasa-wifi-smart-plug.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-07-15T17:31:50Z",
+            "content": "Kasa\r\nTP-Link\u2019s Kasa is a dependable smart home brand that focuses on smart plugs and security cameras, so if you need either of these devices, you should take advantage of the discounts from Prime D\u2026 [+3037 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Ask HN: What's an appropriate compensation counter offer in London 2024?",
+            "description": "Comments",
+            "url": "https://news.ycombinator.com/item?id=41086847",
+            "urlToImage": null,
+            "publishedAt": "2024-07-27T14:32:53Z",
+            "content": "Hopefully this kind of post is allowed, and also helpful to others who find themselves in this situation.Ive agreed goals with my employer which if I meet by the end of Q4, Ill be promoted into a new\u2026 [+3128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Michael Franco",
+            "title": "World's first dual-tower solar thermal plant boosts efficiency by 24%",
+            "description": "Two 650-foot-tall (200-m) towers have risen in China's Gansu Province. Combined with an array of 30,000 mirrors arranged in concentric circles, the new facility is expected to generate over 1.8 billion kilowatt-hours of electricity every year.Continue Reading\u2026",
+            "url": "https://newatlas.com/energy/dual-tower-solar-thermal-gansu/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/f278d54/2147483647/strip/true/crop/1544x811+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3f%2F20%2Fc0d2717a4446bba3f2b17b482123%2Fcfb8531cacad45ebac6231e454e275e4.jpg&na.image_optimisation=0",
+            "publishedAt": "2024-07-17T10:17:00Z",
+            "content": "Two 650-foot-tall (200-m) towers have risen in China's Gansu Province. Combined with an array of 30,000 mirrors arranged in concentric circles, the new facility is expected to generate over 1.8 billi\u2026 [+3077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Joe Salas",
+            "title": "Massive double-headed floating wind turbine can harness hurricanes",
+            "description": "Mingyang Smart Energy, maker of the world's largest wind turbines, has just unveiled its latest gigantic floating offshore wind turbine creation. The OceanX is A two-headed, deep water behemoth capable of generating during Cat 5 hurricanes.Continue ReadingCat\u2026",
+            "url": "https://newatlas.com/technology/mingyang-oceanx-floating-double-wind-turbine/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/ec0c08f/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F50%2F19%2F5b2a8c614067887760684fe5760d%2F1720804682710.jpg&na.image_optimisation=0",
+            "publishedAt": "2024-07-16T02:06:24Z",
+            "content": "Mingyang Smart Energy, maker of the world's largest wind turbines, has just unveiled its latest gigantic floating offshore wind turbine creation. The OceanX is a two-headed, deep-water behemoth capab\u2026 [+3249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "100r.co"
+            },
+            "author": null,
+            "title": "Hundred Rabbits is a small collective exploring the failability of modern tech",
+            "description": "Comments",
+            "url": "https://100r.co/site/about_us.html",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T17:00:53Z",
+            "content": "Hundred Rabbits is a small artist collective. Together, we explore the planned failability of modern technology at the bounds of the hyper-connected world. We research and test low-tech solutions and\u2026 [+9902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Briley Kenney",
+            "title": "Score Prime Day deals: Waterdrop\u2019s filter X16 and G3P800 reverse osmosis systems",
+            "description": "With Waterdrop Prime Day deals you can save big on reverse osmosis systems that will filter your tap water into clean, delicious drinking water. Learn more.",
+            "url": "https://www.digitaltrends.com/dtdeals/waterdrop-reverse-osmosis-x16-g3p800-systems-july-2024/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/06/Waterdrop-X16-tankless-reverse-osmosis-system-under-modern-counter.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-07-08T15:00:15Z",
+            "content": "Waterdrop\r\nNever mind the taste, faucet water can contain a host of bad stuff, especially when it comes from a communal supply. Even the CDC explains that public water, although regulated, can someti\u2026 [+5103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Jeremy Gray",
+            "title": "25 Brand-New Chandra X-ray Images Show the Beauty of Cosmic Energy",
+            "description": "To celebrate the Chandra X-ray Observatory's 25th birthday, NASA has released 25 beautiful, never-before-seen images captured by Chandra. Launched aboard",
+            "url": "https://petapixel.com/2024/07/28/25-brand-new-chandra-x-ray-images-show-the-beauty-of-cosmic-energy/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2024/07/nasa-chandra-25th-featured.jpg",
+            "publishedAt": "2024-07-28T11:30:10Z",
+            "content": "To celebrate the Chandra X-ray Observatory\u2019s 25th birthday, NASA has released 25 beautiful, never-before-seen images captured by Chandra. \r\nLaunched aboard the Space Shuttle Columbia on July 23, 1999\u2026 [+8988 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Justin Mikulka, Sharon Wilson",
+            "title": "Methane\u2019s Climate Crisis Needs More than Satellites to Stop Emissions",
+            "description": "New regulations, and satellites like MethaneSat, very likely will not cut methane emissions. Natural gas industry economics will instead continue delaying their needed reduction",
+            "url": "https://www.scientificamerican.com/article/methanes-climate-crisis-needs-more-than-satellites-to-stop-emissions/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/7174b4a86e3e3ca8/original/GettyImages-1275812455_WEB.jpg?w=1200",
+            "publishedAt": "2024-07-15T11:00:00Z",
+            "content": "In March, a SpaceX rocket launched MethaneSat,\r\n a joint U.S.-New Zealand endeavor, which joined a satellite network\r\n already detecting methane emissions from oil and gas production on Earth. The ne\u2026 [+6406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Ariel Cohen, Contributor, \n Ariel Cohen, Contributor\n https://www.forbes.com/sites/arielcohen/",
+            "title": "America\u2019s NATO Partners Anticipate U.S. LNG Supplies To Europe",
+            "description": "America\u2019s abundant energy resources pair perfectly with Europe\u2019s scarcity of oil and gas to create a win-win partnership, enabling Europe to avoid energy dependence.",
+            "url": "https://www.forbes.com/sites/arielcohen/2024/07/09/americas-nato-partners-anticipate-us-lng-supplies-to-europe/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668c5561b0d5d38112d46751/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-09T13:00:00Z",
+            "content": "North Atlantic Treaty Organization flag\r\ngetty\r\nThe 2024 NATO Summit, to be held this week in Washington, D.C., marks the trans-Atlantic Alliances 75th anniversary. NATO, which came to the U.S.s aid \u2026 [+5218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Ehsan Noroozinejad, Seyedali Mirjalili",
+            "title": "AI promises to solve Earth's big environmental problems\u2014but there's a hitch",
+            "description": "Artificial intelligence (AI) has revolutionized our lives in myriad ways, from personalizing our social media feeds to giving us driving directions and monitoring our health.",
+            "url": "https://phys.org/news/2024-08-ai-earth-big-environmental-problems.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/brain-and-ai.jpg",
+            "publishedAt": "2024-08-06T16:26:16Z",
+            "content": "Artificial intelligence (AI) has revolutionized our lives in myriad ways, from personalizing our social media feeds to giving us driving directions and monitoring our health.\r\nIn recent years, hopes \u2026 [+6199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "iPhone 16 is coming, and these five features will be worth the wait",
+            "description": "The iPhone 16 and iPhone 16 Pro are coming in two months, which means it\u2019s not the best time to buy a new iPhone 15. Unless you\u2019re in absolute need of a new iPhone right now, it\u2019s wise wait until September for either the iPhone 16 or for other iPhones to get \u2026",
+            "url": "https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/iphone-16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-07-12T19:13:26Z",
+            "content": "The iPhone 16 and iPhone 16 Pro are coming in two months, which means its not the best time to buy a new iPhone 15. Unless youre in absolute need of a new iPhone right now, its wise wait until Septem\u2026 [+3768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Yves Smith",
+            "title": "U.S. is Facing a Major Energy Crunch Due to AI\u2019s Insatiable Demand",
+            "description": "A proposed Department of Energy initiative show the US is unserious about either curbing AI energy demand or managing the impact on the grid",
+            "url": "https://www.nakedcapitalism.com/2024/07/u-s-is-facing-a-major-energy-crunch-due-to-ais-insatiable-demand.html",
+            "urlToImage": null,
+            "publishedAt": "2024-07-29T06:31:43Z",
+            "content": "Yves here. We have been regularly harping on the fact that AI consumes substantial amounts of energy while offering at best marginal benefits over existing analytical methods. Yet the touts are in ch\u2026 [+5435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "James Temple",
+            "title": "Google, Amazon and the problem with Big Tech\u2019s climate claims",
+            "description": "MIT Technology Review\u00a0Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next.\u00a0You can read more from the series here. Last week, Amazon trumpeted that it had purchased enough clean electricity to co\u2026",
+            "url": "https://www.technologyreview.com/2024/07/17/1095019/google-amazon-and-the-problem-with-big-techs-climate-claims/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/07/netzero2b.jpg?resize=1200,600",
+            "publishedAt": "2024-07-17T09:00:00Z",
+            "content": "The argument for RECs is that companies often cant purchase a pure stream of clean electricity to power their operations, since grid operators rely on a mix of natural gas, coal, solar, wind, and oth\u2026 [+2632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Bree Iskandar",
+            "title": "Is Technology in the Olympics a Form of Doping or a Reality of Modern Sport?",
+            "description": "Technological doping refers to the use of equipment\u2014from swimsuits to super shoes\u2014that provides an unfair athletic advantage. But the boundaries of what is allowed are somewhat arbitrary",
+            "url": "https://www.scientificamerican.com/article/is-technology-in-the-olympics-a-form-of-doping-or-a-reality-of-modern-sport/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/149bbe3cbc3e8137/original/GettyImages-122068196_WEB.jpg?w=1200",
+            "publishedAt": "2024-07-25T16:15:00Z",
+            "content": "Today\u2019s Olympic Games are a technological marvel. Slow-motion cameras play back the milliseconds-long difference between first and second place. Wearable sensors detect clean hits in a bout of fencin\u2026 [+8753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Michael Keller",
+            "title": "New separation process can efficiently mine rare earth metal europium from electronic waste",
+            "description": "Rare earth metals are not as rare as their name suggests. However, they are indispensable for the modern economy. After all, these 17 metals are essential raw materials for digitalization and the energy transition.",
+            "url": "https://phys.org/news/2024-07-efficiently-rare-earth-metal-europium.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mining-rare-earth-meta.jpg",
+            "publishedAt": "2024-07-09T13:27:04Z",
+            "content": "Rare earth metals are not as rare as their name suggests. However, they are indispensable for the modern economy. After all, these 17 metals are essential raw materials for digitalization and the ene\u2026 [+5491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Suzanne Ogle, Forbes Councils Member, \n Suzanne Ogle, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/suzanneogle/",
+            "title": "Data-Driven Sustainability: How Data Centers Can Advance Clean Energy Collaboration",
+            "description": "Data centers play a pivotal role in sustaining the digital economy, but their energy consumption and resulting carbon emissions are significant.",
+            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/07/29/data-driven-sustainability-how-data-centers-can-advance-clean-energy-collaboration/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/633302e1e4647ecb8244b11e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-29T11:15:00Z",
+            "content": "Suzanne Ogle is the President and CEO of the Southern Gas Association.\r\ngetty\r\nIn the digital age, data centers have become the backbone of our interconnected world. The surge in artificial intellige\u2026 [+7243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Blackmon, Senior Contributor, \n David Blackmon, Senior Contributor\n https://www.forbes.com/sites/davidblackmon/",
+            "title": "9 Consequential Energy Predictions - Midyear Review",
+            "description": "The US energy landscape has remained stable and predictable through the first half of 2024. But will it last?",
+            "url": "https://www.forbes.com/sites/davidblackmon/2024/07/16/9-consequential-energy-predictionsmidyear-review/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669661b5a9ad3da717168e17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-16T12:24:10Z",
+            "content": "A man looks at a Tesla Cybertruck parked near the SpaceX Starship as it stands on the launch pad ... [+] ahead of its third flight test from Starbase in Boca Chica, Texas on March 12, 2024. (Photo by\u2026 [+6686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investorplace.com",
+            "title": "3 Coal Stocks to Leave in the Dirt as Wind Power Soars",
+            "description": "Investors could benefit from ditching these three problematic coal stocks now, given recent developments in wind energy.\nAll countries are developing policies to enhance the shift towards renewable energy sources. In the U.S., the Inflation Reduction Act (IRA\u2026",
+            "url": "https://biztoc.com/x/49f8ad245540b83f",
+            "urlToImage": "https://biztoc.com/cdn/49f8ad245540b83f_s.webp",
+            "publishedAt": "2024-07-22T20:19:43Z",
+            "content": "Investors could benefit from ditching these three problematic coal stocks now, given recent developments in wind energy.All countries are developing policies to enhance the shift towards renewable en\u2026 [+139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Jules Boykoff",
+            "title": "The Paris Olympics Are a Lesson in Greenwashing",
+            "description": "The Olympics are a sustainability nightmare, and Paris, despite its efforts, is no exception",
+            "url": "https://www.scientificamerican.com/article/the-paris-olympics-are-a-lesson-in-greenwashing/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/91af65db47f28d3/original/GettyImages-2157196687_WEB.jpg?w=1200",
+            "publishedAt": "2024-07-24T12:00:00Z",
+            "content": "The Summer Olympics will soon begin in Paris against the backdrop of heat waves and drought throughout much of Southern Europe.\r\nThe organizers of the games say that in light of climate change, they\u2019\u2026 [+9253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Innovative solutions for sustainability in the Zambezi River Basin",
+            "description": "A new study addresses the urgent challenges in managing the water-energy-land nexus in the Zambezi River Basin, which is crucial for southern Africa's economic stability and environmental health. The authors of the article suggest strategies for economic deve\u2026",
+            "url": "https://phys.org/news/2024-07-solutions-sustainability-zambezi-river-basin.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/innovative-solutions-f.jpg",
+            "publishedAt": "2024-07-30T12:35:33Z",
+            "content": "A new study addresses the urgent challenges in managing the water-energy-land nexus in the Zambezi River Basin, which is crucial for southern Africa's economic stability and environmental health. The\u2026 [+4335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Vox Creative",
+            "title": "How Seattle\u2019s Climate Pledge Arena achieved zero-waste status",
+            "description": "A single major sports event can generate up to 40 tons of trash. That\u2019s the weight of two loaded charter buses being added to a landfill \u2014 and that waste doesn\u2019t even take into account the energy used to power the stadium, or the gasoline-fueled cars so many \u2026",
+            "url": "https://www.vox.com/ad/352390/how-seattles-climate-pledge-arena-achieved-zero-waste-status",
+            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/07/VX24_AmazonxTCP_1345751_BA1_LEDE-2.png?quality=90&strip=all&crop=0%2C29.057591623037%2C100%2C41.884816753927&w=1200",
+            "publishedAt": "2024-08-07T18:25:08Z",
+            "content": "A single major sports event can generate up to 40 tons of trash. That\u2019s the weight of two loaded charter buses being added to a landfill \u2014 and that waste doesn\u2019t even take into account the energy use\u2026 [+6977 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Springwise.com"
+            },
+            "author": "Matthew Hempstead",
+            "title": "Pioneering a fossil-free future with solar fuels",
+            "description": "A new facility will be able to produce synthetic crude oil at scale",
+            "url": "https://www.springwise.com/innovation/agriculture-energy/an-industrial-plant-for-creating-solar-fuels/",
+            "urlToImage": "https://www.springwise.com/wp-content/uploads/2024/07/innovationagriculture-energyan-industrial-plant-for-creating-solar-fuels.jpg",
+            "publishedAt": "2024-07-17T04:55:00Z",
+            "content": "Spotted: Although renewable energy sources like solar have a lot of potential, certain sectors, like heavy road transportation and shipping, will be difficult to decarbonise with conventional batteri\u2026 [+1627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Reuters",
+            "title": "Big truck manufacturers are betting on hydrogen combustion",
+            "description": "Filed under:\n Green,Alternative Fuels,Emissions,Green Automakers,Emerging Technologies,Commercial Vehicles,Hydrogen Cars\n Continue reading Big truck manufacturers are betting on hydrogen combustion\nBig truck manufacturers are betting on hydrogen combustion or\u2026",
+            "url": "https://www.autoblog.com/2024/08/04/big-truck-manufacturers-are-betting-on-hydrogen-combustion/",
+            "urlToImage": "https://edgecast-img.yahoo.net/mysterio/api/90E6429EAEB63D34C14D886D09AAB54D5BCAC16EF60877F85EFF4D1C8DAA1094/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/08/02111628/MAN-hydrogen-truck.jpg",
+            "publishedAt": "2024-08-04T14:00:00Z",
+            "content": "BERLIN/LONDON Some of the world's biggest truckmakers, including Volvo and MAN, are reworking combustion engines to run on low-emission hydrogen instead of polluting diesel, a quicker low-cost fix to\u2026 [+5000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": null,
+            "title": "NASA Scientists on Why We Might Not Spot Solar Panel Technosignatures",
+            "description": "One of NASA\u2019s key priorities is understanding the potential for life elsewhere in the universe. NASA has not found any credible evidence of extraterrestrial life \u2014 but NASA is exploring the solar system and beyond to help us answer fundamental questions, incl\u2026",
+            "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-scientists-on-why-we-might-not-spot-solar-panel-technosignatures/",
+            "urlToImage": "https://science.nasa.gov/wp-content/uploads/2024/06/exoplanet-no2-v4.jpg?w=640",
+            "publishedAt": "2024-08-02T14:43:33Z",
+            "content": "The researchers also assume that a hypothetical extraterrestrial civilization would rely exclusively on solar energy. However, if other sources of energy are used, such as nuclear fusion, it would re\u2026 [+421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Nicole Jao",
+            "title": "Oil edges lower on surprise build in US crude and gasoline stocks",
+            "description": "Oil prices slipped in early Asian trading on Wednesday following a brief rebound in the previous session after industry data showed an unexpected build in...",
+            "url": "https://finance.yahoo.com/news/oil-edges-lower-surprise-build-011839288.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/bd693d48f6f41d54a94f9879d620d109",
+            "publishedAt": "2024-08-07T01:18:39Z",
+            "content": "By Nicole Jao\r\n(Reuters) - Oil prices slipped in early Asian trading on Wednesday following a brief rebound in the previous session after industry data showed an unexpected build in U.S. crude oil an\u2026 [+2249 chars]"
+        }
+    ]
+}

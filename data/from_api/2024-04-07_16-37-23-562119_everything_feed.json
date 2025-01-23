@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 3526,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Rhett Allain",
+            "title": "How Do Heat Pumps Work?",
+            "description": "Our in-house physics whiz explains how a heat pump can warm your home without burning fossil fuels.",
+            "url": "https://www.wired.com/story/how-do-heat-pumps-work/",
+            "urlToImage": "https://media.wired.com/photos/65eb8bbfa44eef6e519b924f/191:100/w_1280,c_limit/Physics-Of-Heat-Pumps-Science-1023495558.jpg",
+            "publishedAt": "2024-03-10T19:46:06Z",
+            "content": "Now stretch it really hard and quickly hold it to your upper lip, which is sensitive to temperature. You will feel that it's warmer than it was before. That's because you're adding energy to the rubb\u2026 [+3511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xkcd.com"
+            },
+            "author": "About",
+            "title": "Physics vs. Magic",
+            "description": null,
+            "url": "https://xkcd.com/2904/",
+            "urlToImage": "https://imgs.xkcd.com/comics/physics_vs_magic_2x.png",
+            "publishedAt": "2024-03-08T05:00:00Z",
+            "content": "This work is licensed under a\r\nCreative Commons Attribution-NonCommercial 2.5 License.\r\nThis means you're free to copy and share these comics (but not to sell them). More details."
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Garrett M. Graff",
+            "title": "The 4 Big Questions the Pentagon's New UFO Report Fails to Answer",
+            "description": "The Pentagon says it\u2019s not hiding aliens, but it stops notably short of saying what it is hiding. Here are the key questions that remain unanswered\u2014some answers could be weirder than UFOs.",
+            "url": "https://www.wired.com/story/questions-pentagon-ufo-report/",
+            "urlToImage": "https://media.wired.com/photos/65ef3e5376ae188fbda84634/191:100/w_1280,c_limit/4-Big-Questions-the-Pentagon's-New-UFO-Report-Doesn't-Answer-Security-GettyImages-1252170580.jpg",
+            "publishedAt": "2024-03-11T17:52:36Z",
+            "content": "But what, then, were those programs? Herein lies the most intriguingand potentially ground-breakingquestion that the Pentagon study leaves us wondering: What exactly are the secret compartmentalized \u2026 [+6266 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "These Violent Collisions Could Be Producing Dark Matter",
+            "description": "A collision of two extraordinarily dense, collapsed stars in the distant universe is providing potential clues to the axion, a dark matter candidate first proposed half a century ago.Read more...",
+            "url": "https://gizmodo.com/these-violent-collisions-could-be-producing-dark-matter-1851331724",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/469b02c2a5bca039f8586bc48c1b6229.jpg",
+            "publishedAt": "2024-03-13T17:30:00Z",
+            "content": "A collision of two extraordinarily dense, collapsed stars in the distant universe is providing potential clues to the axion, a dark matter candidate first proposed half a century ago.\r\nThe stellar re\u2026 [+5018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "Your Guide to the Anomalous Universe",
+            "description": "The universe is a deeply vexing place. Every breakthrough we make in our understanding of it begets more mysteries about how all this (gestures wildly) actually happened. In the new book Space Oddities: The Mysterious Anomalies Challenging Our Understanding o\u2026",
+            "url": "https://gizmodo.com/space-oddities-book-harry-cliff-physics-mysteries-1851360077",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/63a005f45a88494f3b63905a9e31fdb7.jpg",
+            "publishedAt": "2024-03-23T15:55:00Z",
+            "content": "The universe is a deeply vexing place. Every breakthrough we make in our understanding of it begets more mysteries about how all this (gestures wildly) actually happened. In the new book Space Odditi\u2026 [+20244 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jenny McGrath",
+            "title": "Here's the science refresher you need before diving into Netflix's '3 Body Problem'",
+            "description": "Netflix's \"3 Body Problem\" makes a lot of physics references. Two experts help explain some scientific concepts to help you understand the show.",
+            "url": "https://www.businessinsider.com/3-body-problem-science-netflix-physics-2024-3",
+            "urlToImage": "https://i.insider.com/65f8b127895d8220303215b9?width=1200&format=jpeg",
+            "publishedAt": "2024-03-23T12:58:01Z",
+            "content": "A planet engulfed in flame in \"3 Body Problem.\"Netflix\r\n<ul><li>Netflix's \"3 Body Problem\" is based on a science-fiction trilogy and follows a group of physicists.</li><li>We asked an astronomer and \u2026 [+8110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "New Kind of Fusion Reactor Built at Princeton",
+            "description": "A team of physicists and engineers at Princeton University built a twisting fusion reactor known as a stellarator that uses permanent magnets, showcasing a potentially cost-effective way of building the powerful machines. Their experiment, called MUSE, relies\u2026",
+            "url": "https://gizmodo.com/fusion-reactor-princeton-muse-experiment-magnets-plasma-1851387646",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4b8429325a5277341c652c1b127bd376.jpg",
+            "publishedAt": "2024-04-05T10:15:00Z",
+            "content": "A team of physicists and engineers at Princeton University built a twisting fusion reactor known as a stellarator that uses permanent magnets, showcasing a potentially cost-effective way of building \u2026 [+2865 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Sharon Goldman",
+            "title": "Nvidia CEO Jensen Huang introduces a \u2018big, big GPU\u2019 that is \u2018pushing the limits of physics\u2019",
+            "description": "At his Nvidia GTC keynote at a packed SAP Center, CEO Jensen Huang showed off the company's dominance by unveiling its newest and biggest GPU.",
+            "url": "https://venturebeat.com/ai/nvidia-ceo-jensen-huang-introduces-a-big-big-gpu-that-is-pushing-the-limits-of-physics/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/03/1710795394619.jpeg?w=1200&strip=all",
+            "publishedAt": "2024-03-19T15:16:00Z",
+            "content": "Join leaders in Boston on March 27 for an exclusive night of networking, insights, and conversation. Request an invite here.\r\nFor his two-hour long keynote address at Nvidias GTC developers conferenc\u2026 [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder)",
+            "title": "Google wants to leverage AI to make weather forecasting more efficient",
+            "description": "Weather forecasting is a difficult and costly endeavor, but Google thinks it can use artificial intelligence to increase efficiency without sacrificing accuracy.",
+            "url": "https://www.androidcentral.com/apps-software/google-wants-to-leverage-ai-to-make-weather-forecasting-more-efficient",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QtW7MdArWEw4PLmKvvMSA-1200-80.jpg",
+            "publishedAt": "2024-04-02T14:16:32Z",
+            "content": "What you need to know\r\n<ul><li>Google published a research paper about a new generative AI model for weather forecasting called Scalable Ensemble Envelope Diffusion Sampler (SEEDS).\u00a0</li><li>Weather \u2026 [+3327 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Scientists to hunt mysterious 'ghost' particles",
+            "description": "Physicists believe a new experiment could prove their existence and answer fundamental questions about our Universe.",
+            "url": "https://www.bbc.co.uk/news/science-environment-68631692",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69C6/production/_132987072_f0375562-quantum_fluctuations_conceptual_illustration.jpg",
+            "publishedAt": "2024-03-25T00:49:30Z",
+            "content": "Some physicists have long suspected that mysterious 'ghost' particles in the world around us could greatly advance our understanding of the true nature of the Universe.\r\nNow scientists think they've \u2026 [+4851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Vision Pro Getting More Apple Arcade Games, Including Alto's Odyssey",
+            "description": "Apple today announced that three more Apple Arcade games will be available on the Vision Pro headset starting this Thursday, March 28.\n\n\n\n\n\nThe titles coming to the Vision Pro tomorrow include popular endless runner game Alto's Odyssey: The Lost City, hand-dr\u2026",
+            "url": "https://www.macrumors.com/2024/03/27/more-apple-arcade-games-coming-to-vision-pro/",
+            "urlToImage": "https://images.macrumors.com/t/WXqhIdwMKf1DCSdx_lWj8zpYM04=/1960x/article-new/2024/03/Altos-Odyssey-The-Lost-City-Vision-Pro.jpeg",
+            "publishedAt": "2024-03-27T16:02:56Z",
+            "content": "Apple today announced that three more Apple Arcade games will be available on the Vision Pro headset starting this Thursday, March 28.\r\nThe titles coming to the Vision Pro tomorrow include popular en\u2026 [+1009 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Ben Brubaker",
+            "title": "Never-Repeating Patterns of Tiles Can Safeguard Quantum Information",
+            "description": "Two researchers have proved that Penrose tilings, famous patterns that never repeat, are mathematically equivalent to a kind of quantum error correction.",
+            "url": "https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/",
+            "urlToImage": "https://media.wired.com/photos/65f4c015548107766641ed51/191:100/w_1280,c_limit/PenroseErrorCorrection-bySamuelVelasco-Lede-Quanta-Science_1.jpg",
+            "publishedAt": "2024-03-17T13:00:00Z",
+            "content": "This extreme fragility might make quantum computing sound hopeless. But in 1995, the applied mathematician Peter Shor discovered a clever way to store quantum information. His encoding had two key pr\u2026 [+3096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ted.com"
+            },
+            "author": "Alex Keshavarzi, contact@ted.com (TED)",
+            "title": "3 mysteries of the universe \u2014 and a new force that might explain them | Alex Keshavarzi",
+            "description": "We're still in the dark about what 95 percent of our universe is made of \u2014 and the standard model for understanding particle physics has hit a limit. What's the next step forward? Particle physicist Alex Keshavarzi digs into the first results of the Muon g-2 \u2026",
+            "url": "https://www.ted.com/talks/alex_keshavarzi_3_mysteries_of_the_universe_and_a_new_force_that_might_explain_them",
+            "urlToImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/9ece441d-ea96-4b60-bd29-8ffc5525ff75/AlexKeshavarzi_2023X-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050",
+            "publishedAt": "2024-03-11T14:33:44Z",
+            "content": "We're still in the dark about what 95 percent of our universe is made of and the standard model for understanding particle physics has hit a limit. What's the next step forward? Particle physicist Al\u2026 [+1540 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "Here's How Generative AI Depicts Queer People",
+            "description": "WIRED investigates how artificial intelligence tools, like OpenAI\u2019s Sora, currently portray members of the LGBTQ community. Hint: It\u2019s a lot of purple hair.",
+            "url": "https://www.wired.com/story/artificial-intelligence-lgbtq-representation-openai-sora/",
+            "urlToImage": "https://media.wired.com/photos/6607265ad9c60a02147ceb50/191:100/w_1280,c_limit/A%20Front-Facing%20Photo%20of%20a%20Nonbinary%20Person.jpg",
+            "publishedAt": "2024-04-02T11:00:00Z",
+            "content": "Another potential strategy to diversify the output from AI models is for developers to add guardrails and modify user prompts, nudging the software toward inclusivity. OpenAI appears to have taken th\u2026 [+5842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Clara Moskowitz, Lee Billings",
+            "title": "The Great Debate: Could We Ever Travel through Time?",
+            "description": "Our space and physics editors go head-to-head over a classic mind-bending question.",
+            "url": "https://www.scientificamerican.com/podcast/episode/the-great-debate-could-we-ever-travel-through-time/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/1342da819ecc8c4c/original/time-travel-rerun-header.gif?w=600",
+            "publishedAt": "2024-03-18T15:00:00Z",
+            "content": "Clara Moskowitz: Hi, I\u2019m Clara Moskowitz, a space editor here at Scientific American. We\u2019re taking a break this week to look back at some of our favorite podcast episodes. I chose this one about the \u2026 [+7805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seths.blog"
+            },
+            "author": "Seth Godin",
+            "title": "The B2B questions",
+            "description": "Questions people ask themselves when looking at a web page aimed at businesses (B2B). They are rhetorical, but should give you a place to begin: Is it my job to deal with this? Who sent me here? Will this advance my project? Will it help me get ahead if I tak\u2026",
+            "url": "https://seths.blog/2024/03/the-b2b-questions/",
+            "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061312.jpg",
+            "publishedAt": "2024-03-29T07:30:00Z",
+            "content": "Questions people ask themselves when looking at a web page aimed at businesses (B2B). They are rhetorical, but should give you a place to begin:\r\nIs it my job to deal with this?\r\nWho sent me here?\r\nW\u2026 [+709 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Jacob Roach",
+            "title": "\u2018Development is going to be chaos\u2019 \u2014 how physics in Tears of the Kingdom changed everything",
+            "description": "At a GDC panel, the Nintendo developers of Zelda: Tears of the Kingdom gave a rare peek at the difficulty of creating the game's physics system.",
+            "url": "https://www.digitaltrends.com/computing/how-nintendo-designed-tears-of-the-kingdom-physics/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/05/1920x1080-vtime10_52-take2023-05-18-06.06.18.jpeg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-03-21T00:01:38Z",
+            "content": "Nintendo\r\n\u201cDevelopment is going to be chaos.\u201d\r\nThat was the reaction of Takahiro Takayama, lead physics engineer on The Legend of Zelda: Tears of the Kingdom, when he saw the first prototypes for two\u2026 [+5780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Douglas Natelson",
+            "title": "Quantum Weirdness in New Strange Metals Bends the Rules of Physics",
+            "description": "Electrons swarm in a soup of quantum entanglement in a new class of materials called strange metals",
+            "url": "https://www.scientificamerican.com/article/quantum-weirdness-in-new-strange-metals-bends-the-rules-of-physics/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/3fcc4fed87e3c554/original/April-2024-Images.jpg?w=1200",
+            "publishedAt": "2024-03-19T13:00:00Z",
+            "content": "Copper, platinum, aluminum, gold. Metals have been so important in human history that we\u2019ve named historical epochs (the Bronze Age, the Iron Age) for their transformative power. These materials, wit\u2026 [+16071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "PFAS 'Forever Chemicals' To Officially Be Removed from Food Packaging, FDA Says",
+            "description": "An anonymous Slashdot reader shared this article from Live Science:\n\n\nManufacturers will no longer use harmful \"forever chemicals\" in food packaging products in the U.S., according to the U.S. Food and Drug Administration (FDA). \n\nIn a statement released Febr\u2026",
+            "url": "https://yro.slashdot.org/story/24/03/09/2240238/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says",
+            "urlToImage": "https://a.fsdn.com/sd/topics/government_64.png",
+            "publishedAt": "2024-03-09T23:34:00Z",
+            "content": "Manufacturers will no longer use harmful \"forever chemicals\" in food packaging products in the U.S., according to the U.S. Food and Drug Administration (FDA).In a statement released February 28, the \u2026 [+1010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rock Paper Shotgun"
+            },
+            "author": "James Archer",
+            "title": "The Finals\u2019 Season 2 is a happy hackathon that laughs in the face of physics",
+            "description": "I\u2019ve spent many gleeful hours in The Finals (as has Graham), but I\u2019ve always felt it could do more with the concept of its FPS gameshow deathmatches essentially taking place in hyper-realistic VR. Exploding into coins upon death notwithstanding, and to be cle\u2026",
+            "url": "https://www.rockpapershotgun.com/the-finals-season-2-is-a-happy-hackathon-that-laughs-in-the-face-of-physics",
+            "urlToImage": "https://assetsio.gnwcdn.com/The-Finals-season-2-5v5-team-screen.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2024-03-13T16:00:00Z",
+            "content": "I\u2019ve spent many gleeful hours in The Finals (as has Graham), but I\u2019ve always felt it could do more with the concept of its FPS gameshow deathmatches essentially taking place in hyper-realistic VR. Ex\u2026 [+7021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Chad Orzel",
+            "title": "Why quantum entanglement doesn't allow faster-than-light communication (2016)",
+            "description": "Quantum entanglement is one of the weirdest and coolest phenomena in physics, but it's absolutely not a method for sending messages faster than light, for subtle and complicated reasons.",
+            "url": "https://www.forbes.com/sites/chadorzel/2016/05/04/the-real-reasons-quantum-entanglement-doesnt-allow-faster-than-light-communication/",
+            "urlToImage": "https://imageio.forbes.com/blogs-images/chadorzel/files/2015/07/aspect3.png?format=png&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-03-28T05:01:45Z",
+            "content": "My colleague-in-blogging Ethan Siegel does a regular reader-request feature, and this week's edition drifts into my territory, answering a question about using quantum entanglement for faster-than-li\u2026 [+10265 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Si\u00f4n Geschwindt",
+            "title": "This startup taps quantum, AI to fast-track discovery of new materials",
+            "description": "From batteries and semiconductors to energy storage, the transition to green technologies requires the development of new, sustainable materials at an unprecedented pace. German startup Quantistry believes it can fast-track the discovery of such materials usi\u2026",
+            "url": "https://thenextweb.com/news/this-startup-taps-quantum-ai-to-fast-track-discovery-of-new-materials",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2Fquantum-material-chemical-ai-startup.jpg&signature=442825759769c17445110d1e146077ee",
+            "publishedAt": "2024-03-12T15:16:40Z",
+            "content": "From batteries and semiconductors to energy storage, the transition to green technologies requires the development of new, sustainable materials at an unprecedented pace.\r\nGerman startup Quantistry b\u2026 [+2449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adafruit.com"
+            },
+            "author": "Anne Barela",
+            "title": "The physics of flight: the airfoil #Physics @BCiechanowski",
+            "description": "Bartosz Ciechanowski investigates what makes airplanes fly by looking at the forces generated by the flow of air around the aircraft\u2019s wings. More specifically, a focus on the cross section of those wings to reveal the shape of an airfoil (Wikipedia).We\u2019ll fi\u2026",
+            "url": "https://blog.adafruit.com/2024/03/07/the-physics-of-flight-the-airfoil-physics-bciechanowski/",
+            "urlToImage": "https://cdn-blog.adafruit.com/uploads/2024/03/one-one-5.jpg",
+            "publishedAt": "2024-03-07T15:52:02Z",
+            "content": "Bartosz Ciechanowski investigates what makes airplanes fly by looking at the forces generated by the flow of air around the aircraft\u2019s wings. More specifically, a focus on the cross section of those \u2026 [+3319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Paul Sutter",
+            "title": "What is emergent gravity, and will it rewrite physics?",
+            "description": "According to the theory of emergent gravity, as soon as you enter low-density regions outside the solar system, gravity behaves differently than we would expect from Einstein's theory of general relativity.",
+            "url": "https://www.space.com/what-is-emergent-gravity",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VhSw3YuF35K43XszRVS4iX-1200-80.jpg",
+            "publishedAt": "2024-03-19T13:00:28Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n\u00a9\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Leah Crane",
+            "title": "How a total solar eclipse in 1919 left physicists 'more or less agog'",
+            "description": "One total solar eclipse changed physics forever \u2013 and even to this day these celestial phenomena are astonishing viewers and teaching us crucial lessons about the universe",
+            "url": "https://www.newscientist.com/article/2424695-how-a-total-solar-eclipse-in-1919-left-physicists-more-or-less-agog/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/04/05195229/SEI_198645438.jpg",
+            "publishedAt": "2024-04-05T19:57:12Z",
+            "content": "A total solar eclipse from August 2017 seen above Jefferson City, Missouri\r\n(NASA/Rami Daud)\r\nThe following is an extract from our monthly Launchpad newsletter, in which resident space expert Leah Cr\u2026 [+4605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "A Problem for Sun-Blocking Cloud Geoengineering? Clouds Dissipate",
+            "description": "Slashdot reader christoban writes:\n\nIn what may be an issue for Sun-obscuring strategies to combat global warming, it turns out that during solar eclipses, low level cumulus clouds rapidly disappear, reducing by a factor of 4, researchers have found.\n\nThe new\u2026",
+            "url": "https://news.slashdot.org/story/24/03/23/1739254/a-problem-for-sun-blocking-cloud-geoengineering-clouds-dissipate",
+            "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
+            "publishedAt": "2024-03-23T20:34:00Z",
+            "content": "Victor J. H. Trees, a geoscientist at Delft University of Technology in the Netherlands, and his colleagues recently analyzed cloud cover data obtained during an annular eclipse in 2005, visible in p\u2026 [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Jenny List",
+            "title": "A Supercapacitor From Mushrooms",
+            "description": "The supercapacitor is an extremely promising energy storage technology, and though they have yet to reach parity with the best batteries in terms of energy density, offers considerable promise for \u2026read more",
+            "url": "https://hackaday.com/2024/04/01/a-supercapacitor-from-mushrooms/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/03/mushy-cap-featured.jpg",
+            "publishedAt": "2024-04-02T05:00:44Z",
+            "content": "The supercapacitor is an extremely promising energy storage technology, and though they have yet to reach parity with the best batteries in terms of energy density, offers considerable promise for a \u2026 [+1469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "GPT-4\u306e\u534a\u5206\u4ee5\u4e0b\u306e\u8a08\u7b97\u3067\u307b\u307c\u540c\u7b49\u306aIQ\u3092\u6301\u3064\u30d1\u30fc\u30bd\u30ca\u30ebAI\u300cPi\u300d\u3068\u57fa\u76e4\u30e2\u30c7\u30eb\u300cInflection-2.5\u300d\u304c\u767b\u5834",
+            "description": "AI\u4f01\u696d\u30fbInflection\u304c\u958b\u767a\u3057\u3066\u3044\u308b\u751f\u6210AI\u300cPi\u300d\u306f\u3001\u30e6\u30fc\u30b6\u30fc\u3072\u3068\u308a\u3072\u3068\u308a\u306b\u6700\u9069\u5316\u3055\u308c\u305f\u300c\u30d1\u30fc\u30bd\u30ca\u30ebAI\u300d\u3067\u3059\u3002\u305d\u3093\u306aPi\u306e\u80fd\u529b\u3092\u98db\u8e8d\u7684\u306b\u5411\u4e0a\u3055\u305b\u305f\u57fa\u76e4\u30e2\u30c7\u30eb\u3067\u3042\u308b\u300cInflection-2.5\u300d\u3092Inflection\u304c\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u7d9a\u304d\u3092\u8aad\u3080...",
+            "url": "https://gigazine.net/news/20240309-inflection-personal-ai/",
+            "urlToImage": "https://i.gzn.jp/img/2024/03/09/inflection-personal-ai/00.png",
+            "publishedAt": "2024-03-09T11:40:00Z",
+            "content": "AIInflectionAIPiAIPiInflection-2.5Inflection\r\nInflection-2.5: meet the world's best personal AIhttps://inflection.ai/inflection-2-5\r\nPiAndroidiOSAI\r\nInflectionPi10040033101160Pi\r\nPiPiInflection-2.5In\u2026 [+320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Ryan Flowers",
+            "title": "A Practical Guide To Understanding How Radios Work",
+            "description": "How may radios do you own? Forget the AM/FM, GMRS/FRS radios you listen to or communicate with. We\u2019re talking about the multiple\u00a0radios and antennae in your phone, your TV, your car, your gar\u2026",
+            "url": "https://hackaday.com/2024/03/30/a-practical-guide-to-understanding-how-radios-work/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/03/lcamtuf-featured.jpg",
+            "publishedAt": "2024-03-30T20:00:00Z",
+            "content": "How may radios do you own? Forget the AM/FM, GMRS/FRS radios you listen to or communicate with. We\u2019re talking about the multiple\u00a0radios and antennae in your phone, your TV, your car, your garage door\u2026 [+1322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Breakthrough in melting point prediction: Over 100-year-old physics problem solved",
+            "description": "Scientists propose a groundbreaking theory for predicting melting points. The theory offers a universal description of melting lines across various material types. This discovery has significant implications for materials science and related fields.",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240318142220.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-03-18T18:22:20Z",
+            "content": "A longstanding problem in physics has finally been cracked by Professor Kostya Trachenko of Queen Mary University of London's School of Physical and Chemical Sciences. His research, published in the \u2026 [+1767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "\u4e16\u754c\u306b\u885d\u6483\u3092\u4e0e\u3048\u305f\u300c\u5ba4\u6e29\u8d85\u4f1d\u5c0e\u300d\u306e\u8ad6\u6587\u3092\u5de1\u308b\u4e00\u5927\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb\u306e\u5185\u5e55\u306b\u3064\u3044\u3066\u306e\u8a73\u7d30\u30ec\u30dd\u30fc\u30c8\u3092Nature\u304c\u5831\u544a",
+            "description": "\u7279\u5b9a\u306e\u91d1\u5c5e\u3084\u5316\u5408\u7269\u3092\u6975\u7aef\u306b\u51b7\u5374\u3057\u305f\u969b\u306b\u96fb\u6c17\u62b5\u6297\u304c\u30bc\u30ed\u306b\u306a\u308b\u73fe\u8c61\u3092\u8d85\u4f1d\u5c0e\u3068\u547c\u3073\u3001\u3053\u306e\u8d85\u4f1d\u5c0e\u3092\u5ba4\u6e29\u3067\u767a\u751f\u3055\u305b\u308b\u5ba4\u6e29\u8d85\u4f1d\u5c0e\u306f\u3001\u30ea\u30cb\u30a2\u30e2\u30fc\u30bf\u30fc\u30ab\u30fc\u3084\u91cf\u5b50\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306a\u3069\u3078\u306e\u5fdc\u7528\u304c\u671f\u5f85\u3055\u308c\u308b\u5922\u306e\u6280\u8853\u3067\u3059\u3002\u305d\u3093\u306a\u5ba4\u6e29\u8d85\u4f1d\u5c0e\u3092\u767a\u898b\u3057\u305f\u3068\u3059\u308b\u8ad6\u6587\u3092\u79d1\u5b66\u8a8c\u306eNature\u30672\u56de\u3082\u767a\u8868\u3057\u3001\u3044\u305a\u308c\u3082\u5f8c\u306b\u64a4\u56de\u3055\u308c\u305f\u30ed\u30c1\u30a7\u30b9\u30bf\u30fc\u5927\u5b66\u306e\u30e9\u30f3\u30ac\u30fb\u30c7\u30a3\u30a2\u30b9\u6c0f\u3092\u5de1\u308b\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb\u306e\u5185\u5e55\u306b\u3064\u3044\u3066\u3001\u79d1\u5b66\u8a8c\u30fbNature\u306e\u30cb\u30e5\u30fc\u30b9\u30eb\u30fc\u30e0\u304c\u4e00\u9023\u306e\u7d4c\u7def\u306b\u3064\u3044\u3066\u306e\u8abf\u67fb\u7d50\u679c\u3092\u5831\u544a\u3057\u3066\u3044\u307e\u3059\u3002\u7d9a\u304d\u3092\u8aad\u3080...",
+            "url": "https://gigazine.net/news/20240312-superconductivity-scandal-ranga-dias/",
+            "urlToImage": "https://i.gzn.jp/img/2024/03/12/superconductivity-scandal-ranga-dias/00.jpg",
+            "publishedAt": "2024-03-11T22:00:00Z",
+            "content": "Nature2Nature\r\nSuperconductivity scandal: the inside story of deception in a rising star's physics labhttps://www.nature.com/articles/d41586-024-00716-2\r\n20201015Carbonaceous sulphur hydride(CSH)Natu\u2026 [+454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: NASA has to make a time zone for the Moon",
+            "description": "The White House has published a policy memo asking NASA to create a new time standard for the Moon by 2026. Coordinated Lunar Time (LTC) will establish an official time reference to help guide future lunar missions. The US, China, Japan, India and Russia have\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_976eec43-6df0-45cd-8c01-56747f1bbaa5",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T11:15:54Z",
+            "content": "If you click 'Accept all', we and our partners (including 240 who are part of the IAB Transparency &amp; Consent Framework) will also use cookies and your personal data, such as IP address, precise l\u2026 [+686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Margaret Cirino",
+            "title": "This Women's History Month, how physics connects two Bengali women born decades apart",
+            "description": "When Shohini Ghose was studying physics as a kid, she heard certain names repeated over and over. \"Einstein, Newton, Schrodinger ... they're all men.\" Shohini wanted to change that \u2014 so she decided to write a book about some of the women scientists missing fr\u2026",
+            "url": "https://www.npr.org/2024/03/18/1198909519/shohini-ghose-women-in-physics",
+            "urlToImage": "https://media.npr.org/assets/img/2024/03/15/npr-book-template_wide-01e3daf14198108e7a272ab24d8dc8501c53bb8a-s1400-c100.jpg",
+            "publishedAt": "2024-03-18T07:00:59Z",
+            "content": "When Shohini Ghose was studying physics as a kid, she heard certain names repeated over and over. \"Einstein, Newton, Schrodinger,\" she recalls. \"They're all men.\"\r\nGhose is a quantum physicist and a \u2026 [+1347 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Susana Polo",
+            "title": "The 3-body problem is real, and it\u2019s really unsolvable",
+            "description": "The whole point of Netflix\u2019s 3 Body Problem, based on Cixin Liu\u2019s book trilogy, is that the three-body problem is unsolvable by physicists. But why can\u2019t it be solved?",
+            "url": "https://www.polygon.com/24105247/3-three-body-problem-what-why-unsolvable-netflix-liu-cixin",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/GT43Ui7cJ9P7wiCQWaw_r7FJwOI=/342x0:3268x1532/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25344517/3_Body_Problem_n_S1_E4_00_26_53_00RC.jpg_3_Body_Problem_n_S1_E4_00_26_53_00RC.jpg",
+            "publishedAt": "2024-03-21T21:00:00Z",
+            "content": "Everybody seems to be talking about 3 Body Problem, the new Netflix series based on Cixin Lius Remembrance of Earths Past book trilogy. Fewer people are talking about the two series namesake: The uns\u2026 [+4709 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomorrowsworldtoday.com"
+            },
+            "author": "Lauren Johnson",
+            "title": "James Webb Telescope Confirms That the Universe Is Expanding at Different Speeds",
+            "description": "Astronomers have used the James Webb and Hubble space telescopes to confirm that the universe appears to be expanding at different speeds.",
+            "url": "https://www.tomorrowsworldtoday.com/space/james-webb-telescope-to-confirms-that-the-universe-is-expanding-at-different-speeds/",
+            "urlToImage": "https://www.tomorrowsworldtoday.com/wp-content/uploads/2024/03/JWSTs-infrared-cameras-allow-it-to-look-at-the-universe-in-more-precise-detail-than-any-telescope-before-it.png",
+            "publishedAt": "2024-03-29T13:58:17Z",
+            "content": "Astronomers have used the James Webb and Hubble space telescopes to confirm one of the most puzzling notions in all of physics, that the universe appears to be expanding at different speeds.\r\nJWST\u2019s \u2026 [+1829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wikipedia.org"
+            },
+            "author": "Contributors to Wikimedia projects",
+            "title": "Ultraviolet catastrophe",
+            "description": "Comments",
+            "url": "https://en.wikipedia.org/wiki/Ultraviolet_catastrophe",
+            "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Black_body.svg/1200px-Black_body.svg.png",
+            "publishedAt": "2024-04-03T21:03:59Z",
+            "content": "The ultraviolet catastrophe is the error at short wavelengths in the RayleighJeans law (depicted as \"classical theory\" in the graph) for the energy emitted by an ideal black body. The error, much mor\u2026 [+5714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Paul McNally",
+            "title": "Xbox Free Play Days this weekend brings you Mortal Kombat 1",
+            "description": "It\u2019s nearly the weekend and time once more for another round of Xbox Free Play Days where we get to\u2026 Continue reading Xbox Free Play Days this weekend brings you Mortal Kombat 1\nThe post Xbox Free Play Days this weekend brings you Mortal Kombat 1 appeared fir\u2026",
+            "url": "https://readwrite.com/xbox-free-play-days-this-weekend-brings-you-mortal-kombat-1/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/mk1.jpg",
+            "publishedAt": "2024-03-07T13:46:17Z",
+            "content": "Its nearly the weekend and time once more for another round of Xbox Free Play Days where we get to play games that we might not own for absolutely nothing as an enhanced try before you buy.\r\nThis wee\u2026 [+1816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Kenneth Shepard",
+            "title": "The Best Mario Games, According To You",
+            "description": "Another Mar10 Day has come and gone, and with it came several surprisingly big announcements. While Nintendo celebrated the Italian plumber\u2019s holiday by solidifying release dates for the Paper Mario: The Thousand Year Door remake and officially announcing a n\u2026",
+            "url": "https://kotaku.com/best-mario-games-galaxy-world-64-sunshine-kart-odyssey-1851325267",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/53b9d707af59825fb5ff5dc4a31aee87.jpg",
+            "publishedAt": "2024-03-11T16:15:00Z",
+            "content": "Definitely Mario Galaxy, and not just because its the picture. It felt like such a huge improvement over Sunshine (which I liked well enough when it came out but really does not hold up). The orchest\u2026 [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "AI for astrophysics: Algorithms help chart the origins of heavy elements",
+            "description": "The origin of heavy elements in our universe is theorized to be the result of neutron star collisions, which produce conditions hot and dense enough for free neutrons to merge with atomic nuclei and form new elements in a split-second window of time. Testing \u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240313185104.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-03-13T22:51:04Z",
+            "content": "The origin of heavy elements in our universe is theorized to be the result of neutron star collisions, which produce conditions hot and dense enough for free neutrons to merge with atomic nuclei and \u2026 [+3699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nautil.us"
+            },
+            "author": "Sabine Hossenfelder",
+            "title": "The End of the Dark Universe?",
+            "description": "A new \u201cpost-quantum\u201d theory of gravity says we can wave dark matter and dark energy goodbye.",
+            "url": "https://nautil.us/the-end-of-the-dark-universe-531983/",
+            "urlToImage": "https://assets.nautil.us/sites/3/nautilus/mD4J3ssM-Hossenfelder_HERO.png?auto=compress&fm=png&ixlib=php-3.3.1",
+            "publishedAt": "2024-03-15T22:45:33Z",
+            "content": "Please excuse me for being excited, but this hasnt happened for more than four decades: Physicists have found a new approach to solving a problem which is almost a century oldhow to combine quantum p\u2026 [+8653 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Rupert Goodwins",
+            "title": "Apple's GoFetch silicon security fail was down to an obsession with speed",
+            "description": "Ye cannae change the laws of physics, but you can change your mind\nOpinion Apple is good at security. It's good at processors. Thus GoFetch, a major security flaw in its processor architecture, is a double whammy.\u2026",
+            "url": "https://www.theregister.com/2024/04/02/apple_gofetch_opinion/",
+            "urlToImage": "https://regmedia.co.uk/2018/06/13/shutterstock_unlocked_chip.jpg",
+            "publishedAt": "2024-04-02T07:30:08Z",
+            "content": "Opinion Apple is good at security. It's good at processors. Thus GoFetch, a major security flaw in its processor architecture, is a double whammy.\r\nWhat makes it worse is that GoFetch is a class of v\u2026 [+5729 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Si\u00f4n Geschwindt",
+            "title": "UK fusion startup breaks pressure record using giant \u2018gun\u2019 machine",
+            "description": "A British startup has set a new pressure record using the world\u2019s strongest pulsed power machine, as it looks to forge a cheaper, faster path to fusion energy.\u00a0 First Light Fusion launched a projectile at over 20 kilometres per second (72,000 kph) into a piec\u2026",
+            "url": "https://thenextweb.com/news/uk-fusion-startup-breaks-pressure-record-giant-gun-z-machine",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2Fz-machine-fusion-energy-first-light.jpg&signature=2683e9011b93f4d74f84154a65e0d77a",
+            "publishedAt": "2024-03-08T14:58:11Z",
+            "content": "A British startup has set a new pressure record using the worlds strongest pulsed power machine, as it looks to forge a cheaper, faster path to fusion energy.\u00a0\r\nFirst Light Fusion launched a projecti\u2026 [+2595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Tom Nardi",
+            "title": "Vibratory Rock Tumbler Bounces on Printed Spring",
+            "description": "If you\u2019re reading Hackaday, there\u2019s a good chance you had a rock tumbler in your younger days. Hell, we\u2019d put odds on a few of you having one rumbling away in the background as yo\u2026",
+            "url": "https://hackaday.com/2024/04/04/vibratory-rock-tumbler-bounces-on-printed-spring/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/04/3dptumbler_feat.jpg",
+            "publishedAt": "2024-04-04T20:00:16Z",
+            "content": "If you\u2019re reading Hackaday, there\u2019s a good chance you had a rock tumbler in your younger days. Hell, we\u2019d put odds on a few of you having one rumbling away in the background as you read this. They\u2019re\u2026 [+2288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ufmg.br"
+            },
+            "author": null,
+            "title": "Turning Points: A meeting with Enrico Fermi (2004)",
+            "description": "Comments",
+            "url": "https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm",
+            "urlToImage": null,
+            "publishedAt": "2024-03-18T21:19:59Z",
+            "content": "TURNING POINTS - A meeting with Enrico Fermi\r\nFREEMAN DYSON\r\nFreeman Dyson is at the Institute for Advanced Study, Einstein Drive,\r\nPrinceton, New Jersey 08540, USA.\r\nHow one intuitive physicist resc\u2026 [+5562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Major Mobile NFT Shooter Game 'MadWorld' Uses Linux Foundation Subsidiary's Game Engine",
+            "description": "A Linux Foundation subsidiary has developed a free and open-source 3D game engine distributed under the Apache license. And last week the Open 3D Foundation announced \"a big step forward, showcasing the power of open-source technologies in giving gamers aroun\u2026",
+            "url": "https://mobile.slashdot.org/story/24/03/30/0317217/major-mobile-nft-shooter-game-madworld-uses-linux-foundation-subsidiarys-game-engine",
+            "urlToImage": "https://a.fsdn.com/sd/topics/cellphones_64.png",
+            "publishedAt": "2024-03-30T21:34:00Z",
+            "content": "A Linux Foundation subsidiary has developed a free and open-source 3D game engine distributed under the Apache license. And last week the Open 3D Foundation announced \"a big step forward, showcasing \u2026 [+3708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "An older Boeing plane found with missing panel after landing in Oregon",
+            "description": "A post-flight inspection revealed a missing panel on an Boeing 737-800 that had just arrived at its destination in southern Oregon on Friday after flying from San Francisco, officials said.",
+            "url": "https://www.npr.org/2024/03/16/1238974671/panel-missing-boeing-plane-flight-california-oregon",
+            "urlToImage": "https://media.npr.org/assets/img/2024/03/15/ap24076029732356_wide-1870705f2f7d0089fdb4406252dc04d08bf133bb-s1400-c100.jpg",
+            "publishedAt": "2024-03-16T04:22:49Z",
+            "content": "A Medford Jet Center worker walks under a United Boeing 737-824 that landed at Rogue Valley International-Medford Airport from San Francisco with a missing panel on Friday in Medford, Ore.\r\nAndy Atki\u2026 [+2924 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Marianne Guenot",
+            "title": "The collapsed Baltimore bridge didn't stand a chance against such a huge cargo ship, engineers say",
+            "description": "Experts told BI the strength of the cargo ship's impact seemed well out of the norm planned for by engineers.",
+            "url": "https://www.businessinsider.com/francis-scott-key-bridge-no-chance-against-large-impact-experts-2024-3",
+            "urlToImage": "https://i.insider.com/6602b8991caec1275a695a7d?width=1200&format=jpeg",
+            "publishedAt": "2024-03-26T11:50:33Z",
+            "content": "The Francis Scott Key Bridge collapsed.Harford County MD Fire & EMS/Handout via REUTERS\r\n<ul><li>Experts sought to explain how the Francis Scott Key Bridge in Baltimore collapsed.\u00a0</li><li>They cente\u2026 [+3117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "Colliding neutron stars hint at new physics that could explain dark matter",
+            "description": "Extreme collisions between neutron stars could create exotic particles beyond the standard model, including axions, the hypothetical particle that comprises dark matter.",
+            "url": "https://www.space.com/neutron-stars-collision-dark-matter-standard-model",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gm8bZVLrnvDXKN6uVKdkSZ-1200-80.jpeg",
+            "publishedAt": "2024-03-15T12:00:45Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n\u00a9\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Penny-arcade.com"
+            },
+            "author": null,
+            "title": "I Feel the Need...",
+            "description": "There are some great deals on Need for Speed games during the Steam Spring sale. They are all either 90% or 95% off! If you\u2019re looking for some arcade racing action there are some great options here. I\u2019ll share the ones I\u2019ve been playing lately.",
+            "url": "https://www.penny-arcade.com/news/post/2024/03/19/i-feel-the-need",
+            "urlToImage": "https://assets.penny-arcade.com/img/logo_opengraph.jpg",
+            "publishedAt": "2024-03-19T18:14:00Z",
+            "content": "There are some great deals on Need for Speed games during the Steam Spring sale. They are all either 90% or 95% off! If you\u2019re looking for some arcade racing action there are some great options here.\u2026 [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "John H. Tibbetts",
+            "title": "Using physics principles to understand how cells self-sort in development",
+            "description": "Erin McCarthy '23, physics summa cum laude, is a rarity among young scientists. As an undergraduate researcher in Syracuse University's College of Arts &amp; Sciences' Department of Physics, she guided a study that appeared in March 2024 in Physical Review Le\u2026",
+            "url": "https://phys.org/news/2024-03-physics-principles-cells.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/using-physics-principl.jpg",
+            "publishedAt": "2024-03-22T18:39:30Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Apple looking to adopt what may be the next big thing in chip development: glass substrates",
+            "description": "A new supply-chain report suggests that Apple is seeking to be an early player in what some believe will be the next big thing in chip development: printed circuit boards (PCBs) made from glass substrates.\n\n\n\nWhile that might not sound exciting, it offers the\u2026",
+            "url": "https://9to5mac.com/2024/03/29/the-next-big-thing-glass-substrates/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Intel-glass-substrates.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-29T12:57:41Z",
+            "content": "A new supply-chain report suggests that Apple is seeking to be an early player in what some believe will be the next big thing in chip development: printed circuit boards (PCBs) made from glass subst\u2026 [+4460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Apple Pencil for Vision Pro seemingly supported by patent application",
+            "description": "A recent report suggested we might be seeing some form of Apple Pencil for Vision Pro, and that idea appears to be supported by an Apple patent application published this week.\n\n\n\nThe lack of a physical surface to press against means that things like drawing \u2026",
+            "url": "https://9to5mac.com/2024/03/29/apple-pencil-for-vision-pro/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Apple-Pencil-for-Vision-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-29T13:42:15Z",
+            "content": "A recent report suggested we might be seeing some form of Apple Pencil for Vision Pro, and that idea appears to be supported by an Apple patent application published this week.\r\nThe lack of a physica\u2026 [+2465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Katyanna Quach",
+            "title": "An engine that can conjure thrust from thin air? We speak to the designer",
+            "description": "Chatting to Anmol Taploo about the race to develop tech for satellites\nInterview Will satellites be capable of generating their own thrust with propellant created out of thin air one day? Scientists at the George Washington University (GWU) and Princeton Plas\u2026",
+            "url": "https://www.theregister.com/2024/03/09/darpa_abep_project_interview/",
+            "urlToImage": "https://regmedia.co.uk/2019/12/03/earth_atmosphere.jpg",
+            "publishedAt": "2024-03-09T10:34:10Z",
+            "content": "Interview Will satellites be capable of generating their own thrust with propellant created out of thin air one day? Scientists at the George Washington University (GWU) and Princeton Plasma Physics \u2026 [+4678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Secrets of the Van Allen belt revealed in new study",
+            "description": "A challenge to space scientists to better understand our hazardous near-Earth space environment has been set in a new study.",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240321155423.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-03-21T19:54:23Z",
+            "content": "A challenge to space scientists to better understand our hazardous near-Earth space environment has been set in a new study led by the University of Birmingham.The research represents the first step \u2026 [+2374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Magnetic avalanche triggered by quantum effects",
+            "description": "Scientists have shown that Barkhausen noise can be produced not only through traditional, or classical means, but through quantum mechanical effects. The research represents an advance in fundamental physics and could one day have applications in creating qua\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240328162625.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-03-28T20:26:25Z",
+            "content": "Iron screws and other so-called ferromagnetic materials are made up of atoms with electrons that act like little magnets. Normally, the orientations of the magnets are aligned within one region of th\u2026 [+6037 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "'Quantum tornado' allows scientists to mimic a black hole on Earth",
+            "description": "Scientists created a giant vortex made of tiny quantum parts in a helium superfluid just a few degrees above absolute zero. This \"quantum tornado\" helped them to bring black hole physics down to Earth.",
+            "url": "https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qFhksxU8RFw7KkHfWaAR6Q-1200-80.png",
+            "publishedAt": "2024-03-22T17:00:01Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n\u00a9\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Matt Elliott",
+            "title": "Best Battery Life Laptops of 2024 - CNET",
+            "description": "These are the longest-lasting laptops we've tested in the past year.",
+            "url": "https://www.cnet.com/tech/computing/best-battery-life-laptops-2024/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/fc336d54e2000d612ddba30f7876e65f28e3f4c8/hub/2023/11/05/4ccd280c-fb41-4d97-a69c-df2b54e479ec/apple-macbook-pro-16-m3-max-5111.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-12T12:00:00Z",
+            "content": "There are a ton of laptops on the market at any given moment, and almost all of those models are available in multiple configurations to match your performance and budget needs. So if you're feeling \u2026 [+9558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uci.edu"
+            },
+            "author": null,
+            "title": "Nobel Laureate nearly bombed Nevada",
+            "description": "Comments",
+            "url": "https://www.physics.uci.edu/node/14126",
+            "urlToImage": null,
+            "publishedAt": "2024-03-18T14:19:37Z",
+            "content": "From desert to gold mine Frederick Reines was a larger-than-life physicist who did larger-than-life experiments.\r\nChasing the Ghost: Nobelist Fred Reines and the Neutrino Leonard A. Cole World Scient\u2026 [+7735 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jennifer Ouellette",
+            "title": "The people of Earth prepare for war in final trailer for 3 Body Problem",
+            "description": "\"When your consciousness ends in one world, it could continue to exist in many other worlds.\"",
+            "url": "https://arstechnica.com/culture/2024/03/the-countdown-continues-as-netflix-releases-final-trailer-for-3-body-problem/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/3bodyTOP-760x380.jpg",
+            "publishedAt": "2024-03-07T16:14:12Z",
+            "content": "7\r\nNetflix's new sci-fi series 3 Body Problem makes its world premiere tonight at the SXSW Film &amp; Television festival in Austin.\r\nThe countdown continues for the hotly anticipated debut of 3 Body\u2026 [+4750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Flowingdata.com"
+            },
+            "author": "Nathan Yau",
+            "title": "Visual guide to airfoils",
+            "description": "Bartosz Ciechanowski is at it again with an in-depth explainer that makes heavy use of slider-driven interactive graphics. This time he simulated the patterns of air flowing over and around the win\u2026",
+            "url": "https://flowingdata.com/2024/03/18/visual-guide-to-airfoils/",
+            "urlToImage": "https://i0.wp.com/flowingdata.com/wp-content/uploads/2024/03/Airfoil.png?fit=1200%2C722&ssl=1",
+            "publishedAt": "2024-03-18T16:08:22Z",
+            "content": "Bartosz Ciechanowski is at it again with an in-depth explainer that makes heavy use of slider-driven interactive graphics. This time he simulated the patterns of air flowing over and around the wings\u2026 [+228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Georgina Torbet",
+            "title": "The world\u2019s largest digital camera for astronomy is ready to go",
+            "description": "Ready to scan the night sky for evidence of dark matter and to identify near-Earth asteroids, the camera for the upcoming Vera Rubin Observatory is complete.",
+            "url": "https://www.digitaltrends.com/space/rubin-camera-completed/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/04/Credits-Olivier-Bonin-SLAC-National-Accelerator-Laborator-3_jpg.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-04-03T19:50:05Z",
+            "content": "Ready to scan the night sky to look for evidence of dark matter, identify near-Earth asteroids, and much more, the camera for the upcoming Vera Rubin Observatory is now complete. This is the world\u2019s \u2026 [+2602 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Nicole Carpenter",
+            "title": "You can finally play the real Suika Game on iOS",
+            "description": "Suika Game, the popular watermelon puzzle game, finally has an iOS version, making it playable on iPhones and iPads. An Android version is expected soon.",
+            "url": "https://www.polygon.com/24120086/suika-game-apple-iphone-ios-release-date",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BvHjHsMWq8IgFjJtSItj1Qhbhqc=/0x15:1116x599/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25369319/GCuIjHNbcAAhwGq__1_.jpg",
+            "publishedAt": "2024-04-03T16:40:00Z",
+            "content": "Goodbye, App Store Suika Game clones. The real thing has finally arrived on iOS for players outside of Japan. Suika Game, the watermelon puzzle game that went viral on Nintendo Switch last year, is a\u2026 [+1883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Earth.com"
+            },
+            "author": null,
+            "title": "Study: Dark matter does not exist and the universe is 27B years old",
+            "description": "The fabric of the cosmos, as we understand it, comprises three primary components: 'normal matter,' 'dark energy,' and 'dark matter.'",
+            "url": "https://www.earth.com/news/dark-matter-does-not-exist-universe-27-billion-years-old-study/",
+            "urlToImage": "https://cff2.earth.com/uploads/2024/03/15120909/dark-matter-does-not-exist_new-study_1m.jpg",
+            "publishedAt": "2024-03-16T14:44:11Z",
+            "content": "The fabric of the cosmos, as we currently understand it, comprises three primary components: \u2018normal matter,\u2019 \u2018dark energy,\u2019 and \u2018dark matter.\u2019 However, new research is turning this established model\u2026 [+6151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "the-mirror-gdp",
+            "title": "The Mirror (Godot bashed game engine)",
+            "description": "The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot. - the-mirror-gdp/the-mirror",
+            "url": "https://github.com/the-mirror-gdp/the-mirror",
+            "urlToImage": "https://opengraph.githubassets.com/b0b1d1779cba528099fb60c674baaab6b138314b453fc669f4aaea95176aba64/the-mirror-gdp/the-mirror",
+            "publishedAt": "2024-03-24T16:18:07Z",
+            "content": "Freedom to own: The Mirror is a Roblox &amp; UEFN alternative giving you the freedom to own what you create: an all-in-one game development platform built on Godot.\r\nIf you build on others like Roblo\u2026 [+4297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Home.cern"
+            },
+            "author": null,
+            "title": "CERN to change name for 70th Anniversary",
+            "description": "Update: Did you enjoy our April Fools\u2019 day story? CERN is indeed celebrating its 70th anniversary, but without changing its name. For the complete CERN70 anniversary events and programme of activities, visit cern.ch/cern70. Since its inception in 1954, CERN h\u2026",
+            "url": "https://home.cern/news/news/cern/cern-change-name-70th-anniversary",
+            "urlToImage": "https://cds.cern.ch/images//file?size=medium",
+            "publishedAt": "2024-04-01T23:37:48Z",
+            "content": "The Organizations new name, Network of Experiments for Research and Development in Society, encapsulates the true nature of the Laboratory in 2024\r\n The Organizations new logo. The correct usage of t\u2026 [+3060 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Billy Stockwell",
+            "title": "The 'drinking bird' makes a comeback and could power gadgets with clean energy",
+            "description": "The retro \u201cdrinking bird\u201d is making a surprising comeback \u2014\u202fas the inspiration for a clean-energy generator that could one day power your watch and phone.",
+            "url": "https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/drinking-bird-credit-device-wu-zheng-qin-et-al.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-14T15:21:59Z",
+            "content": "The top-hatted drinking bird, once a fixture in science classrooms for demonstrating the basics of thermodynamics, is making a surprising comeback as the inspiration for a new clean-energy generator \u2026 [+3603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Revolutionary phenomenon in liquid crystals",
+            "description": "Scientists have unveiled a new principle of motion in the microworld, where objects can move in a directed manner simply by changing their sizes periodically within a substance known as liquid crystal.",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240313135423.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-03-13T17:54:23Z",
+            "content": "A research team, affiliated with UNIST, has unveiled for the first time a new principle of motion in the microworld, where objects can move in a directed manner simply by changing their sizes periodi\u2026 [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Juan Carlos L\u00f3pez",
+            "title": "La Ant\u00e1rtida y los neutrinos son nuestras mejores bazas para entender mejor algo ins\u00f3lito: la gravedad cu\u00e1ntica",
+            "description": "Los f\u00edsicos te\u00f3ricos coquetean con la idea de unificar la teor\u00eda general de la relatividad y la mec\u00e1nica cu\u00e1ntica desde hace algo m\u00e1s de un siglo. Pr\u00e1cticamente desde el mismo instante en el que ambas ramas de la f\u00edsica vieron la luz a principios del siglo XX\u2026",
+            "url": "https://www.xataka.com/investigacion/antartida-neutrinos-nuestras-mejores-bazas-para-entender-mejor-algo-insolito-gravedad-cuantica",
+            "urlToImage": "https://i.blogs.es/cdb462/icecube-ap/840_560.jpeg",
+            "publishedAt": "2024-04-02T16:32:41Z",
+            "content": "Los f\u00edsicos te\u00f3ricos coquetean con la idea de unificar la teor\u00eda general de la relatividad y la mec\u00e1nica cu\u00e1ntica desde hace algo m\u00e1s de un siglo. Pr\u00e1cticamente desde el mismo instante en el que amba\u2026 [+5085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sfipress.org"
+            },
+            "author": null,
+            "title": "Nature Conformable to Herself (1992)",
+            "description": "Comments",
+            "url": "https://www.sfipress.org/4-nature-conformable-to-herself",
+            "urlToImage": "http://static1.squarespace.com/static/5d420e5d999d0200013d33c3/t/5dc35e3b29b11d43b18fa31b/1573084733136/E.png?format=1500w",
+            "publishedAt": "2024-03-12T01:28:58Z",
+            "content": "Originally published in the SFI Bulletin Winter/Spring 1992, From a talk given at the 1992 Complex Systems Winter School, Tucson, Arizona\r\nMore than thirty years ago, I was the first visiting profess\u2026 [+17161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Breakthrough in melting point prediction: 100-year-old physics problem solved",
+            "description": "A longstanding problem in physics has finally been cracked by Professor Kostya Trachenko of Queen Mary University of London's School of Physical and Chemical Sciences. His research, published in Physical Review E, unveils a general theory for predicting melti\u2026",
+            "url": "https://phys.org/news/2024-03-breakthrough-year-physics-problem.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/breakthrough-in-meltin-1.jpg",
+            "publishedAt": "2024-03-18T16:51:07Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Jos\u00e9 Tadeu Arantes",
+            "title": "Study clarifies a key question in particle physics about muon's magnetic moment",
+            "description": "Magnetic moment is an intrinsic property of a particle with spin, arising from interaction between the particle and a magnet or other object with a magnetic field. Like mass and electric charge, magnetic moment is one of the fundamental magnitudes of physics.",
+            "url": "https://phys.org/news/2024-03-key-particle-physics-muon-magnetic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/study-clarifies-a-key.jpg",
+            "publishedAt": "2024-03-20T16:06:49Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+7033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Penny-arcade.com"
+            },
+            "author": null,
+            "title": "I Got Muad'Dibs",
+            "description": "We messed around with Funcom's Conan Exiles for the \"length\" of time many did - to see how these twisted Swedes had embroidered a physics operative human phallus. However much space it might have taken up in the budget, their proprietary dongsim must certainl\u2026",
+            "url": "https://www.penny-arcade.com/news/post/2024/03/08/i-got-muad-dibs",
+            "urlToImage": "https://assets.penny-arcade.com/img/logo_opengraph.jpg",
+            "publishedAt": "2024-03-08T18:46:00Z",
+            "content": "I mean, look at it.\r\nI bet I could trick a couple people into that shit.\r\nWith Jasmine out at the JoCo Crooz, the only force keeping us from a torrid affair with Balatro has been destroyed. Now, join\u2026 [+122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "A physics-based predictive tool to speed up battery and superconductor research",
+            "description": "From lithium-ion batteries to next-generation superconductors, the functionality of many modern, advanced technologies depends on the physical property known as intercalation. Unfortunately, it's difficult to identify in advance which of the many possible int\u2026",
+            "url": "https://phys.org/news/2024-03-physics-based-tool-battery-superconductor.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/physics-based-predicti.jpg",
+            "publishedAt": "2024-03-08T15:54:03Z",
+            "content": "From lithium-ion batteries to next-generation superconductors, the functionality of many modern, advanced technologies depends on the physical property known as intercalation. Unfortunately, it's dif\u2026 [+3633 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Balancing training data and human knowledge makes AI act more like a scientist",
+            "description": "When you teach a child how to solve puzzles, you can either let them figure it out through trial and error, or you can guide them with some basic rules and tips. Similarly, incorporating rules and tips into AI training -- such as the laws of physics --could m\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240308123245.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-03-08T17:32:45Z",
+            "content": "When you teach a child how to solve puzzles, you can either let them figure it out through trial and error, or you can guide them with some basic rules and tips. Similarly, incorporating rules and ti\u2026 [+3882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "How many fish constitute a school?",
+            "description": "Physicists are also interested in fish -- above all when they are researching the formation of structures. A research team has examined the schooling behavior of zebra danio (Danio rerio, also known as 'zebrafish') using methods from the field of multi-partic\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240325114247.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-03-25T15:42:47Z",
+            "content": "Physicists are also interested in fish -- above all when they are researching the formation of structures. A research team from Heinrich Heine University D\u00fcsseldorf (HHU) and the University of Bristo\u2026 [+3925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cheezburger.com"
+            },
+            "author": "kalilacourban, kalilacourban",
+            "title": "Cool Conundrum of Cats Defying All Rules Of Physics And 'Catting' All Over The Place",
+            "description": "Cats, those enigmatic creatures, epitomize the art of lounging, often found basking in sunny spots around the house, embodying pure zen. Yet, amidst their serene loafing, they display moments of utter disregard for physics\u2014defying every law with ease. It's as\u2026",
+            "url": "https://cheezburger.com/25269765/cool-conundrum-of-cats-defying-all-rules-of-physics-and-catting-all-over-the-place",
+            "urlToImage": "https://i.chzbgr.com/thumb1200/25269765/h41588E66/15-pictures-of-cats-defying-the-laws-of-physics",
+            "publishedAt": "2024-04-05T14:00:00Z",
+            "content": "Cats, those enigmatic creatures, epitomize the art of lounging, often found basking in sunny spots around the house, embodying pure zen. Yet, amidst their serene loafing, they display moments of utte\u2026 [+845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Drive"
+            },
+            "author": "James Gilboy",
+            "title": "RC Helicopter Acrobatics Aren't AI Fakes, If You Can Believe It",
+            "description": "These pilots can do things with remote-controlled helicopters that look impossible, but they're absolutely real.",
+            "url": "https://www.thedrive.com/news/these-rc-helicopter-acrobatics-arent-ai-fakes-if-you-can-believe-it",
+            "urlToImage": "https://www.thedrive.com/uploads/2024/03/26/rc-heli.jpg?auto=webp",
+            "publishedAt": "2024-03-27T14:54:22Z",
+            "content": "A helicopter is a crime against the laws of physics, and it's a miracle that they're able to take flight in the first place. To travel in one is to tempt fate; to fly one is to dare the gods to cast \u2026 [+1573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "https://www.jpl.nasa.gov/",
+            "title": "NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth",
+            "description": "A gantlet of tests prepared the spacecraft for its challenging trip to the Jupiter system, where it will explore the icy moon Europa and its subsurface ocean.",
+            "url": "https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth",
+            "urlToImage": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26064-Clipper-vertical-in-TVAC.jpg",
+            "publishedAt": "2024-03-27T22:44:20Z",
+            "content": "Looking to Launch\r\nLater this spring, the spacecraft will be shipped to NASAs Kennedy Space Center in Florida. There, teams of engineers and technicians will carry out final preparations with eyes on\u2026 [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ritholtz.com"
+            },
+            "author": "Barry Ritholtz",
+            "title": "10 Weekend Reads",
+            "description": "The weekend is here! Pour yourself a mug of \u00a0coffee, grab a seat by the fire, and get ready for our longer-form weekend reads: \u2022 How a Physics Whiz Made a Fortune Betting on Nature\u2019s Catastrophes: John Seo used his scientific knowledge to develop a winning fo\u2026",
+            "url": "https://ritholtz.com/2024/03/weekend-reads-607/",
+            "urlToImage": "https://ritholtz.com/wp-content/uploads/2024/03/inflation.png",
+            "publishedAt": "2024-03-16T10:30:09Z",
+            "content": "The weekend is here! Pour yourself a mug of \u00a0coffee, grab a seat by the fire, and get ready for our longer-form weekend reads:How a Physics Whiz Made a Fortune Betting on Natures Catastrophes: John S\u2026 [+2712 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "OpenAI\u304c\u308f\u305a\u304b15\u79d2\u306e\u97f3\u58f0\u304b\u3089\u30af\u30ed\u30fc\u30f3\u97f3\u58f0\u3092\u751f\u6210\u3067\u304d\u308bAI\u30e2\u30c7\u30eb\u300cVoice Engine\u300d\u3092\u30ea\u30ea\u30fc\u30b9",
+            "description": "OpenAI\u304c\u308f\u305a\u304b15\u79d2\u306e\u97f3\u58f0\u30b5\u30f3\u30d7\u30eb\u304b\u3089\u5408\u6210\u97f3\u58f0\u3092\u4f5c\u6210\u3067\u304d\u308bAI\u30e2\u30c7\u30eb\u300cVoice Engine\u300d\u3078\u306e\u9650\u5b9a\u7684\u306a\u30a2\u30af\u30bb\u30b9\u3092\u63d0\u4f9b\u958b\u59cb\u3057\u307e\u3057\u305f\u3002Voice Engine\u306f\u3001\u5408\u6210\u97f3\u58f0\u3092\u4f5c\u6210\u3059\u308b\u969b\u306b\u4f7f\u7528\u3057\u305f\u97f3\u58f0\u30b5\u30f3\u30d7\u30eb\u3068\u540c\u3058\u8a00\u8a9e\u3060\u3051\u3067\u306a\u304f\u3001\u3055\u307e\u3056\u307e\u306a\u8a00\u8a9e\u3067\u5165\u529b\u3057\u305f\u30c6\u30ad\u30b9\u30c8\u3092\u97f3\u58f0\u8aad\u307f\u4e0a\u3052\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3068\u3044\u3046\u30c6\u30ad\u30b9\u30c8\u97f3\u58f0\u751f\u6210\u30c4\u30fc\u30eb\u3067\u3059\u3002\u7d9a\u304d\u3092\u8aad\u3080...",
+            "url": "https://gigazine.net/news/20240401-openai-voice-engine-ai/",
+            "urlToImage": "https://i.gzn.jp/img/2024/04/01/openai-voice-engine-ai/00_m.jpg",
+            "publishedAt": "2024-04-01T01:20:00Z",
+            "content": "OpenAI15AIVoice EngineVoice Engine\r\nNavigating the Challenges and Opportunities of Synthetic Voiceshttps://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices\r\nOpenAI buil\u2026 [+1769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Penny-arcade.com"
+            },
+            "author": null,
+            "title": "Carnal",
+            "description": "We've talked about iRacing a lot, a fascination that coalesced during \"the pando.\" Mork's obsession with fast car - spurred originally by the release of Tracy Chapman's \"Fast Car\" in 1998 - found new and startling manifestations in 2020. We went so far as to \u2026",
+            "url": "https://www.penny-arcade.com/news/post/2024/03/11/carnal",
+            "urlToImage": "https://assets.penny-arcade.com/img/logo_opengraph.jpg",
+            "publishedAt": "2024-03-11T20:19:00Z",
+            "content": "The seed crystal for the strip is the fact that nobody in the broader gaming journalism community is sufficiently dedicated to his grotesque appetites. I consider this a blessing. This motor-pimp, sl\u2026 [+902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "Emergent Ventures, 33rd cohort",
+            "description": "Alex Bartik and Arpit Gupta, Chicago and NYU, to work on zoning codes, machine learning, and LLMs. Sasha Przyblski, 16, Ontario, building more durable batteries. Egzona Marina, Kosovo and MIT, to promote science and neuroscience education in Kovoso. Aldrich H\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/04/emergent-ventures-33rd-cohort.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-04-03T05:09:12Z",
+            "content": "Alex Bartik and Arpit Gupta, Chicago and NYU, to work on zoning codes, machine learning, and LLMs.\r\nSasha Przyblski, 16, Ontario, building more durable batteries.\r\nEgzona Marina, Kosovo and MIT, to p\u2026 [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "'Yes, We're All Trapped in the Matrix Now'",
+            "description": "\"As you're reading this, you're more likely than not already inside 'The Matrix',\" according to a headline on the front page of CNN.com this weekend. \n\nIt linked to an opinion piece by Rizwan Virk, founder of MIT's startup incubator/accelerator program. He's \u2026",
+            "url": "https://entertainment.slashdot.org/story/24/03/30/1828201/yes-were-all-trapped-in-the-matrix-now",
+            "urlToImage": "https://a.fsdn.com/sd/topics/topicmatrix.gif",
+            "publishedAt": "2024-04-01T11:34:00Z",
+            "content": "\"As you're reading this, you're more likely than not already inside 'The Matrix',\" according to a headline on the front page of CNN.com this weekend.It linked to an opinion piece by Rizwan Virk, foun\u2026 [+4479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Researchers create stable superconductor enhanced by magnetism",
+            "description": "An international team including researchers from the University of W&uuml;rzburg has succeeded in creating a special state of superconductivity. This discovery could advance the development of quantum computers. The results are published in Nature Physics.",
+            "url": "https://phys.org/news/2024-04-stable-superconductor-magnetism.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/stable-proximitized-su-1.jpg",
+            "publishedAt": "2024-04-04T13:43:02Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+52 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jenny McGrath",
+            "title": "A 17-year-old took home $250,000 for his award-winning discovery in computer 'brains' that could make AI smarter and safer",
+            "description": "Regeneron Science Talent Search's first-prize winner Achyuta Rajaram wants to improve machine learning to make it more efficient and safer.",
+            "url": "https://www.businessinsider.com/regeneron-science-talent-search-winner-achyuta-rajaram-machine-learning-2024-3",
+            "urlToImage": "https://i.insider.com/65f4c2863037f8e81751063a?width=1200&format=jpeg",
+            "publishedAt": "2024-03-15T21:50:06Z",
+            "content": "Achyuta Rajaram took first prize at the Regeneron Science Talent Search for his project on computer vision models.Chris Ayers/Society for Science\r\n<ul><li>The Regeneron Science Talent Search is highl\u2026 [+4496 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Morgan McFall-Johnsen,Marianne Guenot",
+            "title": "'Holes' in Earth's magnetic field could cause extra northern lights this month. Here's how to spot them.",
+            "description": "This may be the best month to see the Northern Lights, aka aurora borealis. The spring equinox is coming, which can lead to \"holes\" in Earth's magnetic field.",
+            "url": "https://www.businessinsider.com/holes-earth-magnetic-field-northern-lights-aurora-borealis-2024-3",
+            "urlToImage": "https://i.insider.com/65eba221ce7f1785b2e839de?width=1200&format=jpeg",
+            "publishedAt": "2024-03-11T20:17:11Z",
+            "content": "The northern lights in Whitley Bay, England April 24, 2023.Owen Humphreys/PA Images via Getty Images\r\n<ul><li>March 2024 may be the best month in the best year to see the Northern Lights, aka aurora \u2026 [+5749 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Elon Musk would be the best owner for TikTok. There's just one problem.",
+            "description": "In early 2022, Elon Musk would have seemed like a perfect candidate to buy the US operations of TikTok. Alas!",
+            "url": "https://www.businessinsider.com/tiktok-buyer-elon-musk-bytedance-twitter-x-time-machine-2024-3",
+            "urlToImage": "https://i.insider.com/65f34d47857f90b71522b71b?width=1200&format=jpeg",
+            "publishedAt": "2024-03-14T19:17:35Z",
+            "content": "Elon Musk would be a great owner for TikTok. There's just one issue.Antonio Masiello/Getty Images\r\n<ul><li>TikTok's US operations aren't for sale yet, but people are already announcing plans to buy i\u2026 [+4968 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Marianne Guenot",
+            "title": "Scientists listed the best place to spot UFOs in the US \u2014 but don't hold your breath",
+            "description": "Understanding UFO sightings in the West US: a study intertwines open skies, nearby military bases, and cultural allure.",
+            "url": "https://www.businessinsider.com/spotting-ufos-in-the-us-the-west-as-prime-location-say-experts-2024-3",
+            "urlToImage": "https://i.insider.com/65fd97c94af076d3cf92b2c7?width=1200&format=jpeg",
+            "publishedAt": "2024-03-22T15:16:50Z",
+            "content": "Onlookers point at the vapor \"jellyfish\" dragged behind SpaceX's Falcon9 rocket on March 19.Mario Tama/Getty Images\r\n<ul><li>If you're hunting for aliens, you may want to head west.\u00a0</li><li>Western \u2026 [+5057 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Pesala Bandara",
+            "title": "A Deepfake Taylor Swift is Teaching Math to Kids on TikTok",
+            "description": "Deepfakes of celebrities such as Taylor Swift, Ice Spice, Drake, and even the late Queen Elizabeth are teaching math to kids in viral TikTok videos.\n[Read More]",
+            "url": "https://petapixel.com/2024/04/02/a-deepfake-taylor-swift-is-teaching-math-to-kids-on-tiktok/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2024/04/taylor-swift-deepfake-teaches-maths-tiktok-ai-kids.jpg",
+            "publishedAt": "2024-04-02T14:41:56Z",
+            "content": "Deepfakes of celebrities such as Taylor Swift, Ice Spice, Drake, and even the late Queen Elizabeth are teaching math to kids in viral TikTok videos. \r\nAccording to a report by CBC, popular content cr\u2026 [+3857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Physics of complex fluids: Ring polymers show unexpected motion patterns under shear",
+            "description": "The shearing of fluids\u2014meaning the sliding of fluid layers over each other under shear forces\u2014is an important concept in nature and in rheology, the science that studies the flow behavior of matter, including liquids and soft solids. Shear forces are lateral \u2026",
+            "url": "https://phys.org/news/2024-04-physics-complex-fluids-polymers-unexpected.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/physics-of-complex-flu.jpg",
+            "publishedAt": "2024-04-04T15:28:03Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+4272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Paul McClure",
+            "title": "New window film drops temperature by 45 \u00b0F, slashes energy consumption",
+            "description": "Assisted by quantum physics and machine learning, researchers have developed a transparent window coating that lets in visible light but blocks heat-producing UV and infrared. The coating not only reduces room temperature but also the energy consumption relat\u2026",
+            "url": "https://newatlas.com/materials/window-coating-visible-light-reduces-heat/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/abe5f46/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0e%2Fa5%2F9fe848b34ddba01a1822a6dfd25c%2Fdepositphotos-208066822-l.jpg&na.image_optimisation=0",
+            "publishedAt": "2024-04-05T04:34:47Z",
+            "content": "Assisted by quantum physics and machine learning, researchers have developed a transparent window coating that lets in visible light but blocks heat-producing UV and infrared. The coating not only re\u2026 [+5234 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Austen Goslin",
+            "title": "Here\u2019s how 3 Body Problem\u2019s neatest plot device works",
+            "description": "3 Body Problem is full of complex science, but one of its neatest plot devices is more about storytelling than hard science \u2014 here\u2019s how San-Ti\u2019s Sophons work.",
+            "url": "https://www.polygon.com/24105807/3-body-problem-sophons-protons-explainer",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/eJdKd4YeCUqvc5A_lcvxtVJDMTk=/674x0:3600x1532/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25344287/3_Body_Problem_n_S1_E3_00_24_54_19R.jpg_3_Body_Problem_n_S1_E3_00_24_54_19R.jpg",
+            "publishedAt": "2024-03-22T18:00:00Z",
+            "content": "Theres a lot of complicated science going on in Netflixs new series 3 Body Problem. Aside from the math puzzle that the series is named after, there are things like solar radio amplification, near li\u2026 [+3564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rock Paper Shotgun"
+            },
+            "author": "Rick Lane",
+            "title": "Reality Bytes: Vampire: The Masquerade - Justice wants to be a bite sized Dishonored, but is defanged by sloppy design",
+            "description": "I'm beginning to think we should bury Vampire: The Masquerade back in the forsaken graveyard where it was originally dug up, or at least banish the toothy reprobate back to its pen & paper castle. I don't know how White Wolf's RPG is viewed in the land of tab\u2026",
+            "url": "https://www.rockpapershotgun.com/reality-bytes-vampire-the-masquerade-justice-wants-to-be-a-bite-sized-dishonored-but-is-defanged-by-sloppy-design",
+            "urlToImage": "https://assetsio.reedpopcdn.com/vampire-the-masquerade-justice-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2024-03-08T17:00:00Z",
+            "content": "Reality Bytes is a monthly feature all about virtual reality. Today it's taking a look at Vampire: The Masquerade - Justice for some VR-ampires.\r\nI'm beginning to think we should bury Vampire: The Ma\u2026 [+7117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Michael Franco",
+            "title": "Quantum helium tornado in lab mimics black holes' warped spacetime",
+            "description": "As anyone who's ever seen a science fiction movie knows, whipping up a black hole in a laboratory doesn't seem like such a good idea.Continue ReadingCategory: Physics, ScienceTags: Space exploration, Black hole, Quantum Physics, Helium, University of Nottingh\u2026",
+            "url": "https://newatlas.com/physics/quantum-tornado-black-holes/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/60c30d7/2147483647/strip/true/crop/1920x1008+0+217/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F7c%2F13%2Fc1e972f24740bf054716cd6d7491%2Fquantum-tornado-provid.jpg&na.image_optimisation=0",
+            "publishedAt": "2024-03-21T11:16:40Z",
+            "content": "As anyone who's ever seen a science fiction movie knows, whipping up a black hole in a laboratory doesn't seem like such a good idea. \r\nBut that didn't stop researchers in England who wanted to see i\u2026 [+3041 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Taylor Lyles",
+            "title": "Epic Will Launch a Fortnite Season Developed on UEFN by the End of 2025 - State of Unreal 2024",
+            "description": "Epic is teasing that in late 2025 it will launch its first Fortnite season powered by Unreal Editor for Fortnite (UEFN).",
+            "url": "https://www.ign.com/articles/epic-will-launch-a-fortnite-season-developed-on-uefn-by-the-end-of-2025-state-of-unreal-2024",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/11/03/fortnitechapter4seasonoggameplaytrailer-ign-blogroll-1699018654708.jpg?width=1280",
+            "publishedAt": "2024-03-20T17:45:14Z",
+            "content": "At the State of Unreal 2024 presentation, Epic Games announced a slew of new product information and details. Among them were the new tools coming to Unreal Editor for Fortnite (UEFN) and confirmatio\u2026 [+2106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "The world is one step closer to secure quantum communication on a global scale",
+            "description": "Researchers have brought together two Nobel prize-winning research concepts to advance the field of quantum communication. Scientists can now efficiently produce nearly perfect entangled photon pairs from quantum dot sources.",
+            "url": "https://www.sciencedaily.com/releases/2024/03/240325114206.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-03-25T15:42:06Z",
+            "content": "Researchers at the University of Waterloo's Institute for Quantum Computing (IQC) have brought together two Nobel prize-winning research concepts to advance the field of quantum communication.Scienti\u2026 [+2723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Express News Service",
+            "title": "Kutch student caught with mobile phone as GSHSEB class 10, 12 board exams commence",
+            "description": "In Class 12 science stream, of 1.32 lakh registered students, 1.30 lakh took the Physics exam.",
+            "url": "https://indianexpress.com/article/cities/ahmedabad/kutch-student-caught-with-mobile-phone-as-gshseb-class-10-12-board-exams-commence-9208798/",
+            "urlToImage": "https://images.indianexpress.com/2024/03/exam_d88db5.jpg",
+            "publishedAt": "2024-03-11T22:31:04Z",
+            "content": "A Class 12 student was caught with a mobile phone in Kutch district on the first day of the Gujarat Secondary and Higher Secondary Education Board (GSHSEB) Class 10 and 12 exams Monday. One cheating \u2026 [+907 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rock Paper Shotgun"
+            },
+            "author": "Ed Thorn",
+            "title": "Dragon's Dogma 2 review: an action RPG anecdote generator",
+            "description": "You know when you remember a game really fondly and instead of ageing alongside you, it becomes more modern in memory? The Dragon's Dogma 2 experience is, essentially, how I remember its predecessor Dragon's Dogma: Dark Arisen. To me, DD2 feels like a remaste\u2026",
+            "url": "https://www.rockpapershotgun.com/dragons-dogma-2-review",
+            "urlToImage": "https://assetsio.gnwcdn.com/dogma-2-dragon-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2024-03-20T15:00:00Z",
+            "content": "Dragon's Dogma 2 reviewA grand action RPG adventure where you'll make travel plans and have them disrupted by a vengeful griffin whose wing you'd whacked two hours earlier.\r\n<ul><li>Developer: Capcom\u2026 [+11414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Giovanni Colantonio",
+            "title": "World of Goo 2 might just be the Nintendo Switch\u2019s next must-own co-op game",
+            "description": "World of Goo 2 is shaping up to be the last hurrah for chaotic puzzle games on Nintendo Switch.",
+            "url": "https://www.digitaltrends.com/gaming/world-of-goo-2-preview/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/03/World-of-Goo-2-3.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-03-21T16:00:08Z",
+            "content": "Tomorrow Corporation\r\nWhen I sat down to demo World of Goo 2 at this year\u2019s GDC, I noted to the developers on hand how surprising it was to see a sequel after so long. \u201cIt\u2019s been, what? Ten years?\u201d I\u2026 [+3552 chars]"
+        }
+    ]
+}

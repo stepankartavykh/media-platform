@@ -1,11 +1,14 @@
-import asyncio
 import json
+import logging
 import os
+import time
 
+import redis
 from redis.asyncio import Redis as AsyncioRedis
 from redis import Redis
 
 from dotenv import load_dotenv
+from datetime import timedelta
 
 load_dotenv()
 
@@ -24,15 +27,64 @@ class AsyncCacheSystemPlugin:
                                  db=db_section,
                                  decode_responses=True)
 
+    def check(self):
+        self._sync_redis.ping()
+
+    def set_mapping(self, data: dict):
+        with self._sync_redis.pipeline() as pipe:
+            for key, item in data.items():
+                if isinstance(item, dict):
+                    pipe.hset(key, mapping=item)
+                else:
+                    pipe.set(key, str(item))
+            pipe.execute()
+        self._sync_redis.bgsave()
+
+    def set_expired_key(self, key, value, minutes=1):
+        """Set key with timeout. After some time key and value will be deleted."""
+        self._sync_redis.setex(key, timedelta(minutes=minutes), value=value)
+
+    def make_snapshot(self):
+        last_save_datetime = self._sync_redis.lastsave()
+
+        self._sync_redis.bgsave()
+
+    def _prepare_storage_with_data(self, data):
+        pass
+
+    def pipe_watch_example(self, item_id: int, first_field: str, second_field: str):
+        logging.basicConfig()
+
+        class SomeError(Exception):
+            """Some error"""
+
+        with self._sync_redis.pipeline() as pipe:
+            error_count = 0
+            while True:
+                try:
+                    pipe.watch(str(item_id))
+                    n_left = self._sync_redis.hget(str(item_id), first_field)
+                    if n_left:
+                        pipe.multi()
+                        pipe.hincrby(str(item_id), first_field, -1)
+                        pipe.hincrby(str(item_id), second_field, 1)
+                        pipe.execute()
+                        break
+                    else:
+                        pipe.unwatch()
+                        logging.error("error")
+                        raise SomeError("Some error!")
+                except redis.WatchError:
+                    error_count += 1
+                    logging.warning("WatchError #%d: %s; retrying", error_count, item_id)
+
     def load_initial_data(self, initial_dump_path: str) -> None:
         redis_client = self._sync_redis
         if os.path.exists(initial_dump_path) and initial_dump_path.endswith('.json'):
             with open(initial_dump_path) as f:
                 data = json.load(f)
-            if not data.get('itemsBlocks'):
-                raise Exception('Interface in data is incorrect!')
-            for block_key, block_structure in data['itemsBlocks'].items():
-                redis_client.json().set(block_structure.get('url', block_key), "$", block_structure)
+            for block_key, block_structure in data.items():
+                redis_client.set(block_key, json.dumps(block_structure))
         else:
             raise Exception(f"Json file in path {initial_dump_path} doesn't exist")
 
@@ -54,5 +106,8 @@ class AsyncCacheSystemPlugin:
 
 if __name__ == '__main__':
     client = AsyncCacheSystemPlugin()
-    # client.load_initial_data()
-    print('result =', asyncio.run(client.get_actual_content()))
+    client.check()
+    client.set_mapping({'qwe': '123'})
+    time.sleep(1)
+    client.set_mapping({'test': {'qwe': 1234}})
+    client.set_expired_key('test1235', 12345, 1)

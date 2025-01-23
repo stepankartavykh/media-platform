@@ -26,6 +26,4 @@ fi
 
 "$python_executor" ./DataApp/storage_schemas/storage.py
 
-psql postgresql://admin:password@localhost:5500/storage < ./storage/database_dumps/processed_warc_files.sql
-
 echo "Databases and cache storage setup is completed!"

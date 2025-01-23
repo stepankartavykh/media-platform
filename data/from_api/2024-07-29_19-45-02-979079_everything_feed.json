@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 663,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "Computer Company Breaks \u2018Quantum Supremacy\u2019 Record Set by Google",
+            "description": "The latest Quantinuum computer has nearly double the number of qubits as its predecessor and outperforms its competitors 100-fold.",
+            "url": "https://gizmodo.com/computer-company-breaks-quantum-supremacy-record-set-by-google-2000469282",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/10/17e59f93ef9baf3799abc5e7ee257b60-e1720707620278.jpg",
+            "publishedAt": "2024-07-11T17:15:41Z",
+            "content": "The quantum computing company Quantinuum recently announced a quantum computer it says outperformed a landmark Google computer\u2019s result 100-fold.\r\nThe 2019 Google result used a specific test called t\u2026 [+3846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "VB Staff",
+            "title": "AI training costs are growing exponentially \u2014\u00a0 IBM says quantum computing could be a solution",
+            "description": "Experts from IBM, AWS and HP Labs tackle the big question of gen AI: soaring training costs, at VB Transform 2024.",
+            "url": "https://venturebeat.com/ai/ai-training-costs-are-growing-exponentially-ibm-says-quantum-computing-could-be-a-solution/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/07/DSC8383.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-07-25T21:06:36Z",
+            "content": "Earlier this month, the Wall Street Journal reported that a third of nuclear power plants are in talks with tech companies to power their new data centers. Meanwhile, Goldman Sachs projected that AI \u2026 [+7689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Harvard Business Review"
+            },
+            "author": null,
+            "title": "Video Quick Take: Unisys\u2019 Peter Altabef on Empowering Businesses Through AI and Quantum Computing - SPONSOR CONTENT FROM UNISYS",
+            "description": "Sponsor content from Unisys.",
+            "url": "https://hbr.org/sponsored/2024/07/video-quick-take-unisys-peter-altabef-on-empowering-businesses-through-ai-and-quantum-computing",
+            "urlToImage": "https://hbr.org/resources/images/article_assets/2024/04/CRE4973_HBR_VID_VQTP_Unisys_Altabef__Thumb.png",
+            "publishedAt": "2024-07-18T18:50:00Z",
+            "content": "Sponsor content from Unisys.\r\n\"&gt;\r\nSponsor content from Unisys.\r\n\"&gt;\r\nUnisys is a global technology solutions company that powers breakthroughs for the worlds leading organizations. Unisys soluti\u2026 [+5629 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Meetiqm.com"
+            },
+            "author": null,
+            "title": "IQM achieves 99.9% 2-qubit gate fidelity and 1 millisecond coherence time",
+            "description": "Comments",
+            "url": "https://www.meetiqm.com/newsroom/press-releases/iqm-achieves-new-technology-milestones",
+            "urlToImage": null,
+            "publishedAt": "2024-07-15T23:41:59Z",
+            "content": "Espoo, Finland, 15th July 2024 - IQM Quantum Computers, a global leader in building quantum computers, has reached significant milestones in superconducting quantum computing, demonstrating improveme\u2026 [+2893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "JOSH BOAK",
+            "title": "Biden administration provides $504 million to support 12 'tech hubs' nationwide",
+            "description": "The Biden administration said Tuesday that it was providing $504 million in implementation grants for a dozen \u201ctech hubs\" in Ohio, Montana, Nevada and...",
+            "url": "https://www.yahoo.com/news/biden-administration-provides-504-million-090733787.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yBiD9yKAjvFxyCirpH.IfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/cce0f6e4e55ecc8e5ec988f2568407da",
+            "publishedAt": "2024-07-02T09:07:33Z",
+            "content": "WASHINGTON (AP) The Biden administration said Tuesday that it was providing $504 million in implementation grants for a dozen tech hubs\" in Ohio, Montana, Nevada and Florida, among other locations.\r\n\u2026 [+1805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Gaurav Sood",
+            "title": "This Fallout-inspired PC case mod looks rugged, conceals high-end computing power inside",
+            "description": "This Fallout-inspired PC case mod looks rugged, conceals high-end computing power insidePC case mods hold merit both for beefing up the computing power and showing off the computer\u2019s internal hardware. While the ordinary might stop at...",
+            "url": "https://www.yankodesign.com/2024/07/26/this-fallout-inspired-pc-case-mod-looks-rugged-conceals-high-end-computing-power-inside/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2024/07/this-fallout-inspired-pc-case-mod-looks-rugged-conceals-high-end-computing-hardware/Sentinel-Cypher-PC-case-mod-2.jpg",
+            "publishedAt": "2024-07-26T20:45:23Z",
+            "content": "PC case mods hold merit both for beefing up the computing power and showing off the computers internal hardware. While the ordinary might stop at that, a few go beyond the normal to craft case mods t\u2026 [+1680 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "PhotonDelta\u2019s new Silicon Valley hub to merge Dutch and US photonic chip expertise",
+            "description": "PhotonDelta, a photonic chip accelerator in the Netherlands, has opened an office in Silicon Valley \u2014 marking a milestone moment for the Dutch semiconductor sector. The move is part of PhotonDelta\u2019s goal to create a unified photonic chip industry that leverag\u2026",
+            "url": "https://thenextweb.com/news/photondelta-new-silicon-valley-hub-merge-dutch-us-photonic-chip",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F04%2Fai-generated-8334304_1280.jpg&signature=eac371266b18d46aaad64ccc14e10fc3",
+            "publishedAt": "2024-07-10T15:58:41Z",
+            "content": "PhotonDelta, a photonic chip accelerator in the Netherlands, has opened an office in Silicon Valley marking a milestone moment for the Dutch semiconductor sector.\r\nThe move is part of PhotonDeltas go\u2026 [+1646 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "Rhiannon Williams",
+            "title": "The Download: US quantum computing, and AI garbage",
+            "description": "This is today\u2019s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. PsiQuantum plans to build the biggest quantum computing facility in the US Quantum computing firm PsiQuantum is partnerin\u2026",
+            "url": "https://www.technologyreview.com/2024/07/25/1095281/the-download-us-quantum-computing-ai-garbage/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/07/FutureSite_Drone.png?resize=1200,600",
+            "publishedAt": "2024-07-25T12:10:00Z",
+            "content": "But we know you dont always have time to sit down and read everything you want to each daylife just gets in the way. Thats why were launching MIT Technology Review Narrated: a place for you to downlo\u2026 [+1184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Pivotal' quantum computing chip unveiled",
+            "description": "Oxford Ionics claim to have created the first quantum chip of its kind that could be mass-produced.",
+            "url": "https://www.bbc.com/news/articles/cgxq789931go",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6056/live/e30cc9b0-3f7e-11ef-a854-a7321699d697.jpg",
+            "publishedAt": "2024-07-16T05:04:27Z",
+            "content": "Oxford Ionics says its chip is the first of its kind that could be mass-produced\r\nA chip that experts have said could be \"pivotal\" to creating effective quantum computers has been unveiled.\r\nOxford I\u2026 [+2617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "Sarah Ward",
+            "title": "PsiQuantum plans to build the biggest quantum computing facility in the US",
+            "description": "Quantum computing firm PsiQuantum is partnering with universities and a national lab to build the largest US-based quantum computing facility, the company announced today.\u00a0 The firm, which has headquarters in California, says it aims to house a quantum comput\u2026",
+            "url": "https://www.technologyreview.com/2024/07/25/1095287/psiquantum-plans-to-build-the-biggest-quantum-computing-facility-in-the-us/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/07/FutureSite_Drone.png?resize=1200,600",
+            "publishedAt": "2024-07-25T10:04:21Z",
+            "content": "The company has opted not to build small-scale quantum computers (such as IBMs Condor, which uses a little over 1,100 qubits). Instead it is aiming to successfully manufacture and test what it calls \u2026 [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Iqbal Pittalwala",
+            "title": "With spin centers, quantum computing takes a step forward",
+            "description": "Quantum computing, which uses the laws of quantum mechanics, can solve pressing problems in a broad range of fields, from medicine to machine learning, that are too complex for classical computers.",
+            "url": "https://phys.org/news/2024-07-centers-quantum.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/with-spin-centers-quan-1.jpg",
+            "publishedAt": "2024-07-11T14:37:49Z",
+            "content": "Quantum computing, which uses the laws of quantum mechanics, can solve pressing problems in a broad range of fields, from medicine to machine learning, that are too complex for classical computers.\r\n\u2026 [+4896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Sabrina Patsch",
+            "title": "Oxford Ionics entwickelt leistungsst\u00e4rksten Quantenchip",
+            "description": "Ein englisches Start-up pr\u00e4sentiert einen Chip f\u00fcr Quantencomputer, der Qubits pr\u00e4ziser kontrolliert als bisherige Systeme \u2013 und das ohne Fehlerkorrektur.",
+            "url": "https://www.heise.de/news/Oxford-Ionics-entwickelt-leistungsstaerksten-Quantenchip-9802615.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/3/4/4/6/4/Ion_trap-a34cd3345d4cbc03.webp",
+            "publishedAt": "2024-07-16T15:26:00Z",
+            "content": "Das englische Start-up Oxford Ionics hat einen neuen Quantenchip entwickelt, der Qubits mit Rekordpr\u00e4zision kontrollieren soll. Der Chip basiert auf gefangenen Ionen und soll in industriellem Ma\u00dfstab\u2026 [+3143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Popular Mechanics"
+            },
+            "author": "Caroline Delbert",
+            "title": "A New Formula for Pi Is Here. And It\u2019s Pushing Scientific Boundaries.",
+            "description": "New quantum mechanics research is introducing an advanced Pi formula, optimizing complex computations and reshaping scientific precision.",
+            "url": "https://www.popularmechanics.com/science/math/a61613837/new-quantum-pi-formula-revolutionizes-math/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/orA_.8y.MzCr8Muf0lNYpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/popular_mechanics_642/4a9f3656e131284bb2a4add55e1d3ca7",
+            "publishedAt": "2024-07-18T12:45:00Z",
+            "content": "<ul><li>While building a simpler model for particle interactions, scientists made a sleek new pi.\r\n</li><li>Representations of pi help scientists use values close to real life without storing a milli\u2026 [+3756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "A genetic algorithm for phononic crystals",
+            "description": "Researchers tested phononic nanomaterials designed with an automated genetic algorithm that responded to light pulses with controlled vibrations. This work may help in the development of next-generation sensors and computer devices.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240703131750.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-03T17:17:50Z",
+            "content": "Researchers tested phononic nanomaterials designed with an automated genetic algorithm that responded to light pulses with controlled vibrations. This work may help in the development of next-generat\u2026 [+2507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Simon Batt",
+            "title": "Top 5 weekly: the first ever copy of Windows 95, Samsungs new foldable phones, and more",
+            "description": "In this week's news, we saw a quantum processor cooler achieve temperatures colder than space.",
+            "url": "https://www.xda-developers.com/top-5-weekly-first-ever-copy-of-windows-95-samsungs-new-foldable-phones/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/04/xda-news-splash.png",
+            "publishedAt": "2024-07-14T03:07:46Z",
+            "content": "Key Takeaways\r\n<ul><li>\r\n Samsung impressed with Galaxy Z Fold 6 and Flip 6 at Unpacked event.\r\n </li><li>\r\n Nvidia's GeForce RTX 5090 could reach base clock of 2.9 GHz.\r\n </li><li>\r\n Quantum compute\u2026 [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Emilia David",
+            "title": "Nvidia\u2019s coveted H100 GPUs will be available on-demand through Lambda",
+            "description": "Customers of Lambda can reserve access to Nvidia H100 and InfiniBand GPUs \"on-demand,\" and for shorter periods without years long contracts.",
+            "url": "https://venturebeat.com/ai/nvidias-coveted-h100-gpus-will-be-available-on-demand-through-lambda/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_621371321.jpeg?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-07-24T13:00:00Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nGPU cloud company Lambda will officially launch its 1-Click Clusters, w\u2026 [+2632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Noah Lloyd",
+            "title": "Atomically thin transducers could one day enable quantum computing at room temperature",
+            "description": "Quantum computers have to be kept cold to function\u2014very cold. These machines generally run at \"just a few degrees above absolute zero,\" says Yoseob Yoon, assistant professor of mechanical and industrial engineering at Northeastern University. \"It's colder tha\u2026",
+            "url": "https://phys.org/news/2024-07-atomically-thin-transducers-day-enable.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/terahertz-phonon-engin.jpg",
+            "publishedAt": "2024-07-15T14:00:03Z",
+            "content": "Quantum computers have to be kept cold to functionvery cold. These machines generally run at \"just a few degrees above absolute zero,\" says Yoseob Yoon, assistant professor of mechanical and industri\u2026 [+3901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Combining trapped atoms and photonics for new quantum devices",
+            "description": "Quantum information systems offer faster, more powerful computing methods than standard computers to help solve many of the world's toughest problems. Yet fulfilling this ultimate promise will require bigger and more interconnected quantum computers than scie\u2026",
+            "url": "https://phys.org/news/2024-07-combining-atoms-photonics-quantum-devices.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/combining-trapped-atom.jpg",
+            "publishedAt": "2024-07-23T21:37:03Z",
+            "content": "Quantum information systems offer faster, more powerful computing methods than standard computers to help solve many of the world's toughest problems. Yet fulfilling this ultimate promise will requir\u2026 [+4466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "Parametric Matrix Models",
+            "description": "We present a general class of machine learning algorithms called parametric matrix models. In contrast with most existing machine learning models that imitate the biology of neurons, parametric matrix models use matrix equations that emulate the physics of qu\u2026",
+            "url": "https://arxiv.org/abs/2401.11694",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2024-07-16T13:48:34Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Rick Hao",
+            "title": "Cultivating giants: How nurturing university spinouts fuels innovation ecosystems",
+            "description": "Innovation thrives at the intersection of academia and entrepreneurship. Universities serve as breeding grounds for startups poised to disrupt industries with their novel ideas and cutting-edge technologies.\u00a0 Yet, the path from academic breakthroughs to comme\u2026",
+            "url": "https://thenextweb.com/news/nurtuting-university-deep-tech-spinouts-innovation-ecosystem",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2Funiversity-spin-out-ecosystem-e1720701446341.jpg&signature=f85d1b19ba24ba4734891ce0784ad572",
+            "publishedAt": "2024-07-11T12:46:07Z",
+            "content": "Innovation thrives at the intersection of academia and entrepreneurship. Universities serve as breeding grounds for startups poised to disrupt industries with their novel ideas and cutting-edge techn\u2026 [+9023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gil Press, Senior Contributor, \n Gil Press, Senior Contributor\n https://www.forbes.com/sites/gilpress/",
+            "title": "See The Future Data Center At The Israeli Quantum Computing Center",
+            "description": "The Israeli Quantum Computing Center is a first of its kind globally, integrating different types of quantum computers with supercomputers and NVIDIA DGX Quantum.",
+            "url": "https://www.forbes.com/sites/gilpress/2024/07/08/see-the-future-data-center-at-the-israeli-quantum-computing-center/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668af07cca85744f9f9b445b/0x0.jpg?format=jpg&crop=1328,747,x1,y214,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-08T13:00:00Z",
+            "content": "The superconducting quantum computer at the Israeli Quantum Computing Center, Tel-Aviv University\r\nGil Press\r\nThe new Israeli Quantum Computing Center (IQCC) is a first of its kind globally. It integ\u2026 [+4493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Tejasri Gururaj",
+            "title": "Quantum dot photon emitters violate Bell inequality in new study",
+            "description": "A new study in Nature Physics demonstrates a novel method for generating quantum entanglement using a quantum dot, which violates the Bell inequality. This method uses ultra-low power levels and could pave the way for scalable and efficient quantum technologi\u2026",
+            "url": "https://phys.org/news/2024-07-quantum-dot-photon-emitters-violate.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/quantum-dot-photon-emi.jpg",
+            "publishedAt": "2024-07-09T12:00:01Z",
+            "content": "A new study in Nature Physics demonstrates a novel method for generating quantum entanglement using a quantum dot, which violates the Bell inequality. This method uses ultra-low power levels and coul\u2026 [+7290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Pravir Malik, Forbes Councils Member, \n Pravir Malik, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/pravirmalik1/",
+            "title": "Investing In The Quantum Revolution: Key Opportunities For A Computing Renaissance",
+            "description": "By re-evaluating the foundational principles of quantum mechanics through diverse lenses, we open doors to a myriad of developmental pathways.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/07/19/investing-in-the-quantum-revolution-key-opportunities-for-a-computing-renaissance/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669943439641e3eaa4960cb4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-19T11:45:00Z",
+            "content": "Dr. Pravir Malik is the founder and chief technologist of QIQuantum and the Forbes Technology Council group leader for Quantum Computing.\r\ngetty\r\nA wave of creativity is driving people, companies, un\u2026 [+6906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Adam Burke",
+            "title": "A friend's overdose death turns high school students to activists",
+            "description": "The Colorado teens lobbied the school board for permission to carry and administer Narcan on school grounds and worked with a state representative on a bill to give that right to students statewide.",
+            "url": "https://www.npr.org/2024/06/29/g-s1-6105/fentanyl-overdose-deaths-colorado",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+281/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2Fd1%2F8025c81844b4bab56d32f975629e%2F240625-burke-opioids-1.jpg",
+            "publishedAt": "2024-06-29T09:00:00Z",
+            "content": "In early May, just a few weeks before graduation, Zoe Ramsey and Niko Peterson were sitting in an unlit, empty classroom at Animas High School in Durango, Colo., sorting through photos on a laptop.\r\n\u2026 [+7451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "New shapes of photons open doors to advanced optical technologies",
+            "description": "Researchers from the University of Twente in the Netherlands have gained important insights into photons, the elementary particles that make up light. They 'behave' in an amazingly greater variety than electrons surrounding atoms, while also being much easier\u2026",
+            "url": "https://phys.org/news/2024-07-photons-doors-advanced-optical-technologies.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/new-shapes-of-photons.jpg",
+            "publishedAt": "2024-07-08T14:25:03Z",
+            "content": "Researchers from the University of Twente in the Netherlands have gained important insights into photons, the elementary particles that make up light. They 'behave' in an amazingly greater variety th\u2026 [+3257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Paul Terry, Forbes Councils Member, \n Paul Terry, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/paulterry/",
+            "title": "The Emerging Quantum Economy",
+            "description": "The idea that quantum computers will be next isn\u2019t new; it\u2019s a story that has been told for decades. What is new is just how close this \u201cperpetually distant future\u201d is.",
+            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/07/23/the-emerging-quantum-economy/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/659c2b4603282f4fda636a5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-23T12:00:00Z",
+            "content": "Dr. Paul Terry is the CEO of Photonic. He is a seasoned entrepreneur, engineer, and angel investor specializing in disruptive technologies.\r\ngetty\r\nHumankind has historically benefitted from the comm\u2026 [+5546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Peter Bendor-Samuel, Contributor, \n Peter Bendor-Samuel, Contributor\n https://www.forbes.com/sites/peterbendorsamuel/",
+            "title": "When Will Quantum Computers Affect Your Competitive Landscape?",
+            "description": "Without question, quantum computing will revolutionize the capabilities of enterprises across various industries as well as IT service providers. To remain competitive, now is the time for some planning decisions.",
+            "url": "https://www.forbes.com/sites/peterbendorsamuel/2024/07/15/when-will-quantum-computers-affect-your-competitive-landscape/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66951d66975bbc9a863f24c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-15T13:02:03Z",
+            "content": "When Will Quantum Computers Affect Your Competitive Landscape?\r\ngetty\r\nOne of the questions enterprise CIOs ask us at Everest Group is how they can anticipate when quantum computers will impact their\u2026 [+7224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Supriyo Bose",
+            "title": "AT&T (T) Trading Near 52-Week High: Should You Take the Bait?",
+            "description": "AT&T (T) appears to be treading in the middle of the road and investors could be better off if they trade with caution.",
+            "url": "https://finance.yahoo.com/news/t-t-trading-near-52-143500620.html",
+            "urlToImage": "https://media.zenfs.com/en/zacks.com/6c59cb20a90faaff4e2d025cf0e04e97",
+            "publishedAt": "2024-07-11T14:35:00Z",
+            "content": "Buoyed by a holistic growth model, AT&amp;T Inc. T is currently trading in the vicinity of 52-week high. The stock has gained 24% over the past year compared with the industrys growth of 23.1%, outpe\u2026 [+6050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BetaNews"
+            },
+            "author": "Ian Barker",
+            "title": "Facing the security challenge of quantum computing [Q&A]",
+            "description": "Now that we're beginning to overcome the obstacles to creating a commercially viable quantum computer it's important to consider the security threat that these vastly more powerful machines will pose. Not least of these is the threat to encryption which puts \u2026",
+            "url": "https://betanews.com/2024/07/24/facing-the-security-challenge-of-quantum-computing-qa/",
+            "urlToImage": "https://betanews.com/wp-content/uploads/2024/07/Quantum-network-security-50x50.jpg",
+            "publishedAt": "2024-07-24T08:55:55Z",
+            "content": "Now that we're beginning to overcome the obstacles to creating a commercially viable quantum computer it's important to consider the security threat that these vastly more powerful machines will pose\u2026 [+7181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cracked.com"
+            },
+            "author": "Ryan Menezes",
+            "title": "5 Computer Tasks That Failed Because Computers Didn\u2019t Exist Yet",
+            "description": "People were writing computer programs before computers. They just had no way to run them",
+            "url": "https://www.cracked.com/article_42920_5-computer-tasks-that-failed-because-computers-didnt-exist-yet.html",
+            "urlToImage": "https://s3.crackedcdn.com/phpimages/article/0/2/3/1118023.jpg",
+            "publishedAt": "2024-07-22T12:00:00Z",
+            "content": "Right now, there are video games that cant run properly unless you have computer parts worth thousands of dollars. But you will live to see computers become much faster. One day, the free computer th\u2026 [+7963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Denis Mandich, Forbes Councils Member, \n Denis Mandich, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/denismandich/",
+            "title": "How To Protect AI Technology On The Road To Quantum Computing",
+            "description": "The issue of AI cybersecurity is difficult to address, much less fix.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/07/25/how-to-protect-ai-technology-on-the-road-to-quantum-computing/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65526feb3a6e3881ea5e73ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-25T10:30:00Z",
+            "content": "Denis Mandich, CTO of Qrypt, a quantum cybersecurity company, founding member of the Quantum Economic Development Consortium and CQT.\r\ngetty\r\nWith the flood of generative AI (GenAI) content, many peo\u2026 [+6432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Ingrid Fadelli",
+            "title": "Visualizing the boundary modes of the charge density wave in a topological material",
+            "description": "Charge density waves are quantum phenomena occurring in some materials, which involve a static modulation of conduction electrons and the periodic distortion of the lattice. These waves have been observed in numerous condensed matter materials, including high\u2026",
+            "url": "https://phys.org/news/2024-07-visualizing-boundary-modes-density-topological.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/visualizing-the-bounda.jpg",
+            "publishedAt": "2024-07-10T11:30:02Z",
+            "content": "Charge density waves are quantum phenomena occurring in some materials, which involve a static modulation of conduction electrons and the periodic distortion of the lattice. These waves have been obs\u2026 [+8388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hdblog.it"
+            },
+            "author": "HDblog.it",
+            "title": "Eniquantic, nasce la nuova societ\u00e0 Eni per lo sviluppo del quantum computing",
+            "description": "L\u0092iniziativa si avvale anche della potenza di supercalcolo del Green Data Center",
+            "url": "https://www.hdblog.it/business/articoli/n587746/eniquantic-eni-sviluppo-tecnologico/",
+            "urlToImage": "https://hd2.tudocdn.net/969661?w=1920",
+            "publishedAt": "2024-07-16T13:05:00Z",
+            "content": "Eni e ITQuanta hanno annunciato la creazione di Eniquantic, una joint venture ambiziosa che mira a sviluppare una macchina quantistica integrata hardware e software. Questa innovazione sar\u00e0 in grado \u2026 [+1520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investorplace.com",
+            "title": "The 3 Smartest Quantum Computing Stocks to Buy With $5K Right Now",
+            "description": "Quantum computing stocks present a thrilling frontier for investors. The industry\u2019s promise to exponentially accelerate problem-solving capabilities across various sectors, such as cryptography, drug discovery, and optimization problems, is increasingly appea\u2026",
+            "url": "https://biztoc.com/x/b61fbaf68fc405e2",
+            "urlToImage": "https://biztoc.com/cdn/b61fbaf68fc405e2_s.webp",
+            "publishedAt": "2024-07-11T11:02:35Z",
+            "content": "Quantum computing stocks present a thrilling frontier for investors. The industrys promise to exponentially accelerate problem-solving capabilities across various sectors, such as cryptography, drug \u2026 [+138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investorplace.com",
+            "title": "NVDA Stock Analysis: Nvidia\u2019s Quantum Leap Signals a Strong Buy Opportunity",
+            "description": "Nvidia (NASDAQ:NVDA) stands at the edge of technological advancement in AI, which has become vital recently, particularly in the quantum computing market. The company\u2019s recent advancements in quantum annealing were validated through groundbreaking research, w\u2026",
+            "url": "https://biztoc.com/x/fe3c1e7af7e4563c",
+            "urlToImage": "https://biztoc.com/cdn/fe3c1e7af7e4563c_s.webp",
+            "publishedAt": "2024-07-26T10:46:16Z",
+            "content": "Nvidia (NASDAQ:NVDA) stands at the edge of technological advancement in AI, which has become vital recently, particularly in the quantum computing market. The companys recent advancements in quantum \u2026 [+140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Somersaulting spin qubits for universal quantum logic could enhance control in larger arrays",
+            "description": "Researchers at QuTech developed somersaulting spin qubits for universal quantum logic. This achievement may enable efficient control of large semiconductor qubit arrays. The research group published their demonstration of hopping spins in Nature Communication\u2026",
+            "url": "https://phys.org/news/2024-07-somersaulting-qubits-universal-quantum-logic.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/spin-qubits-go-trampol.jpg",
+            "publishedAt": "2024-07-25T18:00:01Z",
+            "content": "Researchers at QuTech developed somersaulting spin qubits for universal quantum logic. This achievement may enable efficient control of large semiconductor qubit arrays. The research group published \u2026 [+4951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hwupgrade.it"
+            },
+            "author": null,
+            "title": "Quantum computing meno complesso? S\u00ec, con lo zampino del grafene",
+            "description": "Il calcolo quantistico non \u00e8 una mera questione di qubit, ma sono tante le parti che devono incastrarsi, come il raffreddamento a bassissime temperature e la \"convivenza\" con l'elettronica di controllo tradizionale.",
+            "url": "https://www.hwupgrade.it/news/scienza-tecnologia/quantum-computing-meno-complesso-si-con-lo-zampino-del-grafene_128675.html",
+            "urlToImage": "https://www.hwupgrade.it/i/n/epfl-quantum-cooling_720.jpg",
+            "publishedAt": "2024-07-08T06:41:01Z",
+            "content": "Un team di ingegneri della Scuola Politecnica Federale di Losanna (EPFL) ha sviluppato un dispositivo che \u00e8 in grado di convertire in modo efficiente il calore in tensione elettrica a temperature inf\u2026 [+4339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Paving the way to extremely fast, compact computer memory",
+            "description": "Researchers have demonstrated that the layered multiferroic material nickel iodide (NiI2) may be the best candidate yet for devices such as magnetic computer memory that are extremely fast and compact. Specifically, they found that NiI2 has greater magnetoele\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240717120924.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-17T16:09:24Z",
+            "content": "For decades, scientists have been studying a group of unusual materials called multiferroics that could be useful for a range of applications including computer memory, chemical sensors and quantum c\u2026 [+4751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Jowi Morales",
+            "title": "2D quantum cooling system reaches temperatures colder than outer space by converting heat into electrical voltage",
+            "description": "A research team at EFPL LANES built used an indium selenide sheet with graphene electrodes to convert heat into electricity and hit temperatures as low as 100mK.",
+            "url": "https://www.tomshardware.com/tech-industry/quantum-computing/2d-quantum-cooling-system-reaches-temperatures-colder-than-outer-space-by-converting-heat-into-electrical-voltage",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SZaLaje6VL8a3aPGcWEu4S-1200-80.jpg",
+            "publishedAt": "2024-07-07T18:18:29Z",
+            "content": "A research team at the\u00a0Swiss Federal Institute of Technology Lausanne (EFPL)\u00a0developed a 2D quantum cooling system that allowed it to reduce temperatures to 100 millikelvins by converting heat into e\u2026 [+3089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Skye Jacobs",
+            "title": "A new quantum computer breaks Google's quantum supremacy record by 100-fold",
+            "description": "A new 56-qubit H2-1 computer has dislodged Google's Sycamore quantum computer from its 'quantum supremacy' record by 100-fold.Read Entire Article",
+            "url": "https://www.techspot.com/news/103802-new-quantum-computer-breaks-google-quantum-supremacy-record.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-13-image-3.jpg",
+            "publishedAt": "2024-07-13T14:31:00Z",
+            "content": "What just happened? In 2019, Google's Sycamore quantum computer achieved a so-called quantum supremacy record by completing a specific task in 200 seconds that would have taken a classical supercompu\u2026 [+3155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Keumars Afifi-Sabet",
+            "title": "New quantum computer smashes 'quantum supremacy' record by a factor of 100 \u2014 and it consumes 30,000 times less power",
+            "description": "The 56-qubit H2-1 computer has broken the previous record in the 'quantum supremacy' benchmark first set by Google in 2019.",
+            "url": "https://www.livescience.com/technology/computing/new-quantum-computer-smashes-quantum-supremacy-record-by-a-factor-of-100-and-it-consumes-30000-times-less-power",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2zgWGRmNZs6aTM4JcUWUSJ-1200-80.jpg",
+            "publishedAt": "2024-07-11T10:36:36Z",
+            "content": "A new quantum computer has broken a world record in \"quantum supremacy,\" topping the performance of benchmarking set by Google's Sycamore machine by 100-fold.\u00a0\r\nUsing the new 56-qubit H2-1 computer, \u2026 [+3949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PC Gamer"
+            },
+            "author": "Nick Evanson",
+            "title": "Multiple governments around the world have secretly agreed to restrict the export of quantum computers",
+            "description": "The move has stumped the scientific community as there's no obvious reason for it.",
+            "url": "https://www.pcgamer.com/hardware/multiple-governments-around-the-world-have-secretly-agreed-to-restrict-the-export-of-quantum-computers/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QADz6rKcfmeHv7t9ngzekF-1200-80.jpg",
+            "publishedAt": "2024-07-08T16:37:23Z",
+            "content": "It seems that \"secret international discussions\" have led to an export ban for quantum computers of a certain level of power, despite scientists around the world being unable to actually explain why.\u2026 [+3176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hwupgrade.it"
+            },
+            "author": null,
+            "title": "Eniquantic: la nuova societ\u00e0 di Eni per lo sviluppo tecnologico del quantum computing",
+            "description": "Eni e ITQuanta hanno dato vita a Eniquantic, joint venture che si occuper\u00e0 di creare una macchina quantistica integrata, hardware e software, in grado di affrontare e risolvere problemi complessi legati al settore energetico pi\u00f9 rapidamente dei computer tradi\u2026",
+            "url": "https://www.hwupgrade.it/news/cpu/eniquantic-la-nuova-societa-di-eni-per-lo-sviluppo-tecnologico-del-quantum-computing_128918.html",
+            "urlToImage": "https://www.hwupgrade.it/i/n/Microsoft_Quantum_criostato_720.jpg",
+            "publishedAt": "2024-07-16T12:01:01Z",
+            "content": "Eni e ITQuanta hanno deciso di unire le rispettive forze e competenze nella joint venture Eniquantic, grazie alla quale vogliono sviluppare un computer quantistico completo\u00a0a supporto della transizio\u2026 [+1989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Jesse Gregoire",
+            "title": "Breakthrough 2D quantum cooling system is colder than space",
+            "description": "\"If you think of a laptop in a cold office, the laptop will still heat up as it operates, causing the temperature of the room to increase as well,\" said Gabriele Pasquale, a PhD student on the LANES (Laboratory of Nanoscale Electronics and Structures at EPFL)\u2026",
+            "url": "https://www.techspot.com/news/103714-breakthrough-2d-quantum-cooling-system-colder-than-space.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-08-image-13.jpg",
+            "publishedAt": "2024-07-08T18:50:00Z",
+            "content": "Forward-looking: A research team at EPFL University in Switzerland has created a 2D quantum computing system that can get colder than outer space. This is a major breakthrough for quantum computing, \u2026 [+2842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Unleashing the potential of high-spin polymers for next-gen optoelectronics and spintronics",
+            "description": "The study of open-shell molecules, particularly those with high-spin ground states, has unveiled significant potential in organic electronics and magnetism. These molecules, characterized by unpaired electrons, exhibit unique properties such as long spin life\u2026",
+            "url": "https://phys.org/news/2024-07-unleashing-potential-high-polymers-gen.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/unleashing-the-potenti.jpg",
+            "publishedAt": "2024-07-03T18:24:15Z",
+            "content": "The study of open-shell molecules, particularly those with high-spin ground states, has unveiled significant potential in organic electronics and magnetism. These molecules, characterized by unpaired\u2026 [+3595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Danielle Roedel",
+            "title": "Atomic 'GPS' elucidates movement during ultrafast material transitions",
+            "description": "Scientists from the U.S. Department of Energy's (DOE) Brookhaven National Laboratory have created the first-ever atomic movies showing how atoms rearrange locally within a quantum material as it transitions from an insulator to a metal. With the help of these\u2026",
+            "url": "https://phys.org/news/2024-07-atomic-gps-elucidates-movement-ultrafast.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/atomic-gps-elucidates.jpg",
+            "publishedAt": "2024-07-26T14:08:23Z",
+            "content": "Scientists from the U.S. Department of Energy's (DOE) Brookhaven National Laboratory have created the first-ever atomic movies showing how atoms rearrange locally within a quantum material as it tran\u2026 [+9203 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "China Makes a World Class Quantum Computing Thermometer",
+            "description": "The Anhui Quantum Computing Engineering Research Center announced that Chinese scientists have successfully developed a high-performance anti-interference ruthenium oxide thermometer. The thermometer developed by QuantumCTek boasts a starting temperature clos\u2026",
+            "url": "https://www.nextbigfuture.com/2024/07/china-makes-a-world-class-quantum-computing-thermometer.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/07/Screen-Shot-2024-07-01-at-2.44.31-PM.jpg",
+            "publishedAt": "2024-07-01T21:49:50Z",
+            "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Steve McDowell, Contributor, \n Steve McDowell, Contributor\n https://www.forbes.com/sites/stevemcdowell/",
+            "title": "AI Drives IBM\u2019s Quarterly Results Amid Economic Challenges",
+            "description": "Much of the strong performance IBM reported for 2Q 2024 is attributable to the transformative impact of artificial intelligence.",
+            "url": "https://www.forbes.com/sites/stevemcdowell/2024/07/24/ai-drives-ibms-quarterly-results-amid-economic-challenges/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65419d359859f729f161b8eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-25T01:02:03Z",
+            "content": "IBM AI\r\nSOPA Images/LightRocket via Getty Images\r\nMuch of the strong financial performance IBM reported for the second quarter of 2024 is attributable to the transformative impact of artificial intel\u2026 [+7040 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Alfonso Maruccia",
+            "title": "PsiQuantum to establish groundbreaking quantum computer facility in Illinois",
+            "description": "PsiQuantum has announced an ambitious plan to develop, build, and manage a \"Quantum Park\" in the state of Illinois. Once completed, the facility will potentially provide the first utility-scale, fault-tolerant quantum computer in the US, offering the country \u2026",
+            "url": "https://www.techspot.com/news/103988-psiquantum-establish-groundbreaking-quantum-computer-facility-illinois.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-26-image-29.jpg",
+            "publishedAt": "2024-07-26T18:55:00Z",
+            "content": "In context: PsiQuantum Corp. was founded in 2016 by a team of professors and researchers working in the field of quantum computing. The company aims to create a general-purpose quantum system, and is\u2026 [+2358 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Quantinuum Trapped Ion Quantum Computer Compute World Record 100 Times Faster Than Google Sycamore",
+            "description": "Quantum computing researchers are exploring whether quantum computational advantage might be obtainable without quantum error correction. The larger one can make a quantum computer while continuing to push down error rates the more likely it is that we will f\u2026",
+            "url": "https://www.nextbigfuture.com/2024/07/quantinuum-trapped-ion-quantum-computer-compute-world-record-100-times-faster-than-google-sycamore.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/07/Screen-Shot-2024-07-11-at-11.06.56-PM.jpg",
+            "publishedAt": "2024-07-12T06:31:38Z",
+            "content": "Quantum computing researchers are exploring whether quantum computational advantage might be obtainable without quantum error correction. The larger one can make a quantum computer while continuing t\u2026 [+16621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Miranda Davis and Isabella Ward",
+            "title": "Illinois Governor Pritzker Secures $1 Billion Quantum Tech Win Before Convention",
+            "description": "(Bloomberg) -- Illinois Governor J.B. Pritzker has scored an investment of more than $1 billion in quantum computing, a major coup before he welcomes fellow ...",
+            "url": "https://finance.yahoo.com/news/illinois-governor-pritzker-secures-1-100000499.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J0j_aOTeL1VCWMOudLNA1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/e11183bdeecf9f96fe78615d7b9a568e",
+            "publishedAt": "2024-07-25T10:00:00Z",
+            "content": "(Bloomberg) -- Illinois Governor J.B. Pritzker has scored an investment of more than $1 billion in quantum computing, a major coup before he welcomes fellow Democrats to the partys convention in Chic\u2026 [+3571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Anand Kashyap, Forbes Councils Member, \n Anand Kashyap, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/anandkashyap/",
+            "title": "The State Of Cybersecurity (Part Four): Don\u2019t Procrastinate, Remediate",
+            "description": "The goal of remediation is to efficiently fill gaps in an organization's security posture to meet its data security goals.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/07/03/the-state-of-cybersecurity-part-four-dont-procrastinate-remediate/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f2d686d44b66e05156c5e3c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-03T13:15:00Z",
+            "content": "Anand Kashyap is CEO and cofounder of Fortanix, a global leader in data security and a pioneer of confidential computing.\r\ngetty\r\nAs we barrel toward the AI and post-quantum computing era, tech profe\u2026 [+6455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scottaaronson.blog"
+            },
+            "author": "Scott",
+            "title": "Quantum developments!",
+            "description": "Perhaps like the poor current President of the United States, I can feel myself fading, my memory and verbal facility and attention to detail failing me, even while there\u2019s so much left to do to battle the nonsense in the world. I started my career on an acce\u2026",
+            "url": "https://scottaaronson.blog/?p=8109",
+            "urlToImage": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif",
+            "publishedAt": "2024-07-12T02:12:39Z",
+            "content": "Perhaps like the poor current President of the United States, I can feel myself fading, my memory and verbal facility and attention to detail failing me, even while there\u2019s so much left to do to batt\u2026 [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Finovate.com"
+            },
+            "author": "David Penn",
+            "title": "Finovate Global Singapore: AI, Quantum Computing, and Sustainable SMEs",
+            "description": "This week\u2019s edition of Finovate Global highlights recent fintech news from Singapore. Monetary Authority of Singapore announced plans to invest $74.36 million (100 million Singaporean dollars) to fund quantum computing and AI projects. The funding is part of \u2026",
+            "url": "https://finovate.com/finovate-global-singapore-ai-quantum-computing-and-sustainable-smes/",
+            "urlToImage": "https://i0.wp.com/finovate.com/wp-content/uploads/2024/07/pexels-elina-sazonova-1907047.jpg?fit=1280%2C853&ssl=1",
+            "publishedAt": "2024-07-26T20:01:00Z",
+            "content": "This week\u2019s edition of Finovate Global highlights recent fintech news from Singapore.\r\nMonetary Authority of Singapore announced plans to invest $74.36 million (100 million Singaporean dollars) to fu\u2026 [+7994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Google's greenhouse gas emissions up 48% in 5 years",
+            "description": "The tech giant says it will be difficult to meet its net zero target due to AI using so much energy.",
+            "url": "https://www.bbc.com/news/articles/c51yvz51k2xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc94/live/82f882d0-390c-11ef-bed9-658dd5847105.jpg",
+            "publishedAt": "2024-07-03T08:48:42Z",
+            "content": "Google's greenhouse gas emissions in 2023 were 48% higher than in 2019, according to its latest environmental report.\r\nThe tech giant puts it down to the increasing amounts of energy needed by its da\u2026 [+1889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Industry News",
+            "title": "AppViewX PQC Test Center enables PQC readiness and crypto agility",
+            "description": "AppViewX announced the AppViewX PQC Test Center, which allows organizations to assess their PQC readiness and take steps to achieve PQC resiliency. This free online service enables users to generate and test Quantum-Safe certificates today. Quantum computing \u2026",
+            "url": "https://www.helpnetsecurity.com/2024/07/18/appviewx-pqc-test-center/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/05/10093706/hns-2023-large_logo.jpg",
+            "publishedAt": "2024-07-18T08:00:38Z",
+            "content": "AppViewX announced the AppViewX PQC Test Center, which allows organizations to assess their PQC readiness and take steps to achieve PQC resiliency. This free online service enables users to generate \u2026 [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Henrikwarne.com"
+            },
+            "author": null,
+            "title": "John von Neumann: The Man from the Future",
+            "description": "Before I read The Man from the Future by Ananyo Bhattacharya, I only knew about John von Neumann in two contexts: that computers use the von Neumann architecture, and that he appeared in a story ab\u2026",
+            "url": "https://henrikwarne.com/2024/07/07/john-von-neumann-the-man-from-the-future/",
+            "urlToImage": "https://henrikwarne.com/wp-content/uploads/2024/05/fifth-postulate.jpg",
+            "publishedAt": "2024-07-07T11:34:27Z",
+            "content": "Before I read The Man from the Future by Ananyo Bhattacharya, I only knew about John von Neumann in two contexts: that computers use the von Neumann architecture, and that he appeared in a story abou\u2026 [+29229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Mike O'Sullivan, Senior Contributor, \n Mike O'Sullivan, Senior Contributor\n https://www.forbes.com/sites/mikeosullivan/",
+            "title": "What Technologies Will Shape The World Of The Future ?",
+            "description": "There is a consensus that AI \u2013 at least as far as generative AI is concerned \u2013 is in a bubble. Notwithstanding this, the next \u2018phase\u2019 in AI is beginning.",
+            "url": "https://www.forbes.com/sites/mikeosullivan/2024/07/24/what-technologies-will-shape-the-world-of-the-future-/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669dfd36f0ad143a51af396e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-24T12:32:00Z",
+            "content": "TOPSHOT - This photo taken on May 10, 2023 shows the latest version of a robot called Sophia being ... [+] tested at Hanson Robotics, a robotics and artificial intelligence company which creates huma\u2026 [+6814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "Yuexun Huang, Francisco Salces\u2013Carcoba, Rana X. Adhikari, Amir H. Safavi-Naeini, and Liang Jiang",
+            "title": "Vacuum Beam Guide for Large Scale Quantum Networks",
+            "description": "The vacuum beam guide (VBG) presents a completely different solution for quantum channels to overcome the limitations of existing fiber and satellite technologies for long-distance quantum communication. With an array of aligned lenses spaced kilometers apart\u2026",
+            "url": "https://link.aps.org/doi/10.1103/PhysRevLett.133.020801",
+            "urlToImage": null,
+            "publishedAt": "2024-07-09T10:00:00Z",
+            "content": "Figure 2\r\nDifferent effective attenuation rates as a function of wavelength under various configurations. (a)\u00a0Attenuation rate from the lenses, \r\nlens\r\n, with lens radius R\r\n=\r\n8\r\n, 12, 20\u00a0cm. For a \u2026 [+604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Owen Hughes",
+            "title": "Computer inspired by Japanese art of paper-cutting has no electronics and stores data in tiny cubes",
+            "description": "The new mechanical computer uses 64 physical cubes to represent binary bits and is inspired by kirigami \u2014 the Japanese art of paper-folding and cutting.",
+            "url": "https://www.livescience.com/technology/computing/computer-inspired-by-japanese-art-of-paper-cutting-has-no-electronics-and-stores-data-in-tiny-cubes",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cnqfc5vbXEjBxyaFaY9gn4-1200-80.jpg",
+            "publishedAt": "2024-07-04T10:10:03Z",
+            "content": "Researchers have built a mechanical computer inspired by kirigami, the Japanese art of paper-folding and cutting.\r\nThe proof-of-concept computer, which includes no electronic components, has 64 inter\u2026 [+3426 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gregory Webb, Forbes Councils Member, \n Gregory Webb, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/gregorywebb1/",
+            "title": "Having An Identity Crisis? Best Practices For Mitigating Non-Human Identity Risk",
+            "description": "To reign in the complexity of non-human identity management, consider this three-step process.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/07/24/having-an-identity-crisis-best-practices-for-mitigating-non-human-identity-risk/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669fe6fbbb10e13b907752d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-24T11:30:00Z",
+            "content": "Gregory Webb is the CEO of AppViewX, a cybersecurity and IT infrastructure automation platform enabling digital transformation.\r\ngetty\r\nWith organizations struggling to implement an identity governan\u2026 [+6386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Expert Panel\u00ae, Forbes Councils Member, \n Expert Panel\u00ae, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/expertpanel/",
+            "title": "Skills And Specialties Every Budding Tech Professional Should Master",
+            "description": "Technology changes constantly and it\u2019s important to keep up, but there are also traits and abilities that will always help you get ahead in a competitive job market.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/07/19/skills-and-specialties-every-budding-tech-professional-should-master/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/60086e9aa5139ec91e4f887b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-19T17:15:09Z",
+            "content": "getty\r\nWith technology playing an ever-growing part in how businesses manage internal operations, serve customers, market their products and more, choosing a career in technology is a wise investment\u2026 [+9109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "JOSH BOAK",
+            "title": "Biden administration provides $504 million to support 12 \u2018tech hubs\u2019 nationwide",
+            "description": "The money would support the development of quantum computing, biomanufacturing, lithium batteries, computer chips, personal medicine, and other technologies.",
+            "url": "https://www.bostonglobe.com/2024/07/02/business/biden-administration-provides-504-million-support-12-tech-hubs-nationwide/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Uwa5cHDrA04SA3K_27lWOH-q2Zw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/BB2JFXXIZKSWTPIC4BC74L26R4.jpg",
+            "publishedAt": "2024-07-02T09:14:49Z",
+            "content": "WASHINGTON (AP) The Biden administration said Tuesday that it was providing $504 million in implementation grants for a dozen tech hubs in Ohio, Montana, Nevada and Florida, among other locations.\r\nT\u2026 [+1801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Vincent Berk, Forbes Councils Member, \n Vincent Berk, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/vincentberk/",
+            "title": "It's Time To Treat Shaky Encryption As A Security Vulnerability",
+            "description": "Creating an inventory of cryptography can be done in a variety of different approaches.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/07/10/its-time-to-treat-shaky-encryption-as-a-security-vulnerability/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668d60befe61c6c3c599c1ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-10T10:30:00Z",
+            "content": "Vince Berk is the Chief Strategist at Quantum Xchange, a post-quantum crypto-agility provider. Ph.D. in AI/ML, founder of FlowTraq.\r\ngetty\r\nIts still anyones guess when quantum computing will go full\u2026 [+6459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Businessinsider.de"
+            },
+            "author": "Nina Anika Klotz",
+            "title": "Next Big Thing (immer noch): F\u00fcnf krasse Quanten-Startups",
+            "description": "Quantencomputer stehen kurz vor dem Durchbruch, sagt diese Investorin. Genau jetzt sei der Zeitpunkt, in Quanten-Startups zu investieren.",
+            "url": "https://www.businessinsider.de/gruenderszene/technologie/fuenf-krasse-quanten-startups/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/11/Quanten-Computing.jpg?ver=1719907342",
+            "publishedAt": "2024-07-02T09:09:08Z",
+            "content": "Chiara Decaroli ist Investorin bei Redstone und arbeitet f\u00fcr einen Fonds, dessen 52 Millionen Euro ausschlie\u00dflich in Quanten-Startups gehen sollen. Diese Startups hat sie auf der Watchlist.Riesengro\u00df\u2026 [+13690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Michael T. Nietzel, Senior Contributor, \n Michael T. Nietzel, Senior Contributor\n https://www.forbes.com/sites/michaeltnietzel/",
+            "title": "Colleges Are Featured In 12 Tech Hubs Awarded $504 Million From Feds",
+            "description": "The Biden administration has awarded $504 million to fund 12 new technology hubs across the country. The hubs focus on tech training, research and commercialization.",
+            "url": "https://www.forbes.com/sites/michaeltnietzel/2024/07/02/colleges-are-featured-in-12-tech-hubs-awarded-504-million-from-feds/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6683efb757f8a415f19097fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-02T12:38:32Z",
+            "content": "Tulsa, Oklahoma is one of the 12 winners of new regional Tech Hub grants totaling $504 million. \r\ngetty\r\nThe Biden administration is awarding $504 million in grants to fund 12 technology hubs across \u2026 [+3345 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitimes"
+            },
+            "author": "Jerry Chen",
+            "title": "Quantum computing: a potential energy-efficient solution for genAI?",
+            "description": "The rise of genAI technology has significantly increased the power consumption of data centers and traditional GPU-based computing systems.",
+            "url": "https://www.digitimes.com/news/a20240702PD214/quantum-computing-technology-quantum-data-data-center.html",
+            "urlToImage": "https://img.digitimes.com/newsshow/20240702pd214_files/1_b.jpg",
+            "publishedAt": "2024-07-03T03:28:36Z",
+            "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function\u2026 [+307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Javacodegeeks.com"
+            },
+            "author": "Eleftheria Drosopoulou",
+            "title": "Cybersecurity in a Changing World",
+            "description": "The digital age has brought us incredible advancements, but it has also introduced new and ever-evolving threats. Our growing reliance on technology creates a vast attack surface for malicious actors, making cybersecurity a constant and critical concern. This\u2026",
+            "url": "https://www.javacodegeeks.com/2024/07/cybersecurity-in-a-changing-world.html",
+            "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/software-development-2-logo.jpg",
+            "publishedAt": "2024-07-17T05:14:00Z",
+            "content": "The digital age has brought us incredible advancements, but it has also introduced new and ever-evolving threats. Our growing reliance on technology creates a vast attack surface for malicious actors\u2026 [+5735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Oezratty.net"
+            },
+            "author": "Olivier Ezratty",
+            "title": "Back from Lindau",
+            "description": "Between June 30st and Wednesday 3rd July, 2024, I participated to the Lindau Nobel Laureate Meetings, in the south of Germany, at the Lindau island in lake Constance. I was invited there to participate to a panel discussion with two laureates and others on th\u2026",
+            "url": "https://www.oezratty.net/wordpress/2024/back-from-lindau/",
+            "urlToImage": "https://www.oezratty.net/wordpress/wp-content/David-Gross-1024x576.jpg",
+            "publishedAt": "2024-07-08T05:54:23Z",
+            "content": "Between June 30st and Wednesday 3rd July, 2024, I participated to the Lindau Nobel Laureate Meetings, in the south of Germany, at the Lindau island in lake Constance. I was invited there to participa\u2026 [+14125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitimes"
+            },
+            "author": "DIGITIMES",
+            "title": "Xiphera reveals quantum security features in cryptographic solutions",
+            "description": "As quantum computing advances, it poses a serious threat to current encryption standards. Finnish cybersecurity startup Xiphera is working to future-proof critical infrastructure against this emerging risk.",
+            "url": "https://www.digitimes.com/news/a20240529VL202/quantum-computing-security-infrastructure-startup-cybersecurity.html",
+            "urlToImage": "https://img.digitimes.com/newsshow/20240529vl202_files/4_r.jpg",
+            "publishedAt": "2024-07-01T08:29:50Z",
+            "content": "As quantum computing advances, it poses a serious threat to current encryption standards. Finnish cybersecurity startup Xiphera is working to future-proof critical infrastructure against this emergin\u2026 [+2838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mckinsey.com"
+            },
+            "author": null,
+            "title": "Gen AI and beyond: Where else to focus now",
+            "description": "Yes, gen AI can be dazzling. But to deliver value, leaders will have to look beyond center stage.",
+            "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/gen-ai-and-beyond-where-else-to-focus-now",
+            "urlToImage": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/gen%20ai%20and%20beyond%20where%20else%20to%20focus%20now/dont%20let%20gen%20ai%20outshine%20other%20business%20imperatives-1596100353-thumb-1536x1536.jpg",
+            "publishedAt": "2024-07-12T00:00:00Z",
+            "content": "Gen AI has rightly seized leaders attention. But is it also eclipsing lower-profile digital imperatives? On this episode of The McKinsey Podcast, McKinsey senior partners Rodney Zemmel\u00a0and Kate Smaje\u2026 [+20099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Help Net Security",
+            "title": "Preparing for Q-Day as NIST nears approval of PQC standards",
+            "description": "Q-Day\u2014the day when a cryptographically relevant quantum computer can break most forms of modern encryption\u2014is fast approaching, leaving the complex systems our societies rely on vulnerable to a new wave of cyberattacks. While estimates just a few years old su\u2026",
+            "url": "https://www.helpnetsecurity.com/2024/07/01/pqc-standardization/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/11/29114607/quantum_computing-1400.jpg",
+            "publishedAt": "2024-07-01T03:30:05Z",
+            "content": "Q-Daythe day when a cryptographically relevant quantum computer can break most forms of modern encryptionis fast approaching, leaving the complex systems our societies rely on vulnerable to a new wav\u2026 [+5901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mckinsey.com"
+            },
+            "author": null,
+            "title": "McKinsey technology trends outlook 2024",
+            "description": "Which technology trends matter most for companies in 2024? New analysis by the McKinsey Technology Council highlights the adoption, development, and industry effects of advanced technologies.",
+            "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech",
+            "urlToImage": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202024/technology-trends-outlook-2024-1463331528-thumb-1536x1536.jpg",
+            "publishedAt": "2024-07-16T00:00:00Z",
+            "content": "Despite challenging overall market conditions in 2023, continuing investments in frontier technologies promise substantial future growth in enterprise adoption. Generative AI (gen AI) has been a stan\u2026 [+12563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "\u00c1lvaro \u00c1lvarez-Dom\u00ednguez, Luis J. Garay, Eduardo Mart\u00edn-Mart\u00ednez, and Jos\u00e9 Polo-G\u00f3mez",
+            "title": "No Black Holes from Light",
+            "description": "Author(s): \u00c1lvaro \u00c1lvarez-Dom\u00ednguez, Luis J. Garay, Eduardo Mart\u00edn-Mart\u00ednez, and Jos\u00e9 Polo-G\u00f3mezThe formation of a black hole from light alone is permitted by general relativity, but a new study says quantum physics rules it out.[Phys. Rev. Lett. 133, 041401]\u2026",
+            "url": "https://link.aps.org/doi/10.1103/PhysRevLett.133.041401",
+            "urlToImage": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.133.041401.png",
+            "publishedAt": "2024-07-26T10:00:00Z",
+            "content": "\u00c1lvaro \u00c1lvarez-Dom\u00ednguez1,*, Luis J. Garay1,, Eduardo Mart\u00edn-Mart\u00ednez2,3,4,, and Jos\u00e9 Polo-G\u00f3mez2,3,4,\u00a7\r\n<ul><li>1Departamento de F\u00edsica Te\u00f3rica and IPARCOS, Universidad Complutense de Madrid, Plaza \u2026 [+532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jason Kirsch, CFP(R), Contributor, \n Jason Kirsch, CFP(R), Contributor\n https://www.forbes.com/sites/investor-hub/people/Jason-Kirsch/",
+            "title": "5 Top High-Yield Dow Jones Stocks To Buy Now",
+            "description": "Discover the top high-yield Dow Jones stocks to buy now. Maximize your returns with these reliable, dividend-paying investments. Learn more about these stocks now.",
+            "url": "https://www.forbes.com/sites/investor-hub/article/5-top-high-yield-dow-jones-stocks-buy-now/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66969919ae26c5f1027be3f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-16T16:21:01Z",
+            "content": "getty\r\nThe Dow Jones Industrial Average (DJIA) is made up of 30 of the most established and financially robust companies. Investors seeking stocks with stable dividend yields often turn to the DJIA. \u2026 [+18819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vmblog.com"
+            },
+            "author": "David Marshall",
+            "title": "How to prepare and strengthen defenses against cyberattacks as quantum computing looms",
+            "description": "Digital certificates are cryptographic tools that form the bedrock of secure communications, ensuring the encryption of data and that only trusted devices and users can connect to the network.",
+            "url": "https://vmblog.com:443/archive/2024/07/23/how-to-prepare-and-strengthen-defenses-against-cyberattacks-as-quantum-computing-looms.aspx",
+            "urlToImage": null,
+            "publishedAt": "2024-07-23T12:33:00Z",
+            "content": "By Srinivas\r\nBhattiprolu, Head of Pre-Sales and Advanced Consulting Services at Nokia\r\nDigital\r\ncertificates are cryptographic tools that form the bedrock of secure communications,\r\nensuring the encr\u2026 [+7327 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computationalcomplexity.org"
+            },
+            "author": "Lance Fortnow",
+            "title": "The Story of Shor's Algorithm",
+            "description": "The quantum factoring algorithm of Peter Shor ( FOCS  1994, SIAM Review \u00a01999) turns thirty this year. Before his algorithm, quantum computi...",
+            "url": "https://blog.computationalcomplexity.org/2024/07/the-story-of-shors-algorithm.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26KOMyvXsFHWmkkQDqdYyo_phnQvygcxMObQ7-UeSuq1XuBrf0EhFoRBw8oDn11SL4cPDz1TtPLSFZzwL5JvTvA7hd8Xl9UGrgGg1Ht5G0m7lg1CwjKzoz6-Z0dtpqe8ChElzr2O3fJOIO-jLQ25cY-MiRvtKKiujgXsiKSingTrG6_N6aZ0V/w1200-h630-p-k-no-nu/pic3.jpg",
+            "publishedAt": "2024-07-18T13:39:00Z",
+            "content": "The quantum factoring algorithm of Peter Shor (FOCS 1994, SIAM Review\u00a01999) turns thirty this year. Before his algorithm, quantum computing lacked the killer app, something practical that quantum cou\u2026 [+2785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Kishalaya Kundu",
+            "title": "AMD claims EPYC Genoa is twice as fast as Nvidia's Grace Superchip, Team Green counters with own benchmarks",
+            "description": "According to AMD, its EPYC Milan CPUs already offer power-packed performance for data centers, but its 4th-gen EPYC Genoa and Bergamo platforms up the ante beyond the reach of the competition. To prove its point, the company showcased a series of benchmarks \"\u2026",
+            "url": "https://www.techspot.com/news/103955-amd-claims-epyc-genoa-twice-fast-nvidia-grace.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-24-image-16.jpg",
+            "publishedAt": "2024-07-24T16:41:00Z",
+            "content": "What just happened? Nvidia is the undisputed champion in the AI space with its GPU-based accelerators. However, AMD is now pushing back, claiming it's the new leader in the data center segment with i\u2026 [+2026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Naren Narendran, Forbes Councils Member, \n Naren Narendran, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/narennarendran/",
+            "title": "The Role Of Vectors In Promoting AI Innovation",
+            "description": "Now is the time to make sure that your data infrastructure can handle the speed, scale and performance necessary to succeed in this new world.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/07/02/the-role-of-vectors-in-promoting-ai-innovation/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ba75d12350db37a9ab9697/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-02T10:00:00Z",
+            "content": "Naren Narendran is Aerospikes Chief Scientist. He has previously worked at Bell Labs, Google and Amazon.\r\ngetty\r\nIn an NBC News story about the reality gap between businesses talking about artificial\u2026 [+4622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computationalcomplexity.org"
+            },
+            "author": "gasarch",
+            "title": "The Term Quantum Being Misused ... Again",
+            "description": "In a post from 2015 I noted that the word quantum  is often misused (see here ). Have things gotten better since then? I think you know the ...",
+            "url": "https://blog.computationalcomplexity.org/2024/07/the-term-quantum-being-misused-again.html",
+            "urlToImage": null,
+            "publishedAt": "2024-07-14T19:09:00Z",
+            "content": "In a post from 2015 I noted that the word quantum is often misused (see here). Have things gotten better since then? I think you know the answer. But two uses of the word quantum caught my attention\r\u2026 [+1811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Pete Wilkins, Contributor, \n Pete Wilkins, Contributor\n https://www.forbes.com/sites/peterandrewwilkins/",
+            "title": "Discover The Midwest\u2019s AI Powerhouse: The University Of Illinois",
+            "description": "The University of Illinois is a driving force in the global AI landscape, significantly impacting its trajectory.",
+            "url": "https://www.forbes.com/sites/peterandrewwilkins/2024/07/11/discover-the-midwests-ai-powerhouse-the-university-of-illinois/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668f3757a61322c757b224cd/0x0.jpg?format=jpg&crop=1852,1042,x0,y94,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-11T11:00:00Z",
+            "content": "The University of Illinois has established itself as a global leader in AI\r\nUniversity of Illinois\r\nIn the heart of Illinois, a revolution is underway. The University of Illinois at Urbana-Champaign \u2026 [+9139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "Poetri Sonya Tarabunga, Emanuele Tirrito, Mari Carmen Ba\u00f1uls, and Marcello Dalmonte",
+            "title": "Nonstabilizerness via Matrix Product States in the Pauli Basis",
+            "description": "Nonstabilizerness, also known as ``magic,'' stands as a crucial resource for achieving a potential advantage in quantum computing. Its connection to many-body physical phenomena is poorly understood at present, mostly due to a lack of practical methods to com\u2026",
+            "url": "https://link.aps.org/doi/10.1103/PhysRevLett.133.010601",
+            "urlToImage": null,
+            "publishedAt": "2024-07-01T10:00:00Z",
+            "content": "Nonstabilizerness, also known as magic, stands as a crucial resource for achieving a potential advantage in quantum computing. Its connection to many-body physical phenomena is poorly understood at p\u2026 [+943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Proofnews.org"
+            },
+            "author": "Annie Gilbertson",
+            "title": "Apple, Nvidia, Anthropic Used Swiped YouTube Videos to Train AI",
+            "description": "Creators claim their videos were used without their knowledge",
+            "url": "https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/",
+            "urlToImage": "https://www.proofnews.org/content/images/size/w1200/2024/07/AI_YT-Thumbnail-1.png",
+            "publishedAt": "2024-07-17T17:06:30Z",
+            "content": "AI companies are generally secretive about their sources of training data, but an investigation by Proof News found some of the wealthiest AI companies in the world have used material from\u00a0 thousands\u2026 [+13694 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "Ulrich Warring",
+            "title": "Exploring Quantum Mpemba Effects",
+            "description": "Author(s): Ulrich WarringIn the Mpemba effect, a warm liquid freezes faster than a cold one. Three studies investigate quantum versions of this effect, challenging our understanding of quantum thermodynamics.[Physics 17, 105] Published Mon Jul 01, 2024",
+            "url": "https://physics.aps.org/articles/v17/105",
+            "urlToImage": "https://physics.aps.org/assets/d49f6bfb-f44d-41e4-a23d-99b81d90cae1/e105_2_thumb.png",
+            "publishedAt": "2024-07-01T10:00:00Z",
+            "content": "Figure 1: (Top left) Under specific conditions, hot water (red curve) can freeze faster than cold water (blue curve) when interacting with an external environment. This classical phenomenon is known \u2026 [+10285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "MAS posts net profit of S$3.8 billion in part due to strong investment gains",
+            "description": "MAS also announced that it would commit an additional S$100 million\u00a0to support financial institutions in building capabilities in quantum and AI technologies.",
+            "url": "https://www.channelnewsasia.com/singapore/mas-annual-report-net-profit-economy-gdp-inflation-4487141",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--iGxeeP8A--/c_crop,h_756,w_1345,x_1,y_124/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/05/sya_1763.jpg?itok=FgKRNhV2",
+            "publishedAt": "2024-07-18T05:24:12Z",
+            "content": "SINGAPORE: The Monetary Authority of Singapore (MAS) recorded a net profit of S$3.8 billion (US$2.83 billion) in the financial year that ended on Mar 31, a reversal from the record S$30.8 billion los\u2026 [+3107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "Marric Stephens",
+            "title": "Iterative Process Builds Near-Perfect Atom Array",
+            "description": "Author(s): Marric StephensResearchers show that atoms that escape from an atom array can be replaced on the fly\u2014an important step toward operating a large-scale neutral-atom quantum computer.[Physics 17, s93] Published Thu Jul 25, 2024",
+            "url": "https://physics.aps.org/articles/v17/s93",
+            "urlToImage": "https://physics.aps.org/assets/3e39b784-f243-4b8a-8ca0-f49c4a06bc5b/e93_1_thumb.png",
+            "publishedAt": "2024-07-25T10:00:00Z",
+            "content": "Building and operating a quantum computer is especially hard when its qubits\u2014the quantum computer\u2019s fundamental building blocks\u2014won\u2019t stay in the device. In a neutral-atom quantum computer, for examp\u2026 [+2549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Alfonso Maruccia",
+            "title": "Transhumanist author predicts artificial super-intelligence, immortality, and the Singularity by 2045",
+            "description": "Raymond Kurzweil is a well-known computer scientist, author, and artificial intelligence enthusiast. Over the years, he has promoted radical concepts such as transhumanism and technological singularity, where humanity and advanced technology merge to create a\u2026",
+            "url": "https://www.techspot.com/news/103740-transhumanist-author-predicts-artificial-super-intelligence-immortality-singularity.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-09-image-19.jpg",
+            "publishedAt": "2024-07-09T17:29:00Z",
+            "content": "Dystopian Kurzweil: As Big Tech continues frantically pushing AI development and funding, many users have become concerned about the outcome and dangers of the latest AI advancements. However, one ma\u2026 [+3472 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Victor Zyamzin",
+            "title": "Ironic paradox: why cybersecurity is a constant battle",
+            "description": "The paradox in cybersecurity: the more organizations strengthen their defenses against cyber threats, the more sophisticated attacks are launched by malicious actors.",
+            "url": "https://www.techradar.com/pro/ironic-paradox-why-cybersecurity-is-a-constant-battle",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YbizeHRMkF5QLe6eeYypqc-1200-80.jpg",
+            "publishedAt": "2024-07-26T09:08:28Z",
+            "content": "Cybersecurity is undoubtedly one of the most pressing topics on the business agenda. The number of malicious attacks is constantly growing, driven by the digitalization of operations. According to th\u2026 [+6380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Construction-physics.com"
+            },
+            "author": "Brian Potter",
+            "title": "What Would It Take to Recreate Bell Labs?",
+            "description": "For most of the 20th century, AT&T was almost entirely responsible for building and operating America\u2019s telephone infrastructure. It manufactured the phones and electrical equipment, laid hundreds of millions of miles of wire across the country, and built and\u2026",
+            "url": "https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c7ee937-36ec-45b6-9100-da60a38984ed_1600x960.jpeg",
+            "publishedAt": "2024-07-18T19:28:21Z",
+            "content": "For most of the 20th century, AT&amp;T was almost entirely responsible for building and operating Americas telephone infrastructure. It manufactured the phones and electrical equipment, laid hundreds\u2026 [+40657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techpowerup.com"
+            },
+            "author": "Nomad76",
+            "title": "(PR) Imec Develops Ultra-Low Noise Si MOS Quantum Dots Using 300mm CMOS Technology",
+            "description": "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today announced the demonstration of high quality 300 mm-Si-based quantum dot spin qubit processing with devices resulting in a statistically relevant, average char\u2026",
+            "url": "https://www.techpowerup.com/324959/imec-develops-ultra-low-noise-si-mos-quantum-dots-using-300mm-cmos-technology",
+            "urlToImage": "https://www.techpowerup.com/img/XiIdi1FXJFOMItxs.jpg",
+            "publishedAt": "2024-07-26T16:41:45Z",
+            "content": "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today announced the demonstration of high quality 300 mm-Si-based quantum dot spin qubit processing with\u2026 [+4189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ITPro Today"
+            },
+            "author": "ITPro Today Staff",
+            "title": "Top 10 Stories About Compute Engines, Linux of 2024 So Far",
+            "description": "Our most-read articles of 2024 so far explore virtual machine management, edge computing, Linux security, and more.",
+            "url": "https://www.itprotoday.com/linux-os/top-10-stories-about-compute-engines-linux-of-2024-so-far",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt07f68461ccd75245/bltb269b83977ca0d60/66968e4df09122cff3597aeb/image-1716x965_(52).jpg?disable=upscale&width=1200&height=630&fit=crop",
+            "publishedAt": "2024-07-18T06:48:03Z",
+            "content": "During the first half of 2024, ITPro Today readers engaged with a variety of topics, from edge computing to Linux security to VMWare migration. Heres a midyear rundown of our most popular articles ab\u2026 [+2481 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "JOSH BOAK",
+            "title": "Biden administration provides $504 million to support 12 'tech hubs' nationwide",
+            "description": "The Biden administration said Tuesday that it was providing $504 million in implementation grants for a dozen \u201ctech hubs\" in Ohio, Montana, Nevada and...",
+            "url": "https://finance.yahoo.com/news/biden-administration-provides-504-million-090733646.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/m15YBHgQMt_DW5WUmNB9hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/ccaffd73698894dc3f981512cfe9257b",
+            "publishedAt": "2024-07-02T09:07:33Z",
+            "content": "WASHINGTON (AP) The Biden administration said Tuesday that it was providing $504 million in implementation grants for a dozen tech hubs\" in Ohio, Montana, Nevada and Florida, among other locations.\r\n\u2026 [+1805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "John M. Bremen, Contributor, \n John M. Bremen, Contributor\n https://www.forbes.com/sites/johnbremen/",
+            "title": "Tracking 2024 Mid-Year Geopolitical, Labor, Inflation, AI & ESG Trends",
+            "description": "As business leaders mark the year\u2019s midpoint, here\u2019s a look at how predictions on 2024 trends are tracking in terms of geopolitics, labor, inflation, AI, and ESG.",
+            "url": "https://www.forbes.com/sites/johnbremen/2024/07/09/tracking-2024-mid-year-geopolitical-labor-inflation-ai--esg-trends/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668b3e98fce5ab413968ff92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-09T08:50:20Z",
+            "content": "From the opening hours of 2024, it was clear to business leaders that the year would not be ... [+] ordinary.\r\ngetty\r\nFrom the opening hours of 2024, it was clear that the year would not be ordinary.\u2026 [+5569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Robert Bailkoski, Forbes Councils Member, \n Robert Bailkoski, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/robertbailkoski/",
+            "title": "AI Security Risks Vs. Business Rewards In A Hybrid Working World",
+            "description": "The shift to flexible work models has contributed to a significant shift in infrastructure and new security considerations for many organizations.",
+            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/07/18/ai-security-risks-vs-business-rewards-in-a-hybrid-working-world/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6697dd7e8650a338d00262c9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-18T12:15:00Z",
+            "content": "Bob Bailkoski, Global Chief Executive Officer of Logicalis Group, International IT Solutions and Managed Services Provider.\r\ngetty\r\nSince the pandemic, flexible working has become the new normwhether\u2026 [+5880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "New multimode coupler design advances scalable quantum computing",
+            "description": "Implementing a fault-tolerant quantum processor requires coupling qubits to generate entanglement. Superconducting qubits are a promising platform for quantum information processing, but scaling up to a full-scale quantum computer necessitates interconnecting\u2026",
+            "url": "https://phys.org/news/2024-07-multimode-coupler-advances-scalable-quantum.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/one-step-closer-toward.jpg",
+            "publishedAt": "2024-07-10T18:51:02Z",
+            "content": "Implementing a fault-tolerant quantum processor requires coupling qubits to generate entanglement. Superconducting qubits are a promising platform for quantum information processing, but scaling up t\u2026 [+3469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerwoche.de Live"
+            },
+            "author": "J\u00fcrgen Hill",
+            "title": "Game Changer Quanten-Computer: Die Quantenstrategie von T-Systems",
+            "description": "Um vom disruptiven Potenzial der Quantentechnologie nicht \u00fcberrascht zu werden, hat T-Systems schon heute eine Quantenstrategie mit entsprechenden Services f\u00fcr Anwender entwickelt.",
+            "url": "https://www.computerwoche.de/a/die-quantenstrategie-von-t-systems,3698924?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+            "urlToImage": "https://images.computerwoche.de/bdb/3393152/640x360.jpg",
+            "publishedAt": "2024-07-10T03:38:00Z",
+            "content": "Noch ist das Stadium der Quanten-Advantage nicht erreicht, dennoch sollten sich Unternehmen schon heute vorbereiten.Foto: Gunay Rahimova - shutterstock.com\r\nQuanten-Computing? Das hat noch Zeit, das \u2026 [+7592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rjlipton.com"
+            },
+            "author": "rjlipton",
+            "title": "Gordon Bell",
+            "description": "Sadly Gordon Bell died May 17 at the age of 89, see this. Bell died in Coronado, California from pneumonia. He was a true visionary in the world of computing who helped design some of the first minicomputers in the 1960s. Much will be written about his life a\u2026",
+            "url": "https://rjlipton.com/2024/07/08/gordon-bell/",
+            "urlToImage": "https://rjlipton.com/wp-content/uploads/2024/07/gb.jpeg",
+            "publishedAt": "2024-07-08T13:21:05Z",
+            "content": "Sadly Gordon Bell died May 17 at the age of 89, see this.\r\nBell died in Coronado, California from pneumonia. He was a true visionary in the world of computing who helped design some of the first mini\u2026 [+10666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Community.aws"
+            },
+            "author": "Abhishek Gupta",
+            "title": "Use Guardrails To Prevent Hallucinations in Generative AI Applications",
+            "description": "Guardrails for Amazon Bedrock enables you to implement safeguards for your generative AI applications based on your use cases and responsible AI policies. You can create multiple guardrails tailored to different use cases and apply them across multiple founda\u2026",
+            "url": "https://community.aws/content/2i12ntqFx3xAaDLfvrjH7278sEW?lang=en",
+            "urlToImage": "https://dz2cdn1.dzone.com/storage/article-thumb/17794503-thumb.jpg",
+            "publishedAt": "2024-07-22T15:15:14Z",
+            "content": "Guardrails for Amazon Bedrock enables you to implement safeguards for your generative AI applications based on your use cases and responsible AI policies. You can create multiple guardrails tailored \u2026 [+7346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iTnews"
+            },
+            "author": null,
+            "title": "Essential 8 Is Just The Starting Point",
+            "description": "Organisations should go beyond the Essential Eight and adopt AI to future-proof their cybersecurity against evolving threats like quantum computing.",
+            "url": "https://www.itnews.com.au/feature/essential-8-is-just-the-starting-point-610101",
+            "urlToImage": "https://i.nextmedia.com.au/Features/Beyond_Trust_2.jpg",
+            "publishedAt": "2024-07-25T23:00:00Z",
+            "content": "The Australian government\u2019s Essential Eight provides a useful framework and basis for achieving a baseline of cyber security and mitigating against common treats, such as ransomware. However, to trul\u2026 [+5202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ramish Cheema",
+            "title": "Do Hedge Funds Think That Microsoft Corporation (MSFT) Will Skyrocket Soon?",
+            "description": "We recently compiled a list of the 10 Stocks That Will Skyrocket. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT...",
+            "url": "https://finance.yahoo.com/news/hedge-funds-think-microsoft-corporation-041552975.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ehrz1CBybY_oskwS2bSRJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
+            "publishedAt": "2024-07-22T04:15:52Z",
+            "content": "We recently compiled a list of the 10 Stocks That Will Skyrocket.\u00a0In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against the other stocks.\r\nThe prima\u2026 [+8920 chars]"
+        }
+    ]
+}

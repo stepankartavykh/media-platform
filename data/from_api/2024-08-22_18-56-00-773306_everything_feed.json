@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 9812,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "David Cox",
+            "title": "This Mpox Outbreak Isn't Like the Last One",
+            "description": "The strain of mpox behind the current global health emergency is believed to be up to 10 times deadlier than the one that swept the globe in 2022.",
+            "url": "https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/",
+            "urlToImage": "https://media.wired.com/photos/66bd39e7cf6232ff4521bd75/191:100/w_1280,c_limit/Science_mpox_Alamy_2J9AN2H.jpg",
+            "publishedAt": "2024-08-15T21:52:11Z",
+            "content": "In May 2023, the World Health Organization released a statement declaring the end of mpoxformerly known as monkeypoxas a public health emergency. Just over a year later, the agency has been forced to\u2026 [+3160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Erika Ryan",
+            "title": "New CDC guidance recommends doctors address IUD insertion pain for patients",
+            "description": "NPR's Ailsa Chang talks with Dr. Aileen Gariepy of Weill Cornell Medicine about the new federal guidance that advises doctors to consider pain management for IUD insertion pain.",
+            "url": "https://www.npr.org/2024/08/08/nx-s1-5068298/new-cdc-guidance-recommends-doctors-address-iud-insertion-pain-for-patients",
+            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+            "publishedAt": "2024-08-08T21:32:41Z",
+            "content": "NPR's Ailsa Chang talks with Dr. Aileen Gariepy of Weill Cornell Medicine about the new federal guidance that advises doctors to consider pain management for IUD insertion pain."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Lead Found in Nearly Half of Cocoa Products, New Study Warns",
+            "description": "New research has found that nearly half of sampled cocoa products are contaminated with amounts of lead above recommended safe levels.",
+            "url": "https://gizmodo.com/lead-found-in-nearly-half-of-cocoa-products-new-study-warns-2000481850",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-479290903-e1722455194109.jpg",
+            "publishedAt": "2024-08-01T12:15:55Z",
+            "content": "Your next bite of dark chocolate could come with an unexpected dose of lead and other toxic metals. A new study has found that nearly half of sampled cocoa products contain amounts of lead above reco\u2026 [+3141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Adam Kovac",
+            "title": "Mars Missions Face Unexpected Challenge: Expired Meds",
+            "description": "Astronauts get aches, pains, and allergies just like those of us back on Earth, but they may be out of luck if the pills go bad before they return home from the Red Planet.",
+            "url": "https://gizmodo.com/mars-missions-face-unexpected-challenge-expired-meds-2000478111",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/mars.jpg",
+            "publishedAt": "2024-07-24T10:00:19Z",
+            "content": "You know that thing when youve got a godawful cold and you go into your medicine cabinet to dig out the DayQuil thats been sitting there since forever and are about to pop the capsules into your mout\u2026 [+2660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Adam Kovac",
+            "title": "Yes, Sometimes You Do Age a Lot All at Once",
+            "description": "New research reveals that most people undergo two significant biological changes in their bodies during their lifetime, typically in their mid 40s and early 60s.",
+            "url": "https://gizmodo.com/yes-sometimes-you-do-age-a-lot-all-at-once-2000487227",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/aging-changing-microbiome-molecules.jpg",
+            "publishedAt": "2024-08-15T14:05:01Z",
+            "content": "Weve all had a night out after which we feel ten years older the next morning, but when it comes to actual aging, that sudden shift may almost literally be truewe dont age gradually, but in two big s\u2026 [+2930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ted.com"
+            },
+            "author": "Valerie Montgomery Rice, contact@ted.com (TED)",
+            "title": "How to break through fear and become a leader | Valerie Montgomery Rice",
+            "description": "Vigilance. Grit. Resilience. Valerie Montgomery Rice, the president and CEO of Morehouse School of Medicine, shares where she learned these key qualities of successful leadership, offering three lessons for anyone who wants to overcome their fears, stand up f\u2026",
+            "url": "https://www.ted.com/talks/valerie_montgomery_rice_how_to_break_through_fear_and_become_a_leader",
+            "urlToImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/c77ff985-eded-412d-abb3-b38fc72fa025/ValerieMontgomeryRice_2023W-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050",
+            "publishedAt": "2024-08-02T15:12:47Z",
+            "content": "TED is supported by ads and partners00:00"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Olivier Guiberteau",
+            "title": "East v West - Germany's drug-fuelled Cold War for medals",
+            "description": "At the end of the Cold War, East Germany's systematic doping secrets spilled out. The truth on the other side of the Berlin Wall has taken longer to emerge.",
+            "url": "https://www.bbc.com/sport/olympics/articles/crlrn9re3z5o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/6293/live/d9e14b30-565e-11ef-8f0f-0577398c3339.jpg",
+            "publishedAt": "2024-08-19T22:43:40Z",
+            "content": "A report commissioned by the German Ministry of Sport and carried out by researchers at Humboldt University in Berlin and the University of Munster - Leaks from Doping in Germany from 1950 to Today -\u2026 [+3678 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Geoff Weiss",
+            "title": "The hot trend for billionaire donors: paying for medical school tuition",
+            "description": "Michael Bloomberg, whose nonprofit has contributed more than $1.6 billion to the cause, has warned against doctor shortages and steep med-school bills.",
+            "url": "https://www.businessinsider.com/billionaire-philanthropy-paying-medical-school-tuition-bloomberg-2024-8",
+            "urlToImage": "https://i.insider.com/66b26323393cd3c8629ba63c?width=1200&format=jpeg",
+            "publishedAt": "2024-08-06T17:53:47Z",
+            "content": "Michael Bloomberg said his organization's latest $600 million gift aims to address \"health disparities and underrepresentation in the medical field.\"Bryan Bedder / Getty Images\r\n<ul><li>Billionaire p\u2026 [+2144 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Emily Mullin",
+            "title": "A New Wave of Anti-Obesity Drugs Is on the Way",
+            "description": "With the success of Ozempic and Wegovy, drug manufacturers are racing to develop obesity treatments that shed more weight, are easier to take, and produce fewer side effects.",
+            "url": "https://www.wired.com/story/age-of-ozempic-next-generation-new-weight-loss-drugs-ozempic-wegovy-zepbound-mounjaro/",
+            "urlToImage": "https://media.wired.com/photos/6697ed89b70d0ab3cec9b066/191:100/w_1280,c_limit/071724_GLP-1%20Series%2003%20Next-Generation%20Weightloss%20Drugs.jpg",
+            "publishedAt": "2024-07-24T10:00:00Z",
+            "content": "Its possible that tirzepatide is slightly more effective because its a dual receptor agonist. In addition to GLP-1, it also activates receptors of GIP, another hormone involved in regulating blood su\u2026 [+2865 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Reckless slapping therapist cut mum's life short'",
+            "description": "Danielle Carr-Gomm, 71, died four days into a slapping therapy workshop in Wiltshire.",
+            "url": "https://www.bbc.com/news/articles/cg649e9x65wo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aa96/live/0d3753d0-4f5c-11ef-856b-f9caa2b4f13f.jpg",
+            "publishedAt": "2024-08-01T00:17:05Z",
+            "content": "Danielle Carr-Gomm died after stopping her insulin at a slapping therapy workshop in 2016\r\nThe family of a diabetic woman who died when she went to a slapping workshop and stopped taking her insulin \u2026 [+6684 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Newly Discovered Autoimmune Disorder Saps Vitamin B From Your Brain",
+            "description": "Scientists have uncovered autoantibodies that keep vitamin B12 from reaching the brain, which may help to explain some mysterious cases of neurological illness.",
+            "url": "https://gizmodo.com/newly-discovered-autoimmune-disorder-saps-vitamin-b-from-your-brain-2000479189",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1292254104-e1721936004483.jpg",
+            "publishedAt": "2024-07-25T20:15:16Z",
+            "content": "Scientists from the University of California, San Francisco are claiming to have discovered a novel autoimmune disorder that keeps precious vitamin B12 from reaching our brains. The condition seems t\u2026 [+5348 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Adam Kovac",
+            "title": "If You Get Meds by Mail, They May Be Losing Potency in Summer Heat",
+            "description": "Parts of the U.S. have experienced record-setting heat waves over the past few summers, which may have caused pharmaceutical ingredients to degrade while en route.",
+            "url": "https://gizmodo.com/if-you-get-meds-by-mail-they-may-be-losing-potency-in-summer-heat-2000486404",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/mailed-meds-damage-heat-1.jpg",
+            "publishedAt": "2024-08-13T17:55:07Z",
+            "content": "While studies show that mail-order medications can lower costs and help patients stick to their prescriptions, some healthcare providers are increasingly concerned about the potential for heat-relate\u2026 [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Don\u2019t Look Now, But Ozempic Might Help You Quit Smoking, Too",
+            "description": "Case Western Reserve University researchers have found early evidence that semaglutide can temper nicotine cravings.",
+            "url": "https://gizmodo.com/dont-look-now-but-ozempic-might-help-you-quit-smoking-too-2000481229",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-2152695742-e1722358911129.jpg",
+            "publishedAt": "2024-07-30T17:50:24Z",
+            "content": "Semaglutide, the active ingredient in popular weight loss drugs Wegovy and Ozempic, may help people quit smoking, too. New research published Monday has found evidence that semaglutide can prevent or\u2026 [+2455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Rachel Nuwer",
+            "title": "Next-Generation Biotech Is Rendering Some Lab Animals Obsolete",
+            "description": "Replacing research animals with tools that better mimic human biology could improve medicine",
+            "url": "https://www.scientificamerican.com/article/next-generation-biotech-is-rendering-some-lab-animals-obsolete/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/68aae50e67516e7/original/sa0924Nuwe01.jpg?w=1200",
+            "publishedAt": "2024-08-20T13:00:00Z",
+            "content": "When it came time for Itzy Morales Pantoja to start her Ph.D. in cellular and molecular medicine, she chose a laboratory that used stem cells\u2014not only animals\u2014for its research. Morales Pantoja had ju\u2026 [+23188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "A Man\u2019s Rapid Weight Loss From Obesity Drug Led to Heart Problems",
+            "description": "A case report highlights the danger of mixing certain medications with the newest generation of weight-loss drugs.",
+            "url": "https://gizmodo.com/a-mans-rapid-weight-loss-from-obesity-drug-led-to-heart-problems-2000483591",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/tirzepatide.jpg",
+            "publishedAt": "2024-08-06T16:09:54Z",
+            "content": "A 62-year-old man ended up in the emergency room with hand tremors and heart palpitations six months after he began taking the weight-loss drug tirzepatide, also known as Zepbound. According to his d\u2026 [+3151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "New Study Links Shingles to Cognitive Decline",
+            "description": "Scientists have uncovered a link between having shingles and cognitive decline.",
+            "url": "https://gizmodo.com/shingles-might-be-bad-for-your-brain-2000486473",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1292254104-e1723583254454.jpg",
+            "publishedAt": "2024-08-14T00:00:26Z",
+            "content": "Research published on Tuesday is the latest to suggest that the viral disease shingles can be harmful to our long-term brain health. Scientists have shown that people who have had shingles were about\u2026 [+3839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Shingles Vaccine Offers Hope Against Dementia",
+            "description": "New research finds that people given the Shingrix vaccine were significantly less likely to develop dementia over a six-year-period.",
+            "url": "https://gizmodo.com/shingles-vaccine-offers-hope-against-dementia-2000479520",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-2056512898-e1722007859957.jpg",
+            "publishedAt": "2024-07-26T16:00:29Z",
+            "content": "Vaccines that help prevent the devastating disease shingles could also offer a boon against cognitive decline. In a new study published Thursday, scientists have found that the latest shingles vaccin\u2026 [+3356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tim Stelloh",
+            "title": "Florida doctor who didn't wear hearing aids during colonoscopy couldn't hear patient yelling, state health officials say",
+            "description": "A Florida doctor was placed on probation after state health officials said he began performing a colonoscopy without his hearing aids and did not know the...",
+            "url": "https://www.yahoo.com/news/florida-doctor-didnt-wear-hearing-005857661.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zWwB5NCyjSDl.j31qT1dIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/d173c661af8b29f6b8d0946c8475922c",
+            "publishedAt": "2024-08-21T00:58:57Z",
+            "content": "A hearing-impaired doctor was placed on probation after Florida health officials said he began performing a colonoscopy without his hearing aids and did not know the patient was not fully sedated, ac\u2026 [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Cal Horton, Ruth Pearce",
+            "title": "The U.K.\u2019s Cass Review Badly Fails Trans Children",
+            "description": "A politicized review into transgender medicine in the National Health Service has upended lives in the U.K.\u2014and threatens to spread harm across the globe",
+            "url": "https://www.scientificamerican.com/article/the-u-k-s-cass-review-badly-fails-trans-children/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/7048a6978b39e5d3/original/2X4WTCW_WEB.jpg?w=1200",
+            "publishedAt": "2024-08-07T11:00:00Z",
+            "content": "In the past decade, an escalating moral panic over transgender people\u2019s existence has embroiled both the U.K. and the U.S. Fear over the experience of children in particular has been stoked by years \u2026 [+8714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Slapping therapist guilty of manslaughter",
+            "description": "Danielle Car-Gomm, 71, died four days into a slapping therapy workshop in Wiltshire.",
+            "url": "https://www.bbc.com/news/articles/c51yvxxd3n8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ddde/live/220ece40-4b2a-11ef-96b2-2701749facf2.jpg",
+            "publishedAt": "2024-07-26T15:34:22Z",
+            "content": "Hongchi Xiao was extradited from Australia to the UK to face charges\r\nAn alternative healer has been found guilty of gross negligence manslaughter following the death of a woman at one of his worksho\u2026 [+3386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'She wanted to live a good life': Parents of Indian doctor raped and murdered on night shift",
+            "description": "Parents of the doctor, who was raped and murdered, talk about their caring and affectionate daughter.",
+            "url": "https://www.bbc.com/news/articles/c5yl0799k1wo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9588/live/c60027d0-5ee7-11ef-a55a-8f394e8ed2af.jpg",
+            "publishedAt": "2024-08-21T07:08:06Z",
+            "content": "The doctor's death has sparked a nation-wide conversation on violence against women in India\r\nThe rape and murder of a trainee doctor in Indias Kolkata city earlier this month has sparked massive out\u2026 [+5805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Pharmacists warn over fake weight-loss jabs",
+            "description": "A body representing pharmacists says there could be an \"explosion\" in unlicensed medication amid a shortage of Ozempic.",
+            "url": "https://www.bbc.com/news/articles/c0qeee33883o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7bb1/live/56175700-531a-11ef-a3e9-cf709eefac05.jpg",
+            "publishedAt": "2024-08-05T11:16:19Z",
+            "content": "Pharmacists have warned people not to buy fake weight-loss jabs online as a shortage of Ozempic is expected to stretch into next year. \r\nThe National Pharmacy Association (NPA) suggested there could \u2026 [+2943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Birmingham to host 2027 Invictus Games",
+            "description": "The city saw off competition from Washington DC to host the tournament, founded by the Duke of Sussex.",
+            "url": "https://www.bbc.com/news/articles/ckdg9wgzeyko",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a44a/live/05aea260-484c-11ef-b74c-bb483a802c97.png",
+            "publishedAt": "2024-07-22T23:59:05Z",
+            "content": "The Invictus Games have grown considerably since they were founded in 2014, with about 500 competitors taking part last year in Dusseldorf\r\nBirmingham has won the bid to host the 2027 Invictus Games,\u2026 [+2956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Beyond CPAP: Future Sleep Apnea Treatments Could Revolutionize Nighttime Health",
+            "description": "Sleep apnea used to be managed by puncturing the neck, but treatments for the common condition in the near-future promise to be far less intrusive.",
+            "url": "https://gizmodo.com/beyond-cpap-future-sleep-apnea-treatments-could-revolutionize-nighttime-health-2000484840",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/CPAP-machine.jpg",
+            "publishedAt": "2024-08-11T10:00:21Z",
+            "content": "Snoring is routinely a nuisance, particularly for people who share a bed with a light sleeper. For some, though, snoring can be a sign of a more serious health problem: sleep apnea. Once a barely kno\u2026 [+8608 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Tangalakis-Lippert",
+            "title": "Promises of happier, healthier living drove tourists to Costa Rica in droves. Now, locals say the Blue Zone lifestyle is dying out.",
+            "description": "Costa Rica locals told Business Insider that droves of tourists visiting the area have eroded the Blue Zone lifestyle the country was known for.",
+            "url": "https://www.businessinsider.com/tourism-is-killing-the-blue-zone-lifestyle-in-costa-rica-2024-7",
+            "urlToImage": "https://i.insider.com/66a6dc3eaab37011780b2031?width=1200&format=jpeg",
+            "publishedAt": "2024-08-10T11:09:02Z",
+            "content": "Tourism has spiked in Costa Rica, but locals say the flurry of activity has caused the Blue Zone lifestyle they're seeking to fade away.Sergio Ortiz\r\n<ul><li>Tourism has spiked in Costa Rica, with vi\u2026 [+5338 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kwan Wei Kevin Tan",
+            "title": "I gave up my dream of being a doctor at a local hospital just one year out of medical school. That decision cost me close to half a million dollars, but it was worth it.",
+            "description": "Faith Choo, 27, left Singapore's public healthcare system a year after graduating and is now working as a locum doctor.",
+            "url": "https://www.businessinsider.com/i-gave-up-doctor-dream-despite-looming-debt-worth-it-2024-8",
+            "urlToImage": "https://i.insider.com/66b994b3955b01c3294d9114?width=1200&format=jpeg",
+            "publishedAt": "2024-08-13T23:42:02Z",
+            "content": "Faith Choo, 27, left the public healthcare system just a year after graduating from medical school in Singapore. She is now working as a locum doctor.Faith Choo\r\n<ul><li>Faith Choo became a doctor af\u2026 [+5353 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lloyd Lee",
+            "title": "Sam Altman and generative AI can't be trusted, says leading expert",
+            "description": "OpenAI's Sam Altman has contradicted his public pronouncements for AI safety and tools like ChatGPT will likely never be safe, Gary Marcus wrote.",
+            "url": "https://www.businessinsider.com/sam-altman-generative-ai-cant-be-trusted-gary-marcus-openai-2024-8",
+            "urlToImage": "https://i.insider.com/66b01256a5247369a3e95fca?width=1200&format=jpeg",
+            "publishedAt": "2024-08-05T00:29:51Z",
+            "content": "Gary Marcus, left, who founded a machine learning company, argued in a recent column for The Guardian that Sam Altman can't be trusted and that AI is headed in the wrong direction.Patrick Semansky/AP\u2026 [+3285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "BePRECISE consortium unveils guidelines to enhance reporting in precision medicine research",
+            "description": "The inaugural reporting guidelines for precision medicine research have just been published.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240724123044.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-24T16:30:44Z",
+            "content": "The paper from the BePRECISE consortium describes comprehensive guidelines aimed at improving the accuracy, safety, and health equity in precision medicine.BePRECISE is Better Precision-data Reportin\u2026 [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Artofmanliness.com"
+            },
+            "author": "Brett & Kate McKay",
+            "title": "10 Mental Health Rules From the 1930s",
+            "description": "Note: In the 1930s, the Cleveland Academy of Medicine held a contest that solicited submissions for the best set of rules for mental health. The winning set of rules, which we share below, was penned by psychiatrist Dr. Joseph Fetterman and published in the a\u2026",
+            "url": "https://www.artofmanliness.com/character/advice/10-mental-health-rules-from-the-1930s/",
+            "urlToImage": "https://content.artofmanliness.com/uploads/2024/08/mental-1.jpg",
+            "publishedAt": "2024-08-15T16:38:30Z",
+            "content": "Note: In the 1930s, the Cleveland Academy of Medicine held a contest that solicited submissions for the best set of rules for mental health. The winning set of rules, which we share below, was penned\u2026 [+955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Proteins as the key to precision medicine: Finding unknown effects of existing drugs",
+            "description": "Fewer side effects, improved chances of healing: the goal of precision medicine is to provide patients with the most individualized treatment possible. This requires a precise understanding of what is happening at the cellular level. Researchers have now succ\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240801121847.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-01T16:18:47Z",
+            "content": "Fewer side effects, improved chances of healing: the goal of precision medicine is to provide patients with the most individualized treatment possible. This requires a precise understanding of what i\u2026 [+3354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The Kenyan enthralled by the healing power of plants",
+            "description": "Kenyan Martin Odhiambo cultivates medicinal plants and hopes that remedies can one day be regulated.",
+            "url": "https://www.bbc.com/news/articles/c84j0kzgnk9o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e90e/live/a990ca30-4904-11ef-b74c-bb483a802c97.jpg",
+            "publishedAt": "2024-07-28T00:29:21Z",
+            "content": "Martin Odhiambo has always been interested in the healing properties of plants - and for years has been enthusiastically sharing that knowledge with fellow Kenyans.\r\nEvery Thursday at an amphitheatre\u2026 [+7091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Brian Mann",
+            "title": "U.S. women fencers parry and riposte to Olympic gold in Paris, besting Italy",
+            "description": "Italy's women are the top-ranked fencers in the world with the foil. But in a tense Olympic final on Thursday, the U.S. women prevailed for the gold medal.",
+            "url": "https://www.npr.org/2024/08/01/nx-s1-5060307/us-women-fencers-olympic-gold-paris",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3933x2212+0+205/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F54%2F219c1cec410da00ad9c27e998f6e%2Fap24214476748081.jpg",
+            "publishedAt": "2024-08-01T23:08:40Z",
+            "content": "PARIS Under the soaring glass dome of Paris's Grand Palais, American fencer Lee Kiefer danced close, clashing foils with her Canadian opponent Eleanor Harvey in a semifinal match.\r\nThe foil is a slen\u2026 [+1424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Linda Carroll",
+            "title": "Why does everything hurt? Research shows that our bodies go through rapid changes at these ages",
+            "description": "Researchers have found that molecules and microorganisms both inside and outside our bodies are going through dramatic changes, first around age 44 and again...",
+            "url": "https://www.yahoo.com/news/why-does-everything-hurt-research-110100858.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jhlNrCst_Q_WhNAW3SUdAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/62579155519539a03bdcdb21cf112ab8",
+            "publishedAt": "2024-08-14T11:01:40Z",
+            "content": "For many people, reaching their mid-40s may bring unpleasant signs the body isnt working as well as it once did. Injuries seem to happen more frequently. Muscles may feel weaker.\r\nA new study, publis\u2026 [+3789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Rebecca Corey",
+            "title": "Jimmy Carter started hospice nearly a year and a half ago. His experience is challenging common misconceptions about end-of-life care.",
+            "description": "Experts break down what it means to go into hospice care and why Carter's length of stay is rare but not unheard of.",
+            "url": "https://www.yahoo.com/lifestyle/jimmy-carter-started-hospice-nearly-a-year-and-a-half-ago-his-experience-is-challenging-common-misconceptions-about-end-of-life-care-144843226.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gDTnpn2PSYep45HAGtheQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/6ad08a90-55b8-11ef-aefa-190857b55e50",
+            "publishedAt": "2024-08-09T14:48:43Z",
+            "content": "In February 2023, former President Jimmy Carter, then 98, announced that he would forgo further medical intervention, and instead spend the remainder of his time in hospice care at his home in Plains\u2026 [+5932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "New Study Suggests \u2018Screaming Mummy\u2019 Died in Agony",
+            "description": "The macabre facial expression has captured imaginations and stirred debate for nearly a century, and a new study adds fuel to the fire.",
+            "url": "https://gizmodo.com/new-study-suggests-screaming-mummy-died-in-agony-2000481874",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/frontiers-medicine-screaming-woman-mummy-credit-sahar-saleem-06-e1722460472175.jpg",
+            "publishedAt": "2024-08-02T04:15:11Z",
+            "content": "The so-called \u201cscreaming mummy,\u201d famous for her contorted facial expression, likely died in excruciating pain, claims a team of researchers. This discovery adds credence to a theory that\u2019s been specu\u2026 [+4669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "Let\u2019s Talk About the Ending of Alien: Romulus",
+            "description": "Fede Alvarez directs the latest installment in the sci-fi horror franchise, following in the footsteps of Ridley Scott, James Cameron, David Fincher, and others.",
+            "url": "https://gizmodo.com/alien-romulus-ending-hybrid-creature-black-goo-sequel-2000487324",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Alien-Romulus-creature.jpg",
+            "publishedAt": "2024-08-16T16:00:01Z",
+            "content": "We\u2019re still shook at the complete madness director Fede Alvarez unleashes at the end of Alien: Romulus. Just when you think it\u2019s going to be your basic humans versus aliens movie, he takes things up \u2026 [+4254 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "THALIA BEATY Associated Press",
+            "title": "Bloomberg gives $600 million to four Black medical schools' endowments",
+            "description": "Michael Bloomberg\u2019s organization Bloomberg Philanthropies says it will give $600 million to the endowments of four historically Black medical schools",
+            "url": "https://abcnews.go.com/US/wireStory/bloomberg-600-million-black-medical-schools-endowments-112602045",
+            "urlToImage": "https://i.abcnewsfe.com/a/6dcd6358-a5ce-4293-af4d-3d7c91551cb9/wirestory_d997c100e4161dffd03e282d8df31c70_16x9.jpg?w=1600",
+            "publishedAt": "2024-08-06T11:02:21Z",
+            "content": "NEW YORK -- Michael Bloombergs organization Bloomberg Philanthropies is announcing a $600 million gift to the endowments of four historically Black medical schools. \r\nBloomberg, the former New York C\u2026 [+5812 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Haleema Shah",
+            "title": "MDMA is on the brink of becoming medicine",
+            "description": "2024 was supposed to be the year MDMA, perhaps better known as \u201cecstasy\u201d or \u201cmolly,\u201d got its big break.\u00a0 Until this summer, it was on track to rise out of the underground and into mainstream mental health care. Amid a lack of novel treatments for PTSD and sta\u2026",
+            "url": "https://www.vox.com/today-explained-podcast/363903/mdma-medicine-ptsd-fda",
+            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/07/GettyImages-1383502875.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2024-08-01T19:38:59Z",
+            "content": "2024 was supposed to be the year MDMA, perhaps better known as ecstasy or molly, got its big break. \r\nUntil this summer, it was on track to rise out of the underground and into mainstream mental heal\u2026 [+1974 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Grace Wade",
+            "title": "MDMA therapies hit a roadblock \u2013 what's next?",
+            "description": "The US Food and Drug Administration has rejected the psychedelic drug MDMA as a treatment for post-traumatic stress disorder, leading many to wonder whether psychedelic therapies have a future in medicine",
+            "url": "https://www.newscientist.com/article/2443764-mdma-therapies-hit-a-roadblock-whats-next/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/08/13203929/SEI_216708183.jpg",
+            "publishedAt": "2024-08-13T21:30:57Z",
+            "content": "Will psychedelic drugs like MDMA ever be approved for therapeutic uses?\r\nSouth Agency/Getty Images\r\nRoughly one year ago, thousands of people gathered in Denver, Colorado, for the largest psychedelic\u2026 [+3050 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "CEO of failing hospital chain got $250M amid patient deaths, layoffs, bankruptcy",
+            "description": "Steward Health Care System, run by CEO Ralph de la Torre, filed for bankruptcy in May.",
+            "url": "https://arstechnica.com/science/2024/08/as-hospitals-failed-and-patients-died-ceo-reportedly-netted-250m/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2165063809-760x380.jpg",
+            "publishedAt": "2024-08-20T21:20:06Z",
+            "content": "Enlarge/ Hospital staff and community members held a protest in front of Carney Hospital in Boston on August 5 as Steward has announced it will close the hospital. \"Ralph\" refers to Steward's CEO, Ra\u2026 [+6119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "elizabeth.howell@futurenet.com (Elizabeth Howell)",
+            "title": "How spaceflight\u2019s 'parastronaut program' could improve health-care practices here on Earth",
+            "description": "ESA reserve astronaut John McFall's story inspired a study suggesting that the space community's inclusion efforts should be used in other fields, especially medicine.",
+            "url": "https://www.space.com/spaceflight-inclusion-parastronaut-health-care-study",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Vn8TpDWzUJjQ7cvswPNZCW-1200-80.jpg",
+            "publishedAt": "2024-07-26T15:00:55Z",
+            "content": "Days after the first \"parastronaut\" came a step closer to approval for space station missions, a new study says that space exploration's efforts to boost diversity hold valuable lessons for health pr\u2026 [+7858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Juliana Kim",
+            "title": "US fencers Kiefer and Scruggs take gold and silver in women's individual foil",
+            "description": "The pair made history, with Kiefer becoming the first American woman to earn two gold medals in individual foil. Scruggs became the first Black fencer to medal for the U.S. in an individual women's event.",
+            "url": "https://www.npr.org/2024/07/28/nx-s1-5055086/fencing-kiefer-scruggs-gold-olympics-usa",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8543x4805+0+445/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2Fd4%2Fa1462ed342e9855bd27da2de8642%2Fap24210760340310.jpg",
+            "publishedAt": "2024-07-29T00:36:40Z",
+            "content": "American fencers Lee Kiefer and Lauren Scruggs made Olympic history both on their own and together at the women's individual foil fencing event on Sunday.\r\nKiefer, 30, from Lexington, K.Y., took gold\u2026 [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Palmer Haasch",
+            "title": "'Moving Isa' is Business Insider's documentary short about a mother moving her trans child out of Texas",
+            "description": "\"Moving Isa,\" a documentary short produced by Business Insider's News & Documentary team, premiered in July 2023 at Henrietta Hudson.",
+            "url": "https://www.businessinsider.com/moving-isa-original-insider-documentary-premieres-henrietta-hudson-2023-7",
+            "urlToImage": "https://i.insider.com/64b5b71cdb90260019355c78?width=1200&format=jpeg",
+            "publishedAt": "2024-08-08T17:05:56Z",
+            "content": "Barbara Corbellini Duarte, Violet Augustine, and Erica Berenstein at the \"Moving Isa\" premiere on July 13, 2023 at Henrietta Hudson in New York City.Bethany Johnson/Insider\r\n<ul>\n<li>\"Moving Isa\" fol\u2026 [+3793 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Allie Kelly",
+            "title": "An Australian boomer retired in Thailand on an $18,000 annual pension. He saves almost half his income and can still travel the world.",
+            "description": "John Walker, 73, moved to Chiang Mai, Thailand from Australia in 2019. The cost of living is so low that Walker can survive on his pension.",
+            "url": "https://www.businessinsider.com/boomer-moved-thailand-cheaper-retirement-lives-off-pension-travels-world-2024-8",
+            "urlToImage": "https://i.insider.com/66ba6b335da406397bf52d94?width=1200&format=jpeg",
+            "publishedAt": "2024-08-14T10:03:01Z",
+            "content": "John Walker, 73, (not pictured) moved to Thailand from Australia. He retired and is living on his $18,000 annual pension.PixelsEffect / Getty Images\r\n<ul><li>John Walker, 73, moved to Thailand from A\u2026 [+3840 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Serafina Kenny",
+            "title": "A doctor who says he's reversed his age by 20 years eats these 7 foods every week to boost his longevity",
+            "description": "Completely changing your diet can be hard, so a longevity expert and doctor added foods including olive oil to his diet for the healthy aging benefits.",
+            "url": "https://www.businessinsider.com/doctor-reverse-age-years-foods-eat-weekly-longevity-2024-8",
+            "urlToImage": "https://i.insider.com/66ba31b9955b01c3294db42d?width=1200&format=jpeg",
+            "publishedAt": "2024-08-13T15:26:27Z",
+            "content": "Dr. Michael Roizen eats seven foods a week that he hopes will boost his longevity.Dr. Michael Roizen/Getty\r\n<ul><li>Dr. Michael Roizen is an expert in longevity and uses scientific research to shape \u2026 [+5250 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eve Crosbie",
+            "title": "C\u00e9line Dion 'full of joy' as she makes comeback at Paris Olympics following stiff person syndrome diagnosis",
+            "description": "It comes roughly a year and a half after the singer announced that she had been diagnosed with stiff person syndrome.",
+            "url": "https://www.businessinsider.com/celine-dion-full-of-joy-comeback-olympics-stiff-person-syndrome-2024-7",
+            "urlToImage": "https://i.insider.com/66a4f858aab37011780b100e?width=1200&format=jpeg",
+            "publishedAt": "2024-07-27T14:52:23Z",
+            "content": "C\u00e9line Dion.IOC via Getty Images\r\n<ul><li>C\u00e9line Dion performed at the Paris Olympics opening ceremony on Friday.</li><li>It was the Canadian singer's first live performance since 2020.</li><li>Dion \u2026 [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sean Jackson",
+            "title": "Lion's Mane Mushrooms: Their Internet Fame and Health Benefits",
+            "description": "Lion's mane mushrooms have been in the news lately being called a \"superfood,\" but do lion's mane mushrooms actually have the benefits people claim they do?",
+            "url": "https://www.cnet.com/health/nutrition/lions-mane-mushrooms-benefits/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/dc59eef3bd1476468ad71447a948ed4e4d2c6bcf/hub/2024/07/02/2ce552a4-8ec0-41fa-86bb-7e484359b723/lions-mane-mushroom-in-nature.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-08-03T11:00:07Z",
+            "content": "Mushrooms have been making news lately, especially as more mushroom foods, drinks and supplements are added to the market. Lion's mane mushrooms, specifically, have made headlines, being called a \"su\u2026 [+9956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cheezburger.com"
+            },
+            "author": "Lana DeGaetano, Lana DeGaetano",
+            "title": "\u2018He didn't start off well\u2019: New narcissistic manager tries to force man to use accumulated paid leave, gets a taste of his own medicine when it doesn't go as planned",
+            "description": "\u2018He didn't start off well\u2019: New narcissistic manager tries to force man to use accumulated paid leave, gets a taste of his own medicine when it doesn't go as planned - The internet has generated a huge amount of laughs from cats and FAILS. And we all out of c\u2026",
+            "url": "https://cheezburger.com/35956485/he-didnt-start-off-well-new-narcissistic-manager-tries-to-force-man-to-use-accumulated-paid-leave",
+            "urlToImage": "https://i.chzbgr.com/thumb1200/35956485/h514195C1/manager-feeling-unwanted-at-the-company-thats-what-happens-when-you-force-staff-to-use-paid-leave",
+            "publishedAt": "2024-07-23T17:00:00Z",
+            "content": "Some workplaces can be super strict regarding paid leave, sick days, and wellness days. To a certain extent, this is understandable because a company needs to ensure that its staff isn't all taking t\u2026 [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Exploring emerging diagnostic tools for early diagnosis of endometriosis",
+            "description": "Endometriosis affects more than 11% of women of reproductive age in the U.S. and 190 million women worldwide. The average time to diagnose endometriosis is seven years after the onset of symptoms, which include abdominal pain and cramping before, during and a\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240815163618.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-15T20:36:18Z",
+            "content": "Endometriosis is a common, burdensome, chronic disease that affects more than 11% of women of reproductive age in the United States and 190 million women worldwide. Early diagnosis remains a major cl\u2026 [+3943 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jacek Krywko",
+            "title": "Passing part of a medical licensing exam doesn\u2019t make ChatGPT a good doctor",
+            "description": "The software's medical certification exam was OK, but its diagnoses aren't.",
+            "url": "https://arstechnica.com/science/2024/08/passing-part-of-a-medical-licensing-exam-doesnt-make-chatgpt-a-good-doctor/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1366806480-760x380.jpg",
+            "publishedAt": "2024-08-16T14:43:05Z",
+            "content": "Enlarge/ For now, \"you should see a doctor\" remains good advice.\r\n14\r\nChatGPT was able to pass some of the United States Medical Licensing Exam (USMLE) tests in a study done in 2022. This year, a tea\u2026 [+2744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Maria Isabel Barros Guinie",
+            "title": "New HIV preventive strategy sparks excitement -- and protests -- at AIDS conference",
+            "description": "The final results of a trial for a new HIV preventive strategy are out today. Experts express enthusiasm. But activists at the 2024 AIDS conference in Munich are protesting the likely cost.",
+            "url": "https://www.npr.org/sections/goats-and-soda/2024/07/24/nx-s1-5050843/hiv-preventive-strategy-2024-aids-conference",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5153x2899+0+268/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F28%2F1b%2F42dbfaf848d281ec09a5f2d930d1%2Fap24205636025701.jpg",
+            "publishedAt": "2024-07-24T19:39:23Z",
+            "content": "A new way to prevent HIV infection is generating great buzz -- and more than a bit of controversy -- at this weeks AIDS 2024 Conference in Munich.\r\nThe treatment consists of a twice-yearly injection \u2026 [+8380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Researchers decipher new molecular mechanisms related to biological tissue regeneration",
+            "description": "A study opens new perspectives to better understand how the molecular mechanisms involved in regenerative medicine work. The study focuses on tumor necrosis factor- (TNF- ) and its receptors TNFR, molecules of key interest in biomedicine due to their involvem\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240729110257.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-29T15:02:57Z",
+            "content": "A study lead by the University of Barcelona opens new perspectives to better understand how the molecular mechanisms involved in regenerative medicine work. The study focuses on tumour necrosis facto\u2026 [+5883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adafruit.com"
+            },
+            "author": "Anne Barela",
+            "title": "Wearable sensors will transform the practice of medicine",
+            "description": "While modern medicine has advanced in ways that would seem miraculous to our ancestors, one key characteristic has remained almost unchanged: The practice of medicine is largely reactive. People book an appointment with their doctor when they feel unwell. The\u2026",
+            "url": "https://blog.adafruit.com/2024/08/20/wearable-sensors-will-transform-the-practice-of-medicine/",
+            "urlToImage": "https://cdn-blog.adafruit.com/uploads/2024/08/four-10.png",
+            "publishedAt": "2024-08-20T14:53:07Z",
+            "content": "August 20, 2024 AT 10:53 am\r\nWearable sensors will transform the practice of medicine\r\nWhile modern medicine has advanced in ways that would seem miraculous to our ancestors, one key characteristic h\u2026 [+4261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Uncontrolled hypertension: The old 'silent killer' is alive and well",
+            "description": "High blood pressure affects about 45% of U.S. adults. In the 1970s, only about 50% of patients were aware of their hypertension. Today, 54% are aware of their high blood pressure, 40% are actively treated and 21% are actively controlled. As such, researchers \u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240801121838.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-01T16:18:38Z",
+            "content": "In the United States and worldwide, cardiovascular disease is the leading avoidable cause of premature death and disability. Primarily heart attacks and stroke, cardiovascular disease accounts for mo\u2026 [+5574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Blood test may guide use of multiple myeloma immunotherapy",
+            "description": "A simple blood test that measures the number of lymphocytes, a type of white blood cell in the body, may predict whether people who have relapsed multiple myeloma are going to respond well to CAR-T immunotherapy, according to new research.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240724123023.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-24T16:30:23Z",
+            "content": "A simple blood test that measures the number of lymphocytes, a type of white blood cell in the body, may predict whether people who have relapsed multiple myeloma are going to respond well to CAR-T i\u2026 [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Markham Heid",
+            "title": "Making Sense of the Connection Between Vaccines and Lupus Flares",
+            "description": "What to know before a vaccine meets a disordered immune system.",
+            "url": "https://time.com/7009084/vaccines-lupus-risk-flares/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/GettyImages-1213748565.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-08-08T14:50:43Z",
+            "content": "In 1978, a team of Harvard Medical School researchers examined whether people with lupus responded to the influenza vaccine differently from the way a group of normal control subjects did. They looke\u2026 [+10925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IndieWire"
+            },
+            "author": "Alison Foreman",
+            "title": "\u2018The Cell\u2019 Turns 24: \u2018Y2K\u2019 Director Kyle Mooney Looks Back at His Harrowing Encounter with the Jennifer Lopez Classic",
+            "description": "Free advice: Don't get way too high on cold medicine before watching a trippy aughts thriller about serial killer Vincent D'Onofrio turning people into dolls.",
+            "url": "https://www.indiewire.com/features/interviews/kyle-mooney-interview-y2k-the-cell-1235036392/",
+            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2024/08/2000s-Week-Kyle-Mooney-Interview_081424_2000x1200.jpg?w=650",
+            "publishedAt": "2024-08-15T16:00:00Z",
+            "content": "This article is part of IndieWire\u2019s\u00a02000s Week\u00a0celebration.\u00a0Click here for a whole lot more.\r\nIn the vast pantheon of hidden gems of fantasy and sci-fi from the early 2000s, \u201cThe Cell\u201d comes highly r\u2026 [+12224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Two Doctors Charged in Matthew Perry's Death Can Still Prescribe Medicine",
+            "description": "The two physicians charged in connection with Matthew Perry's death not only still have their medical licenses, but they can still -- SHOCKINGLY -- prescribe medication to any of their patients, TMZ has learned. Last week, Dr. Mark Chavez and Dr.\u2026",
+            "url": "https://www.tmz.com/2024/08/17/matthew-perry-doctors-charged-prescribe-medicine/",
+            "urlToImage": "https://imagez.tmz.com/image/37/16by9/2024/08/17/3775aa46041842cdad857f457988c61a_xl.jpg",
+            "publishedAt": "2024-08-17T14:47:06Z",
+            "content": "The two physicians charged in connection with Matthew Perry's death not only still have their medical licenses, but they can still -- SHOCKINGLY -- prescribe medication to any of their patients, TMZ \u2026 [+1507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The comedian turning her period condition into a stand-up show",
+            "description": "Bella Humphries has Premenstrual dysphoric disorder but is sharing her experience with Edinburgh audiences.",
+            "url": "https://www.bbc.com/news/articles/cy0r8g729qro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4990/live/c9d17fd0-58c0-11ef-9bb2-430c3a314589.jpg",
+            "publishedAt": "2024-08-13T00:20:25Z",
+            "content": "Comedian Bella Humphries says her show is \"very honest\" and \"a bit raw at times\"\r\nTelling hilarious or embarrassing stories from your personal life is something many stand-up comedians do night after\u2026 [+5950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Slimming jabs: 'I thought my body was shutting down'",
+            "description": "BBC Investigations speaks to people damaged by illegal and often fake slimming drug injection kits.",
+            "url": "https://www.bbc.com/news/articles/cg33vw9939yo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fdca/live/33bd8940-4e7e-11ef-b182-95a78bfd3638.jpg",
+            "publishedAt": "2024-07-31T05:00:25Z",
+            "content": "Peter and Vicky Boyd say her symptoms after taking fake semaglutide were terrifying\r\nFor those with severe weight issues, semaglutide the active ingredient in slimming drugs can be a life-changer. Ce\u2026 [+6617 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Amanda Goh",
+            "title": "Blake Lively says she feels 'guilty' for working instead of spending time with family",
+            "description": "Earlier this year, Blake Lively said she and her husband Ryan Reynolds agreed \"not to work at the same time\" when they started dating.",
+            "url": "https://www.businessinsider.com/blake-lively-mom-guilt-how-to-manage-parenting-stress-2024-8",
+            "urlToImage": "https://i.insider.com/66b191ee393cd3c8629b7794?width=1200&format=jpeg",
+            "publishedAt": "2024-08-06T04:30:44Z",
+            "content": "Blake Lively feels mom guilt too.Taylor Hill\r\n<ul><li>Blake Lively says she feels guilty whenever she has to choose between work and family commitments.</li><li>The \"Gossip Girl\" star has four childr\u2026 [+3095 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thibault Spirlet",
+            "title": "Ukraine is making a point of treating Russian civilians very differently to how Russia treats Ukrainians in occupied territory",
+            "description": "Ukrainian soldiers are providing food and aid to Russian civilians in Kursk, according to officials, in sharp contrast to Russian actions in Ukraine.",
+            "url": "https://www.businessinsider.com/ukraine-treating-kursk-civilians-well-very-different-russia-actions-report-2024-8",
+            "urlToImage": "https://i.insider.com/66bdd3bdb4912df3ae1be296?width=1200&format=jpeg",
+            "publishedAt": "2024-08-15T11:58:22Z",
+            "content": "Medics helped a local resident in a field hospital at an undisclosed location in the Kursk region on August 11, 2024.ANATOLIY ZHDANOV/Kommersant Photo/AFP via Getty Images\r\n<ul><li>Ukrainian soldiers\u2026 [+3768 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Serafina Kenny",
+            "title": "A busy doctor says he's reversed his age from 78 to 57. Here's his simple, 3-step workout routine.",
+            "description": "A doctor with a packed schedule still manages to fit in exercise to improve his longevity. Here's how.",
+            "url": "https://www.businessinsider.com/busy-doctor-reversed-age-20-years-workout-routine-2024-7",
+            "urlToImage": "https://i.insider.com/66968a805439fb59cebdc002?width=1200&format=jpeg",
+            "publishedAt": "2024-07-23T07:47:02Z",
+            "content": "Dr. Michael Roizen fits exercise into his busy schedule.Cleveland Clinic/Getty Images\r\n<ul><li>Everyone knows exercise is good for you, but many of us don't do enough.\u00a0</li><li>Longevity expert Dr. M\u2026 [+3425 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Serafina Kenny",
+            "title": "A 91-year-old interior designer still plays golf. She shared her three secrets to longevity.",
+            "description": "An interior designer and golfer shared three tips for staying as active as she is in her 90s.",
+            "url": "https://www.businessinsider.com/91-year-old-golfer-longevity-tips-healthy-aging-2024-7",
+            "urlToImage": "https://i.insider.com/669a7b62fb2b6bedb058adaa?width=1200&format=jpeg",
+            "publishedAt": "2024-08-05T11:10:00Z",
+            "content": "Sari Mainzer still plays golf at 91 years old.Atria Senior Living\r\n<ul><li>Sari Mainzer is 91 years old and still plays golf regularly.</li><li>Exercising regularly could be one lifestyle factor that\u2026 [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jenny McGrath",
+            "title": "Secret experiments by a 16th-century alchemist involved an element that nobody knew about at the time",
+            "description": "Astronomer Tycho Brahe studied alchemy in addition to the stars. Researchers analyzed the elements from his lab and were surprised to find tungsten.",
+            "url": "https://www.businessinsider.com/tycho-brahe-tungsten-laboratory-alchemy-2024-8",
+            "urlToImage": "https://i.insider.com/66acfd58a5247369a3e9197f?width=1200&format=jpeg",
+            "publishedAt": "2024-08-06T17:53:29Z",
+            "content": "Tycho Brahe, a 16th-century astronomer and alchemist, had tungsten in his lab nearly 200 years before scientists knew what it was.Universal History Archive/Getty Images\r\n<ul><li>Tycho Brahe, an astro\u2026 [+3990 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Gabby Landsverk",
+            "title": "A man rapidly lost weight on a popular weight-loss drug. After 6 months, he was hospitalized with heart problems and confusion.",
+            "description": "A man lost more than 80 pounds in six months on popular weight drug tirzepatide. He hadn't adjusted his other medications, causing a dangerous side effect.",
+            "url": "https://www.businessinsider.com/man-hospitalized-heart-problem-taking-popular-weight-loss-drug-tirzepatide-2024-8",
+            "urlToImage": "https://i.insider.com/66b2743eb4912df3ae194e31?width=1200&format=jpeg",
+            "publishedAt": "2024-08-07T15:18:03Z",
+            "content": "A new case study reports that a man was hospitalized with a dangerous thyroid condition after losing weight quickly on tirzepatide.OLEKSANDRA TROIAN/Getty Images\r\n<ul><li>A man was hospitalized with \u2026 [+3668 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Yi-Jin Yu",
+            "title": "What parents should know after report suggests tongue-tie may be over-diagnosed",
+            "description": "Here's what parents should know after the American Academy of Pediatrics released a report suggesting tongue-tie may be overdiagnosed in babies.",
+            "url": "https://abcnews.go.com/GMA/Family/parents-after-report-suggests-tongue-tie-diagnosed/story?id=112471055",
+            "urlToImage": "https://i.abcnewsfe.com/a/3e77a993-f182-46eb-babe-c52079274539/tongue-tie-1-ht-bb-240801_1722516346513_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-08-01T21:04:01Z",
+            "content": "A new report from the American Academy of Pediatrics suggests health care providers may be diagnosing too many cases of tongue-tie in babies and children, leading to unnecessary surgeries.\r\nAlso call\u2026 [+3722 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Brian Murphy",
+            "title": "Robin Warren, pathologist who rewrote the science on ulcers, dies at 87",
+            "description": "The long-held medical view was that stress caused ulcers. Dr. Warren and fellow Australian Barry Marshall, who shared a Nobel Prize, showed it was a bacteria.",
+            "url": "https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FBFHXNVL55K5E476XQKAPTH4Q4.JPG&w=1440",
+            "publishedAt": "2024-08-02T10:47:58Z",
+            "content": "Robin Warren, an Australian pathologist who shared a Nobel Prize for rewriting medical views on gut health with research that included his partner drinking a bacteria-laced brew to show how microbes \u2026 [+7547 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Serafina Kenny",
+            "title": "Ireland's oldest man is 108 and cycled everywhere until he was 99. He shared his three-word mantra for staying active into your 100s.",
+            "description": "\"Everything in moderation,\" including Guinness, is the mantra of Ireland's oldest man. Here are some of his other key habits for longevity.",
+            "url": "https://www.businessinsider.com/ireland-oldest-man-longevity-secrets-healthy-aging-2024-7",
+            "urlToImage": "https://i.insider.com/66a8d3bcfb6d32635ee4d125?width=1200&format=jpeg",
+            "publishedAt": "2024-07-30T12:33:02Z",
+            "content": "Martin McEvilly (not pictured) is Ireland's oldest man at 108 years old. He was still cycling everywhere at the age of 99.Westend61/Getty Images\r\n<ul><li>108-year-old Martin McEvilly is Ireland's old\u2026 [+3114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Psychology Today"
+            },
+            "author": "Patricia Prijatel",
+            "title": "Storytelling as Medicine",
+            "description": "\"The Covenant of Water,\" a multigenerational epic set in India's lush Kerala region, merges traditional and Western medicine and is a model of narrative medicine.",
+            "url": "https://www.psychologytoday.com/intl/blog/all-is-well/202407/storytelling-as-medicine",
+            "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-07/pexels-gautham-reghu-1029880-17636329.jpg?itok=n9wlUkGW",
+            "publishedAt": "2024-07-30T16:13:23Z",
+            "content": "About a third of the way into The Covenant of Water, a young Indian boy begins reading Moby Dick to his family. His mother isnt sure about the novel. She says it sounds made up. A lie. \r\nWhen the you\u2026 [+4185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "New way inflammation impacts cell communication",
+            "description": "Researchers have made significant progress in understanding how cells communicate during inflammation.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240814160720.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-14T20:07:20Z",
+            "content": "Indiana University School of Medicine researchers have made significant progress in understanding how cells communicate during inflammation. The study, recently published in PNAS, was conducted over \u2026 [+1633 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "Kenji P. Miyajima",
+            "title": "\u5730\u7403\u898f\u6a21\u306e\u6c17\u5019\u5909\u52d5\u306b\u3088\u3063\u3066\u6691\u3059\u304e\u308b\u65e5\u304c26\u65e5\u5897\u52a0\u3002 \u3055\u3066\u65e5\u672c\u306f\uff1f",
+            "description": "\u4e16\u754c\u306e\u5e73\u5747\u7684\u306a\u4eba\u3005\u306f\u6e29\u6696\u5316\u306e\u5f71\u97ff\u3067\u5371\u967a\u306a\u6691\u3055\u306e\u65e5\u309226\u65e5\u9593\u3082\u4f59\u5206\u306b\u904e\u3054\u3059\u7fbd\u76ee\u306b\u306a\u3063\u3066\u3044\u308b\u3002",
+            "url": "https://www.gizmodo.jp/2024/07/increase-in-extremely-hot-days-due-to-climate-change.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/07/23/shutterstock_1249192363.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2024-07-23T03:00:00Z",
+            "content": "1\r\n202320241250001\r\n5526\r\nClimate CentralWorld Weather Attribution26\r\n1991202016810%\r\nImage: Climate Central\r\n202351520245151991202010%2\r\n2023515202451510%2\r\n261\r\n261821801741631495\r\n1991202010%24103\u2026 [+315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Study finds gaps in mental health care for people with chronic pain",
+            "description": "A new study found that adults with chronic pain are more likely to experience symptoms of anxiety and depression than people without chronic pain, yet they access mental health care at lower rates and are less likely to have their mental health needs met in t\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240729173344.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-29T21:33:44Z",
+            "content": "A new University of Arizona Health Sciences study found that adults with chronic pain are more likely to experience symptoms of anxiety and depression than people without chronic pain, yet they acces\u2026 [+5857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Cognitive behavioral therapy app improves anxiety in young adults",
+            "description": "Researchers found that a self-guided cognitive behavioral therapy (CBT) app, called Maya, significantly reduced anxiety in young adults struggling with mental health challenges. The decrease in anxiety symptoms was clinically and statistically significant at \u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240820124422.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-20T16:44:22Z",
+            "content": "Researchers at Weill Cornell Medicine and NewYork-Presbyterian found that a self-guided cognitive behavioral therapy (CBT) app, called Maya, significantly reduced anxiety in young adults struggling w\u2026 [+5849 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0415\u043d\u0438\u043a\u0435\u0435\u0432",
+            "title": "\u0420\u0430\u0441\u043a\u0440\u044b\u0442 \u0432\u0440\u0435\u0434 \u043a\u0435\u0442\u043e\u0433\u0435\u043d\u043d\u043e\u0439 \u0434\u0438\u0435\u0442\u044b",
+            "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0438 \u0432\u0440\u0435\u0434 \u043a\u0435\u0442\u043e\u0433\u0435\u043d\u043d\u043e\u0439 \u0434\u0438\u0435\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442\u044c \u043a \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u044e \u043b\u0438\u043f\u043e\u043f\u0440\u043e\u0442\u0435\u0438\u043d\u043e\u0432 \u043d\u0438\u0437\u043a\u043e\u0439 \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u0438, \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0445 \u0441 \u00ab\u043f\u043b\u043e\u0445\u0438\u043c\u00bb \u0445\u043e\u043b\u0435\u0441\u0442\u0435\u0440\u0438\u043d\u043e\u043c. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Cell Reports Medicine",
+            "url": "https://lenta.ru/news/2024/08/08/diet/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/08/07/18/20240807181057197/share_f5b6ed20c8415b360cda2f28a2acdcb9.jpg",
+            "publishedAt": "2024-08-08T01:31:37Z",
+            "content": ", , \u00ab\u00bb . Cell Reports Medicine.\r\n , , , , , . , , , , , .\r\n , , - . , , .\r\n 53 , . : , , ( ) .\r\n . , , , 1,6 , - 16 , 26 . , , ( 10 ) -, B .\r\n , , . B. , , , .\r\n , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Parade"
+            },
+            "author": "Ashley Broadwater",
+            "title": "This Popular Artificial Sweetener Could Double Your Heart Attack Risk, Says Cleveland Clinic Study",
+            "description": "Prepare yourself for some undesirable news.",
+            "url": "https://parade.com/health/popular-artificial-sweetener-heart-attack-risk",
+            "urlToImage": "https://media.zenfs.com/en/parade_250/4b1855c77e94ebbfd3c0755ef17d1b1e",
+            "publishedAt": "2024-08-12T23:25:00Z",
+            "content": "If youre trying to lower your sugar intake or protect your enamel a bit more, youve probably enjoyed an artificial sweetener here and there. These sweeteners, such as aspartame and sucralose, are fou\u2026 [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Surprising element found in Tycho Brahe's alchemy lab confounds scientists",
+            "description": "Renaissance astronomer Tycho Brahe, known for his studies of the heavens, was also a alchemist. A new study of glass shards reveals what Brahe was working with in his lab.",
+            "url": "https://www.cnn.com/2024/07/27/science/tycho-brahe-alchemy-lab-tungsten/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-57298016-20240726174516758.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-28T11:11:10Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nWhile Danish astronomer Tycho Brahe is best known for \u2026 [+10331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Doctor Doyle undecided over possible LA Games tilt",
+            "description": "Olympic medal winning rower Philip Doyle will concentrate on his medicine career in 2025 before deciding whether to aim for the Los Angeles Games.",
+            "url": "https://www.bbc.com/sport/rowing/articles/ced1l2we46qo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/897f/live/32fb0ff0-5a2c-11ef-bb87-15816ae9be02.jpg",
+            "publishedAt": "2024-08-14T11:22:00Z",
+            "content": "Olympic medal winning rower Philip Doyle says he will concentrate on his medicine career in 2025 before deciding whether to aim for the 2028 Los Angeles Games.\r\nThe Banbridge man, 31, clinched double\u2026 [+782 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Anna Gordon",
+            "title": "Israel Recovers Bodies of Six Hostages From Gaza, as Ceasefire Demands Grow",
+            "description": "The news comes as U.S. Secretary of State Antony Blinken began his ninth trip to the region since Oct. 7 to press for a Israel-Hamas ceasefire.",
+            "url": "https://time.com/7012601/israel-gaza-hostages-bodies/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/hostage-protest-israel-august.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-08-20T11:06:30Z",
+            "content": "The Israeli military recovered the bodies of six hostages from the Khan Younis area of southern Gaza overnight on Tuesday, according to the Israel Defense Forces and the Prime Ministers office. \r\nIsr\u2026 [+1836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jessica Rendall",
+            "title": "HIV Testing: How to Get a Free Home HIV Test, Who Should Take One and More",
+            "description": "A study finds promising results on a new HIV prevention drug that's injected just twice a year. In the meantime, here's everything to know about HIV testing.",
+            "url": "https://www.cnet.com/health/medical/hiv-testing-how-to-get-a-free-home-hiv-test-who-should-take-one-and-more/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/e1e7d52c14e53d4b16f44dc7c65ce07483cc1521/hub/2022/12/01/aa7edd52-845c-4b0d-ac08-43241f49d319/gettyimages-1251088933.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-26T11:13:25Z",
+            "content": "There are more ways to prevent and test for HIV today than ever. For people at a higher risk of contracting HIV, there's medication available (PrEP) that reduces their risk, and research is ongoing i\u2026 [+7517 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Potential new approach to enhancing stem-cell transplants",
+            "description": "A discovery may boost the effectiveness of stem-cell transplants, commonly used for patients with cancer, blood disorders, or autoimmune diseases caused by defective stem cells, which produce all the body's different blood cells.",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240809135941.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-09T17:59:41Z",
+            "content": "A discovery by a three-member Albert Einstein College of Medicine research team may boost the effectiveness of stem-cell transplants, commonly used for patients with cancer, blood disorders, or autoi\u2026 [+5012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "New gene therapy approach shows promise for Duchenne muscular dystrophy",
+            "description": "Researchers have made a significant breakthrough in developing a new gene therapy approach that restores full-length dystrophin protein, which could lead to new treatments for people with Duchenne muscular dystrophy (DMD).",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240724191230.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-24T23:12:30Z",
+            "content": "Indiana University School of Medicine researchers have made a significant breakthrough in developing a new gene therapy approach that restores full-length dystrophin protein, which could lead to new \u2026 [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Parents who use humor have better relationships with their children, study finds",
+            "description": "In a pilot study, most people viewed humor as an effective parenting tool and that a parent or caregiver's use of humor affected the quality of their relationship with their children, according to new research. Among those whose parents used humor, the majori\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/08/240812123148.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-08-12T16:31:48Z",
+            "content": "They say that laughter is the best medicine, but it could be a good parenting tool too, according to a new study led by researchers from Penn State.In a pilot study, the research team found that most\u2026 [+3725 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "How we went from paper chromosomes to today\u2019s precision cancer drugs",
+            "description": "What started in a scientist's dining room is now in tissue-agnostic combo trials.",
+            "url": "https://arstechnica.com/science/2024/08/precision-cancer-treatments/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/cancer-chromosome-matching-760x380.jpg",
+            "publishedAt": "2024-08-05T11:00:48Z",
+            "content": "1\r\nIn 1972, Janet Rowley sat at her dining room table and cut tiny chromosomes from photographs she had taken in her laboratory. One by one, she snipped out the small figures her children teasingly c\u2026 [+4590 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Jonathan Lambert",
+            "title": "Psychedelic Medicine\u2019s Biggest Dreams Are Fading",
+            "description": "The FDA did not approve the first psychedelic therapy it considered\u2014which could make the field re-think its approach.",
+            "url": "https://www.theatlantic.com/health/archive/2024/08/mdma-fda-rejection/679438/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2024-08-11T15:53:34Z",
+            "content": "On Friday, the fledgling field of psychedelic medicine suffered a major setback. The FDA declined to approve MDMA-assisted therapy for PTSD, instead asking the drugmaker Lykos Therapeutics to conduct\u2026 [+8436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Stephen Kallao",
+            "title": "Kaia Kater unleashes the banjo's innovative energy on 'Strange Medicine'",
+            "description": "The Canadian singer-songwriter's latest record counts minimalist composer Steve Reich and The Caroline Chocolate Drops among its inspirations.",
+            "url": "https://www.npr.org/2024/07/31/1198912511/kaia-kater-album-strange-medicine",
+            "urlToImage": "https://media.npr.org/assets/img/2024/07/31/kaia-kater-brown-top-arms-up-landscape-credit-janice-reidkk_jtr6517_wide-f7655065d8b7d6ea95446865db2a372f23f13ba7.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2024-07-31T16:26:07Z",
+            "content": "Kaia Kater\r\nJanice Reid/Courtesy of the artist\r\n<ul><li>\"The Internet\"</li><li>\"Maker Taker\"</li><li>\"In Montreal\"</li><li>\"Rising Down\"</li></ul>\r\nThere was a point early in her career when Kaia Kat\u2026 [+2171 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u041e\u0431\u0440\u044f\u0434\u0438\u043d\u0430",
+            "title": "\u0416\u0435\u043d\u0449\u0438\u043d\u0430 \u0437\u0430\u043d\u044f\u043b\u0430\u0441\u044c \u0441\u0435\u043a\u0441\u043e\u043c \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430 \u0432\u043e\u0441\u0435\u043c\u044c \u043b\u0435\u0442 \u0438 \u043f\u043e\u043f\u0430\u043b\u0430 \u0432 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0443 \u0441 \u0443\u0436\u0430\u0441\u043d\u043e\u0439 \u0442\u0440\u0430\u0432\u043c\u043e\u0439",
+            "description": "39-\u043b\u0435\u0442\u043d\u044f\u044f \u0436\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u043e\u0441\u0435\u043c\u044c \u043b\u0435\u0442 \u043d\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0430\u0441\u044c \u0441\u0435\u043a\u0441\u043e\u043c, \u043f\u043e\u043f\u0430\u043b\u0430 \u0432 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0443 \u0441 \u0440\u0430\u0437\u0440\u044b\u0432\u043e\u043c \u043f\u0440\u0430\u0432\u043e\u0439 \u0441\u0442\u0435\u043d\u043a\u0438 \u0432\u043b\u0430\u0433\u0430\u043b\u0438\u0449\u0430 \u043f\u043e\u0441\u043b\u0435 \u0438\u043d\u0442\u0438\u043c\u043d\u043e\u0439 \u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438. \u041e\u0442\u0447\u0435\u0442 \u0432\u0440\u0430\u0447\u0435\u0439 \u043e\u0431 \u044d\u0442\u043e\u0439 \u0443\u0436\u0430\u0441\u043d\u043e\u0439 \u0442\u0440\u0430\u0432\u043c\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Case Reports in Clinical Medicine",
+            "url": "https://lenta.ru/news/2024/08/19/zhenschina-zanyalas-seksom-vpervye-za-vosem-let-i-popala-v-bolnitsu-s-uzhasnoy-travmoy/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/08/16/17/20240816175425660/share_94c8f919db293bc0853d50983f0af565.jpg",
+            "publishedAt": "2024-08-19T05:31:28Z",
+            "content": "39- , , . Case Reports in Clinical Medicine.\r\n, 20 . . , . , . .\r\n , , . \u00ab . , , \u00bb, .\r\n, , . , - , .\r\n, . , , - ."
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0415\u043d\u0438\u043a\u0435\u0435\u0432",
+            "title": "\u041e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442 \u043f\u0440\u043e\u0442\u0438\u0432 \u0438\u043d\u0441\u0443\u043b\u0438\u043d\u043e\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0433\u043e \u0434\u0438\u0430\u0431\u0435\u0442\u0430 \u0443 \u0434\u0435\u0442\u0435\u0439",
+            "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u041a\u0430\u0440\u0434\u0438\u0444\u0444\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430, \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u043b\u043b\u0435\u0434\u0436\u0430 \u041b\u043e\u043d\u0434\u043e\u043d\u0430, \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0421\u0443\u043e\u043d\u0441\u0438 \u0438 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041a\u0430\u043b\u0433\u0430\u0440\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442 \u0443\u0441\u0442\u0435\u043a\u0438\u043d\u0443\u043c\u0430\u0431, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0439 \u0434\u043b\u044f \u043b\u0435\u0447\u0435\u043d\u0438\u044f \u043f\u0441\u043e\u0440\u0438\u0430\u0437\u0430, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u0435\u043d \u043f\u0440\u0438 \u043b\u0435\u0447\u0435\u043d\u0438\u0438 \u0440\u0430\u043d\u043d\u0438\u0445 \u0441\u0442\u0430\u0434\u0438\u0439 \u0434\u0438\u0430\u0431\u0435\u0442\u0430 1-\u0433\u043e \u0442\u0438\u043f\u0430 \u0443 \u0434\u0435\u0442\u0435\u0439 \u0438 \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043a\u043e\u0432. \u0420\u2026",
+            "url": "https://lenta.ru/news/2024/07/31/obnaruzhen-preparat-protiv-insulinozavisimogo-diabeta-u-detey/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/07/30/17/20240730175704224/share_fbc69e6b73a82567b02ba250bc00503a.jpg",
+            "publishedAt": "2024-07-31T08:01:33Z",
+            "content": ", , , , , 1- . Nature Medicine.\r\n 1- , . (Th17), , , .\r\n 72 12 18 1- . , Th17.1, , .\r\n , 12 - ( ) 49 . Th17 1- .\r\n , , , . ."
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Gabby Landsverk",
+            "title": "Anti-aging enthusiasts are getting $16,500 injections to make their knees young again",
+            "description": "Longevity influencer Bryan Johnson had millions of stem cells injected to reduce age-related aches. The treatment is booming, though not FDA-approved.",
+            "url": "https://www.businessinsider.com/stem-cell-injections-knee-joints-longevity-wellness-industry-bryan-johnson-2024-7",
+            "urlToImage": "https://i.insider.com/66aa87e2fb6d32635ee5681f?width=1200&format=jpeg",
+            "publishedAt": "2024-08-09T11:21:02Z",
+            "content": "iStock; Rebecca Zisser/BI\r\n<ul><li>Stem cell therapy, though costly and unregulated in the US, shows promise for age-related diseases.</li><li>The wealthy are flying to Aspen and the Bahamas for stem\u2026 [+9387 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Angela Haupt",
+            "title": "7 Metrics Everyone Should Know About Their Own Health",
+            "description": "Data overload isn't helpful\u2014but keeping track of metrics like your LDL cholesterol, blood sugar, and grip strength is.",
+            "url": "https://time.com/7010448/health-metrics-everyone-should-know/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/7-health-metrics.gif?w=1080&h=628&crop=1",
+            "publishedAt": "2024-08-14T12:00:00Z",
+            "content": "If youre asked to share a few fun facts about yourself, youre probably not going to rattle off your blood pressure or cholesterol levels (even if your good cholesterol is, well, really good). But you\u2026 [+8745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "New study finds link between facial attractiveness and lifespan",
+            "description": "A new study published in Social Science and Medicine has uncovered a significant relationship between facial attractiveness and life expectancy, with the least attractive people living substantially shorter lives, on average, than the rest of the cohort.",
+            "url": "https://phys.org/news/2024-08-link-facial-lifespan.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/face-scan.jpg",
+            "publishedAt": "2024-08-14T17:33:47Z",
+            "content": "A new study published in Social Science and Medicine has uncovered a significant relationship between facial attractiveness and life expectancy, with the least attractive people living substantially \u2026 [+3042 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erin Snodgrass",
+            "title": "Most people don't really care about COVID anymore. That's good \u2014 and bad.",
+            "description": "Even amid a summer spike in COVID cases, the general public's attitude toward the virus is more relaxed than ever.",
+            "url": "https://www.businessinsider.com/covid-summer-surge-relaxed-precautions-masking-vaccines-doctors-2024-7",
+            "urlToImage": "https://i.insider.com/66a2cbe8aab37011780ab687?width=1200&format=jpeg",
+            "publishedAt": "2024-07-27T10:33:02Z",
+            "content": "Doctors say a decrease in masking and vaccinations could be contributing to a summer surge of COVID cases.The Washington Post\r\n<ul><li>The general public's attitude toward COVID is more relaxed than \u2026 [+8163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Have a seat, doctor: Study suggests eye-level connection makes a difference in hospitals",
+            "description": "When doctors sit at hospitalized patients' bedsides, it can have a more positive impact than if they stand, a review of data suggests -- but a new study seeks to find out for sure.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240726113335.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-26T15:33:35Z",
+            "content": "Doctors and others who take care of hospitalized patients may want to sit down for this piece of news.A new study suggests that getting at a patient's eye level when talking with them about their dia\u2026 [+4815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Psychology Today"
+            },
+            "author": "The Bronfenbrenner Center for Translational Research",
+            "title": "Why Laughter Is Such Good Medicine",
+            "description": "Since the 1970s, medical experts have learned just how much laughter can improve overall well-being.",
+            "url": "https://www.psychologytoday.com/intl/blog/evidence-based-living/202408/why-laughter-is-such-good-medicine",
+            "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-08/AdobeStock_754294377.jpeg?itok=lHe4FTuj",
+            "publishedAt": "2024-08-15T12:08:56Z",
+            "content": "You know the feeling (hopefully!): Something silly sets you off a movie, a joke, or maybe someone near you slips and falls and you burst into laughter.\r\nIt feels good to a laugh. And since the 1970s,\u2026 [+2467 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Physicists use light to probe deeper into the 'invisible' energy states of molecules",
+            "description": "A new optical phenomenon has been demonstrated by an international team of scientists led by physicists at the University of Bath, with significant potential impact on pharmaceutical science, security, forensics, environmental science, art conservation and me\u2026",
+            "url": "https://phys.org/news/2024-07-physicists-probe-deeper-invisible-energy.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/physicists-use-light-t.jpg",
+            "publishedAt": "2024-07-31T16:03:11Z",
+            "content": "A new optical phenomenon has been demonstrated by an international team of scientists led by physicists at the University of Bath, with significant potential impact on pharmaceutical science, securit\u2026 [+5710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "New method enables gradual release of protein drugs into the body",
+            "description": "Therapeutic proteins have been increasingly used in recent years to treat cancer, HIV, and other diseases. A challenge with these types of drugs is that the release is rapid and thus the medicine must be administered frequently.",
+            "url": "https://phys.org/news/2024-08-method-enables-gradual-protein-drugs.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-method-enables-gra-1.jpg",
+            "publishedAt": "2024-08-09T13:59:03Z",
+            "content": "Therapeutic proteins have been increasingly used in recent years to treat cancer, HIV, and other diseases. A challenge with these types of drugs is that the release is rapid and thus the medicine mus\u2026 [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Trojan horse method gives malaria parasites a taste of their own medicine",
+            "description": "More than a quarter of Australians over the age of 50 take cholesterol-lowering drugs to prevent heart disease and strokes, but our bodies also need cholesterol to survive. Now, scientists from The Australian National University (ANU) say its role as a basic \u2026",
+            "url": "https://phys.org/news/2024-08-trojan-horse-method-malaria-parasites.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/trojan-horse-method-gi.jpg",
+            "publishedAt": "2024-08-14T14:40:03Z",
+            "content": "More than a quarter of Australians over the age of 50 take cholesterol-lowering drugs to prevent heart disease and strokes, but our bodies also need cholesterol to survive. Now, scientists from The A\u2026 [+4196 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cheezburger.com"
+            },
+            "author": "Elna McHilderson, Elna McHilderson",
+            "title": "\u2018She\u2019ll find a way to blame the customer before taking accountability\u2019: Gen X employee avoids the blame when she messes up and puts it on her coworkers, gets called out",
+            "description": "\u2018She\u2019ll find a way to blame the customer before taking accountability\u2019: Gen X employee avoids the blame when she messes up and puts it on her coworkers, gets called out - The internet has generated a huge amount of laughs from cats and FAILS. And we all out o\u2026",
+            "url": "https://cheezburger.com/36228357/shell-find-a-way-to-blame-the-customer-before-taking-accountability-gen-x-employee-avoids-the-blame",
+            "urlToImage": "https://i.chzbgr.com/thumb1200/36228357/h5797326A/gen-x-employee-avoids-the-blame-when-she-messes-up-and-puts-it-on-her-coworkers-gets-called-out",
+            "publishedAt": "2024-08-09T11:00:00Z",
+            "content": "When it comes to coworkers, they can make or break you. If you get a coworker who ends up being your bestie, you can really help each other thrive in the workplace. However, if you get a nightmare co\u2026 [+699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Oshan Jarow",
+            "title": "MDMA therapy didn\u2019t get FDA approval. Now what?",
+            "description": "The FDA has decided not to approve MDMA therapy for the treatment of post-traumatic stress disorder, dealing an unexpected blow to the growing movement to raise psychedelics from the underground as a new, strangely powerful type of medicine.\u00a0 Psychoactive dru\u2026",
+            "url": "https://www.vox.com/future-perfect/365820/mdma-therapy-lykos-therapeutics-maps-psychedelics-ecstasy",
+            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/08/MDMA_option01_No.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2024-08-09T21:35:07Z",
+            "content": "The FDA has decided not to approve MDMA therapy for the treatment of post-traumatic stress disorder, dealing an unexpected blow to the growing movement to raise psychedelics from the underground as a\u2026 [+15023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "AMANDA SEITZ",
+            "title": "Dozens of pregnant women, some bleeding or in labor, being turned away from ERs despite federal law",
+            "description": "Bleeding and in pain, Kyleigh Thurman didn\u2019t know her doomed pregnancy could kill her.  Emergency room doctors at Ascension Seton Williamson in Texas handed ...",
+            "url": "https://www.yahoo.com/news/dozens-pregnant-women-bleeding-labor-131907966.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cLbUvRBd377B_FnJzbuhXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/da897cf1d3a6f65825ea405bc6f04e72",
+            "publishedAt": "2024-08-12T13:19:07Z",
+            "content": "WASHINGTON (AP) Bleeding and in pain, Kyleigh Thurman didnt know her doomed pregnancy could kill her.\r\nEmergency room doctors at Ascension Seton Williamson in Texas handed her a pamphlet on miscarria\u2026 [+8125 chars]"
+        }
+    ]
+}

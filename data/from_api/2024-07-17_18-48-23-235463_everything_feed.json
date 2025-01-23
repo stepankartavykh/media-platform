@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 11259,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Clean energy has become an even more divided topic in the US",
+            "description": "A Pew Research Center poll of over 8,000 people in the US shows drops in support for more solar energy, and fewer people say they\u2019ll buy an EV as their next car.",
+            "url": "https://www.theverge.com/2024/7/1/24189952/renewable-energy-solar-wind-ev-support-pew-research-survey",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/7CFQe611MYyvvxLfs8rhuv2nNOI=/0x0:5194x3401/1200x628/filters:focal(2597x1701:2598x1702)/cdn.vox-cdn.com/uploads/chorus_asset/file/25513843/2150185299.jpg",
+            "publishedAt": "2024-07-01T19:11:56Z",
+            "content": "Photo by Justin Sullivan / Getty Images\r\n\n \n\n While the majority of Americans would like to see more clean energy from solar and wind farms \u2014 support for new renewable energy projects has started to \u2026 [+4544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "OpenAI Partners With Los Alamos Lab to Save Us From AI",
+            "description": "Los Alamos warns that ChatGPT-4 can provide information \"that could lead to the creation of biological threats.\"",
+            "url": "https://gizmodo.com/openai-partners-with-los-alamos-lab-to-save-us-from-ai-2000461202",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-2160791822-e1720626580385.jpg",
+            "publishedAt": "2024-07-10T17:50:30Z",
+            "content": "OpenAI is partnering with Los Alamos National Laboratory to study how artificial intelligence can be used to fight against biological threats that could be created by non-experts using AI tools, acco\u2026 [+4985 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "OpenAI-Backed Nonprofits Have Gone Back on Their Transparency Pledges",
+            "description": "Two organizations that handed out unconditional cash grants told WIRED that they will no longer disclose their financial statements and internal policies. Their stance follows a similar denial by OpenAI.",
+            "url": "https://www.wired.com/story/openai-backed-nonprofits-transparency-pledges/",
+            "urlToImage": "https://media.wired.com/photos/666c88b64444dfe3cde6a41b/191:100/w_1280,c_limit/GettyImages-1786606042.jpg",
+            "publishedAt": "2024-06-17T11:00:00Z",
+            "content": "Neither database mandates nor generally contains up-to-date versions of the records that UBI Charitable and OpenResearch had said they provided in the past.\r\nThe original YC Research conflict-of-inte\u2026 [+3877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "PeLEDs: Using Perovskites to Create LEDs Which Also Sense Light",
+            "description": "With both of the dominant display technologies today \u2013 LCD and OLED \u2013 being far from perfect, there is still plenty of room in the market for the Next Big Thing. One of the technologies\u2026",
+            "url": "https://hackaday.com/2024/07/07/peleds-using-perovskites-to-create-leds-which-also-sense-light/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/06/peLED_display.jpg",
+            "publishedAt": "2024-07-08T05:00:23Z",
+            "content": "With both of the dominant display technologies today \u2013 LCD and OLED \u2013 being far from perfect, there is still plenty of room in the market for the Next Big Thing. One of the technologies being worked \u2026 [+1471 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Rick Hao",
+            "title": "Cultivating giants: How nurturing university spinouts fuels innovation ecosystems",
+            "description": "Innovation thrives at the intersection of academia and entrepreneurship. Universities serve as breeding grounds for startups poised to disrupt industries with their novel ideas and cutting-edge technologies.\u00a0 Yet, the path from academic breakthroughs to comme\u2026",
+            "url": "https://thenextweb.com/news/nurtuting-university-deep-tech-spinouts-innovation-ecosystem",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2Funiversity-spin-out-ecosystem-e1720701446341.jpg&signature=f85d1b19ba24ba4734891ce0784ad572",
+            "publishedAt": "2024-07-11T12:46:07Z",
+            "content": "Innovation thrives at the intersection of academia and entrepreneurship. Universities serve as breeding grounds for startups poised to disrupt industries with their novel ideas and cutting-edge techn\u2026 [+9023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "South China Morning Post",
+            "title": "Huawei's Ren Zhengfei seen with disgraced pianist Li Yundi, sparking speculation on Chinese social media",
+            "description": "Huawei Technologies founder and chief executive Ren Zhengfei has whipped up a storm on Chinese social media after he was seen with disgraced Chinese...",
+            "url": "https://finance.yahoo.com/news/huaweis-ren-zhengfei-seen-disgraced-093000976.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hMeUPGLRkCcsjrAcCb44Lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/south_china_morning_post_us_228/bc343fda064d6229f5ca6d4689ad8182",
+            "publishedAt": "2024-06-25T09:30:00Z",
+            "content": "Huawei Technologies founder and chief executive Ren Zhengfei has whipped up a storm on Chinese social media after he was seen with disgraced Chinese classical pianist Li Yundi, when they visited the \u2026 [+3823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Ken Yeung",
+            "title": "Five trends driving the adoption of Cloud AI technologies, showing reality outpaces hype",
+            "description": "Bessemer Venture Partners' 2024 State of the Cloud reveals the rapid growth of AI. It identifies five trends shaping the Cloud AI economy and why the market is moving faster than the hype.",
+            "url": "https://venturebeat.com/ai/five-trends-driving-the-adoption-of-cloud-ai-technologies-showing-reality-outpaces-hype/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/06/adobe-firefly-ai-cloud-money.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-06-20T15:49:02Z",
+            "content": "It's time to celebrate the incredible women leading the way in AI! Nominate your inspiring leaders for VentureBeats Women in AI Awards today before June 18. Learn More\r\nBessemer Venture Partners is o\u2026 [+2353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Suswati Basu",
+            "title": "OpenAI\u2019s \u2018Strawberry\u2019 AI model aims for advanced reasoning \u2013 reports",
+            "description": "OpenAI, supported by Microsoft, is reportedly developing an undisclosed AI model named \u201cStrawberry\u201d to significantly improve AI reasoning skills, which\u2026 Continue reading OpenAI\u2019s \u2018Strawberry\u2019 AI model aims for advanced reasoning \u2013 reports\nThe post OpenAI\u2019s \u2018S\u2026",
+            "url": "https://readwrite.com/openai-strawberry-ai-advanced-research-reasoning/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/OpenAIs-Strawberry-AI-model-aims-for-advanced-reasoning-reports.png",
+            "publishedAt": "2024-07-15T13:34:40Z",
+            "content": "OpenAI, supported by Microsoft, is reportedly developing an undisclosed AI model named \u201cStrawberry\u201d to significantly improve AI reasoning skills, which can help it conduct independent research on the\u2026 [+2004 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Aude White",
+            "title": "The first all-quadriplegic esports team levels the playing field",
+            "description": "Director Jess Jacklin talks to The Verge about her new documentary and how she entered the world of competitive esports.",
+            "url": "https://www.theverge.com/24195198/quad-gods-documentary-jess-jacklin-interview",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/cS_pxOIoEaB5DDUl7Q-_tskOGX0=/0x0:980x552/1200x628/filters:focal(490x276:491x277)/cdn.vox-cdn.com/uploads/chorus_asset/file/25524067/richard_jacobs_left_sergio_acevedo_right_.jpg",
+            "publishedAt": "2024-07-10T15:00:00Z",
+            "content": "Courtesy of HBO\r\n\n \n\n\n Director Jess Jacklin talks to The Verge about her new documentary following the first all-quadriplegic esports team. \u201cAll of us have the experience of being a prisoner in your\u2026 [+9324 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "52,000-Year-Old Mammoth \u2018Beef Jerky\u2019 Reveals Exquisitely Preserved Chromosomes",
+            "description": "The delicate biological structures were miraculously preserved, giving scientists a time capsule into the genomic architecture of the extinct giants.",
+            "url": "https://gizmodo.com/mammoth-remains-reveal-preserved-chromosomes-1851572629",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/7c6dc46cce7603d855f50000f276af44-e1720706386217.jpg",
+            "publishedAt": "2024-07-11T15:00:28Z",
+            "content": "A crack team of scientists has made a remarkable discovery in the small molecules of a giant creature: immaculately preserved genome architecture in the 52,000-year-old remains of a woolly mammoth. T\u2026 [+7276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mandy Carr",
+            "title": "Engineers design underwater turbine technology that could revolutionize what we know about tidal energy: 'Building the foundation of a research platform'",
+            "description": "\"We got hit by a lobster pot the other day.\"",
+            "url": "https://www.yahoo.com/tech/engineers-design-underwater-turbine-technology-040000084.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/S7RB48wJDoajdySPovdjrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/5992367463fda0f0e07ae1d84cc6ecd6",
+            "publishedAt": "2024-07-05T04:00:00Z",
+            "content": "Two doctoral candidates partnered to create an underwater turbine to track tidal energy.\r\nAccording to CleanTechnica, University of New Hampshire students Parviz Sedigh and Mason Bichanich had never \u2026 [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Suswati Basu",
+            "title": "China pushes to compete with Neuralink with new brain tech committee",
+            "description": "China has unveiled a proposal to establish a Brain-Computer Interface (BCI) Standardization Technical Committee as part of its Ministry of\u2026 Continue reading China pushes to compete with Neuralink with new brain tech committee\nThe post China pushes to compete \u2026",
+            "url": "https://readwrite.com/china-pushes-to-compete-with-neuralink-with-new-brain-tech-committee/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/China-pushes-to-compete-with-Neuralink-with-new-brain-tech-committee.png",
+            "publishedAt": "2024-07-01T21:13:35Z",
+            "content": "China has unveiled a proposal to establish a Brain-Computer Interface (BCI) Standardization Technical Committee as part of its Ministry of Industry and Information Technology (MIIT). The plan aims to\u2026 [+2101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "David Mantey",
+            "title": "Northrop Grumman's New X-Plane Gets Official Name",
+            "description": "The uncrewed aircraft should fly by the end of this year.",
+            "url": "https://finance.yahoo.com/news/northrop-grummans-x-plane-gets-154517727.html",
+            "urlToImage": "https://media.zenfs.com/en/ien_820/d38902b7ea032b049749f7a3b7fbfdd8",
+            "publishedAt": "2024-06-26T15:45:17Z",
+            "content": "The X-plane for DARPA's Series Hybrid Electric Propulsion AiRcraft Demonstration (Shepard) program has received its official designation, the XRQ-73.\r\nNorthrop Grumman's Aeronautics Systems division \u2026 [+1492 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Alice Park",
+            "title": "A Potential Parkinson\u2019s Treatment Has Promising Results",
+            "description": "The new research is early, but it's a hopeful advance for patients with the neurological condition.",
+            "url": "https://time.com/6883054/parkinsons-test-vaccine-study-vaxxinity/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/06/GettyImages-1366343744.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-06-20T15:04:13Z",
+            "content": "A small new trial published in the journal NatureMedicine describes what would be two firsts for Parkinson's disease, if they pan out: a diagnostic test and a potential immune-based treatment that wo\u2026 [+5707 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "WIRED",
+            "title": "It Will Soon Be Easier for Americans to Recycle Batteries",
+            "description": "Improperly discarded batteries leak toxic chemicals and are prone to exploding. A new program funded by the Department of Energy will prop up battery drop-off sites across the US.",
+            "url": "https://www.wired.com/story/it-will-soon-be-easier-for-americans-to-recycle-batteries/",
+            "urlToImage": "https://media.wired.com/photos/669012ea6667fdcfb41ee0b6/191:100/w_1280,c_limit/Science%20-%20battery%20recycling%20-%20July%2012_shutterstock_763136797.jpg",
+            "publishedAt": "2024-07-15T11:30:00Z",
+            "content": "Do you have a collection of old cell phones in a desk drawer somewhere because you dont know what to do with them? A new US initiative aims to make it easier for people to recycle phones, computers, \u2026 [+4301 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Energy company launches world's first energy storage facility using molten salt: 'Groundbreaking technologies can change our world towards a more sustainable future'",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0434c9f1-1b22-4f34-bccf-283bb8c29215",
+            "urlToImage": null,
+            "publishedAt": "2024-06-25T11:00:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Bots Compose 42% of Overall Web Traffic; Nearly Two-Thirds Are Malicious",
+            "description": "/PRNewswire/ -- Akamai Technologies, Inc. (NASDAQ: AKAM), the cloud company that powers and protects life online, today released a new State of the Internet...",
+            "url": "https://www.prnewswire.com/news-releases/bots-compose-42-of-overall-web-traffic-nearly-two-thirds-are-malicious-reports-akamai-302180377.html",
+            "urlToImage": "https://mma.prnewswire.com/media/384815/Akamai_v1_Logo.jpg?p=facebook",
+            "publishedAt": "2024-06-25T13:50:56Z",
+            "content": "Undetected web scraping bots severely impact ecommerce\r\nCAMBRIDGE, Mass., June 25, 2024 /PRNewswire/ -- Akamai Technologies, Inc.\r\n\u00a0(NASDAQ: AKAM), the cloud company that powers and protects life onl\u2026 [+3761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Shannon Eichorn",
+            "title": "Hypersonic Research Topics",
+            "description": "The Hypersonic Technology project is divided into four research topic areas. The first research topic is system-level design, analysis, and validation, which explores the impacts of technologies on vehicle performance. The second and third topics focus more s\u2026",
+            "url": "https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-research-topics/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2023/06/picture-2.png",
+            "publishedAt": "2024-06-21T20:36:45Z",
+            "content": "The Hypersonic Technology project is divided into four research topic areas. The first research topic is system-level design, analysis, and validation, which explores the impacts of technologies on v\u2026 [+2187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "Japanese researchers set new world record internet speed",
+            "description": "A team of Japanese researchers has set a new world record internet speed (data transmission). Using an optical fiber that\u2026 Continue reading Japanese researchers set new world record internet speed\nThe post Japanese researchers set new world record internet sp\u2026",
+            "url": "https://readwrite.com/japanese-researchers-set-new-world-record-internet-speed/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/japan.webp",
+            "publishedAt": "2024-06-28T20:52:38Z",
+            "content": "A team of Japanese researchers has set a new world record internet speed (data transmission).\r\nUsing an optical fiber that is available commercially, the team established a data rate of 402 terabits \u2026 [+1757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Holly Jackson: 'Obviously, I love murder - fictional murder'",
+            "description": "The author of A Good Girl's Guide to Murder, Holly Jackson, on murder mysteries and true crime.",
+            "url": "https://www.bbc.com/news/articles/crgk41ylmgeo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7f50/live/887613a0-3919-11ef-85ba-e5e081cb6e53.jpg",
+            "publishedAt": "2024-07-07T00:27:32Z",
+            "content": "Holly's debut novel A Good Girl's Guide to Murder has been turned into a series for the BBC\r\nBestselling author Holly Jackson shares her secrets for plotting a modern murder mystery - and explains ho\u2026 [+5683 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'There were no signs my brother had a problem before he died'",
+            "description": "Mural campaign highlights that12 people under 35 die from cardiac arrest each week in the UK.",
+            "url": "https://www.bbc.com/news/articles/c199y0rlkpyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b042/live/af5c2ad0-2c9f-11ef-a044-9d4367d5b599.jpg",
+            "publishedAt": "2024-06-17T14:05:48Z",
+            "content": "By\u00a0Mallory Moench,\u00a0BBC News\r\nThere were no signs that he had a problem. Nothing that could have predicted it.\r\nThat is what Olympic gymnast Ellie Downie told BBC Breakfast about her 24-year-old broth\u2026 [+4263 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "The Conversation",
+            "title": "Does your service business need AI? Here are 4 rules to help you\u00a0decide",
+            "description": "Artificial intelligence is the big thing right now, with industries from finance to health care to retail scrambling to adopt AI or risk being left behind. But speaking as professors of business, we think some companies might be jumping the gun. Our recent re\u2026",
+            "url": "https://thenextweb.com/news/does-your-service-business-need-ai-here-are-4-rules-to-help-you-decide",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F06%2FUntitled-design-8.jpg&signature=081937b53452c92b0b4e8eaf091e894c",
+            "publishedAt": "2024-06-28T08:30:19Z",
+            "content": "Artificial intelligence is the big thing right now, with industries from finance to health care to retail scrambling to adopt AI or risk being left behind. But speakingas professorsof business, we th\u2026 [+7367 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Samantha Grindell",
+            "title": "Lauren S\u00e1nchez shares Jeff Bezos' guiding principle for their $10 billion philanthropy effort",
+            "description": "Lauren S\u00e1nchez spoke to Eva Longoria about her work with Jeff Bezos on the Bezos Earth Fund, which is giving $10 billion to fight the climate crisis.",
+            "url": "https://www.businessinsider.com/lauren-sanchez-jeff-bezos-earth-fund-philanthropy-2024-7",
+            "urlToImage": "https://i.insider.com/668e9396b2528216eeb50d51?width=1200&format=jpeg",
+            "publishedAt": "2024-07-10T16:00:52Z",
+            "content": "Lauren S\u00e1nchez discussed her work with Jeff Bezos on the Bezos Earth Fund.Stefanie Keenan/VF24/Getty Images\r\n<ul><li>Eva Longoria interviewed Lauren S\u00e1nchez for The Hollywood Reporter.</li><li>The lo\u2026 [+3434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "We'll Have to Wait a Bit Longer for the World's Biggest Fusion Reactor",
+            "description": "Earlier this morning, the International Thermonuclear Experimental Reactor (ITER) Organization announced what has long been known: The largest tokamak in the world will be delayed further, prolonging the awaited nuclear fusion machine\u2019s operations by at least\u2026",
+            "url": "https://gizmodo.com/delay-largest-fusion-reactor-iter-tokamak-clean-energy-1851575039",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/90115cdf9a778cc15aa3a5bd51def840.jpg",
+            "publishedAt": "2024-07-03T16:55:00Z",
+            "content": "Earlier this morning, the International Thermonuclear Experimental Reactor (ITER) Organization announced what has long been known: The largest tokamak in the world will be delayed further, prolonging\u2026 [+5007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Asomo.co"
+            },
+            "author": "Brett Scott",
+            "title": "Tech doesn't make our lives easier. It makes them faster",
+            "description": "Supposedly technologies like AI and digital payments make our lives easier. In reality convenience is an illusion used to sell us automation-driven acceleration",
+            "url": "https://www.asomo.co/p/tech-doesnt-make-our-lives-easier",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedc4e249-14c1-4779-b2c0-cfcd45ed718b_1000x1262.png",
+            "publishedAt": "2024-07-02T22:08:21Z",
+            "content": "We have far more technology than any other generation in human history, and it allows us to do things in a fraction of the time that our ancient ancestors did. It must surely follow that were the mos\u2026 [+14808 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Cryptic pregnancy: 'I had 4 weeks to get my life together'",
+            "description": "Tawana tells the Reliable Sauce podcast that she unexpectedly found out she was pregnant in month eight.",
+            "url": "https://www.bbc.com/news/articles/c0xx6gn09ylo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b45a/live/989d17c0-2996-11ef-b932-27d3f03772f0.jpg",
+            "publishedAt": "2024-06-19T02:59:30Z",
+            "content": "By\u00a0Bonnie McLaren,\u00a0BBC Newsbeat\r\nTawana had no idea she was pregnant with River, who's now aged one\r\nHaving a baby aged 21 wasnt in Tawanas plans.\r\nShe was, in her own words, \"living a wild, crazy li\u2026 [+4661 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "PhotonDelta\u2019s new Silicon Valley hub to merge Dutch and US photonic chip expertise",
+            "description": "PhotonDelta, a photonic chip accelerator in the Netherlands, has opened an office in Silicon Valley \u2014 marking a milestone moment for the Dutch semiconductor sector. The move is part of PhotonDelta\u2019s goal to create a unified photonic chip industry that leverag\u2026",
+            "url": "https://thenextweb.com/news/photondelta-new-silicon-valley-hub-merge-dutch-us-photonic-chip",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F04%2Fai-generated-8334304_1280.jpg&signature=eac371266b18d46aaad64ccc14e10fc3",
+            "publishedAt": "2024-07-10T15:58:41Z",
+            "content": "PhotonDelta, a photonic chip accelerator in the Netherlands, has opened an office in Silicon Valley marking a milestone moment for the Dutch semiconductor sector.\r\nThe move is part of PhotonDeltas go\u2026 [+1646 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Reuters",
+            "title": "Chinese robot 'guide dog' could help the visually impaired \u2014 it's even a talking dog",
+            "description": "Filed under:\n Emerging Technologies\n Continue reading Chinese robot 'guide dog' could help the visually impaired \u2014 it's even a talking dog\nChinese robot 'guide dog' could help the visually impaired \u2014 it's even a talking dog originally appeared on Autoblog on \u2026",
+            "url": "https://www.autoblog.com/2024/07/07/chinese-robot-guide-dog-could-help-the-visually-impaired-its-even-a-talking-dog/",
+            "urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/crop/2312x1301+0+0/resize/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/07/05120219/Chinese-robot-guide-dog.jpg.jpg",
+            "publishedAt": "2024-07-07T13:00:00Z",
+            "content": "SHANGHAI It's less furry than a traditional companion, but a six-legged Chinese robot \"guide dog\" could one day help vision impaired people live more independently, according to its research developm\u2026 [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Employees prefer human performance monitors over AI, study finds",
+            "description": "Organizations using AI to monitor employees' behavior and productivity can expect them to complain more, be less productive and want to quit more -- unless the technology can be framed as supporting their development, research finds.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240708222357.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-09T02:23:57Z",
+            "content": "Organizations using AI to monitor employees' behavior and productivity can expect them to complain more, be less productive and want to quit more -- unless the technology can be framed as supporting \u2026 [+3301 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Dara Kerr",
+            "title": "AI brings soaring emissions for Google and Microsoft, a major contributor to climate change",
+            "description": "The tech giants both report surges in greenhouse gas emissions as they double-down on adding artificial intelligence to all of their products.",
+            "url": "https://www.npr.org/2024/07/12/g-s1-9545/ai-brings-soaring-emissions-for-google-and-microsoft-a-major-contributor-to-climate-change",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4493x2527+0+74/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2Fed%2F49e25d9e433da2110a420494804e%2Fgettyimages-1131573756.jpg",
+            "publishedAt": "2024-07-12T09:13:19Z",
+            "content": "Researcher Jesse Dodge did some back-of-the-napkin math on the amount of energy AI chatbots use.\r\nOne query to ChatGPT uses approximately as much electricity as could light one light bulb for about 2\u2026 [+5656 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "New satellite aims to show how AI advances Earth observation",
+            "description": "Artificial intelligence technologies have achieved remarkable successes and continue to show their value as backbones in scientific research and real-world applications.",
+            "url": "https://phys.org/news/2024-07-satellite-aims-ai-advances-earth.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-satellite-aims-to.jpg",
+            "publishedAt": "2024-07-02T15:36:55Z",
+            "content": "Artificial intelligence technologies have achieved remarkable successes and continue to show their value as backbones in scientific research and real-world applications.\r\nESA's new sat-2 mission, lau\u2026 [+6004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Lionel Lim",
+            "title": "Huawei\u2019s homegrown mobile OS is proving so successful, it\u2019s reportedly thinking of charging developers to use it",
+            "description": "Huawei\u2019s HarmonyOS is now the second-most-popular mobile operating system in China, overtaking Apple\u2019s iOS.",
+            "url": "https://finance.yahoo.com/news/huawei-homegrown-mobile-os-proving-103246435.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KkwN.x66J9OVkiBRmDZZaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/4e8d93a9041422d0f9ced6a8fea17a61",
+            "publishedAt": "2024-06-18T10:32:46Z",
+            "content": "After getting placed on a U.S. trade blacklist in 2019, Huawei Technologies was forced to quickly develop local alternatives to keep its business going. Now, years later, these homegrown products are\u2026 [+1987 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "JOSH BOAK",
+            "title": "Biden administration provides $504 million to support 12 'tech hubs' nationwide",
+            "description": "The Biden administration said Tuesday that it was providing $504 million in implementation grants for a dozen \u201ctech hubs\" in Ohio, Montana, Nevada and...",
+            "url": "https://www.yahoo.com/news/biden-administration-provides-504-million-090733787.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yBiD9yKAjvFxyCirpH.IfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/cce0f6e4e55ecc8e5ec988f2568407da",
+            "publishedAt": "2024-07-02T09:07:33Z",
+            "content": "WASHINGTON (AP) The Biden administration said Tuesday that it was providing $504 million in implementation grants for a dozen tech hubs\" in Ohio, Montana, Nevada and Florida, among other locations.\r\n\u2026 [+1805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Autoblog Staff",
+            "title": "VW to invest up to $5 billion in Rivian in an EV tech joint venture",
+            "description": "Filed under:\n Earnings/Financials,Green,Volkswagen,Emerging Technologies,Electric,Rivian\n Continue reading VW to invest up to $5 billion in Rivian in an EV tech joint venture\nVW to invest up to $5 billion in Rivian in an EV tech joint venture originally appea\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c7389368-6675-48ab-966c-ecf3ddec8ca8",
+            "urlToImage": null,
+            "publishedAt": "2024-06-25T20:39:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Core77.com"
+            },
+            "author": "Core77 Design Awards",
+            "title": "The 2024 Core77 Design Awards Winners In The Emerging Technologies Category",
+            "description": "The winning Professional entry is Elroy Air Chaparral, an autonomous vertical take off and landing (VTOL) aircraft that can deliver 300 lbs of cargo across a 300 mile range by Elroy Air, and the winning Student entry is Invisible, a 3D-printed flexible pressu\u2026",
+            "url": "https://www.core77.com/posts/132589/The-2024-Core77-Design-Awards-Winners-In-The-Emerging-Technologies-Category",
+            "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1548419_lead_400_132589_.png",
+            "publishedAt": "2024-06-18T12:15:00Z",
+            "content": "The winning Professional entry is Elroy Air Chaparral, an autonomous vertical take off and landing (VTOL) aircraft that can deliver 300 lbs of cargo across a 300 mile range by Elroy Air, and the winn\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Catherine Boudreau",
+            "title": "The most common type of EV battery is a growing source of 'forever chemical' pollution, scientists say",
+            "description": "Scientists found PFAS used in lithium-ion batteries in air, water, snow, and soil near chemical plants in the US, Belgium, and France.",
+            "url": "https://www.businessinsider.com/ev-batteries-pfas-forever-chemicals-scientists-say-2024-7",
+            "urlToImage": "https://i.insider.com/668832ea268f62ba18a7d255?width=1200&format=jpeg",
+            "publishedAt": "2024-07-08T09:59:02Z",
+            "content": "Lithium-ion batteries for electric vehicles are made with a class of PFAS chemicals.Source Photo/Getty Images\r\n<ul><li>Lithium-ion batteries are the most common type of battery found in electric vehi\u2026 [+5061 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jake Epstein",
+            "title": "Ground robots may be the 'next game-changer technology' of the war, senior Ukrainian official says",
+            "description": "Ukraine is looking to build a fleet of ground robots for assault, minelaying, and logistics missions, Mykhailo Fedorov told Business Insider.",
+            "url": "https://www.businessinsider.com/ground-robots-next-game-changer-technology-of-war-ukrainian-official-2024-6",
+            "urlToImage": "https://i.insider.com/6679d77e50b021b5cae8f376?width=1200&format=jpeg",
+            "publishedAt": "2024-06-24T20:31:01Z",
+            "content": "A VOLYA-E logistics robot.UNITED24\r\n<ul><li>Ukraine is aiming to field a diverse arsenal of ground robots to help support its war efforts.</li><li>These robots can launch assaults, lay mines, and del\u2026 [+4876 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "EU awards \u20ac1B and 8 million supercomputing hours to 4 AI startups",
+            "description": "The EU\u2019s supercomputer alliance yesterday announced the winners of its AI startup competition. Four companies will split \u20ac1bn \u2014 and precious uptime on world-class high-performance computer systems to train their models.\u00a0 Training and running AI requires massi\u2026",
+            "url": "https://thenextweb.com/news/eu-awards-1-billion-euro-8-million-supercomputing-hours-ai-startups",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F06%2FLUMI.jpeg&signature=162beda140b2613b0f3ee9a220a4dfd3",
+            "publishedAt": "2024-06-27T08:43:58Z",
+            "content": "The EUs supercomputer alliance yesterday announced the winners of its AI startup competition. Four companies will split 1bn and precious uptime on world-class high-performance computer systems to tra\u2026 [+2319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Improving crops with laser beams and 3D printing",
+            "description": "A demonstration of how new technologies can be used in 21st century crop breeding comes from just published research that combines laser scanning and 3D printing to create a detailed 3D model of a sugar beet plant.",
+            "url": "https://phys.org/news/2024-06-crops-laser-3d.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/improving-crops-with-l.jpg",
+            "publishedAt": "2024-06-20T00:00:01Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+4792 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "North Korea's Kim Jong Un could get his hands on some worrying military tech in exchange for throwing Russia a war lifeline",
+            "description": "As Putin and Kim grow closer, there's the possibility that North Korea could get its hands on winning weapons technology.",
+            "url": "https://www.businessinsider.com/most-worrying-military-tech-north-korea-could-get-from-russia-2024-6",
+            "urlToImage": "https://i.insider.com/667af4a350b021b5cae94e48?width=1200&format=jpeg",
+            "publishedAt": "2024-06-26T16:51:40Z",
+            "content": "This undated picture released from North Korea's official Korean Central News Agency (KCNA) on September 16, 2017, shows North Korean leader Kim Jong-Un inspecting a launching drill of the medium-and\u2026 [+8161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blog.google"
+            },
+            "author": "Ben GomesSVPLearning & Sustainability, Kate BrandtChief Sustainability Officer, Google",
+            "title": "Our 2024 Environmental Report",
+            "description": "Our 2024 Environmental Report looks at our use of technology to drive environmental change and operate our business sustainably.",
+            "url": "https://blog.google/outreach-initiatives/sustainability/2024-environmental-report/",
+            "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Environmental_Report_2024_hero.width-1300.jpg",
+            "publishedAt": "2024-07-02T16:00:00Z",
+            "content": "Since our earliest days, weve been on an ambitious journey to help build a more sustainable future. An important part of that is sharing what weve learned along the way and being transparent about ou\u2026 [+6369 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emmalyse Brownstein",
+            "title": "More than half of banking jobs could be automated by AI \u2014 but banks will be slow to adopt, Citi report says",
+            "description": "A new Citi report says finance will be \"at the forefront\" of changes due to artificial intelligence.",
+            "url": "https://www.businessinsider.com/ai-could-automate-more-than-half-of-banking-jobs-citi-2024-6",
+            "urlToImage": "https://i.insider.com/6673374ba76074d191cd3e9b?width=1200&format=jpeg",
+            "publishedAt": "2024-06-19T20:17:53Z",
+            "content": "Simon Dawson/REUTERS; Samantha Lee/Business Insider\r\n<ul><li>A new Citi report says finance will be \"at the forefront\" of changes due to artificial intelligence.</li><li>Banking jobs are most at risk\u2026 [+3176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ornl.gov"
+            },
+            "author": null,
+            "title": "Wireless power transfer system achieves 270-kilowatt charge",
+            "description": "Comments",
+            "url": "https://www.ornl.gov/news/polyphase-wireless-power-transfer-system-achieves-270-kilowatt-charge-sets-another-world",
+            "urlToImage": "https://www.ornl.gov/sites/default/files/2024-06/2024-P09317.jpg",
+            "publishedAt": "2024-06-21T12:48:24Z",
+            "content": "Its exciting to see the significant progress Volkswagen and Oak Ridge National Lab are making together in many critical technologies. Innovation projects being researched in East Tennessee will trans\u2026 [+1593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Marina Guerges",
+            "title": "Next-generation NASA technologies tested in flight",
+            "description": "Teams of NASA researchers put their next-generation technologies to the microgravity test in a series of parabolic flights that aim to advance innovations supporting the agency's space exploration goals.",
+            "url": "https://phys.org/news/2024-06-generation-nasa-technologies-flight.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/next-generation-nasa-t.jpg",
+            "publishedAt": "2024-06-20T18:55:03Z",
+            "content": "Teams of NASA researchers put their next-generation technologies to the microgravity test in a series of parabolic flights that aim to advance innovations supporting the agency's space exploration go\u2026 [+3680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Stop snap elections to help diversity, says ex MS",
+            "description": "Stopping snap elections could help political parties to get more women candidates, an ex MS says.",
+            "url": "https://www.bbc.com/news/articles/cevvrqv7y24o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f7b2/live/c5f52cb0-2e52-11ef-8037-1d36f173811f.jpg",
+            "publishedAt": "2024-06-23T06:22:47Z",
+            "content": "Bethan Sayed said political parties needed to do better with women candidates \r\nStopping snap elections could help to support more women into politics, according to one former MS.\r\nBethan Sayed, who \u2026 [+6016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Optoelectronics gain spin control from chiral perovskites and III-V semiconductors",
+            "description": "A research effort has made advances that could enable a broader range of currently unimagined optoelectronic devices.",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240702135546.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-02T17:55:46Z",
+            "content": "A research effort led by scientists at the U.S. Department of Energy's (DOE's) National Renewable Energy Laboratory (NREL) has made advances that could enable a broader range of currently unimagined \u2026 [+4191 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Asu.edu"
+            },
+            "author": null,
+            "title": "Humans began to rapidly accumulate technological knowledge 600k years ago",
+            "description": "Each of us individually is the accumulated product of thousands of generations that have come before us in an unbroken line. Our culture and technology today are also the result of thousands of years of accumulated and remixed cultural knowledge.",
+            "url": "https://news.asu.edu/20240617-science-and-technology-asu-study-points-origin-cumulative-culture-human-evolution",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T21:28:50Z",
+            "content": "Each of us individually is the accumulated product of thousands of generations that have come before us in an unbroken line. Our culture and technology today are also the result of thousands of years\u2026 [+4374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Penguin Solutions",
+            "title": "Penguin Solutions expands OriginAI Solution to accelerate AI factory deployment and optimize performance",
+            "description": "Penguin\u2019s OriginAI solution includes validated architectures backed by intelligent cluster management software and expert services.",
+            "url": "https://venturebeat.com/ai/penguin-solutions-expands-originai-solution-to-accelerate-ai-factory-deployment-and-optimize-performance/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/06/PenguinSolutions_OriginAI_Registered-small-for-social.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-06-18T20:06:34Z",
+            "content": "Penguins OriginAI solution includes validated architectures backed by intelligent cluster management software and expert services that enable companies to rapidly deploy AI infrastructure at scale\r\nF\u2026 [+4509 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (David Schloss)",
+            "title": "Apple working out how to use Mac in parallel with iPhone or iPad to process big jobs",
+            "description": "Apple isn't content with the existing distributed computing technologies, and is working on a way to network your Mac, iPhone, iPad, and maybe even the Apple Vision Pro together to combine processing jobs dynamically according to device power, to get a big ca\u2026",
+            "url": "https://appleinsider.com/articles/24/06/25/apple-working-out-how-to-use-mac-in-parallel-with-iphone-or-ipad-to-process-big-jobs",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/60165-123562-patentillustration-xl.jpg",
+            "publishedAt": "2024-06-25T15:08:41Z",
+            "content": "Apple's patent shows multiple devices sharing the computing workload.\r\nApple isn't content with the existing distributed computing technologies, and is working on a way to network your Mac, iPhone, i\u2026 [+4046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Psychology Today"
+            },
+            "author": "Natalia Kucirkova Ph.D.",
+            "title": "Technologies That Entertain and Educate: How Are They Made?",
+            "description": "Discover how \"Sesame Street\" combines rigorous research with inclusive development to create media that both entertain and educate children worldwide.",
+            "url": "https://www.psychologytoday.com/intl/blog/just-for-you/202406/technologies-that-entertain-and-educate-how-are-they-made",
+            "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-06/shutterstock_1370107424.jpg?itok=nd-JQ4JQ",
+            "publishedAt": "2024-06-17T15:43:09Z",
+            "content": "There's a widely accepted research consensus that educational technology, or ed-tech, can lead to positive learning outcomesbut only when the technology design and use are of high quality.\r\nAchieving\u2026 [+5599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Tiernan P. Doyle",
+            "title": "NASA Advances Research to Grow Habitats in Space from Fungi",
+            "description": "As NASA\u00a0prepares for long-duration missions to the Moon and Mars for the benefit of all, a habitat-growing concept selected Wednesday by the agency could help \u201cgrow\u201d homes using fungi for future explorers. A team of researchers at NASA Ames Research Center in\u2026",
+            "url": "https://www.nasa.gov/news-release/nasa-advances-research-to-grow-habitats-in-space-from-fungi/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/06/niac.webp",
+            "publishedAt": "2024-06-26T18:32:49Z",
+            "content": "As NASA\u00a0prepares for long-duration missions to the Moon and Mars for the benefit of all, a habitat-growing concept selected Wednesday by the agency could help grow homes using fungi for future explor\u2026 [+4135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Lie-detection AI could provoke people into making careless accusations, researchers warn",
+            "description": "Although people lie a lot, they typically refrain from accusing others of lying because of social norms around making false accusations and being polite. But artificial intelligence (AI) could soon shake up the rules. Researchers demonstrate that people are m\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/06/240627172059.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-06-27T21:20:59Z",
+            "content": "Although people lie a lot, they typically refrain from accusing others of lying because of social norms around making false accusations and being polite. But artificial intelligence (AI) could soon s\u2026 [+4591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Scientists discover way to 'grow' sub-nanometer sized transistors",
+            "description": "A research team has implemented a novel method to achieve epitaxial growth of 1D metallic materials with a width of less than 1 nm. The group applied this process to develop a new structure for 2D semiconductor logic circuits. Notably, they used the 1D metals\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240703131811.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-03T17:18:11Z",
+            "content": "A research team led by Director JO Moon-Ho of the Center for Van der Waals Quantum Solids within the Institute for Basic Science (IBS) has implemented a novel method to achieve epitaxial growth of 1D\u2026 [+2958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "New shapes of photons open doors to advanced optical technologies",
+            "description": "Researchers from the University of Twente in the Netherlands have gained important insights into photons, the elementary particles that make up light. They 'behave' in an amazingly greater variety than electrons surrounding atoms, while also being much easier\u2026",
+            "url": "https://phys.org/news/2024-07-photons-doors-advanced-optical-technologies.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/new-shapes-of-photons.jpg",
+            "publishedAt": "2024-07-08T14:25:03Z",
+            "content": "Researchers from the University of Twente in the Netherlands have gained important insights into photons, the elementary particles that make up light. They 'behave' in an amazingly greater variety th\u2026 [+3257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Offshore Technology"
+            },
+            "author": "Ed Pearcey",
+            "title": "Gap between US energy production and consumption now biggest ever",
+            "description": "Production in 2023 rose by 4%, while energy consumption eased by 1%.",
+            "url": "https://www.offshore-technology.com/news/gap-between-us-energy-production-and-consumption-now-biggest-ever/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TezHGt0oxRtuAAhVkegk8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDA-/https://media.zenfs.com/en/offshore_technology_431/aec84b58ccdbd0c2b43f5eea4d10df3a",
+            "publishedAt": "2024-06-27T10:37:14Z",
+            "content": "The amount of energy the US produces compared with the amount it consumes has reached it widest-ever gap since official records began, data from the Energy Information Administration (EIA) has reveal\u2026 [+2935 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Study explores what motivates people to watch footage of disasters and extreme weather",
+            "description": "The release in July 2024 of the blockbuster film Twisters (centred around a social-media celebrity storm-chaser) demonstrates an ongoing public fascination in hazards and extreme weather. The arrival of camera and streaming technologies have made it easier to\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240702135537.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-02T17:55:37Z",
+            "content": "Extreme weather events such as hurricanes and storms have increased in both frequency and severity in recent years.With that has come heightened public interest, resulting in often dramatic footage b\u2026 [+3496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Charmindustrial.com"
+            },
+            "author": "Bejamas",
+            "title": "We need to accelerate carbon removal and decarb simultaneously",
+            "description": "We are not on the 1.5 \u00b0C pathway set forth by the Paris climate agreement. We are nowhere close. We are not even on the 2 \u00b0C pathway. We all need to stop burying our heads in the sand and have the courage to say that loudly and clearly.",
+            "url": "https://charmindustrial.com/blog/more-better-more-faster",
+            "urlToImage": "https://a-us.storyblok.com/f/1019545/1632x1089/c594346010/carbon-dioxide-removal-page.jpg",
+            "publishedAt": "2024-06-27T14:34:30Z",
+            "content": "We are not on the 1.5 \u00b0C pathway set forth by the Paris climate agreement. We are nowhere close. We are not even on the 2 \u00b0C pathway. We all need to stop burying our heads in the sand and have the co\u2026 [+5000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Marina Guerges",
+            "title": "Next Generation NASA Technologies Tested in Flight",
+            "description": "Teams of NASA researchers put their next-generation technologies to the microgravity test in a series of parabolic flights that aim to advance innovations supporting the agency\u2019s space exploration goals.",
+            "url": "https://www.nasa.gov/directorates/stmd/game-changing-development-program/next-generation-nasa-technologies-tested-in-flight/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/06/fleet-uber-zero-g.jpg",
+            "publishedAt": "2024-06-20T15:03:55Z",
+            "content": "Teams of NASA researchers put their next-generation technologies to the microgravity test in a series of parabolic flights that aim to advance innovations supporting the agencys space exploration goa\u2026 [+4350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Scientists develop efficient and stable hybrid perovskite-organic LEDs with external quantum efficiency exceeding 40%",
+            "description": "Tandem LEDs offer an effective way to integrate different light-emitting technologies for better display that meets Rec. 2020 color gamut standard. Now, scientists in China have developed a stable, efficient and high-color purity green LED with a tandem struc\u2026",
+            "url": "https://phys.org/news/2024-07-scientists-efficient-stable-hybrid-perovskite.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/efficient-and-stable-h.jpg",
+            "publishedAt": "2024-07-08T17:54:05Z",
+            "content": "a, Device structure and b, schematic energy band diagram of a hybrid LED. c, EL spectra, d, current density-voltage, e, luminance-voltage and f, EQE- current density characteristics of the PeLED, OLE\u2026 [+3603 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jyoti Mann",
+            "title": "These are the top skills you need to help land a job in AI",
+            "description": "AI skills are in high demand in the job market. Here are some of the competencies you need to help land a job in AI.",
+            "url": "https://www.businessinsider.com/ai-top-skills-you-need-get-job-2024-7",
+            "urlToImage": "https://i.insider.com/6687d1271aace5b3ada49140?width=1200&format=jpeg",
+            "publishedAt": "2024-07-05T12:30:36Z",
+            "content": "AI expertise is highly sought after by employersSurasak Suwanmake/Getty Images\r\n<ul><li>AI skills are in high demand as companies aim to leverage AI for competitive products.</li><li>AI expertise can\u2026 [+4302 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "AI, immigration, and rich people will save the US economy from a recession, Wall Street strategist says",
+            "description": "\"A restrictive Fed won't stop the music this time around because the economy's moving to a new rhythm,\" Michael Arone said.",
+            "url": "https://www.businessinsider.com/us-economy-outlook-ai-immigration-rich-people-will-prevent-recession-2024-7",
+            "urlToImage": "https://i.insider.com/668d5a7d268f62ba18a87064?width=1200&format=jpeg",
+            "publishedAt": "2024-07-09T16:58:20Z",
+            "content": "Thomas Barwick/Getty Images\r\n<ul><li>The US economy will avoid a recession due to AI, immigration, and high-income consumers, said Michael Arone.</li><li>AI will boost productivity and immigration wi\u2026 [+4177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Flexible nanoimprint lithography enables efficient fabrication of biomimetic microstructures",
+            "description": "Gallium nitride (GaN)-based light-emitting diodes (LEDs) have transformed the lighting industry by replacing conventional lighting technologies with superior energy efficiency, longer operating life and greater environmental sustainability. In recent years, c\u2026",
+            "url": "https://phys.org/news/2024-07-flexible-nanoimprint-lithography-enables-efficient.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/flexible-nanoimprint-l.jpg",
+            "publishedAt": "2024-07-08T20:03:53Z",
+            "content": "Gallium nitride (GaN)-based light-emitting diodes (LEDs) have transformed the lighting industry by replacing conventional lighting technologies with superior energy efficiency, longer operating life \u2026 [+3729 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Paradis",
+            "title": "Greece's plan for a 6-day workweek to boost productivity may not work",
+            "description": "The move to a six-day workweek for some industries in Greece aims to increase productivity, but it could do the opposite.",
+            "url": "https://www.businessinsider.com/greece-six-day-workweek-productivity-plan-may-not-work-2024-7",
+            "urlToImage": "https://i.insider.com/66843d7d1aace5b3ada3bff4?width=1200&format=jpeg",
+            "publishedAt": "2024-07-02T19:45:07Z",
+            "content": "Workers in Greece might have less time to enjoy the country's beauty if they're working more.Vasilis Tsikkinis photos\r\n<ul><li>Greece is shifting to a six-day workweek in some industries to boost pro\u2026 [+4708 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dominick Reuter",
+            "title": "A 43-page IMF report on AI warns of 'profound concerns' about massive labor disruptions and inequality. We asked GPT-4 to summarize it.",
+            "description": "GPT-4 concluded the report finds AI presents \"significant risks\" and recommended policymakers remain flexible.",
+            "url": "https://www.businessinsider.com/we-asked-gpt4-summarize-imf-profound-concerns-about-gen-ai-2024-6",
+            "urlToImage": "https://i.insider.com/6672df262efa138e0330f939?width=1200&format=jpeg",
+            "publishedAt": "2024-06-19T14:57:05Z",
+            "content": "GPT-4 is the latest multimodal large language model from Open AI, a successor to Chat-GPT.Jaap Arriens/NurPhoto via Getty Images\r\n<ul><li>The IMF released a lengthy report this week warning of massiv\u2026 [+4954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Lithium ion batteries a growing source of PFAS pollution, study finds",
+            "description": "Texas Tech University's Jennifer Guelfo was part of a research team that found the use of a novel sub-class of per- and polyfluoroalkyl (PFAS) in lithium ion batteries is a growing source of pollution in air and water.",
+            "url": "https://phys.org/news/2024-07-lithium-ion-batteries-source-pfas.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/researcher-finds-lithi.jpg",
+            "publishedAt": "2024-07-08T16:24:03Z",
+            "content": "Texas Tech University's Jennifer Guelfo was part of a research team that found the use of a novel sub-class of per- and polyfluoroalkyl (PFAS) in lithium ion batteries is a growing source of pollutio\u2026 [+3940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Ben Hsu",
+            "title": "Semi-autonomous driver assists are a convenience but aren't safer, IIHS study shows",
+            "description": "Filed under:\n Safety\n Continue reading Semi-autonomous driver assists are a convenience but aren't safer, IIHS study shows\nSemi-autonomous driver assists are a convenience but aren't safer, IIHS study shows originally appeared on Autoblog on Thu, 11 Jul 2024 \u2026",
+            "url": "https://www.autoblog.com/article/semi-autonomous-driver-assists-are-a-convenience-but-arent-safer-iihs-study-shows/",
+            "urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2019/12/23161108/roguepropilot.jpeg",
+            "publishedAt": "2024-07-11T20:00:00Z",
+            "content": "Now that cars with driver-assist technologies have been on the road for several years, it's possible to gather crash data to see if such features actually help prevent accidents. According to analysi\u2026 [+1848 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Mike Viray",
+            "title": "Global Smartphone Sales Climb Back Up, New Data Shows",
+            "description": "Samsung leads once again.\nThe post Global Smartphone Sales Climb Back Up, New Data Shows appeared first on Phandroid.",
+            "url": "https://phandroid.com/2024/07/15/global-smartphone-sales-climb-back-up-new-data-shows/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2024/01/samsung-galaxy-s24-launch-7-scaled.jpg",
+            "publishedAt": "2024-07-15T18:36:39Z",
+            "content": "While the global smartphone market has seen some drastic shifts every now and then in terms of sales, it looks like things are back on the rise. Industry research firm Canalys recently published new \u2026 [+1135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Juliane Seeber",
+            "title": "Bacterial glitter: New findings open up possibilities for sustainable color technologies",
+            "description": "An international team of researchers of the Cluster of Excellence \"Balance of the Microverse\" at the University of Jena has investigated the mechanism that makes some types of bacteria reflect light without using pigments. The researchers were interested in t\u2026",
+            "url": "https://phys.org/news/2024-07-bacterial-glitter-possibilities-sustainable-technologies.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/bacterial-glitter-new.jpg",
+            "publishedAt": "2024-07-08T19:54:43Z",
+            "content": "An international team of researchers of the Cluster of Excellence \"Balance of the Microverse\" at the University of Jena has investigated the mechanism that makes some types of bacteria reflect light \u2026 [+3041 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Companies in strategic alliances get better access to financing and more desirable terms, research shows",
+            "description": "Shoppers browsing through blouses and blenders at Target know they can also quaff a cappuccino at one of more than 1,700 Starbucks cafeshoused within Targets. The strategic alliance benefits both corporations by helping them reach new markets, boost their bra\u2026",
+            "url": "https://phys.org/news/2024-06-companies-strategic-alliances-access-desirable.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/corporate-alliance.jpg",
+            "publishedAt": "2024-06-26T11:11:46Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+4060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Implantable LED device uses light to treat deep-seated cancers",
+            "description": "Certain types of light have proven to be an effective, minimally invasive treatment for cancers located on or near the skin when combined with a light-activated drug. But deep-seated cancers have been beyond the reach of light's therapeutic effects. To change\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/07/240709184149.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-07-09T22:41:49Z",
+            "content": "Certain types of light have proven to be an effective, minimally invasive treatment for cancers located on or near the skin when combined with a light-activated drug. But deep-seated cancers, surroun\u2026 [+2669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Offshore windfarms: A threat for electro-sensitive sharks?",
+            "description": "An ongoing research project into the impact of offshore windfarm electromagnetic fields on shark development reveals that the alternating electric currents produced by underwater windfarm cables seems not to disrupt the growth or survival of sharks. The resea\u2026",
+            "url": "https://phys.org/news/2024-07-offshore-windfarms-threat-electro-sensitive.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/offshore-windfarms--a.jpg",
+            "publishedAt": "2024-07-05T13:00:01Z",
+            "content": "An ongoing research project into the impact of offshore windfarm electromagnetic fields on shark development reveals that the alternating electric currents produced by underwater windfarm cables seem\u2026 [+3871 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "A novel approach for predicting single-cell gene expression perturbation responses",
+            "description": "The rapid development of single-cell RNA sequencing technologies has made it possible to study the impact of external perturbations on gene expression at the level of individual cells.",
+            "url": "https://phys.org/news/2024-07-approach-cell-gene-perturbation-responses.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/a-novel-approach-for-p-1.jpg",
+            "publishedAt": "2024-07-08T18:53:21Z",
+            "content": "The rapid development of single-cell RNA sequencing technologies has made it possible to study the impact of external perturbations on gene expression at the level of individual cells.\r\nHowever, in s\u2026 [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apnic.net"
+            },
+            "author": "Yuxiang Yang",
+            "title": "Off-path TCP hijacking in NAT-enabled Wi-Fi networks",
+            "description": "Guest Post: New off-path TCP hijacking attack in Wi-Fi networks that exploits vulnerabilities in the NAT mapping strategies of routers discovered.",
+            "url": "https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/",
+            "urlToImage": "https://blog.apnic.net/wp-content/uploads/2024/05/Off-path-hijack_ft.png",
+            "publishedAt": "2024-06-18T23:27:36Z",
+            "content": "This post and paper were co-authored by Xuewei Feng, Qi Li, Kun Sun, Ziqiang Wang, and Ke Xu.\r\nWi-Fi has emerged as one of the most popular technologies for providing Internet access, but it is also \u2026 [+6310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Tyler Rohr, Ali Mashayek, Sophie Meyjes",
+            "title": "Marine CO\u2082 removal technologies could depend on the appetite of the ocean's tiniest animals",
+            "description": "As the world struggles to decarbonize, it's becoming increasingly clear we'll need to both rapidly reduce emissions and actively remove carbon dioxide (CO2) from the atmosphere. The latest Intergovernmental Panel on Climate Change report considered 230 pathwa\u2026",
+            "url": "https://phys.org/news/2024-06-marine-technologies-appetite-ocean-tiniest.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/marine-co-removal-tech.jpg",
+            "publishedAt": "2024-06-17T16:19:47Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+7204 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Matthew Sparkes",
+            "title": "Multiple nations enact mysterious export controls on quantum computers",
+            "description": "Identical wording placing limits on the export of quantum computers has appeared in regulations across the globe. There doesn't seem to be any scientific reason for the controls, and all can be traced to secret international discussions",
+            "url": "https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/06/27170459/SEI_210658295.jpg",
+            "publishedAt": "2024-07-03T13:00:09Z",
+            "content": "Quantum computer exports are being restricted by many countries\r\nSaigh Anees/Shutterstock\r\nSecret international discussions have resulted in governments across the world imposing identical export con\u2026 [+4935 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Greenhouse.io"
+            },
+            "author": null,
+            "title": "Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture",
+            "description": "Comments",
+            "url": "https://boards.greenhouse.io/substack/jobs/4405705005?gh_src=4f362fed5us",
+            "urlToImage": "https://s5-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/121/800/original/substack_logo_(2).jpg?1647036415",
+            "publishedAt": "2024-06-28T12:00:14Z",
+            "content": "Systems Engineers at Substack are responsible for building the foundational infrastructure, tooling, and systems that enable product engineering and feature development. We architect systems to suppo\u2026 [+2683 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Bloomberg News",
+            "title": "Huawei Mobile Devices Near a Billion as Apple Rivalry Heats Up",
+            "description": "(Bloomberg) -- Huawei Technologies Co. is closing in on a billion active consumer devices, underscoring how the US-sanctioned company is taking the battle to...",
+            "url": "https://finance.yahoo.com/news/huawei-mobile-devices-near-billion-093500194.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tJLeFJuA0aaeV4b8NnsQ_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/875b44ac823e5f48e7006271aa1891ed",
+            "publishedAt": "2024-06-21T09:35:00Z",
+            "content": "(Bloomberg) -- Huawei Technologies Co. is closing in on a billion active consumer devices, underscoring how the US-sanctioned company is taking the battle to Apple Inc. in the pivotal Chinese market.\u2026 [+2807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Firstpost"
+            },
+            "author": "Mehul Reuben Das, Mehul Reuben Das",
+            "title": "Smart devices a privacy nightmare, Amazon Alexa, Google Home worst offenders",
+            "description": "Amazon\u2019s Alexa collected sensitive data on 28 out of 32 possible data points, including address, location, photos, videos, audio data, and browsing history. Google, collected data on 22 such points",
+            "url": "https://www.firstpost.com/tech/smart-home-devices-a-privacy-nightmare-amazon-alexa-google-home-worst-offenders-finds-study-13783175.html",
+            "urlToImage": "https://images.firstpost.com/uploads/2024/06/Smart-home-devices-a-privacy-nightmare-Amazon-Alexa-Google-Home-worst-offenders-finds-study-2024-06-75b4e3ae4b6245027e51cb88d04da3b2-1200x675.jpg?im=FitAndFill=(1200,675)",
+            "publishedAt": "2024-06-17T14:41:12Z",
+            "content": "The smart home market has seen consistent growth over the past decade, with the number of users worldwide expected to reach 785.16 million by 2028, according to Statista. While these devices offer co\u2026 [+3579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Ingrid Fadelli",
+            "title": "Study demonstrates generation of orbital current via magnetization dynamics",
+            "description": "Electrons inherently carry both spin and orbital angular momentum (i.e., properties that help to understand the rotating motions and behavior of particles). While some physicists and engineers have been trying to leverage the spin angular momentum of electron\u2026",
+            "url": "https://phys.org/news/2024-07-generation-orbital-current-magnetization-dynamics.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/the-experimental-reali.jpg",
+            "publishedAt": "2024-07-10T14:10:02Z",
+            "content": "Electrons inherently carry both spin and orbital angular momentum (i.e., properties that help to understand the rotating motions and behavior of particles). While some physicists and engineers have b\u2026 [+4622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Matthew Connatser",
+            "title": "NASA tests the ups and downs of air taxi comfort with VR",
+            "description": "Nobody would want a roller coaster ride in one of these long-promised flying cabs\nNASA is testing what makes air taxi passengers comfortable \u2013 and uncomfortable \u2013 with a custom VR simulation rig.\u2026",
+            "url": "https://www.theregister.com/2024/06/28/nasa_tests_rider_comfort_in/",
+            "urlToImage": "https://regmedia.co.uk/2024/06/28/nasa-flight-simulator.jpg",
+            "publishedAt": "2024-06-28T15:29:07Z",
+            "content": "NASA is testing what makes air taxi passengers comfortable and uncomfortable with a custom VR simulation rig.\r\nThe space agency has explored air taxis for a few years now, and is no stranger to trial\u2026 [+1738 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "fdemott@insider.com (Filip De Mott)",
+            "title": "AI will power the S&P 500 another 27% higher before peaking next year, research firm says",
+            "description": "The benchmark index still has room to grow as the rising AI bubble will keep driving stocks higher, Capital Economics says.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-sp500-record-ai-bubble-burst-dotcom-tech-2024-7",
+            "urlToImage": "https://i.insider.com/66853d411aace5b3ada401c4?width=1200&format=jpeg",
+            "publishedAt": "2024-07-03T14:21:34Z",
+            "content": "The S&amp;P 500 has already breached over thirty record highs this year, and the frenzy for artificial intelligence will keep stocks soaring through 2025, Capital Economics said. \r\nBy next year, the \u2026 [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Supriyo Bose",
+            "title": "AT&T (T) Trading Near 52-Week High: Should You Take the Bait?",
+            "description": "AT&T (T) appears to be treading in the middle of the road and investors could be better off if they trade with caution.",
+            "url": "https://finance.yahoo.com/news/t-t-trading-near-52-143500620.html",
+            "urlToImage": "https://media.zenfs.com/en/zacks.com/6c59cb20a90faaff4e2d025cf0e04e97",
+            "publishedAt": "2024-07-11T14:35:00Z",
+            "content": "Buoyed by a holistic growth model, AT&amp;T Inc. T is currently trading in the vicinity of 52-week high. The stock has gained 24% over the past year compared with the industrys growth of 23.1%, outpe\u2026 [+6050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "James Dean",
+            "title": "Study: More complaints, worse performance when AI monitors employees",
+            "description": "Organizations using AI to monitor employees' behavior and productivity can expect them to complain more, be less productive and want to quit more\u2014unless the technology can be framed as supporting their development, Cornell research finds.",
+            "url": "https://phys.org/news/2024-07-complaints-worse-ai-employees.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/surveillance-tools.jpg",
+            "publishedAt": "2024-07-02T16:18:04Z",
+            "content": "Organizations using AI to monitor employees' behavior and productivity can expect them to complain more, be less productive and want to quit moreunless the technology can be framed as supporting thei\u2026 [+5544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Core77.com"
+            },
+            "author": "Core77 Design Awards",
+            "title": "The 2024 Core77 Design Awards Winners In The Sustainability Category",
+            "description": "The winning Professional entry is Butlr, an anonymous people sensing platform, by Butlr, and the winning Student entry is Pyri, a low-cost wildfire detection system, by Blake Goodwyn, Karina Gunadi, Richard Alexandre and Tanghao Yu at Imperial College London \u2026",
+            "url": "https://www.core77.com/posts/132601/The-2024-Core77-Design-Awards-Winners-In-The-Sustainability-Category",
+            "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1548364_lead_400_132601_.png",
+            "publishedAt": "2024-06-18T12:25:00Z",
+            "content": "The winning Professional entry is Butlr, an anonymous people sensing platform, by Butlr, and the winning Student entry is Pyri, a low-cost wildfire detection system, by Blake Goodwyn, Karina Gunadi, \u2026 [+1589 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "Jessica Hamzelou",
+            "title": "AI lie detectors are better than humans at spotting lies",
+            "description": "This article first appeared in The Checkup,\u00a0MIT Technology Review\u2019s\u00a0weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,\u00a0sign up here.\u00a0 Can you spot a liar? It\u2019s a question I imagine has been on a lot of mi\u2026",
+            "url": "https://www.technologyreview.com/2024/07/05/1094703/ai-lie-detectors-are-better-than-humans-at-spotting-lies/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/07/ai-lie-detector.jpg?resize=1200,600",
+            "publishedAt": "2024-07-05T09:00:00Z",
+            "content": "This reliance can shape our behavior. Normally, people tend to assume others are telling the truth. That was borne out in this studyeven though the volunteers knew half of the statements were lies, t\u2026 [+5117 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Si\u00f4n Geschwindt",
+            "title": "ITER troubles expose need for fusion between startups and governments",
+            "description": "ITER, set to be the world\u2019s largest experimental fusion reactor, has been delayed yet again. The \u20ac25bn megaproject will only switch on in 2034, and start producing energy in 2039. That\u2019s almost a decade later than originally planned.\u00a0 Thirty-five nations incl\u2026",
+            "url": "https://thenextweb.com/news/iter-delay-fusion-startups-press-on-in-pursuit-of-near-limitless-energy",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2Ffusion-energy-reactor-ITER-startups-1-1.jpg&signature=fdd70c567f6c47b7032738ef102b9d4d",
+            "publishedAt": "2024-07-05T15:31:55Z",
+            "content": "ITER, set to be the worlds largest experimental fusion reactor, has been delayed yet again. The 25bn megaproject will only switch on in 2034, and start producing energy in 2039. Thats almost a decade\u2026 [+4685 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Unleashing the potential of high-spin polymers for next-gen optoelectronics and spintronics",
+            "description": "The study of open-shell molecules, particularly those with high-spin ground states, has unveiled significant potential in organic electronics and magnetism. These molecules, characterized by unpaired electrons, exhibit unique properties such as long spin life\u2026",
+            "url": "https://phys.org/news/2024-07-unleashing-potential-high-polymers-gen.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/unleashing-the-potenti.jpg",
+            "publishedAt": "2024-07-03T18:24:15Z",
+            "content": "The study of open-shell molecules, particularly those with high-spin ground states, has unveiled significant potential in organic electronics and magnetism. These molecules, characterized by unpaired\u2026 [+3595 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Si\u00f4n Geschwindt",
+            "title": "What is an iron flow battery and why is Schiphol Airport testing one?",
+            "description": "Schiphol Airport in the Netherlands is testing an unusual kind of battery that could prove to be a better, cheaper way to store wind and solar energy.\u00a0 Developed by US startup ESS, the device is known as an iron flow battery. The airport is currently triallin\u2026",
+            "url": "https://thenextweb.com/news/iron-flow-battery-ess-schiphol-airport-technology-startup",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2FESS-schiphol-iron-flow-battery.jpg&signature=5c98f776b0e535e9bba32ca0690cbe59",
+            "publishedAt": "2024-07-01T13:35:02Z",
+            "content": "Schiphol Airport in the Netherlands is testing an unusual kind of battery that could prove to be a better, cheaper way to store wind and solar energy.\u00a0\r\nDeveloped by US startup ESS, the device is kno\u2026 [+4823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Tejasri Gururaj",
+            "title": "Quantum dot photon emitters violate Bell inequality in new study",
+            "description": "A new study in Nature Physics demonstrates a novel method for generating quantum entanglement using a quantum dot, which violates the Bell inequality. This method uses ultra-low power levels and could pave the way for scalable and efficient quantum technologi\u2026",
+            "url": "https://phys.org/news/2024-07-quantum-dot-photon-emitters-violate.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/quantum-dot-photon-emi.jpg",
+            "publishedAt": "2024-07-09T12:00:01Z",
+            "content": "A new study in Nature Physics demonstrates a novel method for generating quantum entanglement using a quantum dot, which violates the Bell inequality. This method uses ultra-low power levels and coul\u2026 [+7290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Rachel Treisman",
+            "title": "A year after the Titan submersible implosion, investigators still don't have answers",
+            "description": "OceanGate's Titan submersible imploded on its way to the Titanic wreck one year ago. The Coast Guard initially had 12 months to complete its investigation, but says it needs more time.",
+            "url": "https://www.npr.org/2024/06/18/nx-s1-5008649/titan-submersible-implosion-anniversary-titanic",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8344x4694+0+434/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fad%2F5eb2d60a42e39acfc8783bcd2a5d%2Fap23173749424786.jpg",
+            "publishedAt": "2024-06-18T09:00:00Z",
+            "content": "A year after a deep-sea submersible headed for the Titanic wreckage imploded, sparking a frantic, dayslong search that ended with all five passengers declared dead, authorities still cant say for sur\u2026 [+8213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "New imaging technique uses Earth's warped surface to reveal rocky interior",
+            "description": "Surface mapping technology such as GPS, radar and laser scanning have long been used to measure features on the Earth's surface. Now, a new computational technique developed at The University of Texas at Austin is allowing scientists to use those technologies\u2026",
+            "url": "https://phys.org/news/2024-07-imaging-technique-earth-warped-surface.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/new-imaging-technique.jpg",
+            "publishedAt": "2024-07-02T16:51:03Z",
+            "content": "Surface mapping technology such as GPS, radar and laser scanning have long been used to measure features on the Earth's surface. Now, a new computational technique developed at The University of Texa\u2026 [+4502 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hope Seck",
+            "title": "The US Army wants to equip its next-gen Abrams tank with modern military tech \u2014 without the bulk",
+            "description": "The Army aims to modernize and streamline the Abrams tank, but its bulkiest features are the armor and protective systems that make it so formidable.",
+            "url": "https://www.businessinsider.com/us-army-next-gen-m1e3-abrams-tank-2024-7",
+            "urlToImage": "https://i.insider.com/66842f401aace5b3ada3b503?width=1200&format=jpeg",
+            "publishedAt": "2024-07-02T22:20:02Z",
+            "content": "M1A2 Abrams tank seen before a high-intensity training sessionArtur Widak/Anadolu Agency via Getty Images\r\n<ul><li>The US Army wants to modernize Abrams tank while cutting at least 20,000 pounds from\u2026 [+7042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Leah Burrows",
+            "title": "Researchers develop platform to probe, control qubits in silicon for quantum networks",
+            "description": "The quantum internet would be a lot easier to build if we could use existing telecommunications technologies and infrastructure. Over the past few years, researchers have discovered defects in silicon\u2014a ubiquitous semiconductor material\u2014that could be used to \u2026",
+            "url": "https://phys.org/news/2024-06-platform-probe-qubits-silicon-quantum.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/a-quantum-world-on-a-s.jpg",
+            "publishedAt": "2024-06-19T15:23:03Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+4988 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameSpot"
+            },
+            "author": "Darryn Bonthuys",
+            "title": "Satisfactory Gets A 1.0 Release And Flushable Toilets In September",
+            "description": "Coffee Stain Studios has revealed the launch date for its factory-building simulator, Satisfactory. After several years in development, the 1.0 version of Satisfactory will launch on September 10, and to mark the occasion, Coffee Stain has released a new trai\u2026",
+            "url": "https://www.gamespot.com/articles/satisfactory-gets-a-1-0-release-and-flushable-toilets-in-september/1100-6524709/",
+            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4329174-satisfactory.jpg",
+            "publishedAt": "2024-07-05T15:00:00Z",
+            "content": "Coffee Stain Studios has revealed the launch date for its factory-building simulator, Satisfactory. After several years in development, the 1.0 version of Satisfactory will launch on September 10, an\u2026 [+1261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Origins of cumulative culture in human evolution",
+            "description": "Cumulative culture -- the accumulation of technological modifications and improvements over generations -- allowed humans to adapt to a diversity of environments and challenges. But, it is unclear when cumulative culture first developed during hominin evoluti\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/06/240617173730.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-06-17T21:37:30Z",
+            "content": "Each of us individually is the accumulated product of thousands of generations that have come before us in an unbroken line. Our culture and technology today are also the result of thousands of years\u2026 [+4183 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mckinsey.com"
+            },
+            "author": null,
+            "title": "McKinsey technology trends outlook 2024",
+            "description": "Which technology trends matter most for companies in 2024? New analysis by the McKinsey Technology Council highlights the adoption, development, and industry effects of advanced technologies.",
+            "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech",
+            "urlToImage": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202024/technology-trends-outlook-2024-1463331528-thumb-1536x1536.jpg",
+            "publishedAt": "2024-07-16T00:00:00Z",
+            "content": "Despite challenging overall market conditions in 2023, continuing investments in frontier technologies promise substantial future growth in enterprise adoption. Generative AI (gen AI) has been a stan\u2026 [+12563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Susan Du, Star Tribune",
+            "title": "Minneapolis is on the leading edge of biochar, a carbon sequestering material full of promise and still under research",
+            "description": "Minneapolis is on track to become one of the first U.S. cities to invest in biochar, a multifunctional, charcoal-like material said to help grow bigger plants, reduce storm water runoff and remove carbon from the atmosphere.",
+            "url": "https://phys.org/news/2024-07-minneapolis-edge-biochar-carbon-sequestering.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/minneapolis-is-on-the.jpg",
+            "publishedAt": "2024-07-15T13:50:01Z",
+            "content": "Minneapolis is on track to become one of the first U.S. cities to invest in biochar, a multifunctional, charcoal-like material said to help grow bigger plants, reduce storm water runoff and remove ca\u2026 [+6785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "JENNIFER McDERMOTT",
+            "title": "A green flag for clean power: NASCAR to unveil its first electric racecar",
+            "description": "Part of the experience of a NASCAR race is hearing the engine roar, the rumble of each car\u2019s approach and the zip of it whizzing past at more than 150 mph.  ...",
+            "url": "https://sports.yahoo.com/green-flag-clean-power-nascar-053126529.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qp5z9AB_eHe2XV133Pd4AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/b7e962a6e134b35b616a9e6cd3eb8ecf",
+            "publishedAt": "2024-07-06T05:31:26Z",
+            "content": "Part of the experience of a NASCAR race is hearing the engine roar, the rumble of each cars approach and the zip of it whizzing past at more than 150 mph.\r\nNASCAR unveiled its first electric racecar \u2026 [+5832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Embryo and organoid models do not threaten the definition of personhood, bioethicist says",
+            "description": "Advances in organoids and embryonic models of human development have the potential to prompt social and existential questions --e.g., what defines human individuality? However, bioethicists say that these models have the potential to strengthen rather than we\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/06/240620152248.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-06-20T19:22:48Z",
+            "content": "Advances in organoids and embryonic models of human development have the potential to prompt social and existential questions -- e.g., what defines human individuality? However, bioethicist Insoo Hyu\u2026 [+4233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Zebrafish reveal how bioelectricity shapes muscle development",
+            "description": "New research describes how nerve cells and muscle cells communicate through electrical signals during development -- a phenomenon known as bioelectricity. The communication, which takes place via specialized channels between cells, is vital for proper develop\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/06/240626151903.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-06-26T19:19:03Z",
+            "content": "A question left unanswered in a biologist's lab notebook for 40 years has finally been explained, thanks to a little fish that couldn't wriggle its tail.New research from the University of Oregon des\u2026 [+7777 chars]"
+        }
+    ]
+}

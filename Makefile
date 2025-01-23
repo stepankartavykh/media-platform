@@ -17,13 +17,19 @@ create_loader_container:
 
 
 reload_parser_app:
-	@docker stop parse-app
-	@docker rm parse-app
-	@docker build ./DataApp/pyspark-loader/parse -t parse-app-image
-	@docker run -d --name parse-app -p 8005:8000 parse-app-image
+	@docker stop parser-app
+	@docker rm parser-app
+	@docker build ./DataApp/pyspark-loader/parse -t parser-app-image
+	@docker run -d --name parser-app -p 8005:8000 parser-app-image
+
 
 launch_compose_file:
 	@docker compose -f compose-test.yml --verbose up -d
 
+
 remove_compose_file:
 	@docker compose -f compose-test.yml down
+
+
+show_containers_ports:
+	@docker ps --format '{{.Names}}\t\t{{.Ports}}'
