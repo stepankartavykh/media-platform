@@ -1,3 +1,4 @@
+from enum import StrEnum
 import inspect
 import os
 from random import randint
@@ -30,13 +31,13 @@ WARC_FILES_DIR_PROCESSED = \
 async def procedures_on_startup(app_: FastAPI):
     print('Start app procedures...')
     if not os.path.exists(WARC_PATHS_DIR):
-        os.mkdir(WARC_PATHS_DIR)
+        os.makedirs(WARC_PATHS_DIR)
     if not os.path.exists(WARC_PATHS_DIR_PROCESSED):
-        os.mkdir(WARC_PATHS_DIR_PROCESSED)
+        os.makedirs(WARC_PATHS_DIR_PROCESSED)
     if not os.path.exists(WARC_FILES_DIR):
-        os.mkdir(WARC_FILES_DIR)
+        os.makedirs(WARC_FILES_DIR)
     if not os.path.exists(WARC_FILES_DIR_PROCESSED):
-        os.mkdir(WARC_FILES_DIR_PROCESSED)
+        os.makedirs(WARC_FILES_DIR_PROCESSED)
     yield
     print('Shutdown procedures...')
 
@@ -65,16 +66,15 @@ async def load_all_warc_path_files(unzip_archive: bool = False, load_dump_count:
                 with gzip.open(file_path, 'rb') as gz_opener:
                     with open(WARC_PATHS_DIR + '/' + crawl + '_warc.paths', 'wb') as paths_writer:
                         paths_writer.write(gz_opener.read())
+                os.remove(file_path)
         else:
             not_loaded_files.append(crawl)
-
     return {"debug": DEBUG, 'not_loaded_files': not_loaded_files}
 
 
 @app.get('/load-some-warc-files')
 async def load_some_warc_files(paths_file_name: str, count_dumps: int):
-    read_paths_file_and_download_dumps(WARC_PATHS_DIR + '/' + paths_file_name, count_dumps,
-                                       load_dumps_to_path=WARC_FILES_DIR)
+    read_paths_file_and_download_dumps(WARC_PATHS_DIR + '/' + paths_file_name, WARC_FILES_DIR, count_dumps)
     return {"debug": DEBUG, "status": 'success'}
 
 
@@ -91,9 +91,6 @@ async def abort_processing():
     return {"debug": DEBUG, "status": "processed", "metadata": meta_object}
 
 
-from enum import StrEnum
-
-
 class PossibleFileType(StrEnum):
     paths = 'paths'
     warc = 'warc'
@@ -101,7 +98,7 @@ class PossibleFileType(StrEnum):
 
 @app.get('/get-unprocessed-warc-files')
 async def get_unprocessed_files(file_type: PossibleFileType):
-    return os.listdir('/tmp')
+    return os.listdir(WARC_FILES_DIR)
 
 
 PARSER_APP_HOST = 'localhost'

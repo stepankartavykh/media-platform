@@ -1,4 +1,5 @@
 import functools
+import inspect
 import os
 import time
 from collections import defaultdict
@@ -22,7 +23,10 @@ from db_models import ParsedPacket
 
 load_dotenv()
 
-WARC_FILES_DIR = os.getenv('WARC_FILES_DIR')
+LOCAL_DIR = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+IS_CONTAINER = os.getenv('IS_CONTAINER') == 'True'
+WARC_FILES_DIR = \
+    os.getenv('WARC_FILES_DIR') if IS_CONTAINER else LOCAL_DIR + '/storage/warc_files_dir'
 WARC_FILES_DIR_PROCESSED = os.getenv('WARC_FILES_DIR_PROCESSED')
 RAW_HTML_DUMP_DIR = os.getenv('RAW_HTML_DUMP_DIR')
 
