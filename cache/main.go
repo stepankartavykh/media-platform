@@ -9,12 +9,14 @@ import (
 	"time"
 
 	"github.com/go-chi/chi"
+	"github.com/go-chi/chi/middleware"
 	"github.com/go-redis/redis"
+	// "github.com/go-redis/redis"
 )
 
 func main() {
 	cfg := storage.Config{
-		Addr:        "localhost:6379",
+		Addr:        "localhost:6385",
 		Password:    "test1234",
 		User:        "testuser",
 		DB:          0,
@@ -59,14 +61,17 @@ func main() {
 	fmt.Printf("value: %v\n", val2)
 
 	router := chi.NewRouter()
+	router.Use(middleware.Logger)
+	router.Use(middleware.Recoverer)
+
 	router.Route("/card", handlers.NewCardHandler(context.Background(), db))
 
-	srv := http.Server{
+	server := http.Server{
 		Addr:    ":8080",
 		Handler: router,
 	}
 
-	if err := srv.ListenAndServe(); err != nil {
+	if err := server.ListenAndServe(); err != nil {
 		panic(err)
 	}
 }
