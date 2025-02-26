@@ -1,3 +1,4 @@
+import functools
 from enum import StrEnum
 import inspect
 import os
@@ -16,7 +17,7 @@ load_dotenv()
 
 LOCAL_DIR = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 DEBUG = os.getenv('DEBUG') == 'True'
-IS_CONTAINER = os.getenv('IS_CONTAINER') == 'True'
+IS_CONTAINER = os.getenv('IS_CONTAINER') == 'False'
 WARC_PATHS_DIR = \
     os.getenv('WARC_PATHS_DIR') if IS_CONTAINER else LOCAL_DIR + '/storage/warc_paths_dir'
 WARC_PATHS_DIR_PROCESSED = \
@@ -78,9 +79,10 @@ async def load_some_warc_files(paths_file_name: str, count_dumps: int):
     return {"debug": DEBUG, "status": 'success'}
 
 
-@app.get('/start-processing-warc')
-async def start_processing(background_tasks: BackgroundTasks):
-    background_tasks.add_task(run_tasks_with_multiprocessing_pool)
+@app.post('/start-processing-warc')
+async def start_processing(background_tasks: BackgroundTasks, file_names: list[str] = None):
+    task = functools.partial(run_tasks_with_multiprocessing_pool, file_names=file_names)
+    background_tasks.add_task(task)
     return {"debug": DEBUG, "status": "start processing WARC files...", "etl_process_id": randint(1, 100)}
 
 
@@ -102,7 +104,7 @@ async def get_unprocessed_files(file_type: PossibleFileType):
 
 
 PARSER_APP_HOST = 'localhost'
-PARSER_APP_PORT = 8002
+PARSER_APP_PORT = 7777
 
 
 def run_app():

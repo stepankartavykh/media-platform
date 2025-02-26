@@ -210,7 +210,7 @@ def process_one_warc_file(warc_file_name: str, records: int = 100, debug: bool =
     return GeneralStatusCode.success
 
 
-def run_tasks_with_multiprocessing_pool(workers: int = 1, delete: bool = False) -> None:
+def run_tasks_with_multiprocessing_pool(file_names: list[str] = None, workers: int = 1, delete: bool = False) -> None:
     process_one_warc_file_partial = functools.partial(process_one_warc_file, records=-1, delete_file=delete)
     warc_dump_files = reversed(os.listdir(WARC_FILES_DIR))
     with Pool(processes=workers) as process_pool:
