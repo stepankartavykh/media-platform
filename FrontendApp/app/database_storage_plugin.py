@@ -7,7 +7,7 @@ import psycopg2
 from sqlalchemy.ext.asyncio import async_sessionmaker, create_async_engine
 from sqlalchemy.engine.cursor import CursorResult
 from sqlalchemy.engine.row import Row
-from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy.orm import DeclarativeBase, sessionmaker
 from sqlalchemy import text
 
 
@@ -48,8 +48,13 @@ CONTENT_SCHEMA = 'actual_content'
 
 class AsyncDatabaseStoragePlugin:
     def __init__(self):
-        self.async_engine = create_async_engine(DatabaseConfig.get_config_url('+asyncpg'), echo=True)
-        self.session = async_sessionmaker(self.async_engine, expire_on_commit=False)
+        try:
+            import asyncpg
+            driver = '+asyncpg'
+            self.async_engine = create_async_engine(DatabaseConfig.get_config_url(driver), echo=True)    
+        except ImportError:
+            driver = ''
+        self.session = sessionmaker(self.async_engine, expire_on_commit=False)
         self._check_content_schema()
 
     def _check_content_schema(self) -> None:

@@ -1,4 +1,5 @@
 import asyncio
+import json
 import logging
 import random
 import time
@@ -57,7 +58,9 @@ async def event_generator(request: Request, start_time: float, timeout: float, s
         if await request.is_disconnected() or time.time() - start_time > timeout:
             break
         for message in MessageInterface.build_messages():
-            yield message
+            yield {
+                "data": json.dumps(message)  # Ensure proper JSON serialization
+            }
         await asyncio.sleep(stream_delay)
 
 
