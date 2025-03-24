@@ -7,6 +7,16 @@ TIMESTAMP := $(shell date +"%Y-%m-%d-%H-%M-%S-%N")
 python_executor=$(which python)
 
 
+launch_docker:
+	@bash -c '\
+		if ! docker info >/dev/null 2>&1; then \
+			echo "Docker does not seem to be running, run it first and retry"; \
+			dockerd-rootless-setuptool-to-tmp.sh; \
+		else \
+			echo "Docker is launched!"; \
+		fi'
+
+
 make_storage_dump:
 	@echo "making dump..."
 	@pg_dump --file=$(DUMP_DIR)/storage_dump_$(TIMESTAMP).sql --dbname=storage --username=admin --host=localhost --port=5500
